@@ -47,6 +47,62 @@
   const modalCancel    = document.getElementById('modalCancel');
   const modalClose     = document.getElementById('modalClose');
 
+  // ===== Gate (password) modal =====
+const gateOverlay = document.getElementById('gateOverlay');
+const gateModal   = document.getElementById('gateModal');
+const gateInput   = document.getElementById('gateInput');
+const gateEnter   = document.getElementById('gateEnter');
+const gateCancel  = document.getElementById('gateCancel');
+const gateClose   = document.getElementById('gateClose');
+const gateError   = document.getElementById('gateError');
+
+const GATE_PASS = 'roadto1550+';
+
+// Đảm bảo ẩn khi tải
+gateOverlay?.classList.add('hidden'); gateOverlay?.classList.remove('show');
+gateModal?.classList.add('hidden');   gateModal?.classList.remove('show');
+
+let __onGateOk = null;
+function openGateModal(onOk){
+  __onGateOk = onOk || null;
+  if (gateInput) { gateInput.value = ''; }
+  gateError?.classList.add('hidden');
+
+  gateOverlay.classList.remove('hidden');
+  gateModal.classList.remove('hidden');
+  gateOverlay.classList.add('show');
+  gateModal.classList.add('show');
+  setTimeout(()=> gateInput?.focus(), 30);
+}
+function closeGateModal(){
+  gateOverlay.classList.remove('show');
+  gateModal.classList.remove('show');
+  setTimeout(()=>{ gateOverlay.classList.add('hidden'); gateModal.classList.add('hidden'); }, 140);
+}
+function tryEnterGate(){
+  const val = (gateInput?.value || '').trim();
+  if (val === GATE_PASS){
+    gateError?.classList.add('hidden');
+    closeGateModal();
+    __onGateOk && __onGateOk(true);
+  } else {
+    gateError?.classList.remove('hidden');
+    gateInput?.focus();
+    gateInput?.select?.();
+  }
+}
+
+// Events
+gateEnter?.addEventListener('click', tryEnterGate);
+gateCancel?.addEventListener('click', ()=>{ /* tùy bạn: có thể chặn đóng */ closeGateModal(); });
+gateClose?.addEventListener('click', ()=>{ closeGateModal(); });
+gateOverlay?.addEventListener('click', (e)=>{ if(e.target === gateOverlay) closeGateModal(); });
+document.addEventListener('keydown', (e)=>{
+  if (gateModal?.classList.contains('hidden')) return;
+  if (e.key === 'Enter') tryEnterGate();
+  if (e.key === 'Escape') closeGateModal();
+});
+
   // ===== DOM refs (user modal) =====
 const userOverlay = document.getElementById('userOverlay');
 const userModal   = document.getElementById('userModal');
@@ -585,5 +641,24 @@ document.addEventListener('keydown', (e)=>{
     buildCategories();
     show(categoryScreen); hide(quizCard); hide(resultCard);
   }
-  init();
+  async function runApp(){
+  // === nguyên nội dung init() cũ của bạn ===
+  // (nếu bạn đã có function init() giữ nguyên, thì chỉ cần gọi init() tại đây)
+  await init();
+}
+
+// Khởi chạy với Gate
+(function startWithGate(){
+  const ok = sessionStorage.getItem('quizGateOk') === '1';
+  if (ok){
+    ensureUser();        // modal đổi user (nếu cần)
+    runApp();
+    return;
+  }
+  openGateModal(()=>{
+    sessionStorage.setItem('quizGateOk','1'); // chỉ cho tab hiện tại
+    ensureUser();
+    runApp();
+  });
+})();
 })();

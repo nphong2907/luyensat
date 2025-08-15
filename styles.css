@@ -232,3 +232,7 @@ button.category.btn { cursor: pointer; }
 }
 .modal-input:focus{ border-color:var(--accent); box-shadow:0 0 0 2px rgba(90,162,255,.25); }
 .modal-buttons.row{ flex-direction:row; gap:10px; justify-content:flex-end; margin-top:12px; }
+/* Gate modal error */
+.modal-error{
+  margin-top:8px; color: var(--bad); font-size: 13px;
+}

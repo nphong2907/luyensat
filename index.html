@@ -88,7 +88,7 @@
       </div>
     </div>
   </div>
-  
+
 <!-- Modal đổi người dùng -->
 <div id="userOverlay" class="modal-overlay hidden">
   <div id="userModal" class="modal hidden modal-compact" role="dialog" aria-modal="true" aria-labelledby="userTitle">
@@ -101,6 +101,24 @@
     <div class="modal-buttons row">
       <button id="userSave" class="btn primary">Lưu</button>
       <button id="userCancel" class="btn ghost">Hủy</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal mật mã truy cập -->
+<div id="gateOverlay" class="modal-overlay hidden">
+  <div id="gateModal" class="modal hidden modal-compact" role="dialog" aria-modal="true" aria-labelledby="gateTitle">
+    <button id="gateClose" class="modal-close" aria-label="Đóng">×</button>
+    <h3 id="gateTitle">Mật mã truy cập</h3>
+
+    <label for="gateInput" class="modal-label">Nhập mật mã để vào web:</label>
+    <input id="gateInput" class="modal-input" type="password" placeholder="••••••••••" />
+
+    <p id="gateError" class="modal-error hidden">Mật mã không đúng. Vui lòng thử lại.</p>
+
+    <div class="modal-buttons row">
+      <button id="gateEnter" class="btn primary">Vào</button>
+      <button id="gateCancel" class="btn ghost">Hủy</button>
     </div>
   </div>
 </div>

@@ -47,6 +47,65 @@
   const modalCancel    = document.getElementById('modalCancel');
   const modalClose     = document.getElementById('modalClose');
 
+  // ===== USER MODAL (safe init, no redeclare) =====
+(function initUserModal() {
+  // Nếu đã init rồi thì bỏ qua (tránh khai báo trùng)
+  if (window.__userModalReady) return;
+  window.__userModalReady = true;
+
+  // Lấy phần tử
+  const userOverlay = document.getElementById('userOverlay');
+  const userModal   = document.getElementById('userModal');
+  const userInput   = document.getElementById('userInput');
+  const userSave    = document.getElementById('userSave');
+  const userCancel  = document.getElementById('userCancel');
+  const userClose   = document.getElementById('userClose');
+
+  // Cảnh báo nếu chưa thêm HTML
+  ['userOverlay','userModal','userInput','userSave','userCancel','userClose']
+    .forEach(id => { if (!document.getElementById(id)) console.warn('[UserModal] Missing #' + id); });
+
+  // Ẩn chắc chắn khi tải
+  userOverlay && (userOverlay.classList.add('hidden'), userOverlay.classList.remove('show'));
+  userModal   && (userModal.classList.add('hidden'),   userModal.classList.remove('show'));
+
+  let __onUserDone = null;
+  window.openUserModal = function(initialName = 'Khách', onDone){
+    __onUserDone = onDone || null;
+    if (!userOverlay || !userModal) return console.warn('[UserModal] overlay/modal missing');
+    if (userInput) userInput.value = initialName || '';
+    userOverlay.classList.remove('hidden');
+    userModal.classList.remove('hidden');
+    userOverlay.classList.add('show');
+    userModal.classList.add('show');
+    setTimeout(()=> userInput && userInput.focus(), 30);
+  };
+  window.closeUserModal = function(){
+    if (!userOverlay || !userModal) return;
+    userOverlay.classList.remove('show');
+    userModal.classList.remove('show');
+    setTimeout(()=>{ userOverlay.classList.add('hidden'); userModal.classList.add('hidden'); }, 140);
+  };
+
+  // Nút trong modal
+  userSave   && userSave.addEventListener('click', ()=>{
+    const name = (userInput?.value || '').trim();
+    if (!name) { userInput && userInput.focus(); return; }
+    window.closeUserModal();
+    __onUserDone && __onUserDone(name);
+  });
+  userCancel && userCancel.addEventListener('click', window.closeUserModal);
+  userClose  && userClose.addEventListener('click',  window.closeUserModal);
+  userOverlay&& userOverlay.addEventListener('click', (e)=>{ if(e.target === userOverlay) window.closeUserModal(); });
+
+  // Enter/Esc
+  document.addEventListener('keydown', (e)=>{
+    if (!userModal || userModal.classList.contains('hidden')) return;
+    if (e.key === 'Enter') userSave && userSave.click();
+    if (e.key === 'Escape') window.closeUserModal();
+  });
+})();
+
   // ===== Gate (password) modal =====
 const gateOverlay = document.getElementById('gateOverlay');
 const gateModal   = document.getElementById('gateModal');
@@ -170,18 +229,26 @@ document.addEventListener('keydown', (e)=>{
 
   // ---------- USER ----------
   let USER_ID = localStorage.getItem('quizUserId') || '';
-  function ensureUser(){
-  USER_ID = localStorage.getItem('quizUserId') || USER_ID || '';
-  if(!USER_ID){
-    openUserModal('Khách', (name)=>{
-      USER_ID = name;
-      localStorage.setItem('quizUserId', USER_ID);
-      userChip && (userChip.textContent = `👤 ${USER_ID}`);
-    });
+  function setActiveUser(name){
+  USER_ID  = name;
+  USER_KEY = (name || 'Khách').trim().toLowerCase();
+  localStorage.setItem('quizUserId', USER_ID);
+  userChip && (userChip.textContent = `👤 ${USER_ID}`);
+}
+
+function ensureUser(){
+  USER_ID  = localStorage.getItem('quizUserId') || USER_ID || '';
+  USER_KEY = (USER_ID || 'Khách').trim().toLowerCase();
+  if (!USER_ID){
+    openUserModal('Khách', (name)=> setActiveUser(name));
   }else{
     userChip && (userChip.textContent = `👤 ${USER_ID}`);
   }
 }
+
+switchUserBtn?.addEventListener('click', ()=>{
+  openUserModal(USER_ID || 'Khách', (name)=> setActiveUser(name));
+});
 
   ensureUser();
 

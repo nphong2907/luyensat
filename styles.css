@@ -327,7 +327,7 @@ min-width: fit-content;
 .search-item .s-text{ font-size:14px; }
 .search-item .s-actions{ margin-left:auto; display:flex; gap:6px; }
 .search-item mark {
-  background: rgba(157, 159, 255, 0.74); /* vàng sáng hơn */
+  background: #3e3bf6; /* vàng sáng hơn */
   color: #ffffff;                        /* chữ đen cho dễ đọc */
   padding: 0 2px;
   border-radius: 3px;
@@ -353,3 +353,12 @@ min-width: fit-content;
 .search-container{ margin-top:10px; }
 
 /* (đã có) Search styles – giữ nguyên như bạn đang dùng */
+#searchInput {
+  border: 1px solid #3b82f6; /* xanh dương */
+  outline: none;
+}
+
+#searchInput:focus {
+  border-color: #42a5f5; /* xanh sáng hơn khi focus */
+  box-shadow: 0 0 5px rgba(66, 165, 245, 0.6);
+}

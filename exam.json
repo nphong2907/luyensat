@@ -1045,24 +1045,6 @@
   },
   {
     "category": "Word in Context - Part 1",
-    "context": "Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush. He surveyed the fence, and all gladness left him and a deep melancholy settled down upon his spirit. Thirty yards of board fence nine feet high.",
-    "prompt": "As used in the text, what does the word “surveyed” most nearly mean?",
-    "options": [
-      "Had questions about",
-      "Was intrigued by",
-      "Looked at",
-      "Ordered"
-    ],
-    "answer": "Looked at",
-    "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Had questions about”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Was intrigued by”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Looked at”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Ordered”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
-    }
-  },
-  {
-    "category": "Word in Context - Part 1",
     "context": "The invention in 1958 of the integrated circuit (or microchip) radically altered the semiconductor industry. In fact, some historians argue that it fundamentally ________ the industry by enabling it to take advantage of mass production methods for the first time.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
@@ -1390,17 +1372,17 @@
     "context": "Text corpora such as the Corpus of Contemporary American English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how _____ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “day,” but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
-      "assertive",
       "profound",
-      "credible",
-      "pervasive"
+      "assertive",
+      "pervasive",
+      "credible"
     ],
     "answer": "pervasive",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent"
+      "A": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
+      "C": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1563,24 +1545,6 @@
       "B": "Nghĩa tiếng Việt: tạm dịch: “implausible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: tạm dịch: “imprecise”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: tạm dịch: “superficial”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
-    }
-  },
-  {
-    "category": "Word in Context - Part 1",
-    "context": "Text corpora such as the Corpus of Contemporary American English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how _____ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “day,” but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.",
-    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": [
-      "profound",
-      "assertive",
-      "pervasive",
-      "credible"
-    ],
-    "answer": "pervasive",
-    "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
-      "C": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1815,6 +1779,870 @@
       "B": "Nghĩa tiếng Việt: tạm dịch: “Passes”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: tạm dịch: “Transforms”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: tạm dịch: “Allows”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from John Matheus’s 1925 short story Fog. The fog extended its tentacles over city and river, gradually obliterating traces of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.",
+    "prompt": "As used in the text, what does the word “supported” most nearly mean?",
+    "options": [
+      "Improved on",
+      "Promoted",
+      "Nurtured",
+      "Held up"
+    ],
+    "answer": "Held up",
+    "explanations": {
+      "A": "Nghĩa: cải tiến lên. Không phù hợp: câu mô tả trụ sa thạch đỡ cây cầu, không nói tới cải tiến. Từ đồng nghĩa: enhanced, refined.",
+      "B": "Nghĩa: quảng bá. Không phù hợp: không bàn về tuyên truyền hay quảng bá. Từ đồng nghĩa: advertised, endorsed.",
+      "C": "Nghĩa: nuôi dưỡng. Không phù hợp: không phải chăm bón hay nuôi dưỡng. Từ đồng nghĩa: fostered, cultivated.",
+      "D": "Nghĩa: chống/đỡ. Phù hợp: trụ đá đỡ cây cầu. Từ đồng nghĩa: upheld, bore, sustained."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Although weeds are often considered a nuisance, they can be _____ too; not only are weeds such as garlic mustard and chickweed edible, but weeds can also support wildlife.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "insulting",
+      "comical",
+      "valuable",
+      "understanding"
+    ],
+    "answer": "valuable",
+    "explanations": {
+      "A": "Nghĩa: xúc phạm. Không phù hợp: nói về lợi ích của cỏ dại. Từ đồng nghĩa: offensive, disparaging.",
+      "B": "Nghĩa: buồn cười. Không phù hợp: mạch ý nói về ích lợi sinh thái/thực phẩm. Từ đồng nghĩa: humorous, amusing.",
+      "C": "Nghĩa: có giá trị. Phù hợp: cỏ dại ăn được và hỗ trợ sinh vật hoang dã. Từ đồng nghĩa: useful, beneficial, worthwhile.",
+      "D": "Nghĩa: thấu hiểu. Không phù hợp: không miêu tả phẩm chất con người. Từ đồng nghĩa: empathetic, considerate."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The Mexican Revolution (1910–1920) was followed by a period of flourishing literary production, with writers such as Elena Poniatowska contributing to the _____ of poetry, fiction, essays, and more. Unfortunately, this flood of interesting writing has diverted scholarly attention from the equally fascinating work of nineteenth-century figures like Juan de Dios Peza.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "outpouring",
+      "overturning",
+      "protection",
+      "censure"
+    ],
+    "answer": "outpouring",
+    "explanations": {
+      "A": "Nghĩa: sự tuôn trào/số lượng lớn. Phù hợp: trùng khớp hình ảnh 'flood' tác phẩm. Từ đồng nghĩa: flood, surge.",
+      "B": "Nghĩa: lật đổ. Không phù hợp: không nói về chế độ. Từ đồng nghĩa: toppling, overthrow.",
+      "C": "Nghĩa: bảo vệ. Không phù hợp: không hợp ngữ cảnh sáng tác nở rộ. Từ đồng nghĩa: safeguarding, defense.",
+      "D": "Nghĩa: kiểm duyệt/chỉ trích. Không phù hợp. Từ đồng nghĩa: condemnation, reproach."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "When it comes to crafting policy recommendations to protect species at risk, lessons from previous declines in biodiversity can be especially _____. The factors that contributed to the extinction of the giant beaver around 8000 BCE, for example, may be applicable to endangered species today.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "relevant",
+      "idiosyncratic",
+      "simplified",
+      "debatable"
+    ],
+    "answer": "relevant",
+    "explanations": {
+      "A": "Nghĩa: liên quan/thích đáng. Phù hợp: bài học quá khứ áp dụng hiện tại. Từ đồng nghĩa: pertinent, applicable, germane.",
+      "B": "Nghĩa: lập dị/riêng biệt. Không phù hợp: không nói tính cá nhân. Từ đồng nghĩa: peculiar, quirky.",
+      "C": "Nghĩa: đơn giản hoá. Không phù hợp: không nói cách thức trình bày. Từ đồng nghĩa: simplified.",
+      "D": "Nghĩa: còn tranh cãi. Không phù hợp mạch lý lẽ. Từ đồng nghĩa: controversial, arguable."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The discoverers of the minor planet 935 Clivia named it after the plant genus that includes natal lilies. Most of the recently discovered minor planets, however, are given only an identification number, a trend that can be _____ to there being over 500,000 such bodies known at present, making it nearly impossible to find a unique name for each.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "attributed",
+      "alluded",
+      "entrusted",
+      "referred"
+    ],
+    "answer": "attributed",
+    "explanations": {
+      "A": "Nghĩa: quy cho/giải thích bởi. Phù hợp: xu hướng do số lượng lớn. Từ đồng nghĩa: ascribed to, explained by.",
+      "B": "Nghĩa: ám chỉ. Không phù hợp: thiếu đối tượng ám chỉ. Từ đồng nghĩa: hinted, referenced.",
+      "C": "Nghĩa: giao phó. Không phù hợp: không phải ủy thác. Từ đồng nghĩa: consigned, committed.",
+      "D": "Nghĩa: đề cập/nhắc tới. Không phù hợp ngữ pháp “referred to there being…”. Từ đồng nghĩa: mentioned."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Although the literary works of David Malo and Hanya Yanagihara have universal appeal, they are also _____ the Hawaiian literary tradition in which both authors work and that stretches back to the traditional stories of the Kānaka Maoli, the Native Hawaiian people.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "inextricable from",
+      "subverted by",
+      "presaged by",
+      "incongruous with"
+    ],
+    "answer": "inextricable from",
+    "explanations": {
+      "A": "Nghĩa: không thể tách rời khỏi. Phù hợp: gắn chặt truyền thống Hawaii. Từ đồng nghĩa: bound up with, inseparable from.",
+      "B": "Nghĩa: bị làm lệch/lật đổ. Không phù hợp. Từ đồng nghĩa: undermined by.",
+      "C": "Nghĩa: được báo trước bởi. Không hợp logic ngữ cảnh. Từ đồng nghĩa: foreshadowed by.",
+      "D": "Nghĩa: không hoà hợp với. Trái mạch. Từ đồng nghĩa: at odds with."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from Yone Noguchi’s 1914 memoir The Story of Yone Noguchi. Noguchi is returning home after eleven years abroad. I reached Tsushima, my native town, at evening. I frightened my old father at the station, who was actually trying to find me among some other people. There is no wonder that he could not recognise me; I must have changed a great deal.",
+    "prompt": "As used in the text, what does the word “find” most nearly mean?",
+    "options": [
+      "Manipulate",
+      "Reveal",
+      "Judge",
+      "Locate"
+    ],
+    "answer": "Locate",
+    "explanations": {
+      "A": "Nghĩa: thao túng. Không phù hợp với hành động tìm người. Từ đồng nghĩa: control, maneuver.",
+      "B": "Nghĩa: tiết lộ. Không phù hợp. Từ đồng nghĩa: disclose, unveil.",
+      "C": "Nghĩa: đánh giá. Không phù hợp. Từ đồng nghĩa: evaluate, assess.",
+      "D": "Nghĩa: tìm/định vị. Phù hợp: người cha cố gắng tìm anh trong đám đông. Từ đồng nghĩa: spot, locate."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from Jhumpa Lahiri’s 2003 novel The Namesake. Gogol has recently begun working at an architecture firm in New York. His contributions are incidental, and never fully his own: a stairwell, a skylight, a corridor, an air-conditioning duct. Still, he knows that each component of a building, however small, is nevertheless essential, and he finds it gratifying that after all his years of schooling, all his crits [reviews] and unbuilt projects, his efforts are to have some practical end.",
+    "prompt": "As used in the text, what does the word “end” most nearly mean?",
+    "options": [
+      "Decision",
+      "Purpose",
+      "Term",
+      "Delay"
+    ],
+    "answer": "Purpose",
+    "explanations": {
+      "A": "Không phù hợp: không phải nghĩa phù hợp của “end” trong ngữ cảnh; lệch nghĩa so với mạch văn.",
+      "B": "Phù hợp: nghĩa của “end” trong ngữ cảnh trùng khớp với lựa chọn này, thể hiện đúng ý của câu xung quanh (mạch văn và quan hệ logic).",
+      "C": "Không phù hợp: không phải nghĩa phù hợp của “end” trong ngữ cảnh; lệch nghĩa so với mạch văn.",
+      "D": "Không phù hợp: không phải nghĩa phù hợp của “end” trong ngữ cảnh; lệch nghĩa so với mạch văn."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Some cities estimate where sidewalks are located using road maps, which is not very accurate. Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Boston and used it on images of Brooklyn. The program’s performance was _____ to that of the road-map method: it more accurately identified sidewalks, and it even distinguished between concrete and granite.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "supportive",
+      "changed",
+      "superior",
+      "similar"
+    ],
+    "answer": "superior",
+    "explanations": {
+      "A": "Nghĩa: hỗ trợ. Không phù hợp so sánh chất lượng. Từ đồng nghĩa: helpful.",
+      "B": "Nghĩa: đã thay đổi. Không phải mức độ tốt hơn/kém hơn. Từ đồng nghĩa: altered.",
+      "C": "Nghĩa: vượt trội. Phù hợp: mô tả chính xác hơn. Từ đồng nghĩa: better, improved.",
+      "D": "Nghĩa: tương tự. Trái mạch: văn bản nói tốt hơn. Từ đồng nghĩa: alike."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Repairing the Railway, painted in the realist style by Konstantin Savitsky, depicts a large group of laborers rebuilding broken train tracks. The realists’ emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Thomas Couture, which instead _____ their subjects’ positive traits, altering subjects to appear more beautiful or heroic than they actually were.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "magnify",
+      "rectify",
+      "apprehend",
+      "counteract"
+    ],
+    "answer": "magnify",
+    "explanations": {
+      "A": "Nghĩa: phóng đại/làm nổi bật. Phù hợp: tôn vinh vẻ đẹp/anh hùng. Từ đồng nghĩa: amplify, exalt.",
+      "B": "Nghĩa: sửa cho đúng. Không phù hợp. Từ đồng nghĩa: correct, amend.",
+      "C": "Nghĩa: hiểu/bắt giữ. Không phù hợp ngữ cảnh. Từ đồng nghĩa: grasp, capture.",
+      "D": "Nghĩa: triệt tiêu/chống lại. Không phù hợp. Từ đồng nghĩa: offset, neutralize."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is from Pam Muñoz Ryan’s 2015 novel Echo. Friedrich, a boy who hopes to one day attend a music conservatory (school), is walking through his hometown. Beethoven is a classical composer. At the next corner, he turned down the thoroughfare. When he reached the music conservatory, he could hear someone practicing the piano in an upper story. Beethoven’s “Für Elise.” For this he stopped and lifted his head, becoming lost in the music.",
+    "prompt": "As used in the text, what does the word “reached” most nearly mean?",
+    "options": [
+      "Arrived at",
+      "Handed over",
+      "Upset",
+      "Grouped"
+    ],
+    "answer": "Arrived at",
+    "explanations": {
+      "A": "Nghĩa: tới/đến. Phù hợp: trong ngữ cảnh, “reached” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: came to, got to, reached.",
+      "B": "Nghĩa: trao/đưa. Không phù hợp: không phải nghĩa của “reached” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: gave, passed, delivered.",
+      "C": "Nghĩa: làm buồn/làm khó chịu. Không phù hợp: không phải nghĩa của “reached” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: distressed, annoyed.",
+      "D": "Nghĩa: gom nhóm/tập hợp. Không phù hợp: không phải nghĩa của “reached” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: clustered, grouped."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Portable video game consoles and other small electronic devices tend to ______ batteries that can’t be easily taken out and swapped for new ones. Environmental policy researcher Carl Dalhammar warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful waste.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "contain",
+      "prepare",
+      "imagine",
+      "discover"
+    ],
+    "answer": "contain",
+    "explanations": {
+      "A": "Nghĩa: chứa/bao hàm. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: include, house, hold.",
+      "B": "Nghĩa: chuẩn bị. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: ready, arrange.",
+      "C": "Nghĩa: tưởng tượng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: envision, conceive.",
+      "D": "Nghĩa: phát hiện. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: find, detect."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Possessing an outstanding collection of public art, Chicago has everything from monumental fountains like Daniel Burnham’s Buckingham Fountain at sites like Grant Park to innovative street art like Don’t Fret’s mural Gift To The Class of 2016 located on South Wabash Avenue. The ____ public art on display in the city can thus satisfy any art lover. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "apathy toward",
+      "breadth of",
+      "controversy over",
+      "confusion about"
+    ],
+    "answer": "breadth of",
+    "explanations": {
+      "A": "Nghĩa: sự thờ ơ với. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: indifference to, unconcern with.",
+      "B": "Nghĩa: độ rộng/độ đa dạng của. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: range of, variety of.",
+      "C": "Nghĩa: tranh cãi về. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: debate over, dispute about.",
+      "D": "Nghĩa: nhầm lẫn về. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: misunderstanding about, bewilderment regarding."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Posed in 1988, the Cameron–Erdős conjecture _____ many mathematicians before yielding to the independent efforts of Alexander Sapozhenko and Ben Green, who presented proofs of it in 2003. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "indoctrinated",
+      "appeased",
+      "disregarded",
+      "confounded"
+    ],
+    "answer": "confounded",
+    "explanations": {
+      "A": "Nghĩa: nhồi nhét tư tưởng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: brainwashed, programmed.",
+      "B": "Nghĩa: xoa dịu/làm nguôi. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: placated, soothed.",
+      "C": "Nghĩa: phớt lờ/bỏ qua. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: ignored, overlooked.",
+      "D": "Nghĩa: làm rối trí/làm bối rối. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: puzzled, baffled."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Contrary to Jürgen Kocka and other historians of capitalism, who tend to treat capitalism as largely _____ Africa before the period of European colonization, Jody Benjamin and other Africanist scholars have shown that in parts of Africa, returns-focused investment and other practices associated with capitalism predated colonization. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "insular in",
+      "diffuse in",
+      "pernicious to",
+      "extraneous to"
+    ],
+    "answer": "extraneous to",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “insular in” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “diffuse in” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “pernicious to” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “extraneous to” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is from Jhumpa Lahiri’s 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father. On the beach Gogol collects rocks, digs tunnels in the sand. He and his father wander barefoot, their pant legs rolled halfway up their calves. He watches his father raise a kite within minutes into the wind, so high that Gogol must tip his head back in order to see, a rippling speck against the sky.",
+    "prompt": "As used in the text, what does the word “wander” most nearly mean?",
+    "options": [
+      "Enlarge",
+      "Vary",
+      "Disagree",
+      "Walk"
+    ],
+    "answer": "Walk",
+    "explanations": {
+      "A": "Nghĩa: mở rộng. Không phù hợp: không phải nghĩa của “wander” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: expand, widen.",
+      "B": "Nghĩa: thay đổi/đa dạng. Không phù hợp: không phải nghĩa của “wander” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: differ, fluctuate.",
+      "C": "Nghĩa: bất đồng. Không phù hợp: không phải nghĩa của “wander” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: dissent, differ.",
+      "D": "Nghĩa: đi/bước đi. Phù hợp: trong ngữ cảnh, “wander” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: stroll, roam."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Maryam Hosseini and her team used aerial images of well-mapped areas of Manhattan to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it _____ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or asphalt. Hosseini believes the program will improve on this already-strong performance as it gets used more. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "rarely",
+      "reliably",
+      "slowly",
+      "clumsily"
+    ],
+    "answer": "reliably",
+    "explanations": {
+      "A": "Nghĩa: hiếm khi. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: seldom, infrequently.",
+      "B": "Nghĩa: đáng tin cậy/ổn định. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: dependably, consistently.",
+      "C": "Nghĩa: chậm chạp. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: gradually, sluggishly.",
+      "D": "Nghĩa: vụng về. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: awkwardly, inelegantly."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Often, the Nobel Prize in Chemistry is given to a single person, such as Frederick Sanger in 1958. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given _____. For instance, in 2008, Roger Y. Tsien was among those awarded for “the discovery and development of the green fluorescent protein, GFP.” As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "reluctantly",
+      "retroactively",
+      "ceremoniously",
+      "jointly"
+    ],
+    "answer": "jointly",
+    "explanations": {
+      "A": "Nghĩa: miễn cưỡng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: unwillingly, hesitantly.",
+      "B": "Nghĩa: hồi tố. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: retrospectively.",
+      "C": "Nghĩa: trọng thể/kiểu cách. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: formally.",
+      "D": "Nghĩa: đồng trao/chung. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: together, collectively."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Some pieces of music might have _____ meanings—the compositions of Delia Derbyshire lend themselves to as many different interpretations as there are people to listen to them—and so as long as a listener’s interpretation isn’t willfully absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "superficial",
+      "untenable",
+      "myriad",
+      "deficient"
+    ],
+    "answer": "myriad",
+    "explanations": {
+      "A": "Nghĩa: hời hợt/bề mặt. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: shallow, surface-level.",
+      "B": "Nghĩa: không thể bảo vệ/không đứng vững. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: indefensible, unsustainable.",
+      "C": "Nghĩa: vô số/đa dạng. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: countless, numerous.",
+      "D": "Nghĩa: thiếu hụt. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: insufficient, lacking."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The organizers specifically indicated that the conference was intended to focus on children’s literature, so despite the education specialist’s _____ her expertise on the subject in general, she found that she could speak authoritatively about the works of illustrator Ashley Bryan, particularly Beat the Story Drum, Pum-Pum, which she had used effectively in classroom instruction for many years. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "affinity for",
+      "hesitancy about",
+      "exceptions to",
+      "insight into"
+    ],
+    "answer": "hesitancy about",
+    "explanations": {
+      "A": "Nghĩa: sự yêu thích/thiện cảm với. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: liking for, fondness for.",
+      "B": "Nghĩa: sự e ngại về. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: reluctance about, reservations about.",
+      "C": "Nghĩa: ngoại lệ đối với. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: exemptions to, exclusions to.",
+      "D": "Nghĩa: hiểu biết về. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: understanding of, awareness of."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The term “agglomeration economies” refers to the economic benefits enjoyed by firms in the same industry that _____ in a region. For example, in the synthetic fiber manufacturing industry in the United Kingdom, firms that locate near one another can more readily take advantage of increased access to a large pool of skilled specialists that facilitates finding suitable employees. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "dissipate",
+      "terminate",
+      "recur",
+      "concentrate"
+    ],
+    "answer": "concentrate",
+    "explanations": {
+      "A": "Nghĩa: tiêu tán/tiêu biến. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: disperse, scatter.",
+      "B": "Nghĩa: chấm dứt. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: end, cease.",
+      "C": "Nghĩa: tái diễn. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: reappear, happen again.",
+      "D": "Nghĩa: tập trung/kết cụm. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: cluster, agglomerate."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The Art Institute of Chicago houses nearly 300,000 works from around the world. Museum visitors looking to _____ their art-viewing experience should turn to Chicago’s streets, where they can find works ranging from Joan Miro’s sculpture Miro’s Chicago at Brunswick Plaza to Kristen Kula’s mural Tornado on East 11th Street. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "satisfy",
+      "provoke",
+      "mitigate",
+      "supplement"
+    ],
+    "answer": "supplement",
+    "explanations": {
+      "A": "Nghĩa: thoả mãn. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: fulfill, meet.",
+      "B": "Nghĩa: kích thích/khiêu khích. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: stir, incite.",
+      "C": "Nghĩa: giảm thiểu/giảm nhẹ. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: alleviate, lessen.",
+      "D": "Nghĩa: bổ sung. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: augment, complement."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The way in which individual elements are balanced within a photographic image tends to affect how viewers perceive it: symmetry tends to give the elements equal importance, asymmetry emphasizes differences, and radial balance (organizing the elements around a central point) emphasizes the center over the periphery. What a photograph conveys is therefore largely _____ how it is balanced. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "reserved for",
+      "inhibited by",
+      "contingent on",
+      "obligated to"
+    ],
+    "answer": "contingent on",
+    "explanations": {
+      "A": "Nghĩa: dành riêng cho. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: set aside for, earmarked for.",
+      "B": "Nghĩa: bị kìm hãm bởi. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: constrained by, hampered by.",
+      "C": "Nghĩa: phụ thuộc vào. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: dependent on, conditioned by.",
+      "D": "Nghĩa: bị/buộc phải. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: required to, bound to."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Many observers have pointed out that the Internet allows extremist groups to recruit members, but Lisa Stampnitzky has shown that the Internet also allows anti-extremist groups to reach out to potential supporters. This dual capacity has made the Internet a _____ phenomenon, simultaneously empowering groups with contradictory aims. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "paradoxical",
+      "precarious",
+      "transient",
+      "chaotic"
+    ],
+    "answer": "paradoxical",
+    "explanations": {
+      "A": "Nghĩa: nghịch lý. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: contradictory, ironic.",
+      "B": "Nghĩa: bấp bênh. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: unstable, uncertain.",
+      "C": "Nghĩa: thoáng qua/tạm thời. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: fleeting, temporary.",
+      "D": "Nghĩa: hỗn loạn. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: disorderly, turbulent."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Though nuclear fusion technology is unlikely to become a practical source of energy in the near future, its potential for producing vast amounts of energy with little environmental impact makes it a subject of _____ scientific research. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "indifferent",
+      "dismissive",
+      "intense",
+      "skeptical"
+    ],
+    "answer": "intense",
+    "explanations": {
+      "A": "Nghĩa: thờ ơ. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: apathetic, unconcerned.",
+      "B": "Nghĩa: xem thường/khinh suất. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: scornful, contemptuous.",
+      "C": "Nghĩa: mạnh mẽ/sâu rộng. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: vigorous, robust.",
+      "D": "Nghĩa: hoài nghi. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: doubtful, dubious."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "In astronomy, the term “exoplanet” refers to a planet that orbits a star outside our solar system. The first confirmed detection of an exoplanet occurred in the 1990s, and since then thousands have been discovered, some of them potentially capable of supporting life. Such discoveries have generated great _____ among scientists and the general public alike. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "apathy",
+      "indifference",
+      "enthusiasm",
+      "hostility"
+    ],
+    "answer": "enthusiasm",
+    "explanations": {
+      "A": "Nghĩa: sự thờ ơ. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: indifference, detachment.",
+      "B": "Nghĩa: sự dửng dưng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: apathy, unconcern.",
+      "C": "Nghĩa: sự hào hứng. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: excitement, eagerness.",
+      "D": "Nghĩa: sự thù địch. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: antagonism, enmity."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Many popular accounts of Thomas Edison describe him as the lone inventor of the electric light bulb. In fact, his success was _____: it drew on the work of numerous earlier inventors as well as the efforts of the large team he assembled at his laboratory in Menlo Park, New Jersey. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "solitary",
+      "collective",
+      "accidental",
+      "effortless"
+    ],
+    "answer": "collective",
+    "explanations": {
+      "A": "Nghĩa: đơn độc. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: alone, single.",
+      "B": "Nghĩa: tập thể/chung. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: collaborative, joint.",
+      "C": "Nghĩa: ngẫu nhiên. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: coincidental, unintended.",
+      "D": "Nghĩa: không tốn công. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: easy, simple."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Archeological evidence indicates that the invention of agriculture led to a profound transformation of human societies. With the ability to produce surplus food, people began to settle in permanent communities, and social hierarchies and complex institutions developed. In this way, agriculture served as a _____ of civilization. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "hindrance",
+      "precursor",
+      "consequence",
+      "byproduct"
+    ],
+    "answer": "precursor",
+    "explanations": {
+      "A": "Nghĩa: trở ngại/chướng ngại. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: obstacle, impediment.",
+      "B": "Nghĩa: tiền đề/điềm báo trước. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: forerunner, antecedent.",
+      "C": "Nghĩa: hệ quả/kết quả. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: result, outcome.",
+      "D": "Nghĩa: sản phẩm phụ. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: side product, secondary product."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from Mary Shelley’s 1818 novel Frankenstein. Victor Frankenstein, a young scientist, has assembled and animated a living creature. His limbs were in proportion, and I had selected his features as beautiful. Beautiful! Great God! His yellow skin scarcely covered the work of muscles and arteries beneath; his hair was of a lustrous black, and flowing; his teeth of a pearly whiteness; but these luxuriances only formed a more horrid contrast with his watery eyes, that seemed almost of the same color as the dun-white sockets in which they were set, his shriveled complexion, and straight black lips.",
+    "prompt": "As used in the text, the word “luxuriances” most nearly mean",
+    "options": [
+      "rarities",
+      "indignities",
+      "excesses",
+      "attractions"
+    ],
+    "answer": "attractions",
+    "explanations": {
+      "A": "Nghĩa: những điều hiếm có. Không phù hợp: không phải nghĩa của “luxuriances” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: scarce things, uncommon items.",
+      "B": "Nghĩa: sự nhục nhã/sĩ nhục. Không phù hợp: không phải nghĩa của “luxuriances” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: humiliations, insults.",
+      "C": "Nghĩa: sự dư dả/thái quá. Không phù hợp: không phải nghĩa của “luxuriances” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: overabundance, surplus.",
+      "D": "Nghĩa: nét hấp dẫn/điểm đẹp. Phù hợp: trong ngữ cảnh, “luxuriances” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: beauties, charms."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "When threatened by predators, some octopuses release ink into the water. This ink can serve multiple functions: it can obscure the octopus from view, allowing it to escape, and it can also contain chemicals that irritate predators’ senses. Thus, the ink is a _____ defense mechanism. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "singular",
+      "multifaceted",
+      "defective",
+      "irrelevant"
+    ],
+    "answer": "multifaceted",
+    "explanations": {
+      "A": "Nghĩa: đơn nhất/độc nhất. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: unique, single.",
+      "B": "Nghĩa: đa diện/đa chức năng. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: many-sided, versatile.",
+      "C": "Nghĩa: khiếm khuyết. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: flawed, faulty.",
+      "D": "Nghĩa: không liên quan. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: unrelated, immaterial."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "In his influential 1776 book The Wealth of Nations, Adam Smith argued that individuals who act in their own economic self-interest can, through the “invisible hand” of the market, promote the general welfare of society. This idea has been enormously influential, but it has also been the subject of much _____, with some praising it as profound insight and others criticizing it as oversimplification. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "consensus",
+      "controversy",
+      "certainty",
+      "uniformity"
+    ],
+    "answer": "controversy",
+    "explanations": {
+      "A": "Nghĩa: đồng thuận. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: agreement, harmony.",
+      "B": "Nghĩa: tranh cãi. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: debate, contention.",
+      "C": "Nghĩa: sự chắc chắn. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: sureness, conviction.",
+      "D": "Nghĩa: tính đồng nhất. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: sameness, consistency."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from Charlotte Brontë’s 1847 novel Jane Eyre. Jane, the narrator, is a young governess reflecting on her employer’s expression. Mr. Rochester had such a direct gaze as seemed to me to read the very foundations of my heart. I felt that he was having a pleasure in my sentiments; and yet, as I read his countenance, it appeared stern, and even _____; the lips firm, the brows contracted. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "benign",
+      "forbidding",
+      "gracious",
+      "indulgent"
+    ],
+    "answer": "forbidding",
+    "explanations": {
+      "A": "Nghĩa: hiền lành/ôn hoà. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: kind, harmless.",
+      "B": "Nghĩa: đáng sợ/khó gần. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: grim, daunting.",
+      "C": "Nghĩa: ân cần/nhã nhặn. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: courteous, kind.",
+      "D": "Nghĩa: dễ dãi/nuông chiều. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: lenient, permissive."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "During the late nineteenth and early twentieth centuries, cities in the United States experienced a population boom as immigrants and rural residents moved into urban areas. This rapid growth created serious problems, including overcrowding, inadequate housing, and poor sanitation. Reformers who sought to address these problems often advocated for _____ measures such as the establishment of public health departments and housing regulations. As used in the text,",
+    "prompt": "which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "regressive",
+      "preventive",
+      "superficial",
+      "symbolic"
+    ],
+    "answer": "preventive",
+    "explanations": {
+      "A": "Nghĩa: thoái bộ. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: backward, retrograde.",
+      "B": "Nghĩa: phòng ngừa. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: preventative, prophylactic.",
+      "C": "Nghĩa: hời hợt/bề mặt. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: shallow, surface-level.",
+      "D": "Nghĩa: mang tính biểu tượng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: token, emblematic."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Stars form in cloudlike swirls of gas and dust that cannot be touched, but astrophysicist Nia Imara believes these formations need not remain completely _____ to researchers: she uses simulation data and sophisticated 3D printers to produce interactive models of these stellar nurseries.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "regrettable",
+      "explicable",
+      "intangible",
+      "repeatable"
+    ],
+    "answer": "intangible",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “regrettable” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “explicable” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “intangible” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “repeatable” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Often, the Nobel Prize in Chemistry is given to a single person, such as Irving Langmuir in 1932. But scientists recognized with a Nobel Prize do not often conduct their work in ______ the scientific community. Instead, success in fields like chemistry is usually achieved through direct cooperation with other experts, as was the case for George Smith, who was among those awarded for “the phage display of peptides and antibodies.”",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "isolation from",
+      "deference to",
+      "collaboration with",
+      "competition with"
+    ],
+    "answer": "isolation from",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “isolation from” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “deference to” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “collaboration with” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “competition with” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The tendency to group authors together into distinct literary movements often encourages literary scholars to ____ subtleties in an author’s style. Those studying the works of Langston Hughes, for instance, may inadvertently overlook nuances in his work by focusing only on the most obvious ways in which his style corresponds to the Harlem Renaissance.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "denounce",
+      "discount",
+      "magnify",
+      "scrutinize"
+    ],
+    "answer": "discount",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “denounce” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “discount” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: phóng đại/làm nổi bật. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: amplify, exalt.",
+      "D": "Nghĩa: nghĩa của “scrutinize” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "A Burial at Ornans, painted in the realist style by Gustave Courbet, depicts an ordinary provincial funeral in stark detail and emphasizes accuracy in its portrayal of the experiences of ordinary working people. This style largely _____ the conventions of the romantic style evident in many paintings by Gabriel François Doyen, which instead accentuated their subjects’ positive traits by, for example, placing them in staged settings with expensive-looking decorations and presenting them with smooth, unblemished skin.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "epitomized",
+      "imitated",
+      "rejected",
+      "extended"
+    ],
+    "answer": "rejected",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “epitomized” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “imitated” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “rejected” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “extended” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are _____, the effect on blood chemistry of living in locations below sea level, such as the California towns of Bombay Beach and Holtville, has received comparatively little notice.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are _____, the effect on blood chemistry of living in locations below sea level, such as the California towns of Bombay Beach and Holtville, has received comparatively little notice. Which choice completes the text with the most logical and precise word or phrase? A. sporadic",
+      "copious",
+      "equivocal",
+      "preliminary"
+    ],
+    "answer": "copious",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are _____, the effect on blood chemistry of living in locations below sea level, such as the California towns of Bombay Beach and Holtville, has received comparatively little notice. Which choice completes the text with the most logical and precise word or phrase? A. sporadic” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “copious” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “equivocal” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “preliminary” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Authors like José Emilio Pacheco contributed to the outpouring of Mexican literature in the years following the Mexican Revolution, which lasted from 1910–1920. Works from this period make up an _____ proportion of what is considered the canon of Mexican literature, but nineteenth-century writers like Vicente Riva Palacio should be considered just as integral to the Mexican literary canon.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "overlooked",
+      "erratic",
+      "outsized",
+      "unspecified"
+    ],
+    "answer": "outsized",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “overlooked” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “erratic” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “outsized” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “unspecified” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from James Baldwin’s 1956 novel Giovanni’s Room. The narrator is riding in a taxi down a street lined with food vendors and shoppers in Paris, France. The multitude of Paris seems to be dressed in blue every day but Sunday, when, for the most part, they put on an unbelievably festive black. Here they were now, in blue, disputing, every inch, our passage, with their wagons, handtrucks, their bursting baskets carried at an angle steeply self-confident on the back.",
+    "prompt": "As used in the text, what does the word “disputing” most nearly mean?",
+    "options": [
+      "Arguing about",
+      "Disapproving of",
+      "Asserting possession of",
+      "Providing resistance to"
+    ],
+    "answer": "Providing resistance to",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “Arguing about” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “disputing” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “Disapproving of” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “disputing” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “Asserting possession of” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “disputing” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: tạo lực cản đối với. Phù hợp: trong ngữ cảnh, “disputing” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: opposing, countering."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Smart watches and wireless speakers tend to contain batteries that can’t be easily _____. Sustainability researcher Mariana López Davila warns that because new batteries can’t be put in once the old ones no longer work, the gadgets stop functioning and are usually disposed of as trash.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "replaced",
+      "prevented",
+      "invented",
+      "rated"
+    ],
+    "answer": "replaced",
+    "explanations": {
+      "A": "Nghĩa: thay thế. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: substituted, swapped.",
+      "B": "Nghĩa: nghĩa của “prevented” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: nghĩa của “invented” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “rated” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is adapted from Kenneth Grahame’s 1908 novel The Wind in the Willows. The Mole is dazed after briefly meeting a stranger while traveling with a friend. [The] Mole stood still a moment, held in thought. As one wakened suddenly from a beautiful dream, who struggles to recall it, and can recapture nothing but a dim sense of the beauty of it, the beauty! Till that, too, fades away in its turn.",
+    "prompt": "As used in the text, what does the word “recall” most nearly mean?",
+    "options": [
+      "Deny",
+      "Remember",
+      "Start",
+      "Overlook"
+    ],
+    "answer": "Remember",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “Deny” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “recall” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: ghi nhớ/nhớ. Phù hợp: trong ngữ cảnh, “recall” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: recall, memorize.",
+      "C": "Nghĩa: bắt đầu. Không phù hợp: không phải nghĩa của “recall” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: begin, commence.",
+      "D": "Nghĩa: bỏ qua/không để ý. Không phù hợp: không phải nghĩa của “recall” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: ignore, miss."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "There is no doubt that Irwin Rose must have proved himself to be extraordinarily _____ understanding some of the most advanced concepts in the field of chemistry—in 2004 his remarkable talent and hard work was recognized when he was among those awarded the Nobel Prize in Chemistry for “the discovery of ubiquitin-mediated protein degradation.”",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "modest about",
+      "adept at",
+      "lighthearted about",
+      "dispassionate in"
+    ],
+    "answer": "adept at",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “modest about” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: thành thạo về. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: skilled at, proficient in.",
+      "C": "Nghĩa: nghĩa của “lighthearted about” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "D": "Nghĩa: nghĩa của “dispassionate in” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The following text is from Charles Chesnutt's 1905 novel The Colonel's Dream. Mr. French and Mr. Kirby work together. Mr. French, the senior partner, who sat opposite Kirby, was an older man—a safe guess would have placed him somewhere in the debatable ground between forty and fifty; of a good height, as could be seen even from the seated figure, the upper part of which was held erect with the unconscious ease which one associates with military training.",
+    "prompt": "As used in the text, what does the word “placed” most nearly mean?",
+    "options": [
+      "Contracted",
+      "Changed",
+      "Estimated",
+      "Arranged"
+    ],
+    "answer": "Estimated",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “Contracted” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “placed” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: nghĩa của “Changed” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “placed” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
+      "C": "Nghĩa: ước tính. Phù hợp: trong ngữ cảnh, “placed” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: calculated, gauged.",
+      "D": "Nghĩa: nghĩa của “Arranged” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “placed” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "The results of randomized clinical trials testing the efficacy of common medical interventions sometimes fail to _____ conclusions that practitioners reach based on their real-world observations of patients. While there are several possible reasons for this, one is that practitioners may overlook confounding variables that account for the results they attribute to the interventions in question.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "circumvent",
+      "corroborate",
+      "disseminate",
+      "implement"
+    ],
+    "answer": "corroborate",
+    "explanations": {
+      "A": "Nghĩa: nghĩa của “circumvent” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
+      "B": "Nghĩa: chứng thực/xác nhận. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: confirm, validate.",
+      "C": "Nghĩa: phổ biến/lan truyền. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: spread, circulate.",
+      "D": "Nghĩa: triển khai/thực thi. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: execute, enforce."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Louise Arner Boyd, who led several scientific expeditions off the coast of Greenland in the 1930s, undoubtedly accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy “first” such as Enid GordonGalliens, who led the expedition that first mapped the area around Kalambo Falls between Zambia and Tanzania, a deed for which she will always be remembered.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "uncertain",
+      "enduring",
+      "deserving",
+      "conspicuous"
+    ],
+    "answer": "uncertain",
+    "explanations": {
+      "A": "Nghĩa: không chắc chắn. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: unknown, indeterminate.",
+      "B": "Nghĩa: lâu bền/bền vững. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: lasting, durable.",
+      "C": "Nghĩa: xứng đáng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: worthy, meritorious.",
+      "D": "Nghĩa: dễ thấy/nổi bật. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: noticeable, prominent."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "In the 2010s, the price of vintage Teenage Mutant Ninja Turtles action figures rose dramatically, which had the counterintuitive effect of _____ demand: buyers who hadn’t previously wanted to purchase old action figures suddenly thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "monetizing",
+      "stabilizing",
+      "precipitating",
+      "exploiting"
+    ],
+    "answer": "precipitating",
+    "explanations": {
+      "A": "Nghĩa: kiếm tiền từ. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: commercializing, profiting from.",
+      "B": "Nghĩa: ổn định hoá. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: steadying, balancing.",
+      "C": "Nghĩa: kích hoạt/dẫn tới nhanh. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: triggering, sparking.",
+      "D": "Nghĩa: khai thác/lợi dụng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: leveraging, taking advantage of."
+    }
+  },
+  {
+    "category": "Word in Context - Part 1",
+    "context": "Economists have long observed that firms in related industries tend to cluster in the same area, as is the case in Sheffield, UK, where many initial iron and steel processing firms as well as iron and steel tube manufacturers are located. The factors causing such clustering are _____: what drives firms in certain industries to cluster may not be especially relevant among other industries.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "variable",
+      "impressive",
+      "unknown",
+      "focused"
+    ],
+    "answer": "variable",
+    "explanations": {
+      "A": "Nghĩa: biến thiên/khác nhau. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: changing, fluctuating.",
+      "B": "Nghĩa: ấn tượng. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: remarkable, notable.",
+      "C": "Nghĩa: không rõ/không biết. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: unclear, undetermined.",
+      "D": "Nghĩa: tập trung. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: concentrated, targeted."
     }
   }
 ]

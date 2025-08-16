@@ -56,6 +56,9 @@
   const modalReset     = document.getElementById('modalReset');
   const modalCancel    = document.getElementById('modalCancel');
   const modalClose     = document.getElementById('modalClose');
+  const explainBox = document.getElementById('explainBox');
+  
+
 
   // Force hide modal on load
   modalOverlay?.classList.add('hidden'); modalOverlay?.classList.remove('show');
@@ -164,6 +167,63 @@
     return out;
   }
 
+  function getExplanation(q, index){
+  if (!q || !q.explanations) return '';
+  const letters = ['A','B','C','D'];
+  const k = letters[index] ?? '';
+  return (q.explanations[k] || '').toString().trim();
+}
+
+function renderExplanation(q, chosenIndex, correctIndex, mode='do'){
+  // reset box
+if (typeof explainBox !== 'undefined') {
+  explainBox.classList.add('hidden');
+  explainBox.innerHTML = '';
+}
+
+  if (!q || typeof explainBox === 'undefined') return;
+
+  const rightExp  = getExplanation(q, correctIndex);
+  const letters   = ['A','B','C','D'];
+
+  if (chosenIndex == null) {
+    // chỉ show đáp án đúng (dùng cho review)
+    if (rightExp) {
+      explainBox.className = 'explain ok';
+      explainBox.innerHTML = `
+        <div class="title">Đáp án đúng: <b>${letters[correctIndex]}</b></div>
+        <div class="right">${escapeHTML(rightExp)}</div>
+      `;
+      explainBox.classList.remove('hidden');
+    }
+    return;
+  }
+
+  // có lựa chọn của người dùng
+  const chosenExp = getExplanation(q, chosenIndex);
+  const isCorrect = (chosenIndex === correctIndex);
+
+  if (isCorrect){
+    explainBox.className = 'explain ok';
+    explainBox.innerHTML = `
+      <div class="title">Chính xác!</div>
+      ${rightExp
+        ? `<div class="right">${escapeHTML(rightExp)}</div>`
+        : `<div class="muted">Đáp án đúng là <b>${letters[correctIndex]}</b>.</div>`}
+    `;
+  } else {
+    explainBox.className = 'explain bad';
+    explainBox.innerHTML = `
+      <div class="title">Chưa đúng.</div>
+      ${chosenExp ? `<div>- Vì sao sai: ${escapeHTML(chosenExp)}</div>` : ''}
+      <div class="right">Đáp án đúng: <b>${letters[correctIndex]}</b>${rightExp ? ` — ${escapeHTML(rightExp)}` : ''}</div>
+    `;
+  }
+  explainBox.classList.remove('hidden');
+}
+
+
+
   // Search helpers
   const norm = (s='') => s.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
   const getHaystack = (q) => [ q.context || '', q.question || '', q.prompt || '', ...(q.options || []) ].join(' ');
@@ -179,15 +239,14 @@
 
   // ---------- NORMALIZE ----------
   function normalizeCorrect(correct, options = []) {
-    if (typeof correct === 'number') return clamp((correct>=1 && correct<=4 ? correct-1 : correct), 0, 3);
-    const s = String(correct || '').trim();
-    if (/^[0-3]$/.test(s)) return parseInt(s,10);
-    if (/^[1-4]$/.test(s)) return parseInt(s,10)-1;
-    const map = { A:0, B:1, C:2, D:3 };
-    if (map[s.toUpperCase()] !== undefined) return map[s.toUpperCase()];
-    const i = options.findIndex(opt => String(opt).trim() === s);
-    return i >= 0 ? i : 0;
-  }
+  if (typeof correct === 'number') return clamp((correct>=1 && correct<=4 ? correct-1 : correct), 0, 3);
+  const s  = (correct == null) ? '' : String(correct).trim();
+  const up = (typeof s === 'string' && s.toUpperCase) ? s.toUpperCase() : s;
+  const map = { A:0, B:1, C:2, D:3 };
+  if (up in map) return map[up];
+  const i = options.findIndex(opt => String(opt).trim().toLowerCase() === s.toLowerCase());
+  return i >= 0 ? i : 0;
+}
   function normalizeRow(obj){
     if(!obj) return null;
     const q = String(obj.question || obj.Question || '').trim();
@@ -203,7 +262,28 @@
 
     const rawCorrect = obj.correct ?? obj.Correct ?? obj.answer ?? obj.Answer;
     const correct = normalizeCorrect(rawCorrect, options);
-    return { question:q, context, prompt, options, correct, category: obj.category || obj.Category || DEFAULT_CAT };
+    // Gom giải thích: chấp nhận nhiều format
+let explanations = obj.explanations || obj.Explanations || obj.explain || obj.Explain;
+
+// Cho phép mảng [exA, exB, exC, exD]
+if (Array.isArray(explanations)) {
+  explanations = { A: explanations[0], B: explanations[1], C: explanations[2], D: explanations[3] };
+}
+
+// Cho phép từng trường exA/exB... hoặc expA/expB...
+const exA = obj.exA ?? obj.expA ?? obj.ExA ?? obj.ExpA;
+const exB = obj.exB ?? obj.expB ?? obj.ExB ?? obj.ExpB;
+const exC = obj.exC ?? obj.expC ?? obj.ExC ?? obj.ExpC;
+const exD = obj.exD ?? obj.expD ?? obj.ExD ?? obj.ExpD;
+if (!explanations && (exA || exB || exC || exD)) {
+  explanations = { A: exA, B: exB, C: exC, D: exD };
+}
+    return {
+  question: q, context, prompt,
+  options, correct,
+  explanations,                         // <— thêm
+  category: obj.category || obj.Category || DEFAULT_CAT
+};
   }
 
   // ---------- RESUME MODAL ----------
@@ -339,6 +419,8 @@
     }
 
     answersWrap.innerHTML = '';
+    const explainBox = document.getElementById('explainBox');
+if (explainBox) explainBox.innerHTML = '';
     const opts = (q.options || [q.A, q.B, q.C, q.D].filter(v=>v!==undefined)).slice(0,4);
     opts.forEach((opt, i)=>{
       const btn = document.createElement('button');
@@ -346,36 +428,66 @@
       btn.setAttribute('data-index', i);
       btn.setAttribute('aria-label', `Đáp án ${letterFromIndex(i)}`);
       btn.innerHTML = `<span class="pill">${letterFromIndex(i)}</span> <span>${escapeHTML(String(opt))}</span>`;
-      if(!reviewMode) btn.addEventListener('click', ()=> handleAnswer(i, btn));
+      if (!reviewMode) {
+  btn.addEventListener('click', () => {
+    const q = currentSet[idx];
+    const correctIndex = (typeof q.correct === 'number')
+      ? clamp(q.correct, 0, 3)
+      : normalizeCorrect(q.correct, q.options || []);
+    
+    // Nếu CHƯA chấm câu này -> chấm điểm
+    if (!answered.has(idx)) {
+      handleAnswer(i, btn);
+      return;
+    }
+    // ĐÃ chấm rồi -> chỉ preview giải thích cho lựa chọn đang bấm
+    renderExplanation(q, i, correctIndex, 'preview');
+  });
+}
       answersWrap.appendChild(btn);
     });
 
-    if(reviewMode){
-      const correctIndex = (typeof q.correct === 'number') ? clamp(q.correct,0,3) : normalizeCorrect(q.correct, q.options || []);
-      const prev = answered.get(idx);
-      const correctBtn = answersWrap.querySelector(`[data-index="${correctIndex}"]`);
-      if(correctBtn) correctBtn.classList.add('correct');
-      if(prev && prev.choice !== correctIndex){
-        const wrongBtn = answersWrap.querySelector(`[data-index="${prev.choice}"]`);
-        if(wrongBtn) wrongBtn.classList.add('wrong');
+    if (reviewMode){
+  const correctIndex = (typeof q.correct === 'number')
+    ? clamp(q.correct, 0, 3)
+    : normalizeCorrect(q.correct, q.options || []);
+
+  const prev = answered.get(idx); // có thể undefined
+  const correctBtn = answersWrap.querySelector(`[data-index="${correctIndex}"]`);
+  if (correctBtn) correctBtn.classList.add('correct');
+  if (prev && prev.choice != null && prev.choice !== correctIndex) {
+    const wrongBtn = answersWrap.querySelector(`[data-index="${prev.choice}"]`);
+    if (wrongBtn) wrongBtn.classList.add('wrong');
+  }
+  // KHÔNG disable để còn bấm xem giải thích, chỉ đánh dấu "locked"
+[...answersWrap.querySelectorAll('.answer')].forEach(b => {
+  b.classList.add('locked');         // nếu muốn style riêng
+  b.setAttribute('aria-disabled', 'true');
+});
+
+  // >>> hiển thị giải thích (an toàn, prev có thể rỗng)
+  renderExplanation(q, prev?.choice ?? null, correctIndex, 'review');
+}
+ else {
+  const prev = answered.get(idx);
+  if (prev){
+    const correctIndex = (typeof q.correct === 'number')
+      ? clamp(q.correct,0,3)
+      : normalizeCorrect(q.correct, q.options || []);
+    const btn = answersWrap.querySelector(`[data-index="${prev.choice}"]`);
+    if (btn){
+      if (prev.choice === correctIndex) btn.classList.add('correct');
+      else {
+        btn.classList.add('wrong');
+        const cBtn = answersWrap.querySelector(`[data-index="${correctIndex}"]`);
+        if (cBtn) cBtn.classList.add('correct');
       }
       [...answersWrap.querySelectorAll('.answer')].forEach(b=> b.disabled = true);
-    } else {
-      const prev = answered.get(idx);
-      if(prev){
-        const correctIndex = (typeof q.correct === 'number') ? clamp(q.correct,0,3) : normalizeCorrect(q.correct, q.options || []);
-        const btn = answersWrap.querySelector(`[data-index="${prev.choice}"]`);
-        if(btn){
-          if(prev.choice === correctIndex) btn.classList.add('correct');
-          else {
-            btn.classList.add('wrong');
-            const cBtn = answersWrap.querySelector(`[data-index="${correctIndex}"]`);
-            if(cBtn) cBtn.classList.add('correct');
-          }
-          [...answersWrap.querySelectorAll('.answer')].forEach(b=> b.disabled = true);
-        }
-      }
     }
+    // >>> show giải thích cho lựa chọn đã lưu
+    renderExplanation(q, prev.choice, correctIndex, 'restore');
+  }
+}
 
     setProgress();
     prevBtn.disabled = idx <= 0;
@@ -390,19 +502,56 @@
   }
 
   function handleAnswer(choiceIndex, btn){
-    if(locked || reviewMode) return;
-    locked = true;
+  if (reviewMode) return;
 
-    const q = currentSet[idx];
-    const correctIndex = (typeof q.correct === 'number') ? clamp(q.correct,0,3) : normalizeCorrect(q.correct, q.options || []);
-    const buttons = [...answersWrap.querySelectorAll('.answer')];
-    buttons.forEach(b=> b.disabled = true);
+  const q = currentSet[idx];
+  const correctIndex = (typeof q.correct === 'number')
+    ? clamp(q.correct,0,3)
+    : normalizeCorrect(q.correct, q.options || []);
+
+  // 👉 Nếu câu đã chấm rồi: chỉ xem giải thích cho đáp án vừa click
+  if (answered.has(idx)) {
+    renderExplanation(q, choiceIndex, correctIndex, 'preview');
+    return;
+  }
+
+  if (locked) return;
+  locked = true;
+
+  const buttons = [...answersWrap.querySelectorAll('.answer')];
 
     const ok = (choiceIndex === correctIndex);
     if(ok){ btn.classList.add('correct'); correctCount++; flash('ok', '✅ Chính xác!'); }
     else   { btn.classList.add('wrong'); const c = answersWrap.querySelector(`[data-index="${correctIndex}"]`); c && c.classList.add('correct'); flash('bad','❌ Chưa đúng'); }
 
     answered.set(idx, {choice: choiceIndex, correct: ok});
+    // sau khi chấm đáp án:
+renderExplanation(q, choiceIndex, correctIndex, 'do');
+explainBox.classList.remove('hidden');
+saveCategoryProgress();
+setTimeout(()=>{ locked = false; }, AUTO_DELAY_MS/2);
+
+    // Giải thích
+const chosenExp = getExplanation(q, choiceIndex);
+const rightExp  = getExplanation(q, correctIndex);
+if (choiceIndex === correctIndex) {
+  // Đúng
+  explainBox.className = 'explain ok';
+  explainBox.innerHTML = `
+    <div class="title">Chính xác!</div>
+    ${rightExp ? `<div class="right">${escapeHTML(rightExp)}</div>` : `<div class="muted">Đáp án đúng là <b>${['A','B','C','D'][correctIndex]}</b>.</div>`}
+  `;
+} else {
+  // Sai
+  explainBox.className = 'explain bad';
+  explainBox.innerHTML = `
+    <div class="title">Chưa đúng.</div>
+    ${chosenExp ? `<div>- Vì sao sai: ${escapeHTML(chosenExp)}</div>` : ''}
+    <div class="right">Đáp án đúng: <b>${['A','B','C','D'][correctIndex]}</b>${rightExp ? ` — ${escapeHTML(rightExp)}` : ''}</div>
+  `;
+}
+explainBox.classList.remove('hidden');
+
     saveCategoryProgress();
     setTimeout(()=>{ locked = false; }, AUTO_DELAY_MS/2);
   }
@@ -515,19 +664,47 @@
     searchContainer && searchContainer.classList.remove('hidden');
   });
 
-  // Shortcuts
-  document.addEventListener('keydown', (e)=>{
-    const key = e.key.toUpperCase();
-    if(['A','B','C','D'].includes(key) && !locked && !quizCard.classList.contains('hidden') && !reviewMode){
-      const map = { A:0, B:1, C:2, D:3 };
-      const i = map[key];
-      const btn = answersWrap.querySelector(`[data-index="${i}"]`);
-      if(btn) btn.click();
+  // === REPLACE your old keydown handler with this ===
+document.addEventListener('keydown', (ev) => {
+  // Bỏ qua khi đang gõ trong input/textarea/contenteditable
+  const ae = document.activeElement;
+  const tag = ae && ae.tagName ? ae.tagName.toLowerCase() : '';
+  if (tag === 'input' || tag === 'textarea' || (ae && ae.isContentEditable)) return;
+
+  // Guard: một số event có thể không có key hoặc không phải string
+  const k = (ev && typeof ev.key === 'string') ? ev.key : '';
+  if (!k) return;
+
+  const inQuiz = !quizCard.classList.contains('hidden');
+  const upper  = (k.length === 1) ? k.toUpperCase() : k;
+
+  // Chọn đáp án A/B/C/D
+  if (inQuiz && ['A','B','C','D'].includes(upper)) {
+    const map = { A:0, B:1, C:2, D:3 };
+    const i = map[upper];
+
+    const q = currentSet[idx];
+    const correctIndex = (typeof q.correct === 'number')
+      ? clamp(q.correct, 0, 3)
+      : normalizeCorrect(q.correct, q.options || []);
+
+    if (!answered.has(idx)) {
+      // chấm lần đầu
+      answersWrap.querySelector(`[data-index="${i}"]`)?.click();
+    } else {
+      // đã chấm -> chỉ xem giải thích
+      renderExplanation(q, i, correctIndex, 'preview');
     }
-    if(e.key === 'ArrowLeft'  && !quizCard.classList.contains('hidden')) prevBtn.click();
-    if(e.key === 'ArrowRight' && !quizCard.classList.contains('hidden')) nextBtn.click();
-    if(e.key === 'Escape'     && !quizCard.classList.contains('hidden')) exitBtn.click();
-  });
+    return;
+  }
+
+  // Điều hướng
+  if (inQuiz && k === 'ArrowLeft')  { prevBtn?.click();  return; }
+  if (inQuiz && k === 'ArrowRight') { nextBtn?.click();  return; }
+  if (inQuiz && k === 'Escape')     { exitBtn?.click();  return; }
+});
+
+
 
   // ---------- INIT ----------
   async function init(){

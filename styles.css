@@ -362,3 +362,28 @@ min-width: fit-content;
   border-color: #42a5f5; /* xanh sáng hơn khi focus */
   box-shadow: 0 0 5px rgba(66, 165, 245, 0.6);
 }
+/* Giải thích đáp án */
+.explain{
+  margin-top: 12px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border, rgba(255,255,255,.12));
+  line-height: 1.5;
+  font-size: 14px;
+}
+.explain.ok{ border-color: rgba(0,200,120,.55); background: rgba(0,200,120,.08); }
+.explain.bad{ border-color: rgba(255,70,70,.6);  background: rgba(255,70,70,.08); }
+.explain .title{ font-weight: 600; margin-bottom: 6px; }
+.explain .right{ margin-top: 6px; opacity: .95; }
+.explain .muted{ opacity: .8; }
+.explain { white-space: pre-line; }
+/* Ẩn hoàn toàn khi trống/ẩn để không còn viền đỏ */
+.explain.hidden,
+.explain:empty{
+  display: none;
+  border: 0;
+  padding: 0;
+  margin-top: 0;
+}
+

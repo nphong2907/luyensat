@@ -48,9 +48,9 @@
     "answer": "engender",
     "explanations": {
       "A": "Nghĩa tiếng Việt: gây ra; tạo ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: produce, generate, foster",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “constrict”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “counterbalance”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “repudiate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -66,9 +66,9 @@
     "answer": "pervasive",
     "explanations": {
       "A": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -83,9 +83,9 @@
     ],
     "answer": "anticipate",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “disagree”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “ignore”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “require”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: dự đoán; mong đợi\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: expect, foresee, predict"
     }
   },
@@ -102,9 +102,9 @@
     "answer": "Steering",
     "explanations": {
       "A": "Nghĩa tiếng Việt: rút lui; rút về\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: retreating, pulling back, taking out",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Presenting”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Instructing”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Steering”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -119,9 +119,9 @@
     ],
     "answer": "advancement in",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “controversy in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “exposure to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “dependence on”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "D": "Nghĩa tiếng Việt: sự tiến bộ trong\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: progress in, development in, improvement in"
     }
   },
@@ -137,9 +137,9 @@
     ],
     "answer": "triggered",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “followed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “prolonged”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “counteracted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "D": "Nghĩa tiếng Việt: kích hoạt; gây ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: sparked, caused, provoked"
     }
   },
@@ -156,8 +156,8 @@
     "answer": "soothed",
     "explanations": {
       "A": "Nghĩa tiếng Việt: xoa dịu; trấn an\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: calmed, comforted, reassured",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “indifferent”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “revolted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "D": "Nghĩa tiếng Việt: được minh oan; chứng thực\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: justified, exonerated, upheld"
     }
   },
@@ -173,10 +173,10 @@
     ],
     "answer": "fusion",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “fusion”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “dismissal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “critique”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “simplification”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -191,10 +191,10 @@
     ],
     "answer": "detect",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “explain”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “state”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: phát hiện; nhận ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: discern, spot, recognize",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “reduce”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -209,9 +209,9 @@
     ],
     "answer": "displayed",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “enrolled”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "B": "Nghĩa tiếng Việt: được coi trọng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: esteemed, appreciated, prized",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “disregarded”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "D": "Nghĩa tiếng Việt: trưng bày; thể hiện\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: showed, exhibited, revealed"
     }
   },
@@ -227,10 +227,10 @@
     ],
     "answer": "distinctive to",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “irrelevant to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “prohibitive in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “distinctive to”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “unchanging in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -245,9 +245,9 @@
     ],
     "answer": "establish",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “recognize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “undermine”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “constrain”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: thiết lập; gây dựng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: found, set up, create"
     }
   },
@@ -263,10 +263,10 @@
     ],
     "answer": "chosen",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “chosen”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “ineligible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “confused”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “reluctant”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -281,10 +281,10 @@
     ],
     "answer": "uncertain",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “enduring”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “deserving”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "C": "Nghĩa tiếng Việt: không chắc chắn; mong manh\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: doubtful, tenuous, unsettled",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “conspicuous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -299,8 +299,8 @@
     ],
     "answer": "adequate",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “insufficient”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “excessive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: chính xác\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: precise, exact, correct",
       "D": "Nghĩa tiếng Việt: đủ; tương xứng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: sufficient, enough, ample"
     }
@@ -317,9 +317,9 @@
     ],
     "answer": "accumulate",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “thrive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: tăng tốc; đẩy nhanh\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: hasten, speed up, quicken",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “dissolve”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: tích luỹ; gom lại\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: collect, gather, amass"
     }
   },
@@ -336,9 +336,9 @@
     "answer": "Displayed",
     "explanations": {
       "A": "Nghĩa tiếng Việt: trưng bày; thể hiện\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: showed, exhibited, revealed",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Approved”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Questioned”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Ignored”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -354,9 +354,9 @@
     "answer": "Examined",
     "explanations": {
       "A": "Nghĩa tiếng Việt: xem xét; khảo sát\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: inspected, studied, surveyed",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Promoted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Modified”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Organized”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -371,9 +371,9 @@
     ],
     "answer": "biased",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “sensitive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: thiên vị\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: partial, prejudiced, one-sided",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “misinformed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "D": "Nghĩa tiếng Việt: không liên quan\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: immaterial, extraneous, beside the point"
     }
   },
@@ -390,9 +390,9 @@
     "answer": "interdependent",
     "explanations": {
       "A": "Nghĩa tiếng Việt: cứng rắn\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: inflexible, adamant, steadfast",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “comprehensive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: phụ thuộc lẫn nhau\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: mutually dependent, reciprocal, interrelated",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “tenuous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -407,10 +407,10 @@
     ],
     "answer": "detractors",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “precursors”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: những người chỉ trích\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: critics, opponents, disparagers",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “imitators”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “collaborators”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -427,7 +427,7 @@
     "explanations": {
       "A": "Nghĩa tiếng Việt: do dự; thay đổi ý\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: wavering, indecisive, hesitant",
       "B": "Nghĩa tiếng Việt: tầm thường; nhàm chán\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: trite, hackneyed, commonplace",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “disingenuous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: giáo điều; cứng nhắc\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: doctrinaire, rigid, opinionated"
     }
   },
@@ -443,10 +443,10 @@
     ],
     "answer": "reject",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “replace”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “disguise”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “reject”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “observe”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -461,10 +461,10 @@
     ],
     "answer": "Nonstop",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Hastily”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Carefully”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: không ngừng; liên tục\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: continuous, constant, ceaseless",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Enough”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -479,10 +479,10 @@
     ],
     "answer": "coincided with",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “compensated for”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "B": "Nghĩa tiếng Việt: trùng khớp với\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: occurred at the same time as, matched, concurred with",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “developed into”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “clashed with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -497,10 +497,10 @@
     ],
     "answer": "fluctuations in",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “calibrations with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “developments of”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "C": "Nghĩa tiếng Việt: sự biến động về\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: variations in, swings in, changes in",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “incentives for”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -515,9 +515,9 @@
     ],
     "answer": "match",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “conceal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “symbolize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “minimize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: sánh với; tương xứng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: equal, rival, compare with"
     }
   },
@@ -533,10 +533,10 @@
     ],
     "answer": "reverence",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “curiosity”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “candor”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: lòng tôn kính\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: veneration, respect, admiration",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “prudence”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -551,10 +551,10 @@
     ],
     "answer": "blended",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “confused”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “compared”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "C": "Nghĩa tiếng Việt: pha trộn; hoà trộn\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: mixed, combined, fused",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “replaced”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -569,10 +569,10 @@
     ],
     "answer": "inconsequential",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “momentous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: không quan trọng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: insignificant, trivial, minor",
       "C": "Nghĩa tiếng Việt: nhân từ; rộng lượng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: kind, altruistic, charitable",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “genuine”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -587,9 +587,9 @@
     ],
     "answer": "an exhaustive",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “an exhaustive”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: hời hợt; bề ngoài\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: shallow, surface-level, cursory",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “an imaginative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: đáng ngờ; có thể sai\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: doubtful, suspect, debatable"
     }
   },
@@ -624,8 +624,8 @@
     "answer": "achievements",
     "explanations": {
       "A": "Nghĩa tiếng Việt: thành tựu\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: accomplishments, feats, successes",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “predictions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “suspicions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: giả định\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: premises, suppositions, beliefs"
     }
   },
@@ -642,7 +642,7 @@
     "answer": "Define",
     "explanations": {
       "A": "Nghĩa tiếng Việt: rời bỏ; bỏ trống\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: leave, evacuate, abandon",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Mimic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: hình dung; mường tượng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: imagine, picture, envision",
       "D": "Nghĩa tiếng Việt: định nghĩa; làm rõ\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: clarify, explain, delineate"
     }
@@ -659,9 +659,9 @@
     ],
     "answer": "Stretching toward",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Joining with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Gaining on”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Stretching toward”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "D": "Nghĩa tiếng Việt: đi đến; đạt được\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: reaching, achieving, coming to"
     }
   },
@@ -678,8 +678,8 @@
     "answer": "requires",
     "explanations": {
       "A": "Nghĩa tiếng Việt: đòi hỏi; yêu cầu\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: demands, necessitates, needs",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “praises”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “reports”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: khuyên; tư vấn\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: recommends, counsels, urges"
     }
   },
@@ -695,8 +695,8 @@
     ],
     "answer": "soothed",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “revolted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “indifferent”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: xoa dịu; trấn an\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: calmed, comforted, reassured",
       "D": "Nghĩa tiếng Việt: được minh oan; chứng thực\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: justified, exonerated, upheld"
     }
@@ -713,10 +713,10 @@
     ],
     "answer": "fabrications",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “enhancements”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: bịa đặt; ngụy tạo\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: inventions, fakes, forgeries",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “analyses”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “revelations”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -731,9 +731,9 @@
     ],
     "answer": "disparity",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “competition”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “equivalence”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “interaction”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "D": "Nghĩa tiếng Việt: chênh lệch\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: difference, gap, imbalance"
     }
   },
@@ -749,10 +749,10 @@
     ],
     "answer": "reforms",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “investigations”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “expansions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: cải cách\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: changes, improvements, overhauls",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “possessions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -767,10 +767,10 @@
     ],
     "answer": "respond to",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “differ from”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “think of”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "C": "Nghĩa tiếng Việt: phản hồi; đáp lại\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: react to, answer, address",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “agree with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -786,8 +786,8 @@
     "answer": "competent",
     "explanations": {
       "A": "Nghĩa tiếng Việt: vụng về; khó xử\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: clumsy, ungainly, inelegant",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “imaginative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “manageable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: có năng lực\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: capable, proficient, adept"
     }
   },
@@ -805,8 +805,8 @@
     "explanations": {
       "A": "Nghĩa tiếng Việt: đồng thuận\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: agreement, concord, unanimity",
       "B": "Nghĩa tiếng Việt: cảnh giác; đề phòng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: watchfulness, alertness, guardedness",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “interest”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “deliberation”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -821,9 +821,9 @@
     ],
     "answer": "dispassionate",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “tranquil”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “peculiar”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “nostalgic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: khách quan; bình thản\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: objective, detached, impartial"
     }
   },
@@ -841,7 +841,7 @@
     "explanations": {
       "A": "Nghĩa tiếng Việt: ủy quyền; cấp phép\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: sanctioned, approved, licensed",
       "B": "Nghĩa tiếng Việt: áp dụng được; phù hợp\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: relevant, pertinent, germane",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “sarcastic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: có tầm nhìn; tiên phong\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: forward-looking, prophetic, innovative"
     }
   },
@@ -858,8 +858,8 @@
     "answer": "elasticity",
     "explanations": {
       "A": "Nghĩa tiếng Việt: độ đàn hồi\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: flexibility, resilience, pliability",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “reciprocity”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “cohesion”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "D": "Nghĩa tiếng Việt: tình cảm; yêu mến\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: fondness, love, attachment"
     }
   },
@@ -875,10 +875,10 @@
     ],
     "answer": "attrition",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “impartiality”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “replicability”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "C": "Nghĩa tiếng Việt: hao hụt; rơi rụng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: dropout, wearing away, churn",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “circumspection”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -893,9 +893,9 @@
     ],
     "answer": "varied",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “outdated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “lonely”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “forgotten”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: đa dạng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: diverse, assorted, miscellaneous"
     }
   },
@@ -911,10 +911,10 @@
     ],
     "answer": "inhibited",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “protracted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “disseminated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "C": "Nghĩa tiếng Việt: bị kìm hãm; rụt rè\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: restrained, hindered, held back",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “catalyzed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -929,9 +929,9 @@
     ],
     "answer": "identify",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “reveal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “remember”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “ignore”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: nhận diện; xác định\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: recognize, pinpoint, distinguish"
     }
   },
@@ -947,10 +947,10 @@
     ],
     "answer": "support",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “evade”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “refute”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: hỗ trợ; ủng hộ\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: back up, sustain, underpin",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “omit”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -965,9 +965,9 @@
     ],
     "answer": "engender",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “counterbalance”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “repudiate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “constrict”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: gây ra; tạo ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: produce, generate, foster"
     }
   },
@@ -984,8 +984,8 @@
     "answer": "ineffectual",
     "explanations": {
       "A": "Nghĩa tiếng Việt: không hiệu quả\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: ineffective, futile, unproductive",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “cynical”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “counterproductive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: thiên vị\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: partial, prejudiced, one-sided"
     }
   },
@@ -1001,10 +1001,10 @@
     ],
     "answer": "irrelevant",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “implicit”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “indisputable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: không liên quan\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: immaterial, extraneous, beside the point",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “indistinct”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1019,10 +1019,10 @@
     ],
     "answer": "distant from",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “drawn to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “full of”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “distant from”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “responsible for”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -1037,10 +1037,10 @@
     ],
     "answer": "revise",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “revise”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “interpret”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “recollect”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “introduce”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1055,10 +1055,10 @@
     ],
     "answer": "transformed",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “obstructed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “transformed”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “bypassed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “overwhelmed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1074,9 +1074,9 @@
     "answer": "pervasive",
     "explanations": {
       "A": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1091,10 +1091,10 @@
     ],
     "answer": "subordinate to",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “subordinate to”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “duplicated in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “extracted by”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “intrinsic to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -1109,9 +1109,9 @@
     ],
     "answer": "prohibitive",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “distinctive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “misconstrued”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “prohibitive”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: có lợi; có ích\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: helpful, advantageous, favorable"
     }
   },
@@ -1127,10 +1127,10 @@
     ],
     "answer": "unassuming",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “incongruous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “shrewd”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “pretentious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “unassuming”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1145,10 +1145,10 @@
     ],
     "answer": "buttress",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “mitigate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “constrict”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “repudiate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “buttress”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1164,8 +1164,8 @@
     "answer": "Possible",
     "explanations": {
       "A": "Nghĩa tiếng Việt: hiển thị; nhìn thấy được\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: noticeable, apparent, evident",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Stable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Possible”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: cơ bản\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: fundamental, elementary, rudimentary"
     }
   },
@@ -1181,10 +1181,10 @@
     ],
     "answer": "accidental",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “intriguing”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “obvious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “accidental”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “observable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1199,10 +1199,10 @@
     ],
     "answer": "advocating",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “exploiting”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
       "B": "Nghĩa tiếng Việt: ủng hộ công khai\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: supporting, championing, promoting",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “impeding”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “defining”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1217,10 +1217,10 @@
     ],
     "answer": "interpretations",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “interpretations”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “performances”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “revisions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “influences”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1235,10 +1235,10 @@
     ],
     "answer": "homogeneous",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “uncontroversial”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “individualistic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “theoretical”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “homogeneous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1253,10 +1253,10 @@
     ],
     "answer": "discern",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “yield”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “exploit”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “prioritize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “discern”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1271,10 +1271,10 @@
     ],
     "answer": "rejected",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “extended”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “imitated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “rejected”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “epitomized”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1289,10 +1289,10 @@
     ],
     "answer": "ambiguity",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “inconspicuousness”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “probability”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “ambiguity”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “discretion”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -1307,10 +1307,10 @@
     ],
     "answer": "irrefutable",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “provocative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “irrefutable”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “pretentious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “incongruous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1325,10 +1325,10 @@
     ],
     "answer": "superfluous",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “unattainable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “equitable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “superfluous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “commonplace”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1343,8 +1343,8 @@
     ],
     "answer": "sway",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “ignore”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “sway”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: nhận diện; xác định\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: recognize, pinpoint, distinguish",
       "D": "Nghĩa tiếng Việt: hỗ trợ; ủng hộ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: back up, sustain, underpin"
     }
@@ -1361,10 +1361,10 @@
     ],
     "answer": "breadth of",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “breadth of”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “controversy over”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
       "C": "Nghĩa tiếng Việt: sự thờ ơ với\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: indifference to, lack of interest in, dispassion toward",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “confusion about”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
     }
   },
   {
@@ -1379,10 +1379,10 @@
     ],
     "answer": "pervasive",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
       "C": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1397,10 +1397,10 @@
     ],
     "answer": "Regard",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Forget”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Conceal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Possess”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Regard”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1415,10 +1415,10 @@
     ],
     "answer": "skeptically",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “skeptically”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “reverentially”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “indulgently”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “individually”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1433,10 +1433,10 @@
     ],
     "answer": "mitigate",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “mitigate”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “presuppose”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: xác thực; kiểm chứng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: verify, confirm, authenticate",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “categorize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1469,10 +1469,10 @@
     ],
     "answer": "irrefutable",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “incongruous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “irrefutable”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “pretentious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “provocative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1487,10 +1487,10 @@
     ],
     "answer": "hesitant",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “fortunate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “hesitant”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “determined”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “surprised”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1505,10 +1505,10 @@
     ],
     "answer": "revealed",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “encouraged”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “expanded”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “petitioned”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “revealed”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1523,10 +1523,10 @@
     ],
     "answer": "distinct",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “distinct”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “unintended”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “unknown”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “required”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1541,10 +1541,10 @@
     ],
     "answer": "unflattering",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “unflattering”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “implausible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “imprecise”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “superficial”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1559,10 +1559,10 @@
     ],
     "answer": "amorphous",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “amorphous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “neutral”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “customary”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “dispersed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1577,10 +1577,10 @@
     ],
     "answer": "Evident",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Anticipated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Particular”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Complex”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Evident”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1595,9 +1595,9 @@
     ],
     "answer": "an inducement",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “an appeasement”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "B": "Nghĩa tiếng Việt: xu hướng; khuynh hướng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: tendency, inclination, predisposition",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “an inducement”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "D": "Nghĩa tiếng Việt: mẫu hình; hệ mẫu\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: model, pattern, archetype"
     }
   },
@@ -1613,10 +1613,10 @@
     ],
     "answer": "imperfect",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “objective”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “invaluable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “imperfect”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “clichéd”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1631,10 +1631,10 @@
     ],
     "answer": "Particular",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Imaginary”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Correct”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Particular”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Energetic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1649,10 +1649,10 @@
     ],
     "answer": "Held up",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “Improved on”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Defended”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Held up”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Cherished”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1667,10 +1667,10 @@
     ],
     "answer": "suppress",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “critique”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “replicate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “import”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “suppress”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1685,10 +1685,10 @@
     ],
     "answer": "heterogeneous",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “heterogeneous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “imperative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “decisive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1703,10 +1703,10 @@
     ],
     "answer": "praised",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “praised”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “rejected”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “created”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “ignored”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1721,10 +1721,10 @@
     ],
     "answer": "consistent",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “accidental”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “expensive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “confident”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “consistent”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1739,10 +1739,10 @@
     ],
     "answer": "inexpensive",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “impractical”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “infrequent”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
       "C": "Nghĩa tiếng Việt: không thể nhầm lẫn\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: distinct, clear, evident",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “inexpensive”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -1757,10 +1757,10 @@
     ],
     "answer": "detected",
     "explanations": {
-      "A": "Nghĩa tiếng Việt: tạm dịch: “neglected”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “approved”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “mistook”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “detected”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+      "A": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
     }
   },
   {
@@ -1776,9 +1776,9 @@
     "answer": "Writes",
     "explanations": {
       "A": "Nghĩa tiếng Việt: viết; ghi lại\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: composes, records, notes",
-      "B": "Nghĩa tiếng Việt: tạm dịch: “Passes”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "C": "Nghĩa tiếng Việt: tạm dịch: “Transforms”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
-      "D": "Nghĩa tiếng Việt: tạm dịch: “Allows”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+      "B": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Từ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
     }
   },
   {
@@ -2045,10 +2045,10 @@
     ],
     "answer": "extraneous to",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “insular in” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “diffuse in” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “pernicious to” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “extraneous to” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -."
+      "A": "Nghĩa: 'insular' = khép kín, cục bộ; 'insular in' ~ 'đóng kín trong'. Không phù hợp: cấu trúc và nghĩa không tự nhiên ở mệnh đề 'capitalism as largely ____ Africa' (hàm ý 'cục bộ trong' châu Phi, sai với ý 'bên ngoài'). Từ đồng nghĩa: parochial, narrow, isolated.",
+      "B": "Nghĩa: 'diffuse in' = lan tỏa/phan tán trong. Không phù hợp: nếu 'diffuse in Africa' thì trái với ý chê rằng các sử gia xem chủ nghĩa tư bản là điều bên ngoài châu Phi. Từ đồng nghĩa: dispersed, spread, scattered.",
+      "C": "Nghĩa: 'pernicious to' = có hại đối với. Không phù hợp: câu không bàn về tác hại mà về việc cái gì 'thuộc/bên ngoài' châu Phi. Từ đồng nghĩa: harmful, deleterious, damaging.",
+      "D": "Nghĩa: 'extraneous to' = không thuộc về, nằm ngoài. Phù hợp: các sử gia xem chủ nghĩa tư bản về cơ bản là 'bên ngoài' châu Phi trước thời thuộc địa; mệnh đề sau bác bỏ quan điểm này. Từ đồng nghĩa: external to, foreign to, not intrinsic to."
     }
   },
   {
@@ -2387,10 +2387,10 @@
     ],
     "answer": "intangible",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “regrettable” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “explicable” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “intangible” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “repeatable” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: regrettable = đáng tiếc. Không phù hợp: câu nói về tính chất 'không sờ được' (tangible/intangible) của các đám mây bụi khí, không phải đánh giá cảm xúc. Từ đồng nghĩa: unfortunate, lamentable.",
+      "B": "Nghĩa: explicable = có thể giải thích được. Không phù hợp: đối lập mong muốn ở đây là 'không thể sờ' ↔ 'tạo mô hình chạm/ tương tác'. Từ đồng nghĩa: understandable, accountable.",
+      "C": "Nghĩa: intangible = vô hình/không thể chạm. Phù hợp: các tinh vân bụi khí 'không thể chạm', nhưng nhờ in 3D có thể làm mô hình tương tác. Từ đồng nghĩa: impalpable, immaterial, untouchable.",
+      "D": "Nghĩa: repeatable = có thể lặp lại. Không phù hợp: không tương phản logic với 'không thể chạm'. Từ đồng nghĩa: reproducible, iterative."
     }
   },
   {
@@ -2405,10 +2405,10 @@
     ],
     "answer": "isolation from",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “isolation from” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “deference to” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “collaboration with” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “competition with” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: isolation from = tách biệt/không liên hệ với. Phù hợp: mệnh đề phủ định 'do not often conduct their work in ___ the scientific community' → họ không thường làm việc 'trong tình trạng tách biệt'; câu sau khẳng định thành công đến từ hợp tác. Từ đồng nghĩa: separation from, apart from.",
+      "B": "Nghĩa: deference to = kính nể/nhường nhịn. Không phù hợp: không phản ánh quan hệ làm việc. Từ đồng nghĩa: respect for, submission to.",
+      "C": "Nghĩa: collaboration with = hợp tác với. Không phù hợp: đi sau phủ định 'do not often', sẽ mâu thuẫn với câu sau nói rằng thành công đến từ hợp tác. Từ đồng nghĩa: cooperation with, teamwork with.",
+      "D": "Nghĩa: competition with = cạnh tranh với. Không phù hợp: câu nhấn mạnh 'cooperation', không phải 'competition'. Từ đồng nghĩa: rivalry with, contest with."
     }
   },
   {
@@ -2423,10 +2423,10 @@
     ],
     "answer": "discount",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “denounce” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “discount” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: phóng đại/làm nổi bật. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: amplify, exalt.",
-      "D": "Nghĩa: nghĩa của “scrutinize” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: denounce = lên án/kết tội công khai. Không phù hợp: ngữ cảnh nói về việc tác giả 'coi nhẹ/không tính đến' một điểm, không phải 'lên án'. Từ đồng nghĩa: condemn, censure.",
+      "B": "Nghĩa: discount = coi nhẹ/không tính đến. Phù hợp: diễn tả việc bỏ qua tầm quan trọng hoặc giá trị, đúng với lập luận trong câu. Từ đồng nghĩa: dismiss, downplay, disregard.",
+      "C": "Nghĩa: magnify = phóng đại/làm nổi bật. Không phù hợp: trái nghĩa với ý 'coi nhẹ'. Từ đồng nghĩa: amplify, exaggerate.",
+      "D": "Nghĩa: scrutinize = xem xét kỹ lưỡng. Không phù hợp: không mang nghĩa 'coi nhẹ/loại bỏ'. Từ đồng nghĩa: examine, inspect."
     }
   },
   {
@@ -2441,10 +2441,10 @@
     ],
     "answer": "rejected",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “epitomized” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “imitated” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “rejected” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “extended” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: epitomized = tiêu biểu/điển hình hóa cho. Không phù hợp: câu cho thấy tác phẩm bị công chúng bác bỏ. Từ đồng nghĩa: typified, exemplified.",
+      "B": "Nghĩa: imitated = bắt chước/mô phỏng. Không phù hợp: trái với phản ứng tiêu cực được mô tả. Từ đồng nghĩa: copied, emulated.",
+      "C": "Nghĩa: rejected = bị từ chối/bác bỏ. Phù hợp: khớp mô tả công chúng đương thời đã quay lưng với bức tranh. Từ đồng nghĩa: refused, spurned, rebuffed.",
+      "D": "Nghĩa: extended = kéo dài/mở rộng. Không phù hợp: không liên quan đến phản ứng công chúng. Từ đồng nghĩa: prolonged, expanded."
     }
   },
   {
@@ -2452,17 +2452,17 @@
     "context": "New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are _____, the effect on blood chemistry of living in locations below sea level, such as the California towns of Bombay Beach and Holtville, has received comparatively little notice.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
-      "Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are _____, the effect on blood chemistry of living in locations below sea level, such as the California towns of Bombay Beach and Holtville, has received comparatively little notice. Which choice completes the text with the most logical and precise word or phrase? A. sporadic",
+      "sporadic",
       "copious",
       "equivocal",
       "preliminary"
     ],
     "answer": "copious",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are _____, the effect on blood chemistry of living in locations below sea level, such as the California towns of Bombay Beach and Holtville, has received comparatively little notice. Which choice completes the text with the most logical and precise word or phrase? A. sporadic” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “copious” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “equivocal” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “preliminary” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: sporadic = lác đác/rải rác. Không phù hợp: câu đối lập 'trên cao có rất nhiều nghiên cứu' với 'dưới mực nước biển ít được chú ý'; vì vậy cần 'nhiều/đầy' chứ không phải 'thưa thớt'. Từ đồng nghĩa: infrequent, occasional, scattered.",
+      "B": "Nghĩa: copious = dồi dào, rất nhiều. Phù hợp: nhấn mạnh rằng nghiên cứu về 'độ cao' là rất nhiều, đối lập với việc 'dưới mực nước biển' ít được quan tâm. Từ đồng nghĩa: abundant, plentiful, voluminous.",
+      "C": "Nghĩa: equivocal = mơ hồ/không rõ ràng. Không phù hợp: bàn về số lượng chứ không phải độ rõ ràng. Từ đồng nghĩa: ambiguous, unclear.",
+      "D": "Nghĩa: preliminary = sơ bộ/đầu tiên. Không phù hợp: không nói về giai đoạn nghiên cứu mà nói về mức độ nhiều/ít. Từ đồng nghĩa: initial, introductory."
     }
   },
   {
@@ -2477,10 +2477,10 @@
     ],
     "answer": "outsized",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “overlooked” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “erratic” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “outsized” (tham chiếu tiếng Anh). Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “unspecified” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: overlooked = bị bỏ qua/không được chú ý. Không phù hợp: ngữ cảnh so sánh kích thước/quy mô ảnh hưởng. Từ đồng nghĩa: ignored, neglected.",
+      "B": "Nghĩa: erratic = thất thường/không ổn định. Không phù hợp: không nói về sự thất thường. Từ đồng nghĩa: unpredictable, inconsistent.",
+      "C": "Nghĩa: outsized = vượt cỡ/rất lớn (quá khổ). Phù hợp: mô tả ảnh hưởng 'lớn một cách bất thường' so với mong đợi. Từ đồng nghĩa: enormous, disproportionate, huge.",
+      "D": "Nghĩa: unspecified = không được nêu rõ. Không phù hợp: không liên quan đến cỡ/ảnh hưởng. Từ đồng nghĩa: undefined, indeterminate."
     }
   },
   {
@@ -2495,10 +2495,10 @@
     ],
     "answer": "Providing resistance to",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “Arguing about” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “disputing” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “Disapproving of” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “disputing” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “Asserting possession of” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “disputing” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: tạo lực cản đối với. Phù hợp: trong ngữ cảnh, “disputing” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: opposing, countering."
+      "A": "Nghĩa: Arguing about = tranh luận về. Không phù hợp: cụm cần diễn tả 'đưa ra sự kháng cự' trước một đề xuất/áp lực. Từ đồng nghĩa: debating, disputing.",
+      "B": "Nghĩa: Disapproving of = không tán thành. Không phù hợp: bày tỏ thái độ chê là chưa đủ mạnh. Từ đồng nghĩa: objecting to, disliking.",
+      "C": "Nghĩa: Asserting possession of = khẳng định quyền sở hữu. Không phù hợp: sai trường nghĩa. Từ đồng nghĩa: claiming ownership of.",
+      "D": "Nghĩa: Providing resistance to = đưa ra/đề kháng lại. Phù hợp: chính xác mô tả hành vi 'chống lại' điều gì đó. Từ đồng nghĩa: resisting, opposing."
     }
   },
   {
@@ -2513,10 +2513,10 @@
     ],
     "answer": "replaced",
     "explanations": {
-      "A": "Nghĩa: thay thế. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: substituted, swapped.",
-      "B": "Nghĩa: nghĩa của “prevented” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: nghĩa của “invented” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “rated” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: replaced = thay thế. Phù hợp: kết quả/đánh giá cũ đã bị 'thay thế' bởi hiểu biết mới. Từ đồng nghĩa: substituted, superseded.",
+      "B": "Nghĩa: prevented = ngăn chặn. Không phù hợp: không nói về ngăn ngừa. Từ đồng nghĩa: hindered, stopped.",
+      "C": "Nghĩa: invented = phát minh ra/bịa ra. Không phù hợp: không liên quan. Từ đồng nghĩa: created, fabricated.",
+      "D": "Nghĩa: rated = đánh giá/xếp hạng. Không phù hợp: trái ngữ cảnh thay thế. Từ đồng nghĩa: evaluated, assessed."
     }
   },
   {
@@ -2531,10 +2531,10 @@
     ],
     "answer": "Remember",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “Deny” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “recall” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: ghi nhớ/nhớ. Phù hợp: trong ngữ cảnh, “recall” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: recall, memorize.",
-      "C": "Nghĩa: bắt đầu. Không phù hợp: không phải nghĩa của “recall” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: begin, commence.",
-      "D": "Nghĩa: bỏ qua/không để ý. Không phù hợp: không phải nghĩa của “recall” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: ignore, miss."
+      "A": "Nghĩa: Deny = phủ nhận. Không phù hợp: câu cần động từ nói về 'ghi nhớ' những gì đã học/quan sát. Từ đồng nghĩa: refute, reject.",
+      "B": "Nghĩa: Remember = ghi nhớ/nhớ lại. Phù hợp: ăn khớp với mạch văn mô tả việc người học phải 'ghi nhớ' hoặc 'nhớ kỹ'. Từ đồng nghĩa: recall, retain.",
+      "C": "Nghĩa: Start = bắt đầu. Không phù hợp: không nêu hành động 'bắt đầu'. Từ đồng nghĩa: commence, initiate.",
+      "D": "Nghĩa: Overlook = bỏ qua/không chú ý. Không phù hợp: trái nghĩa. Từ đồng nghĩa: ignore, miss."
     }
   },
   {
@@ -2549,10 +2549,10 @@
     ],
     "answer": "adept at",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “modest about” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: thành thạo về. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: skilled at, proficient in.",
-      "C": "Nghĩa: nghĩa của “lighthearted about” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "D": "Nghĩa: nghĩa của “dispassionate in” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: modest about = khiêm tốn về. Không phù hợp: không gắn với khả năng/kỹ năng. Từ đồng nghĩa: humble about, unassuming about.",
+      "B": "Nghĩa: adept at = thành thạo/giỏi về. Phù hợp: mô tả mức độ kỹ năng đối với một hoạt động. Từ đồng nghĩa: skilled at, proficient in, adroit at.",
+      "C": "Nghĩa: lighthearted about = thoải mái/bâng quơ về. Không phù hợp: nói về thái độ chứ không phải kỹ năng. Từ đồng nghĩa: carefree about, casual about.",
+      "D": "Nghĩa: dispassionate in = khách quan/lạnh lùng trong. Không phù hợp: nói về thái độ đánh giá, không phải năng lực. Từ đồng nghĩa: impartial in, unemotional in."
     }
   },
   {
@@ -2567,10 +2567,10 @@
     ],
     "answer": "Estimated",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “Contracted” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “placed” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: nghĩa của “Changed” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “placed” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -.",
-      "C": "Nghĩa: ước tính. Phù hợp: trong ngữ cảnh, “placed” mang nghĩa tương đương lựa chọn này (khớp mạch văn). Từ đồng nghĩa: calculated, gauged.",
-      "D": "Nghĩa: nghĩa của “Arranged” (tham chiếu tiếng Anh). Không phù hợp: không phải nghĩa của “placed” trong ngữ cảnh, lệch mạch văn. Từ đồng nghĩa: -."
+      "A": "Nghĩa: Contracted = co lại/thu hẹp; (y khoa) mắc bệnh; (pháp lý) ký kết. Không phù hợp: 'placed' trong ngữ cảnh tuổi tác ~ 'ước lượng/ước tính'. Từ đồng nghĩa: shrank, drew together.",
+      "B": "Nghĩa: Changed = thay đổi. Không phù hợp: không cùng trường nghĩa. Từ đồng nghĩa: altered, modified.",
+      "C": "Nghĩa: Estimated = ước tính. Phù hợp: 'a safe guess would have placed him...' nghĩa là 'ước một cách an toàn là ông ấy khoảng...'. Từ đồng nghĩa: gauged, approximated, assessed.",
+      "D": "Nghĩa: Arranged = sắp xếp/bố trí. Không phù hợp: không hợp nghĩa ở đây. Từ đồng nghĩa: organized, arrayed."
     }
   },
   {
@@ -2585,10 +2585,10 @@
     ],
     "answer": "corroborate",
     "explanations": {
-      "A": "Nghĩa: nghĩa của “circumvent” (tham chiếu tiếng Anh). Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: -.",
-      "B": "Nghĩa: chứng thực/xác nhận. Phù hợp: khớp nghĩa và cấu trúc, giúp câu hoàn chỉnh và logic. Từ đồng nghĩa: confirm, validate.",
-      "C": "Nghĩa: phổ biến/lan truyền. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: spread, circulate.",
-      "D": "Nghĩa: triển khai/thực thi. Không phù hợp: không khớp ngữ nghĩa/cấu trúc với mạch văn. Từ đồng nghĩa: execute, enforce."
+      "A": "Nghĩa: circumvent = né tránh/lách (một quy tắc/khó khăn). Không phù hợp: không mang nghĩa 'xác nhận' kết luận; mặt khác mâu thuẫn với ngữ cảnh thử nghiệm. Từ đồng nghĩa: evade, sidestep, bypass.",
+      "B": "Nghĩa: corroborate = chứng thực/xác nhận. Phù hợp: đôi khi các thử nghiệm ngẫu nhiên không 'chứng thực' các kết luận thực địa—đây là động từ chính xác. Từ đồng nghĩa: confirm, validate, substantiate.",
+      "C": "Nghĩa: disseminate = phân tán/lan truyền (thông tin). Không phù hợp: không phải là hành vi kiểm chứng. Từ đồng nghĩa: spread, circulate.",
+      "D": "Nghĩa: implement = triển khai/thực thi. Không phù hợp: không phải là hành động kiểm chứng kết luận. Từ đồng nghĩa: execute, carry out."
     }
   },
   {

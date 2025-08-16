@@ -20,9 +20,10 @@
         <span id="userChip" class="userchip" title="Người dùng hiện tại">👤 Khách</span>
         <button id="switchUserBtn" class="btn ghost small" title="Đổi người dùng">Đổi</button>
 
+        <span id="scoreChip" class="userchip" title="Điểm của bạn">⭐ 0</span>
         <button id="homeBtn" class="btn ghost small">Trang chủ</button>
         <!-- Nút Tìm thay Import -->
-        <button id="toggleSearchBtn" class="btn ghost small">🔎 Tìm</button>
+        <button id="toggleSearchBtn" class="btn ghost small">🔎</button>
         <button id="restartBtn" class="btn primary small" disabled>Bắt đầu/Làm lại</button>
       </div>
     </header>
@@ -31,8 +32,8 @@
     <section id="categoryScreen" class="card">
       <div class="card-body">
         <div class="row-between">
-          <h2>Chọn danh mục</h2>
-          <!-- có thể để trống bên phải -->
+          <h2>DANH MỤC</h2>
+          <button id="randomTestBtn" class="btn primary small">Random Test</button>
         </div>
 
         <!-- KHỐI TÌM KIẾM: ẩn mặc định, bấm "Tìm" để hiện -->
@@ -69,21 +70,22 @@
 <div id="explainBox" class="explain hidden" aria-live="polite"></div>
         <div id="feedback" class="feedback"></div>
 
-        <div class="navrow">
-          <button id="exitBtn" class="btn ghost">⇤ Thoát</button>
-          <div class="spacer"></div>
-          <button id="prevBtn" class="btn nav" disabled>← Coi lại</button>
-          <button id="nextBtn" class="btn nav">Tiếp →</button>
+        <div class="nav">
+          <button id="prevBtn" class="btn nav">← Trước</button>
+          <div class="progress">
+            <div id="pFill" class="p-fill"></div>
+            <div id="pText" class="p-text">0%</div>
+          </div>
+          <button id="nextBtn" class="btn nav">Sau →</button>
         </div>
-      </div>
 
-      <div class="progress-wrap">
-        <div class="progress-bar"><div id="pFill" class="progress-fill"></div></div>
-        <div id="pText" class="progress-text">0/0</div>
+        <div class="actions">
+          <button id="exitBtn" class="btn ghost">Làm phần khác</button>
+        </div>
       </div>
     </section>
 
-    <!-- Màn kết quả -->
+    <!-- Màn kết quả danh mục (giữ nguyên cho non-random) -->
     <section id="resultCard" class="card hidden">
       <div class="card-body">
         <h2>Kết quả</h2>
@@ -116,8 +118,9 @@
     <div id="userModal" class="modal hidden modal-compact" role="dialog" aria-modal="true" aria-labelledby="userTitle">
       <button id="userClose" class="modal-close" aria-label="Đóng">×</button>
       <h3 id="userTitle">Đổi người dùng</h3>
-      <label for="userInput" class="modal-label">Nhập tên người dùng:</label>
-      <input id="userInput" class="modal-input" type="text" placeholder="Ví dụ: Na, Huy..." />
+      <label for="userInput" class="modal-label">Tên bạn là gì?</label>
+      <input id="userInput" class="modal-input" type="text" placeholder="Nhập tên" />
+      <p id="userError" class="modal-error hidden">Tên phải có ít nhất 2 ký tự.</p>
       <div class="modal-buttons row">
         <button id="userSave" class="btn primary">Lưu</button>
         <button id="userCancel" class="btn ghost">Hủy</button>
@@ -125,7 +128,7 @@
     </div>
   </div>
 
-  <!-- Modal mật mã truy cập -->
+  <!-- GATE: password -->
   <div id="gateOverlay" class="modal-overlay hidden">
     <div id="gateModal" class="modal hidden modal-compact" role="dialog" aria-modal="true" aria-labelledby="gateTitle">
       <button id="gateClose" class="modal-close" aria-label="Đóng">×</button>
@@ -139,6 +142,17 @@
       </div>
     </div>
   </div>
+
+  <!-- Modal kết quả cho Random Test -->
+  <div id="randomOverlay" class="modal-overlay hidden">
+    <div id="randomModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="randomTitle">
+      <button id="randomClose" class="modal-close" aria-label="Đóng">×</button>
+      <h3 id="randomTitle">Kết quả Random Test</h3>
+      <p id="randomMessage" class="muted"></p>
+      <div id="randomActions" class="modal-buttons"></div>
+    </div>
+  </div>
+
 
   <script src="app.js"></script>
 </body>

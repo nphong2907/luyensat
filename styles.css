@@ -787,3 +787,34 @@ body{
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
 }
+/* Nút đáp án to hơn một chút */
+.answer{
+  padding: 18px 20px !important;   /* trước ~14px 16px */
+  border-radius: 16px !important;  /* bo tròn nhỉnh hơn */
+  gap: 14px !important;
+}
+
+/* Pill A/B/C/D to hơn */
+.pill{
+  width: 34px !important;
+  height: 34px !important;
+  border-radius: 10px !important;
+  font-size: 14px !important;
+  font-weight: 800;
+}
+
+/* Preview xanh dương (đã có), giữ nguyên pill mặc định */
+.answer.blue .pill{
+  background: rgba(148,163,184,.2) !important;
+  color: var(--text) !important;
+}
+.pill{
+  height: 34px;           /* giữ chiều cao */
+  min-width: 34px;        /* tối thiểu như cũ */
+  width: auto;            /* bỏ width cố định */
+  padding: 0 12px;        /* ↑ tăng padding ngang để dài ra */
+  border-radius: 9999px;  /* bo tròn kiểu capsule */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

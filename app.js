@@ -589,16 +589,30 @@
       btn.setAttribute('aria-label', `Đáp án ${letterFromIndex(i)}`);
       btn.innerHTML=`<span class="pill">${letterFromIndex(i)}</span> <span>${escapeHTML(String(opt))}</span>`;
       btn.addEventListener('click', ()=>{
-          const correctIndex=(typeof q.correct==='number')?clamp(q.correct,0,3):normalizeCorrect(q.correct,q.options||[]);
-          if (reviewMode) {
-            answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
-            if (i !== correctIndex) btn.classList.add('blue');
-            renderExplanation(q, i, correctIndex, 'review');
-            return;
-          }
-          if(!answered.has(idx)){ handleAnswer(i, btn); return; }
-          renderExplanation(q, i, correctIndex, 'preview');
-        });
+  const correctIndex = (typeof q.correct==='number')
+    ? clamp(q.correct,0,3)
+    : normalizeCorrect(q.correct, q.options||[]);
+
+  if (reviewMode) {
+    // Xem đáp án trong REVIEW
+    answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
+    if (i !== correctIndex) btn.classList.add('blue'); else btn.classList.remove('blue');
+    renderExplanation(q, i, correctIndex, 'review');
+    return;
+  }
+
+  if (!answered.has(idx)) {
+    // Lần chọn đầu: chấm điểm + xóa mọi highlight preview cũ (nếu có)
+    answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
+    handleAnswer(i, btn);
+    return;
+  }
+
+  // ĐÃ trả lời rồi: cho phép xem vì sao sai/đúng ngay ở màn hiện tại (không vào review)
+  answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
+  if (i !== correctIndex) btn.classList.add('blue'); else btn.classList.remove('blue');
+  renderExplanation(q, i, correctIndex, 'preview');
+});
       answersWrap.appendChild(btn);
     });
 

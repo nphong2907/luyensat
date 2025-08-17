@@ -180,7 +180,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 9",
     "context": "Text 1: \nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ. \n\nText 2:\n In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU. Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.",
-    "prompt": "’s research, as presented in Text 1?",
+    "prompt": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?",
     "options": [
       "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
       "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet’s surface is unlikely to harbor liquid water",

@@ -122,37 +122,52 @@
   function escapeHTML(str){
     return String((str==null?'':String(str))).replace(/[&<>"']/g, s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'" :'&#39;'}[s]));
   }
+  // Render with underline: converts [ ... ] or __...__ to <u>...</u>
+  function renderWithUnderline(raw=''){
+    const s = String(raw);
+    let out = '', last = 0;
+    const re = /\[([^\[\]]+)\]|__([^_]+)__/g;
+    s.replace(re, (m,br,us,idx)=>{
+      out += escapeHTML(s.slice(last, idx));
+      out += `<u class="uline">${escapeHTML(br || us || '')}</u>`;
+      last = idx + m.length;
+      return m;
+    });
+    out += escapeHTML(s.slice(last));
+    return out.replace(/\n/g,'<br>');
+  }
+
 
   // ===== Explain helpers =====
+  
   function parseExp(text){
-  let t = String(text || '').trim();
+    let t = String(text || '').trim();
 
-  // --- TỪ ĐỒNG NGHĨA: cắt đến trước NHÃN KẾ TIẾP (kể cả cùng dòng)
-  let syn = '';
-  t = t.replace(
-    /(^|\n)\s*Từ\s+đồng\s+nghĩa[^:]*:\s*([\s\S]*?)(?=\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
-    (_m,_p1,p2)=>{ syn = (p2 || '').trim(); return '\n'; }
-  );
-  // nếu vẫn còn nhãn dính ở cuối, cắt bỏ phòng hờ
-  syn = syn.replace(/\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:\s*[\s\S]*$/i,'').trim();
+    // Synonyms (multi-line, stop before next label)
+    let syn = '';
+    t = t.replace(
+      /(^|\n)\s*Từ\s+đồng\s+nghĩa[^:]*:\s*([\s\S]*?)(?=\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
+      (_m,_p1,p2)=>{ syn = (p2 || '').trim(); return '\n'; }
+    );
+    syn = syn.replace(/\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:\s*[\s\S]*$/i,'').trim();
 
-  // --- NGHĨA TIẾNG VIỆT: nhiều dòng, dừng trước nhãn kế tiếp
-  let vi = '';
-  t = t.replace(
-    /(^|\n)\s*Nghĩa(?:\s*Tiếng?\s*Việt)?\s*:\s*([\s\S]*?)(?=\s*(?:Từ\s+đồng\s+nghĩa|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
-    (_m,_p1,p2)=>{ vi = (p2 || '').trim(); return '\n'; }
-  );
+    // Vietnamese meaning (multi-line)
+    let vi = '';
+    t = t.replace(
+      /(^|\n)\s*Nghĩa(?:\s*Tiếng?\s*Việt)?\s*:\s*([\s\S]*?)(?=\s*(?:Từ\s+đồng\s+nghĩa|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
+      (_m,_p1,p2)=>{ vi = (p2 || '').trim(); return '\n'; }
+    );
 
-  // --- LÝ DO/ VÌ SAO: gom cả “Từ này phù hợp vì”, “Vì sao đúng”, nhiều dòng
-  let why = '';
-  t = t.replace(
-    /(^|\n)\s*(Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:\s*([\s\S]*?)(?=\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Từ\s+đồng\s+nghĩa|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
-    (_m,_p1,_lbl,content)=>{ why = (content || '').trim(); return '\n'; }
-  );
+    // Why (multi-line, supports many labels)
+    let why = '';
+    t = t.replace(
+      /(^|\n)\s*(Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:\s*([\s\S]*?)(?=\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Từ\s+đồng\s+nghĩa|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
+      (_m,_p1,_lbl,content)=>{ why = (content || '').trim(); return '\n'; }
+    );
 
-  const extra = t.trim();
-  return { vi, why, syn, extra };
-}
+    const extra = t.trim();
+    return { vi, why, syn, extra };
+  }
 
 
   // ===== PROGRESS BAR =====
@@ -193,30 +208,13 @@
     const i=options.findIndex(opt=>String(opt).trim().toLowerCase()===s.toLowerCase());
     return i>=0?i:0;
   }
-function stripAnswerLeak(s){
-  if(!s) return '';
-  let out = String(s);
-  // cắt cụm "Correct answer: X" hoặc "Đáp án đúng: X" ở cuối
-  out = out.replace(/[\s\-–—]*\(?(?:Correct\s*answer|Đáp án\s*đúng)\s*:\s*[A-D]\)?\.?\s*$/i, '');
-  // nếu có "____" và cuối chuỗi là chữ A-D rời → cắt nốt
-  if (out.includes('____')) {
-    out = out.replace(/\s*\(?[A-D]\)?\s*$/,'');
-  }
-  return out.trim();
-}
 
   // >>> Giữ thêm các trường mới từ JSON <<<
   function normalizeRow(obj){
-  if(!obj) return null;
-  const q  = String(obj.question || obj.Question || '').trim();
-
-  const rawContext = obj.context ?? obj.Context ?? '';
-  const rawPrompt  = obj.prompt  ?? obj.Prompt  ?? 'Which choice ...tes the text with the most logical and precise word or phrase?';
-  const context = stripAnswerLeak(rawContext);
-  const prompt  = stripAnswerLeak(rawPrompt);
-
-  // ... giữ nguyên phần còn lại
-
+    if(!obj) return null;
+    const q  = String(obj.question || obj.Question || '').trim();
+    const context = obj.context ?? obj.Context ?? '';
+    const prompt  = obj.prompt  ?? obj.Prompt  ?? 'Which choice completes the text with the most logical and precise word or phrase?';
 
     const A = obj.A ?? obj.a ?? obj.options?.[0];
     const B = obj.B ?? obj.b ?? obj.options?.[1];
@@ -271,22 +269,10 @@ function stripAnswerLeak(s){
     explainBox.classList.add('hidden');
     explainBox.innerHTML = '';
 
-    // chuyển chuỗi thành HTML với ngắt dòng theo câu
-const toSentenceHtml = (s) => {
-  const raw = (s && String(s).trim()) || '';
-  if (!raw) return '';
-  // ngắt dòng sau . ? ! … ; (khi sau đó là chữ cái/ngoặc tròn/ngoặc kép)
-  const withBreaks = raw
-    .replace(/([.!?…])\s+(?=[A-ZÀ-ỴÂÊÔĂƠƯĐ“"(\[])/g, '$1\n')
-    .replace(/;\s+(?=\S)/g, ';\n'); // tuỳ chọn: ngắt cả sau dấu chấm phẩy
-  return escapeHTML(withBreaks).replace(/\n/g, '<br>');
-};
-
-const li = (label, val, fallback='') => {
-  const text = (val && String(val).trim()) || fallback;
-  return text ? `<li><b>${escapeHTML(label)}</b> ${toSentenceHtml(text)}</li>` : '';
-};
-
+    const li = (label, val, fallback='') => {
+      const text = (val && String(val).trim()) || fallback;
+      return text ? `<li><b>${escapeHTML(label)}</b> ${escapeHTML(text).replace(/\n/g,'<br>')}</li>` : '';
+    };
 
     const right  = parseExp(getExplanation(q, correctIndex));
     const chosen = chosenIndex != null ? parseExp(getExplanation(q, chosenIndex)) : null;
@@ -321,7 +307,7 @@ const li = (label, val, fallback='') => {
       const html = `
         <div class="ex-title">Chưa đúng.</div>
         <ul class="ex-list">
-        ${li('Nghĩa Tiếng Việt:', chosen?.vi)} 
+          ${li('Nghĩa Tiếng Việt:', chosen?.vi)}
           ${li('Vì sao sai:', chosen?.why, 'Lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.')}
           ${li('Từ đồng nghĩa:', chosen?.syn)}
         </ul>
@@ -520,7 +506,7 @@ const li = (label, val, fallback='') => {
     return `
       <div class="ctx-title">Giải thích logic của context</div>
       <div class="ctx-block">
-        <div class="ctx-h">Summary</div>
+        <div class="ctx-h">Tóm tắt</div>
         <p class="ctx-p">${escapeHTML(summary)}</p>
       </div>
       <div class="ctx-block">
@@ -575,31 +561,18 @@ const li = (label, val, fallback='') => {
     panel.innerHTML = html;
     panel.classList.add('hidden');
   }
-// Chuyển [ ... ] (hoặc __...__) thành <u>...</u> + đảm bảo an toàn
-function renderWithUnderline(raw=''){
-  const s = String(raw);
-  let out = '', last = 0;
-  const re = /\[([^\[\]]+)\]|__([^_]+)__/g; // hỗ trợ cả __...__ nếu muốn
-  s.replace(re, (m,br,us,idx)=>{
-    out += escapeHTML(s.slice(last, idx));
-    out += `<u class="uline">${escapeHTML(br || us || '')}</u>`;
-    last = idx + m.length;
-    return m;
-  });
-  out += escapeHTML(s.slice(last));
-  return out.replace(/\n/g,'<br>');
-}
 
   function renderQuestion(){
     if(idx >= currentSet.length) return showResult();
     const q=currentSet[idx];
 
     if(q.context || q.prompt){
-      contextBox.innerHTML = renderWithUnderline(q.context || '');
-      promptBox.innerHTML  = renderWithUnderline(q.prompt  || 'Which choice completes...');
+      contextBox.innerHTML = renderWithUnderline((q.context||'').trim());
+      promptBox.innerHTML  = renderWithUnderline((q.prompt || 'Which choice completes the text with the most logical and precise word or phrase?').trim());
     } else {
       const {context,prompt} = splitQuestionText(q.question || '');
-      contextBox.textContent = context; promptBox.textContent = prompt;
+      contextBox.innerHTML = renderWithUnderline(context);
+      promptBox.innerHTML  = renderWithUnderline(prompt);
     }
 
     // >>> đọc context-explain từ JSON (ưu tiên), fallback legacy khi thiếu
@@ -616,29 +589,16 @@ function renderWithUnderline(raw=''){
       btn.setAttribute('aria-label', `Đáp án ${letterFromIndex(i)}`);
       btn.innerHTML=`<span class="pill">${letterFromIndex(i)}</span> <span>${escapeHTML(String(opt))}</span>`;
       btn.addEventListener('click', ()=>{
-  const idx = Number(btn.getAttribute('data-index'));
-  const correctIndex = q.correct; // đã được normalizeRow chuyển về 0..3
-
-  if (reviewMode) {
-    // ----- REVIEW: chỉ preview giải thích, không chấm điểm / không cập nhật tiến độ -----
-    // clear preview màu xanh dương cũ
-    answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
-
-    // nếu bấm vào đáp án KHÔNG PHẢI đáp án đúng -> tô xanh dương
-    if (idx !== correctIndex) {
-      btn.classList.add('blue');
-    }
-    // luôn hiển thị giải thích theo đáp án đang xem
-    renderExplanation(q, idx, correctIndex, 'review');
-    return;
-  }
-
-  // ----- NORMAL MODE: giữ nguyên logic cũ của bạn -----
-  // (đánh dấu đúng/sai, khoá nút, cập nhật answered/progress, rồi gọi renderExplanation)
-  // ví dụ:
-  const chosen = idx;
-  // ... (phần logic cũ giữ nguyên)
-});
+          const correctIndex=(typeof q.correct==='number')?clamp(q.correct,0,3):normalizeCorrect(q.correct,q.options||[]);
+          if (reviewMode) {
+            answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
+            if (i !== correctIndex) btn.classList.add('blue');
+            renderExplanation(q, i, correctIndex, 'review');
+            return;
+          }
+          if(!answered.has(idx)){ handleAnswer(i, btn); return; }
+          renderExplanation(q, i, correctIndex, 'preview');
+        });
       answersWrap.appendChild(btn);
     });
 
@@ -651,7 +611,7 @@ function renderWithUnderline(raw=''){
         const wrongBtn=answersWrap.querySelector(`[data-index="${prev.choice}"]`);
         if(wrongBtn) wrongBtn.classList.add('wrong');
       }
-      [...answersWrap.querySelectorAll('.answer')].forEach(b=>{ b.classList.add('locked'); b.setAttribute('aria-disabled','true'); });
+      [...answersWrap.querySelectorAll('.answer')].forEach(b=>{ b.classList.remove('locked'); b.removeAttribute('aria-disabled'); b.removeAttribute('disabled'); });
       renderExplanation(q, prev?.choice ?? null, correctIndex, 'review');
     } else {
       const prev=answered.get(idx);
@@ -874,35 +834,49 @@ function renderWithUnderline(raw=''){
   });
 
   // ---------- INIT ----------
+  
   async function init(){
     try{
-      const res = await fetch('./exam.json', { cache: 'no-store' });
+      // base exam
+      const res = await fetch('./exam.json', { cache:'no-store' });
       const base = res.ok ? await res.json() : [];
-      baseBank = ensureCategory(base.map(normalizeRow).filter(Boolean));
-      bank = baseBank.slice();
-      try {
-  const r = await fetch('./review_37_38_40_43.json', { cache: 'no-store' });
-  if (r.ok) {
-    const extraFile = await r.json();
-    // chuẩn hóa và nối thêm vào bank
-    bank = bank.concat(
-      ensureCategory((extraFile || []).map(normalizeRow).filter(Boolean))
-    );
-  }
-} catch {}
-    }catch{ baseBank=[]; bank=[]; }
-// nạp thêm folder "Review 37, 38, 40, 43"
+      
+      // optional extra files (do not break if missing)
+      const candidates = [
+        './review_37_38_40_43.labeled.json',
+        './review_37_38_40_43.explanations.json',
+        './review_37_38_40_43.optimized.json',
+        './review_37_38_40_43.json'
+      ];
+      let extras = [];
+      for (const f of candidates){
+        try{
+          const r = await fetch(f, { cache:'no-store' });
+          if (r.ok){
+            const arr = await r.json();
+            if (Array.isArray(arr) && arr.length){
+              extras = extras.concat(arr);
+            }
+          }
+        }catch{}
+      }
 
-    try{
-      const extra = JSON.parse(localStorage.getItem('quizFixedBank') || '[]');
-      if(Array.isArray(extra)) bank = bank.concat(ensureCategory(extra.map(normalizeRow).filter(Boolean)));
-    }catch{}
+      // local override via LocalStorage (if any)
+      try{
+        const local = JSON.parse(localStorage.getItem('quizFixedBank')||'[]');
+        if(Array.isArray(local)) extras = extras.concat(local);
+      }catch{}
 
-    bank = dedupeBank(bank);
-    buildCategories();
-    show(categoryScreen); hide(quizCard); hide(resultCard);
-    hide(restartBtn);
+      // normalize + dedupe
+      bank = dedupeBank( base.map(normalizeRow).filter(Boolean).concat( extras.map(normalizeRow).filter(Boolean) ) );
+      
+      show(categoryScreen);
+      buildCategories();
+    }catch(e){
+      console.error(e);
+    }
   }
+
 
   // ===== User modal (change name) =====
   (function initUserModal(){

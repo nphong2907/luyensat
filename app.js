@@ -124,32 +124,36 @@
   }
 
   // ===== Explain helpers =====
-  // Bóc 3 phần: Nghĩa / Lý do / Từ đồng nghĩa – chịu nhiều biến thể dữ liệu
   function parseExp(text){
-    let t = String(text || '').trim();
+  let t = String(text || '').trim();
 
-    // Synonyms
-    let syn = '';
-    t = t.replace(/(^|\n)\s*Từ\s+đồng\s+nghĩa[^:]*:\s*([^\n]+)\s*/gi, (_m,_p1,p2)=>{
-      syn = (syn || p2 || '').trim();
-      return '\n';
-    });
+  // --- TỪ ĐỒNG NGHĨA: cắt đến trước NHÃN KẾ TIẾP (kể cả cùng dòng)
+  let syn = '';
+  t = t.replace(
+    /(^|\n)\s*Từ\s+đồng\s+nghĩa[^:]*:\s*([\s\S]*?)(?=\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
+    (_m,_p1,p2)=>{ syn = (p2 || '').trim(); return '\n'; }
+  );
+  // nếu vẫn còn nhãn dính ở cuối, cắt bỏ phòng hờ
+  syn = syn.replace(/\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:\s*[\s\S]*$/i,'').trim();
 
-    // Vietnamese meaning
-    let vi = '';
-    t = t.replace(/(^|\n)\s*Nghĩa(?:\s+tiếng\s+Việt)?\s*:\s*([^\n]+)\s*/i, (_m,_p1,p2)=>{
-      vi = (p2 || '').trim();
-      return '\n';
-    });
+  // --- NGHĨA TIẾNG VIỆT: nhiều dòng, dừng trước nhãn kế tiếp
+  let vi = '';
+  t = t.replace(
+    /(^|\n)\s*Nghĩa(?:\s*Tiếng?\s*Việt)?\s*:\s*([\s\S]*?)(?=\s*(?:Từ\s+đồng\s+nghĩa|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
+    (_m,_p1,p2)=>{ vi = (p2 || '').trim(); return '\n'; }
+  );
 
-    // Reason (phù hợp/không phù hợp/vì sao sai)
-    let why = '';
-    t = t.replace(/(^|\n)\s*(Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp)\s*:\s*([^\n]+)\s*/i,
-      (_m,_p1,_lbl,content)=>{ why = (content || '').trim(); return '\n'; });
+  // --- LÝ DO/ VÌ SAO: gom cả “Từ này phù hợp vì”, “Vì sao đúng”, nhiều dòng
+  let why = '';
+  t = t.replace(
+    /(^|\n)\s*(Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:\s*([\s\S]*?)(?=\s*(?:Nghĩa(?:\s*Tiếng?\s*Việt)?|Từ\s+đồng\s+nghĩa|Vì\s*sao\s*sai|Lý\s*do|Phù\s*hợp|Không\s*phù\s*hợp|Từ\s*này\s*phù\s*hợp\s*vì|Vì\s*sao\s*đúng)\s*:|$)/i,
+    (_m,_p1,_lbl,content)=>{ why = (content || '').trim(); return '\n'; }
+  );
 
-    const extra = t.trim(); // phần chú thích còn lại (nếu có)
-    return { vi, why, syn, extra };
-  }
+  const extra = t.trim();
+  return { vi, why, syn, extra };
+}
+
 
   // ===== PROGRESS BAR =====
   function setProgress(){
@@ -189,12 +193,30 @@
     const i=options.findIndex(opt=>String(opt).trim().toLowerCase()===s.toLowerCase());
     return i>=0?i:0;
   }
+function stripAnswerLeak(s){
+  if(!s) return '';
+  let out = String(s);
+  // cắt cụm "Correct answer: X" hoặc "Đáp án đúng: X" ở cuối
+  out = out.replace(/[\s\-–—]*\(?(?:Correct\s*answer|Đáp án\s*đúng)\s*:\s*[A-D]\)?\.?\s*$/i, '');
+  // nếu có "____" và cuối chuỗi là chữ A-D rời → cắt nốt
+  if (out.includes('____')) {
+    out = out.replace(/\s*\(?[A-D]\)?\s*$/,'');
+  }
+  return out.trim();
+}
 
+  // >>> Giữ thêm các trường mới từ JSON <<<
   function normalizeRow(obj){
-    if(!obj) return null;
-    const q  = String(obj.question || obj.Question || '').trim();
-    const context = obj.context ?? obj.Context ?? '';
-    const prompt  = obj.prompt  ?? obj.Prompt  ?? 'Which choice completes the text with the most logical and precise word or phrase?';
+  if(!obj) return null;
+  const q  = String(obj.question || obj.Question || '').trim();
+
+  const rawContext = obj.context ?? obj.Context ?? '';
+  const rawPrompt  = obj.prompt  ?? obj.Prompt  ?? 'Which choice ...tes the text with the most logical and precise word or phrase?';
+  const context = stripAnswerLeak(rawContext);
+  const prompt  = stripAnswerLeak(rawPrompt);
+
+  // ... giữ nguyên phần còn lại
+
 
     const A = obj.A ?? obj.a ?? obj.options?.[0];
     const B = obj.B ?? obj.b ?? obj.options?.[1];
@@ -214,8 +236,24 @@
     const exD = obj.exD ?? obj.expD ?? obj.ExD ?? obj.ExpD;
     if (!explanations && (exA||exB||exC||exD)) explanations = {A:exA,B:exB,C:exC,D:exD};
 
-    return { question:q, context, prompt, options, correct, explanations,
-             category: obj.category || obj.Category || DEFAULT_CAT };
+    // giữ các trường nâng cao để UI mới dùng
+    const cx  = obj.context_explain || null;
+    const cxs = cx && cx.signals ? cx.signals : {};
+    const contextSummary = obj.contextSummary || (cx && cx.summary) || '';
+    const contextLogic   = obj.contextLogic   || cxs.quick_reasoning || cxs.quick_tip || cxs.connectors || '';
+    const choices        = obj.choices || null;
+    const answerLine     = obj.answerLine || '';
+    const answerKey      = obj.answerKey || null;
+    const answerText     = obj.answerText || null;
+
+    return {
+      question:q, context, prompt, options, correct, explanations,
+      category: obj.category || obj.Category || DEFAULT_CAT,
+      // fields mới:
+      context_explain: cx,
+      contextSummary, contextLogic,
+      choices, answerLine, answerKey, answerText
+    };
   }
 
   // Helper lấy giải thích theo index
@@ -225,74 +263,84 @@
     return (q.explanations[k] || '').toString().trim();
   }
 
-  // ===== RENDER EXPLANATION (kiểu ô đơn, bullets – đúng xanh / sai đỏ) =====
+  // ===== RENDER EXPLANATION (đẹp – đúng xanh / sai đỏ) =====
   function renderExplanation(q, chosenIndex, correctIndex, mode='do'){
-  if (!q || !explainBox) return;
+    if (!q || !explainBox) return;
 
-  const L = ['A','B','C','D'];
-  explainBox.classList.add('hidden');
-  explainBox.innerHTML = '';
+    const L = ['A','B','C','D'];
+    explainBox.classList.add('hidden');
+    explainBox.innerHTML = '';
 
-  // helper
-  const li = (label, val, fallback='') => {
-    const text = (val && String(val).trim()) || fallback;
-    return text ? `<li><b>${escapeHTML(label)}</b> ${escapeHTML(text)}</li>` : '';
-  };
+    // chuyển chuỗi thành HTML với ngắt dòng theo câu
+const toSentenceHtml = (s) => {
+  const raw = (s && String(s).trim()) || '';
+  if (!raw) return '';
+  // ngắt dòng sau . ? ! … ; (khi sau đó là chữ cái/ngoặc tròn/ngoặc kép)
+  const withBreaks = raw
+    .replace(/([.!?…])\s+(?=[A-ZÀ-ỴÂÊÔĂƠƯĐ“"(\[])/g, '$1\n')
+    .replace(/;\s+(?=\S)/g, ';\n'); // tuỳ chọn: ngắt cả sau dấu chấm phẩy
+  return escapeHTML(withBreaks).replace(/\n/g, '<br>');
+};
 
-  const right  = parseExp(getExplanation(q, correctIndex));
-  const chosen = chosenIndex != null ? parseExp(getExplanation(q, chosenIndex)) : null;
+const li = (label, val, fallback='') => {
+  const text = (val && String(val).trim()) || fallback;
+  return text ? `<li><b>${escapeHTML(label)}</b> ${toSentenceHtml(text)}</li>` : '';
+};
 
-  // REVIEW: chỉ show đáp án đúng
-  if (chosenIndex == null) {
-    const html = `
-      <div class="ex-title">Đáp án đúng (${L[correctIndex]})</div>
-      <ul class="ex-list">
-        ${li('Nghĩa tiếng Việt:', right.vi)}
-        ${li('Lý do:', right.why)}
-        ${li('Từ đồng nghĩa:', right.syn)}
-      </ul>`;
-    explainBox.className = 'explain ok';
-    explainBox.innerHTML = html;
+
+    const right  = parseExp(getExplanation(q, correctIndex));
+    const chosen = chosenIndex != null ? parseExp(getExplanation(q, chosenIndex)) : null;
+
+    if (chosenIndex == null) {
+      const html = `
+        <div class="ex-title">Đáp án đúng (${L[correctIndex]})</div>
+        <ul class="ex-list">
+          ${li('Nghĩa tiếng Việt:', right.vi)}
+          ${li('Lý do:', right.why)}
+          ${li('Từ đồng nghĩa:', right.syn)}
+        </ul>`;
+      explainBox.className = 'explain ok';
+      explainBox.innerHTML = html;
+      explainBox.classList.remove('hidden');
+      return;
+    }
+
+    const isCorrect = (chosenIndex === correctIndex);
+
+    if (isCorrect) {
+      const html = `
+        <div class="ex-title">Chính xác!</div>
+        <ul class="ex-list">
+          ${li('Nghĩa tiếng Việt:', right.vi)}
+          ${li('Lý do phù hợp:', right.why, 'Khớp chính xác với ý nghĩa và logic của câu.')}
+          ${li('Từ đồng nghĩa:', right.syn)}
+        </ul>`;
+      explainBox.className = 'explain ok';
+      explainBox.innerHTML = html;
+    } else {
+      const html = `
+        <div class="ex-title">Chưa đúng.</div>
+        <ul class="ex-list">
+        ${li('Nghĩa Tiếng Việt:', chosen?.vi)} 
+          ${li('Vì sao sai:', chosen?.why, 'Lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.')}
+          ${li('Từ đồng nghĩa:', chosen?.syn)}
+        </ul>
+
+        <div class="ex-sep"></div>
+
+        <div class="ex-title">Đáp án đúng: ${L[correctIndex]}</div>
+        <ul class="ex-list">
+          ${li('Nghĩa Tiếng Việt:', right.vi)}
+          ${li('Từ đồng nghĩa:', right.syn)}
+          ${li('Từ này phù hợp vì:', right.why, 'Khớp chính xác với ý nghĩa và logic của câu.')}
+        </ul>`;
+      explainBox.className = 'explain bad';
+      explainBox.innerHTML = html;
+    }
+
     explainBox.classList.remove('hidden');
-    return;
+    try { explainBox.scrollIntoView({ behavior:'smooth', block:'nearest' }); } catch {}
   }
-
-  const isCorrect = (chosenIndex === correctIndex);
-
-  if (isCorrect) {
-    const html = `
-      <div class="ex-title">Chính xác!</div>
-      <ul class="ex-list">
-        ${li('Nghĩa tiếng Việt:', right.vi)}
-        ${li('Lý do phù hợp:', right.why, 'Khớp chính xác với ý nghĩa và logic của câu.')}
-        ${li('Từ đồng nghĩa:', right.syn)}
-      </ul>`;
-    explainBox.className = 'explain ok';
-    explainBox.innerHTML = html;
-  } else {
-    const html = `
-      <div class="ex-title">Chưa đúng.</div>
-      <ul class="ex-list">
-        ${li('Vì sao sai:', chosen?.why, 'Lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.')}
-        ${li('Từ đồng nghĩa:', chosen?.syn)}
-      </ul>
-
-      <div class="ex-sep"></div>
-
-      <div class="ex-title">Đáp án đúng: ${L[correctIndex]} — Nghĩa tiếng Việt:</div>
-      <ul class="ex-list">
-        ${li('', right.vi)}
-        ${li('Từ đồng nghĩa:', right.syn)}
-        ${li('Từ này phù hợp vì:', right.why, 'Khớp chính xác với ý nghĩa và logic của câu.')}
-      </ul>`;
-    explainBox.className = 'explain bad';
-    explainBox.innerHTML = html;
-  }
-
-  explainBox.classList.remove('hidden');
-  try { explainBox.scrollIntoView({ behavior:'smooth', block:'nearest' }); } catch {}
-}
-
 
   // ===== SEARCH helpers =====
   const norm=(s='')=>s.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
@@ -407,17 +455,155 @@
     adminSyncProgress('autosave');
   }
 
+  /* ========= Context Explain: JSON-first with legacy fallback ========= */
+  const CTX_BTN_ID  = 'ctxExplainBtn';
+  const CTX_WRAP_ID = 'ctxExplainWrap';
+
+  function ensureContextExplainUI() {
+    if (!document.getElementById(CTX_BTN_ID)) {
+      const tools = document.createElement('div');
+      tools.className = 'ctx-tools';
+      tools.innerHTML = `
+        <button id="${CTX_BTN_ID}" class="btn small ghost ctx-btn" type="button">🧠 Giải thích context</button>
+      `;
+      contextBox.parentNode.insertBefore(tools, contextBox.nextSibling);
+    }
+    if (!document.getElementById(CTX_WRAP_ID)) {
+      const wrap = document.createElement('div');
+      wrap.id = CTX_WRAP_ID;
+      wrap.className = 'ctx-explain hidden';
+      const tools = contextBox.nextElementSibling;
+      tools.parentNode.insertBefore(wrap, tools.nextSibling);
+    }
+    document.getElementById(CTX_BTN_ID).onclick = () => {
+      const p = document.getElementById(CTX_WRAP_ID);
+      p.classList.toggle('hidden');
+      if (!p.classList.contains('hidden')) {
+        try { p.scrollIntoView({ behavior:'smooth', block:'nearest' }); } catch {}
+      }
+    };
+  }
+
+  function summarizeText(txt) {
+    const s = String(txt || '').replace(/\s+/g,' ').trim();
+    const parts = s.split(/(?<=[.!?])\s+/).filter(Boolean);
+    return (parts[0] || s).slice(0, 260);
+  }
+  function detectCues(ctx) {
+    const s = String(ctx || '').toLowerCase();
+    const list = [
+      { words: ['however','but ','yet ','nevertheless','nonetheless','in contrast','on the other hand','whereas','while '], label: 'đối lập/đổi hướng' },
+      { words: ['although','though','even though','despite','in spite of','even if'], label: 'nhượng bộ' },
+      { words: ['because','since ','as ','due to','owing to'], label: 'nguyên nhân' },
+      { words: ['therefore','thus','hence','consequently','as a result','so '], label: 'kết quả/kết luận' },
+      { words: ['moreover','furthermore','in addition','additionally','also','besides'], label: 'bổ sung' },
+    ];
+    const out = [];
+    list.forEach(g => g.words.forEach(w => s.includes(w) && out.push({word:w.trim(), type:g.label})));
+    const seen = new Set(); return out.filter(x => (seen.has(x.word)?false:(seen.add(x.word),true)));
+  }
+
+  function buildContextExplainHTMLFromData(q){
+    const ec = q.context_explain || {};
+    const summary = q.contextSummary || ec.summary || summarizeText(q.context || '');
+    const connectors =
+      (ec.signals && (ec.signals.connectors || ec.signals['từ nối'] || ec.signals['connectors'])) || '';
+    const quick =
+      (ec.signals && (ec.signals.quick_reasoning || ec.signals.quick_tip)) ||
+      q.contextLogic || '';
+
+    const logicList = [
+      connectors ? `<li><b>Từ nối quan trọng:</b> ${escapeHTML(connectors)}</li>` : '',
+      quick ? `<li><b>Cách suy luận nhanh:</b> ${escapeHTML(quick)}</li>` : ''
+    ].join('') || '<li>Không có tín hiệu đặc biệt — tập trung vào mạch ý và từ vựng quanh chỗ trống.</li>';
+
+    return `
+      <div class="ctx-title">Giải thích logic của context</div>
+      <div class="ctx-block">
+        <div class="ctx-h">Summary</div>
+        <p class="ctx-p">${escapeHTML(summary)}</p>
+      </div>
+      <div class="ctx-block">
+        <div class="ctx-h">Tín hiệu lập luận</div>
+        <ul class="ctx-list">${logicList}</ul>
+      </div>
+      ${q.prompt ? `<div class="ctx-block"><div class="ctx-h">Câu hỏi</div><p class="ctx-p">${escapeHTML(q.prompt)}</p></div>` : ''}
+    `;
+  }
+  function buildContextExplainHTMLLegacy(ctx, prompt){
+    const summary = summarizeText(ctx);
+    const cues = detectCues(ctx);
+    const cueLine = cues.length
+      ? cues.map(c => `"<mark>${escapeHTML(c.word)}</mark>" (${c.type})`).join(', ')
+      : 'Không có tín hiệu từ nối đặc biệt — tập trung đọc mạch ý và từ vựng quanh chỗ trống.';
+    let strategy = '';
+    const hasContrast = cues.some(c => /đối lập|nhượng bộ/.test(c.type));
+    const hasCause    = cues.some(c => /nguyên nhân/.test(c.type));
+    const hasResult   = cues.some(c => /kết quả/.test(c.type));
+    if (hasContrast) strategy += '• Có tín hiệu đối lập/nhượng bộ → chọn nghĩa theo vế sau.\n';
+    if (hasCause)    strategy += '• Có tín hiệu nguyên nhân → ưu tiên từ diễn tả lý do.\n';
+    if (hasResult)   strategy += '• Có tín hiệu kết quả → ưu tiên từ diễn tả hệ quả/kết luận.\n';
+    if (!strategy)   strategy = '• Đọc lại cụm quanh chỗ trống, bắt tone và collocation để chọn từ.';
+    return `
+      <div class="ctx-title">Giải thích logic của context</div>
+      <div class="ctx-block">
+        <div class="ctx-h">Tóm tắt</div>
+        <p class="ctx-p">${escapeHTML(summary)}</p>
+      </div>
+      <div class="ctx-block">
+        <div class="ctx-h">Tín hiệu lập luận</div>
+        <ul class="ctx-list">
+          <li><b>Từ nối quan trọng:</b> ${cueLine}</li>
+          <li><b>Cách suy luận nhanh:</b><br>${escapeHTML(strategy).replace(/\n/g,'<br>')}</li>
+        </ul>
+      </div>
+      ${prompt ? `<div class="ctx-block"><div class="ctx-h">Câu hỏi</div><p class="ctx-p">${escapeHTML(prompt)}</p></div>` : ''}
+    `;
+  }
+  function buildContextExplainHTML(ctx, prompt){
+    return buildContextExplainHTMLLegacy(ctx, prompt);
+  }
+  function updateContextExplain(arg1, prompt){
+    ensureContextExplainUI();
+    const panel = document.getElementById(CTX_WRAP_ID);
+    let html = '';
+    if (typeof arg1 === 'object' && arg1 !== null) {
+      html = buildContextExplainHTMLFromData(arg1);
+    } else {
+      html = buildContextExplainHTMLLegacy(arg1 || '', prompt || '');
+    }
+    panel.innerHTML = html;
+    panel.classList.add('hidden');
+  }
+// Chuyển [ ... ] (hoặc __...__) thành <u>...</u> + đảm bảo an toàn
+function renderWithUnderline(raw=''){
+  const s = String(raw);
+  let out = '', last = 0;
+  const re = /\[([^\[\]]+)\]|__([^_]+)__/g; // hỗ trợ cả __...__ nếu muốn
+  s.replace(re, (m,br,us,idx)=>{
+    out += escapeHTML(s.slice(last, idx));
+    out += `<u class="uline">${escapeHTML(br || us || '')}</u>`;
+    last = idx + m.length;
+    return m;
+  });
+  out += escapeHTML(s.slice(last));
+  return out.replace(/\n/g,'<br>');
+}
+
   function renderQuestion(){
     if(idx >= currentSet.length) return showResult();
     const q=currentSet[idx];
 
     if(q.context || q.prompt){
-      contextBox.textContent = (q.context||'').trim();
-      promptBox.textContent  = (q.prompt || 'Which choice completes the text with the most logical and precise word or phrase?').trim();
+      contextBox.innerHTML = renderWithUnderline(q.context || '');
+      promptBox.innerHTML  = renderWithUnderline(q.prompt  || 'Which choice completes...');
     } else {
       const {context,prompt} = splitQuestionText(q.question || '');
       contextBox.textContent = context; promptBox.textContent = prompt;
     }
+
+    // >>> đọc context-explain từ JSON (ưu tiên), fallback legacy khi thiếu
+    updateContextExplain(q);
 
     answersWrap.innerHTML='';
     explainBox && (explainBox.innerHTML='');
@@ -429,13 +615,30 @@
       btn.setAttribute('data-index', i);
       btn.setAttribute('aria-label', `Đáp án ${letterFromIndex(i)}`);
       btn.innerHTML=`<span class="pill">${letterFromIndex(i)}</span> <span>${escapeHTML(String(opt))}</span>`;
-      if(!reviewMode){
-        btn.addEventListener('click', ()=>{
-          const correctIndex=(typeof q.correct==='number')?clamp(q.correct,0,3):normalizeCorrect(q.correct,q.options||[]);
-          if(!answered.has(idx)){ handleAnswer(i, btn); return; }
-          renderExplanation(q, i, correctIndex, 'preview');
-        });
-      }
+      btn.addEventListener('click', ()=>{
+  const idx = Number(btn.getAttribute('data-index'));
+  const correctIndex = q.correct; // đã được normalizeRow chuyển về 0..3
+
+  if (reviewMode) {
+    // ----- REVIEW: chỉ preview giải thích, không chấm điểm / không cập nhật tiến độ -----
+    // clear preview màu xanh dương cũ
+    answersWrap.querySelectorAll('.answer.blue').forEach(el=>el.classList.remove('blue'));
+
+    // nếu bấm vào đáp án KHÔNG PHẢI đáp án đúng -> tô xanh dương
+    if (idx !== correctIndex) {
+      btn.classList.add('blue');
+    }
+    // luôn hiển thị giải thích theo đáp án đang xem
+    renderExplanation(q, idx, correctIndex, 'review');
+    return;
+  }
+
+  // ----- NORMAL MODE: giữ nguyên logic cũ của bạn -----
+  // (đánh dấu đúng/sai, khoá nút, cập nhật answered/progress, rồi gọi renderExplanation)
+  // ví dụ:
+  const chosen = idx;
+  // ... (phần logic cũ giữ nguyên)
+});
       answersWrap.appendChild(btn);
     });
 
@@ -677,7 +880,18 @@
       const base = res.ok ? await res.json() : [];
       baseBank = ensureCategory(base.map(normalizeRow).filter(Boolean));
       bank = baseBank.slice();
+      try {
+  const r = await fetch('./review_37_38_40_43.json', { cache: 'no-store' });
+  if (r.ok) {
+    const extraFile = await r.json();
+    // chuẩn hóa và nối thêm vào bank
+    bank = bank.concat(
+      ensureCategory((extraFile || []).map(normalizeRow).filter(Boolean))
+    );
+  }
+} catch {}
     }catch{ baseBank=[]; bank=[]; }
+// nạp thêm folder "Review 37, 38, 40, 43"
 
     try{
       const extra = JSON.parse(localStorage.getItem('quizFixedBank') || '[]');

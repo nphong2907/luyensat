@@ -1,0 +1,1190 @@
+[
+  {
+    "id": 37001,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 1",
+    "context": "Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.3 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm².",
+    "prompt": "Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ________",
+    "options": [
+      "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode.",
+      "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles.",
+      "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions.",
+      "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Đề cập đến quá trình trao đổi chất của vi khuẩn, nhưng văn bản nhấn mạnh vấn đề nằm ở khâu truyền electron.",
+      "B": "Vì sao sai: Cho rằng các phản ứng redox tăng tốc nhưng không liên kết điều đó với sự có mặt của bạc.",
+      "C": "Vì sao sai: Đề cập đến việc dẫn trực tiếp nhưng lại thêm một chi tiết khó hiểu về việc xúc tác các phản ứng redox.",
+      "D": "Lý do: Trực tiếp giải quyết vấn đề (các phản ứng redox) và giải pháp (độ dẫn điện của bạc) bằng cách nói rằng các hạt nano bạc cho phép electron bỏ qua chuỗi phản ứng redox và truyền thẳng đến điện cực. Đây là giả thuyết logic nhất."
+    },
+    "contextSummary": "Pin nhiên liệu vi sinh (MFC) hoạt động kém hiệu quả do các electron phải đi qua một loạt phản ứng oxy hóa-khử chậm chạp để đến điện cực. Các nhà nghiên cứu đã thêm các hạt nano bạc, một kim loại có độ dẫn điện cao, vào cực dương và nhận thấy công suất tăng gấp đôi.",
+    "contextLogic": "Vấn đề cốt lõi là các phản ứng oxy hóa-khử (redox) chậm, làm giảm hiệu suất. Giải pháp được đưa ra là sử dụng bạc, một chất dẫn điện tốt. Giả thuyết hợp lý nhất là bạc đã giúp các electron đi một con đường khác để tránh các phản ứng chậm chạp đó."
+  },
+  {
+    "id": 37002,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 2",
+    "context": "The National Environmental Policy Act (NEPA) requires US federal agencies to assess environmental effects of potential actions, such as building highways. While many NEPA reviews require public comment, categorical exclusions (CEs) allow quick reviews with no public comment for actions that will minimally affect the environment. In 2020 the rule governing CEs was revised: before, CEs could be granted for actions that “do not individually or cumulatively have a significant effect on the human environment,” but the revised rule allowed CEs if actions “normally do not have a significant effect on the human environment.",
+    "prompt": "” Environmentalists found this revision to be potentially detrimental because ________",
+    "options": [
+      "the increasing need to build new highways and rehabilitate older highways in the US incentivizes agencies to grant CEs after 2020 for reasons that would not have been considered valid prior to 2020.",
+      "the 2020 relaxation of the rule regarding CEs would permit more exclusions, resulting in more reviews of actions by federal agencies and a paradoxically slower review process.",
+      "the rule that governed CEs before 2020 allowed expedited reviews of actions that might have significant effects on the environment if those effects were believed to be rare, while the 2020 revision of the rule subjected such actions to slower reviews.",
+      "the 2020 revision of the rule governing CEs would allow expedited reviews of actions that had a minimal environmental effect when considered on their own but had a significant effect when considered together."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Tập trung vào động cơ của các cơ quan, không phải vấn đề pháp lý cốt lõi của việc thay đổi quy tắc.",
+      "B": "Vì sao sai: Cho rằng quy trình sẽ chậm lại, điều này phản trực giác và không phải là mối quan tâm chính về môi trường.",
+      "C": "Vì sao sai: Hiểu sai cả quy tắc cũ và mới.",
+      "D": "Lý do: Nắm bắt chính xác vấn đề: quy tắc sửa đổi năm 2020 cho phép xem xét nhanh các hành động có tác động môi trường tối thiểu khi xét riêng lẻ nhưng lại có tác động đáng kể khi xét chung với nhau. Điều này chính là tác động \"tích lũy\" đã bị loại bỏ."
+    },
+    "contextSummary": "Quy tắc về \"loại trừ phân loại\" (CEs) – một quy trình xem xét nhanh không cần lấy ý kiến công chúng – đã được sửa đổi. Quy tắc cũ: Cho phép CE đối với các hành động \"không có tác động đáng kể đến môi trường con người một cách riêng lẻ hoặc tích lũy\". Quy tắc mới: Cho phép CE nếu các hành động \"thông thường không có tác động đáng kể\".",
+    "contextLogic": "Sự thay đổi quan trọng nhất là việc loại bỏ cụm từ \"hoặc tích lũy\" (or cumulatively). Điều này có nghĩa là theo quy tắc mới, một loạt các hành động nhỏ có thể được phê duyệt nhanh chóng, ngay cả khi tác động tổng hợp của chúng là đáng kể, miễn là mỗi hành động riêng lẻ \"thông thường\" không có tác động lớn. Đây chính là mối lo ngại của các nhà môi trường."
+  },
+  {
+    "id": 37003,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 3",
+    "context": "Born in Chile in 1917, artist and ethnomusicologist Violeta Parra was a pioneer in the nueva canción Chilean New Song movement that emerged in the late 1950s and then spread throughout Latin America, Portugal, and Spain as nueva canción. Parra traveled all over Chile compiling extensive records of authentic folk music as well as recipes, proverbs, and other facets of cultural history. These records formed the foundation for the early movement’s revival of traditional Chilean folk forms in new songs that represented modern realities of the working class and strongly advocated for social change. [As the movement spread beyond Chile, the breadth of musical traditions incorporated into its foundation also expanded.]",
+    "prompt": "Which detail about songs associated with nueva canción, if true, would best illustrate the underlined claim?",
+    "options": [
+      "Many feature political commentary addressing contemporary issues that stemmed from shared experiences of European colonization in Latin American countries.",
+      "Many demonstrate the stylistic influence of corrido, a genre of narrative songs from Mexico that had come to be characterized by political themes in the early 1800s.",
+      "Many were written with parts meant to be played on the quena, a traditional flute used across Andean countries, including Chile.",
+      "Many were produced by Argentinian artists in the late 1950s, with Chilean artists in additional Latin American countries first emerging soon after."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Đề cập đến chủ đề chính trị, không phải truyền thống âm nhạc.",
+      "B": "Lý do: Đề cập đến corrido, một thể loại bài hát tự sự từ Mexico. Đây là một ví dụ hoàn hảo về một truyền thống âm nhạc nước ngoài được tích hợp vào phong trào.",
+      "C": "Vì sao sai: Đề cập đến sáo quena, một nhạc cụ được sử dụng trên khắp các nước Andean, bao gồm cả Chile. Điều này không chứng tỏ sự mở rộng ra ngoài các ảnh hưởng ban đầu.",
+      "D": "Vì sao sai: Đề cập đến các nghệ sĩ từ các quốc gia khác nhưng không nói rõ về truyền thống âm nhạc mà họ kết hợp."
+    },
+    "contextSummary": "Violeta Parra đã tiên phong cho phong trào nueva canción ở Chile, dựa trên các hình thức dân gian truyền thống của Chile. Luận điểm được gạch chân là: \"Khi phong trào lan rộng ra ngoài Chile, bề rộng của các truyền thống âm nhạc được kết hợp vào nền tảng của nó cũng được mở rộng\".",
+    "contextLogic": "Để minh họa cho luận điểm này, chúng ta cần tìm một ví dụ về một truyền thống âm nhạc không phải của Chile đã được kết hợp vào phong trào khi nó lan rộng."
+  },
+  {
+    "id": 37004,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 4",
+    "context": "For its 2022 exhibition Guarding the Art, the Baltimore Museum of Art cast the security personnel typically responsible for safeguarding the institution’s collections as the curators, [whose individual selections from the museum’s holdings culminated in a show amplifying a distinct perspective not typically given a formal platform.]",
+    "prompt": "Which quote from one of the personnel who curated the exhibition would best support the underlined claim?",
+    "options": [
+      "“The most enjoyable part of curating this show has been seeing the outcome of our efforts: a unique show that spans genres, mediums, cultures, and eras. We hope visitors will sense our genuine affinity for the pieces we are charged with protecting.”",
+      "“My selections for the show were motivated by an interest in bringing publicity to lesser-known artifacts in the museum’s collection, many of which tend to be overlooked or even dismissed as uninteresting by most visitors to the museum.”",
+      "“The piece I chose is accompanied by a statement of the personal interpretation I’ve developed over countless hours overseeing the work and interacting with its visitors—an interpretation that I’ve previously shared only in small impromptu conversations with those visitors who are interested in discussing their reflections on the piece with me.”",
+      "“Throughout the exhibition’s development, my colleagues and I partnered closely with other museum staff whose areas of expertise lie in curation and conservation, and whose insights enriched our understanding of the pieces we selected for the exhibition.”"
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Là một nhận xét chung chung về một triển lãm độc đáo, có thể được nói bởi bất kỳ giám tuyển nào.",
+      "B": "Vì sao sai: Tập trung vào các hiện vật ít được biết đến, đây là một lựa chọn giám tuyển nhưng không phải là một góc nhìn độc đáo chỉ có ở nhân viên an ninh.",
+      "C": "Lý do: Đây là lựa chọn hoàn hảo. Người nói đề cập đến việc phát triển một \"diễn giải cá nhân\" qua \"vô số giờ giám sát tác phẩm\" và trước đây chỉ chia sẻ nó trong \"những cuộc trò chuyện ngẫu hứng nhỏ\". Đây chính xác là việc đưa một góc nhìn độc đáo, không chính thức lên một nền tảng chính thức.",
+      "D": "Vì sao sai: Nhấn mạnh sự hợp tác với các nhân viên truyền thống, điều này làm giảm đi tính độc đáo của góc nhìn của chính họ."
+    },
+    "contextSummary": "Một cuộc triển lãm có tên \"Guarding the Art\" đã để các nhân viên an ninh làm giám tuyển. Luận điểm được gạch chân là triển lãm đã \"khuếch đại một góc nhìn đặc biệt thường không được trao một nền tảng chính thức\".",
+    "contextLogic": "Chúng ta cần một trích dẫn làm nổi bật một góc nhìn độc đáo, chỉ có được từ vai trò là một nhân viên an ninh, một góc nhìn mà trước đây chỉ là không chính thức hoặc riêng tư."
+  },
+  {
+    "id": 37005,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 5",
+    "context": "The following text is from Mick Herron’s 2023 novel The Secret Hours. The narrator is describing members of a government committee. Finally, and adding much-needed gravitas, was Sir Winston Day, whose features seemed moulded to adorn a bust, or possibly a stamp, and whose forehead was so evidently bulging with grey matter that it would have been impertinent to inquire too closely into the actual achievements his half century of public service had produced. His recently published memoirs possibly cast light on this enigma, but given that such details were not provided until after the thirty-page mark, they might as well have remained state secrets.",
+    "prompt": "Based on the text, which choice best describes Sir Winston Day?",
+    "options": [
+      "He has the appearance of a distinguished figure, but it is uncertain whether he has accomplished anything to earn distinction.",
+      "He has maintained a modest profile even though he has served the public capably for many years.",
+      "He looks like a person worthy of respect, but his memoirs reveal that some of his actions were dishonorable.",
+      "He would be a celebrated public figure if his achievements did not have to be kept secret."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: \"Ông có vẻ ngoài của một nhân vật lỗi lạc, nhưng không chắc liệu ông đã đạt được bất cứ điều gì để xứng đáng với sự lỗi lạc đó hay không\". Lựa chọn này nắm bắt hoàn hảo sự tương phản và \"bí ẩn\" được mô tả.",
+      "B": "Vì sao sai: Văn bản ngụ ý ông có một hình ảnh cao cấp, không phải khiêm tốn.",
+      "C": "Vì sao sai: Văn bản nói rằng không chắc chắn về thành tựu của ông, chứ không phải hồi ký của ông tiết lộ những hành động không trong sạch.",
+      "D": "Vì sao sai: Văn bản đặt câu hỏi liệu có thành tựu nào không, chứ không phải chúng phải được giữ bí mật."
+    },
+    "contextSummary": "Ngài Winston Day có vẻ ngoài rất trang trọng, đáng kính (giống như để tạc tượng hoặc in tem) và có một vầng trán \"phồng lên vì chất xám\". Tuy nhiên, sẽ là \"xấc xược nếu hỏi quá kỹ về những thành tựu thực sự\" của ông. Hồi ký của ông có thể làm sáng tỏ \"bí ẩn này\".",
+    "contextLogic": "Có một sự tương phản rõ ràng giữa vẻ ngoài quan trọng, thông minh của ông và sự thiếu vắng những thành tựu cụ thể, được biết đến."
+  },
+  {
+    "id": 37006,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 6",
+    "context": "During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries’ central banks via mechanisms called swap lines. Atish Sinhaasbrudhe found that countries’ policy environments seem to have been ________ swap-line decisions: the probability that banks would be granted swap lines was 0.10 in countries open to foreign capital inflows and 0.03 in countries with policies restricting such inflows.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "predicated on",
+      "mediated by",
+      "decoupled from",
+      "material to"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: predicated on (dựa trên) - Quá mạnh, ngụ ý đây là nền tảng duy nhất.",
+      "B": "Vì sao sai: mediated by (được trung gian bởi) - Sai ngữ cảnh.",
+      "C": "Vì sao sai: decoupled from (tách rời khỏi) - Trái nghĩa.",
+      "D": "Lý do: material to (quan trọng đối với, có ảnh hưởng đến) - Chính xác. Từ này có nghĩa là \"liên quan và quan trọng\", mô tả đúng vai trò của môi trường chính sách trong các quyết định cấp khoản vay."
+    },
+    "contextSummary": "Hoa Kỳ cung cấp các khoản vay (swap lines) cho ngân hàng trung ương của các nước. Một nghiên cứu cho thấy xác suất một quốc gia được cấp khoản vay là 0.10 nếu họ cởi mở với dòng vốn nước ngoài, và chỉ 0.03 nếu họ có chính sách hạn chế dòng vốn này.",
+    "contextLogic": "Dữ liệu cho thấy có một mối liên hệ trực tiếp giữa chính sách của một quốc gia (cởi mở hay hạn chế vốn) và quyết định cấp khoản vay. Môi trường chính sách là một yếu tố quan trọng, một yếu tố liên quan đến quyết định."
+  },
+  {
+    "id": 37007,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 7",
+    "context": "Text 1 is adapted from E.M. Forster’s 1910 novel Howards End. \nText 2 discusses Howards End. King’s Cross and St. Pancras are adjacent railway terminals in London from which trains travel to the countryside. \n\nText 1: \nTo Margaret the station of King’s Cross had always suggested Infinity. Its very situation—withdrawn a little behind the facile splendors of St. Pancras—implied a comment on the materialism of life. Those two great arches, colourless, indifferent, shouldering between them an unlovely clock, were fit portals for some eternal adventure, whose issue might be prosperous, but would certainly not be expressed in the ordinary language of prosperity. \n\nText 2: \nThe interplay between opposing ideological positions in Howards End is broadly articulated in the novel’s organization of geographic space. On the one hand, the modern metropolis of London represents capitalism’s emphasis on pragmatism and the accumulation of material wealth; on the other, the English countryside, accessible via King’s Cross, fosters an idealism that values tradition, authentic personal connection, and the aesthetic—what the novel calls “the infinite.",
+    "prompt": "” Based on the texts, the author of Text 2 would most likely agree with which statement about King’s Cross, as it is depicted in Text 1?",
+    "options": [
+      "Because it is situated at the beginning of Margaret’s journey from the city to the country, King’s Cross emblematizes the intrusion of the forces of materialism and modernity into the rural spaces that the novel associates with idealism and tradition.",
+      "The austerity conveyed by King’s Cross’s appearance mirrors Margaret’s disillusionment with the prospect of having authentic connections with other people in a world that chiefly values more conventional forms of prosperity.",
+      "As a point of connection between London and the countryside, King’s Cross suggests to Margaret the possibility of acquiring the intangible abundance promised by the kinds of authentic engagements that the novel’s rural spaces seem to offer.",
+      "King’s Cross has a relatively unassuming appearance whose sharp contrast with the more aesthetically pleasing appearance of St. Pancras suggests to Margaret the ascendancy of the pragmatic capitalistic outlook among London’s inhabitants."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Sai, King's Cross là cổng dẫn đến vùng nông thôn lý tưởng, không phải là sự xâm nhập của chủ nghĩa vật chất.",
+      "B": "Vì sao sai: Sai, vẻ ngoài của King's Cross không phản ánh sự vỡ mộng của Margaret, mà là sự hứa hẹn về một \"cuộc phiêu lưu vĩnh cửu\".",
+      "C": "Lý do: \"Là một điểm kết nối giữa London và vùng nông thôn, King's Cross gợi cho Margaret khả năng đạt được sự phong phú phi vật thể được hứa hẹn bởi những sự tương tác đích thực mà không gian nông thôn của tiểu thuyết dường như mang lại\". Lựa chọn này kết hợp hoàn hảo ý tưởng của cả hai văn bản.",
+      "D": "Vì sao sai: Sai, sự tương phản không gợi ý sự thắng thế của chủ nghĩa tư bản, mà là sự tồn tại của một con đường khác dẫn đến \"cái vô hạn\"."
+    },
+    "contextSummary": "Văn bản 1: Margaret cảm nhận ga tàu King's Cross như một cánh cổng dẫn đến \"sự Vô hạn\" và một \"cuộc phiêu lưu vĩnh cửu\", đối lập với sự vật chất của ga St. Pancras kế bên. \n\nVăn bản 2: Phân tích rằng trong tiểu thuyết, London đại diện cho chủ nghĩa tư bản và sự giàu có vật chất, trong khi vùng nông thôn (có thể đến được qua ga King's Cross) đại diện cho chủ nghĩa lý tưởng, kết nối con người và \"cái vô hạn\".",
+    "contextLogic": "Tác giả của Văn bản 2 sẽ đồng ý rằng King's Cross, như được miêu tả trong Văn bản 1, là điểm kết nối giữa thế giới vật chất (London) và thế giới lý tưởng/vô hạn (nông thôn). Đối với Margaret, nó tượng trưng cho khả năng đạt được những giá trị phi vật chất mà vùng nông thôn hứa hẹn."
+  },
+  {
+    "id": 37008,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 8",
+    "context": "Text 1: \nChemically analyzing bulk rock-core samples from Australia’s Mount McRae Shale, Ariel Anbar et al. found a transient but significant increase in molybdenum (Mo) at a point corresponding to roughly 2.5 billion years ago (Ga). On Earth, Mo is released mainly through oxidative weathering of minerals; Anbar et al. therefore concluded that atmospheric oxygen briefly increased 2.5 Ga, then returned to its earlier negligible level. \n\nText 2: \nSarah Slotznick et al. reexamined the Mount McRae Shale core. Since chemically analyzing bulk samples can occlude contextual details, Slotznick et al. also employed high-resolution microscopy, which revealed volcanic debris—a known Mo host—around 2.5 Ga and microfractures in the surrounding matrix. The researchers assert that fluid could have reached the debris through the microfractures and initiated oxidative weathering long after debris deposition.",
+    "prompt": "Based on the texts, Anbar et al. (Text 1) and Slotznick et al. (Text 2) would most likely disagree about the answer to which question about the portion of the Mount McRae Shale rock-core corresponding to 2.",
+    "options": [
+      "Is the increase in Mo in that portion attributable to oxidative weathering of the material found in that portion?",
+      "Is the increase in Mo in that portion indicative of an increase in atmospheric oxygen dating to the same time?",
+      "Did chemically analyzing bulk samples lead to a false impression that there is an increase in Mo in that portion?",
+      "Does the increase in Mo in that portion suggest that atmospheric oxygen levels were not negligible before 2.5 Ga?"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Cả hai đều đồng ý rằng đó là do phong hóa oxy hóa.",
+      "B": "Lý do: \"Liệu sự gia tăng Mo trong phần đó có phải là dấu hiệu của sự gia tăng oxy trong khí quyển cùng thời điểm không?\". Đây là điểm bất đồng cốt lõi. Anbar et al. nói CÓ, Slotznick et al. nói KHÔNG CHẮC.",
+      "C": "Vì sao sai: Slotznick et al. không phủ nhận có sự gia tăng Mo, họ chỉ giải thích nguyên nhân khác đi.",
+      "D": "Vì sao sai: Cả hai văn bản đều không thảo luận về mức oxy trước 2.5 tỷ năm trước."
+    },
+    "contextSummary": "Văn bản 1 (Anbar et al.): Phát hiện sự gia tăng Molybdenum (Mo) 2.5 tỷ năm trước và kết luận rằng điều này là do sự gia tăng oxy trong khí quyển vào thời điểm đó, vì Mo được giải phóng qua quá trình phong hóa oxy hóa. Văn bản 2 (Slotznick et al.): Kiểm tra lại mẫu đá và phát hiện các mảnh vụn núi lửa (chứa Mo) và các vi vết nứt. Họ cho rằng quá trình phong hóa oxy hóa có thể đã xảy ra rất lâu sau đó khi chất lỏng thấm qua các vết nứt, chứ không nhất thiết phải xảy ra 2.5 tỷ năm trước.",
+    "contextLogic": "Cả hai nhóm đều đồng ý rằng sự gia tăng Mo là do phong hóa oxy hóa. Tuy nhiên, họ bất đồng về thời điểm của quá trình này. Anbar et al. tin rằng nó xảy ra 2.5 tỷ năm trước và là bằng chứng cho sự gia tăng oxy trong khí quyển cùng thời điểm đó. Slotznick et al. cho rằng nó có thể xảy ra sau này, do đó không nhất thiết phản ánh mức oxy trong khí quyển 2.5 tỷ năm trước."
+  },
+  {
+    "id": 37009,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 9",
+    "context": "Text 1: \nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ. \n\nText 2:\n In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU. Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.",
+    "prompt": "’s research, as presented in Text 1?",
+    "options": [
+      "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
+      "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet’s surface is unlikely to harbor liquid water",
+      "By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high",
+      "By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Sai, họ sẽ cho rằng K2-18 b quá gần, không phải quá xa.",
+      "B": "Lý do: \"Bằng cách nói rằng thành phần hóa học của khí quyển của ứng cử viên Hycean mà Madhusudhan et al. xác định cho thấy bề mặt của hành tinh này không có khả năng chứa nước lỏng\". Điều này chính xác phản ánh lập luận của Tsai et al. rằng khí quyển giàu hydro làm hành tinh quá nóng.",
+      "C": "Vì sao sai: Sai, họ cho rằng ước tính của Madhusudhan et al. có khả năng là quá thấp, không phải quá cao.",
+      "D": "Vì sao sai: Sai, văn bản không so sánh K2-18 b với các loại hành tinh khác."
+    },
+    "contextSummary": "Văn bản 1 (Madhusudhan et al.): Xác định K2-18 b là một ứng cử viên hành tinh Hycean, nằm ngay rìa trong của vùng có thể ở được (HZ), nơi bắt đầu ở khoảng 1 AU. Văn bản 2 (Tsai et al.): Cho rằng khí quyển giàu hydro của các hành tinh này làm tăng nhiệt độ bề mặt. Do đó, tính toán của họ đặt rìa trong của HZ ra xa hơn nhiều, ở mức 3.85 AU.",
+    "contextLogic": "Theo tính toán của Tsai et al., rìa trong của HZ là 3.85 AU. K2-18 b, ở khoảng 1 AU, nằm sâu bên trong vùng quá nóng và không thể có nước lỏng trên bề mặt. Do đó, Tsai et al. sẽ phản bác lại nhận định của Madhusudhan et al. bằng cách nói rằng K2-18 b quá nóng để có nước lỏng."
+  },
+  {
+    "id": 37010,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 10",
+    "context": "Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar per-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.",
+    "prompt": "Which finding, if true, would most directly support the researchers’ claim regarding the size of PCFG whales?",
+    "options": [
+      "When foraging along the coasts of Northern California and British Columbia, PCFG whales are in closer proximity to major ports and urban populations than ENP whales in the main group are when foraging in Arctic waters.",
+      "The average body size of PCFG whales observed along the coasts of Northern California and British Columbia has remained relatively steady in recent decades, while the average body size of ENP whales in the main group has slightly decreased.",
+      "When present along the coasts of Northern California and British Columbia, PCFG whales tend to forage in rocky kelp beds at shallow depths inaccessible to whales as large as those in the ENP main group.",
+      "Certain crustacean prey species available along the coasts of Northern California and British Columbia where PCFG whales tend to forage are not available in the Arctic waters where ENP whales in the main group forage."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Đề cập đến sự gần gũi với con người, không liên quan đến tài nguyên hay kích thước.",
+      "B": "Vì sao sai: So sánh sự thay đổi kích thước theo thời gian, không giải thích tại sao kích thước ban đầu lại khác nhau.",
+      "C": "Lý do: \"Khi có mặt dọc theo bờ biển..., cá voi PCFG có xu hướng kiếm ăn trong các bãi tảo bẹ đá ở vùng nước nông không thể tiếp cận được bởi những con cá voi lớn như trong nhóm chính ENP\". Điều này trực tiếp cho thấy kích thước nhỏ hơn cho phép chúng tiếp cận một nguồn tài nguyên mà cá voi lớn hơn không thể, hỗ trợ mạnh mẽ cho giả thuyết.",
+      "D": "Vì sao sai: Đề cập đến các loại con mồi khác nhau, nhưng không liên kết trực tiếp điều này với lợi thế của việc có kích thước nhỏ hơn."
+    },
+    "contextSummary": "Một nhóm cá voi xám (PCFG) kiếm ăn ở một khu vực khác có kích thước tối đa nhỏ hơn so với nhóm cá voi chính (ENP). Các nhà nghiên cứu giả thuyết rằng đây là một sự thích nghi với các cơ hội tài nguyên riêng biệt trong khu vực kiếm ăn của PCFG.",
+    "contextLogic": "Chúng ta cần tìm một bằng chứng cho thấy việc có kích thước nhỏ hơn mang lại lợi thế cho cá voi PCFG trong môi trường sống cụ thể của chúng."
+  },
+  {
+    "id": 37011,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 11",
+    "context": "Ningyo joruri is a form of theater that was popular in eighteenth-century Japan and that unites puppetry with playing of the shamisen, a stringed musical instrument. The popularity of ningyo joruri was due to a puppetry method called sannin zukai, in which three puppeteers operated a single puppet that was large, detailed, and capable of extensive movement and nuanced emotional expression. Over time, rising expenses, audience interest in ningyo joruri began to decline and sannin [zukai became prohibitively expensive to mount, so that sannin zukai puppeteers could no longer make the profession a full-time career.] Eventually, ningyo joruri productions resorted to cheaper forms of puppetry, such as karuna ningyo, which involves only one puppeteer.",
+    "prompt": "Which statement, if true, would most strongly support the claim in the underlined sentence?",
+    "options": [
+      "The karuna ningyo puppeteering method is not easy: it requires fewer puppeteers to manipulate puppets that are as large as those used in sannin zukai, but each puppeteer’s work is more complex.",
+      "The costs of building sannin zukai puppets were very high until the advent of machine-based production methods in the nineteenth century and these remain comparable to the costs of building karuna ningyo puppets.",
+      "In 1872, Japanese puppeteer Nishikawa Koryu developed a technique called karuna ningyo, or cart puppetry, in which puppets have wooden pegs on their feet that the puppeteer can manipulate by moving his own feet.",
+      "The few remaining theatrical companies with sannin zukai performers in the present day are mostly amateur troupes, in which members have other forms of employment that serve as their primary source of income."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: So sánh độ khó của các phương pháp, không liên quan đến việc làm nghề toàn thời gian.",
+      "B": "Vì sao sai: Đề cập đến chi phí xây dựng con rối, không phải thu nhập của nghệ sĩ.",
+      "C": "Vì sao sai: Mô tả một kỹ thuật khác, không liên quan.",
+      "D": "Lý do: \"Một vài đoàn kịch còn lại với các nghệ sĩ sannin zukai trong thời đại ngày nay chủ yếu là các đoàn nghiệp dư, trong đó các thành viên có các hình thức việc làm khác là nguồn thu nhập chính của họ\". Điều này trực tiếp chứng minh rằng họ không thể sống bằng nghề này và phải có công việc khác, hỗ trợ mạnh mẽ cho luận điểm."
+    },
+    "contextSummary": "Luận điểm được gạch chân là: \"theo thời gian,... các nghệ sĩ múa rối sannin zukai không còn có thể coi nghề này là một sự nghiệp toàn thời gian\".",
+    "contextLogic": "Để hỗ trợ luận điểm này, chúng ta cần tìm một bằng chứng cho thấy các nghệ sĩ sannin zukai hiện nay không thể sống chỉ bằng nghề múa rối và phải có công việc khác để kiếm sống."
+  },
+  {
+    "id": 37012,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 12",
+    "context": "In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ________, detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "unexpectedly,",
+      "predictably,",
+      "consequently,",
+      "hesitantly,"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: unexpectedly (một cách bất ngờ) - Hoàn toàn phù hợp với bối cảnh.",
+      "B": "Vì sao sai: predictably (một cách có thể đoán trước) - Trái nghĩa.",
+      "C": "Vì sao sai: consequently (do đó) - Ngụ ý một kết quả logic, nhưng đây là một sự mâu thuẫn.",
+      "D": "Vì sao sai: hesitantly (một cách do dự) - Mô tả một hành động, không phải một phát hiện."
+    },
+    "contextSummary": "Theo lý thuyết, một vành đai mảnh vỡ bên trong giới hạn Roche sẽ tồn tại dưới dạng vành đai, trong khi một vành đai bên ngoài giới hạn này sẽ kết tụ lại thành một vệ tinh (ví dụ: mặt trăng). Các nhà khoa học đã phát hiện một vành đai dày đặc quay quanh Quaoar ở khoảng cách nằm ngoài giới hạn Roche nhưng vẫn còn nguyên vẹn.",
+    "contextLogic": "Phát hiện này đi ngược lại hoàn toàn với những gì lý thuyết dự đoán. Do đó, nó là một điều bất ngờ, không lường trước được."
+  },
+  {
+    "id": 37013,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 13",
+    "context": "Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ________ to some readers of his time.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "provocative",
+      "irrefutable",
+      "pretentious",
+      "irrelevant"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: provocative (khiêu khích) - Chính xác, từ này mô tả một cái gì đó có thể gây ra phản ứng mạnh mẽ hoặc tranh cãi.",
+      "B": "Vì sao sai: irrefutable (không thể bác bỏ) - Sai.",
+      "C": "Vì sao sai: pretentious (tự phụ, khoe khoang) - Sai.",
+      "D": "Vì sao sai: irrelevant (không liên quan) - Sai."
+    },
+    "contextSummary": "Các học giả văn học thường khuyến khích việc tìm hiểu cách các tác phẩm được khán giả đương thời của tác giả cảm nhận. Mặc dù ngày nay tác phẩm của Miguel de Unamuno không bị coi là gây tranh cãi, người ta nên xem xét liệu có khía cạnh nào trong tác phẩm của ông có thể bị một số độc giả thời đó coi là ________ hay không.",
+    "contextLogic": "Câu văn thiết lập một sự tương phản giữa nhận thức \"ngày nay\" (không gây tranh cãi) và nhận thức \"thời đó\". Do đó, từ cần điền phải mang ý nghĩa gây tranh cãi, thách thức, hoặc khiêu khích đối với khán giả đương thời."
+  },
+  {
+    "id": 37014,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 14",
+    "context": "Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ________. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "tranquil",
+      "peculiar",
+      "nostalgic",
+      "dispassionate"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: tranquil (yên bình) - Sai.",
+      "B": "Vì sao sai: peculiar (kỳ lạ) - Sai.",
+      "C": "Vì sao sai: nostalgic (hoài niệm) - Là một dạng của sentimental.",
+      "D": "Lý do: dispassionate (vô tư, không cảm tính, khách quan) - Chính xác, đây là sự đối lập hoàn hảo với đa cảm và đồng nghĩa với khách quan."
+    },
+    "contextSummary": "Trong khi các nghệ sĩ cùng thời Whistler có cách tiếp cận đa cảm (sentimental), con mắt của Whistler dường như ________. Cách tiếp cận này đã đi trước các nhiếp ảnh gia như Walker Evans, người tạo ra ảo giác về việc ghi lại cuộc sống một cách khách quan (objective).",
+    "contextLogic": "Từ cần điền phải đối lập với \"sentimental\" và đồng nghĩa với \"objective\"."
+  },
+  {
+    "id": 37015,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 15",
+    "context": "Lucian of Samosata (modern-day Turkey) was a second-century satirist who mostly ridiculed qualities of philosophers of the time. His work True History, however, is _____, featuring tropes that are hallmarks of present-day science fiction (e.g., space travel, interplanetary conflict); it is regarded by some scholars as the earliest known work in the genre.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "authorized",
+      "applicable",
+      "sarcastic",
+      "visionary"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: authorized (được ủy quyền) - Sai.",
+      "B": "Vì sao sai: applicable (có thể áp dụng) - Không đủ mạnh.",
+      "C": "Vì sao sai: sarcastic (mỉa mai) - Văn bản nói \"tuy nhiên\", cho thấy tác phẩm này khác với các tác phẩm châm biếm khác của ông.",
+      "D": "Lý do: visionary (có tầm nhìn xa, đi trước thời đại) - Chính xác."
+    },
+    "contextSummary": "Lucian là một nhà văn châm biếm thế kỷ thứ hai. Tuy nhiên, tác phẩm \"True History\" của ông lại _____, với các yếu tố đặc trưng của khoa học viễn tưởng ngày nay (du hành vũ trụ, xung đột liên hành tinh) và được coi là tác phẩm đầu tiên của thể loại này.",
+    "contextLogic": "Một tác phẩm được viết từ rất lâu nhưng lại chứa đựng những ý tưởng đi trước thời đại, mà sau này mới trở nên phổ biến, được gọi là một tác phẩm có tầm nhìn."
+  },
+  {
+    "id": 37016,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 16",
+    "context": "The familial structure of the black swan (Cygnus atratus) shows tremendous ____: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "elasticity",
+      "reciprocity",
+      "cohesion",
+      "affection"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: elasticity (sự co giãn, linh hoạt) - Chính xác, mô tả khả năng thay đổi và thích ứng của cấu trúc gia đình.",
+      "B": "Vì sao sai: reciprocity (sự có đi có lại) - Không phải là ý chính.",
+      "C": "Vì sao sai: cohesion (sự gắn kết) - Có thể đúng nhưng không mô tả được sự đa dạng về hình thức.",
+      "D": "Vì sao sai: affection (tình cảm) - Không phải là ý chính."
+    },
+    "contextSummary": "Cấu trúc gia đình của thiên nga đen thể hiện sự ____ lớn lao: các cặp đôi thành công nhận nuôi con của các cặp đôi kém thành công hơn; và ngoài cặp đôi đực-cái, các cặp đôi đực-đực cũng nuôi con non.",
+    "contextLogic": "Việc có nhiều hình thức cấu trúc gia đình khác nhau và có thể thay đổi (như nhận con nuôi) cho thấy một sự linh hoạt, mềm dẻo, và khả năng thích ứng cao."
+  },
+  {
+    "id": 37017,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 17",
+    "context": "Run by researchers in multiple countries, the Study on Global Ageing and Adult Health (SAGE) is an examination of aging that has attempted to track approximately 66,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ____: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "impartiality",
+      "replicability",
+      "attrition",
+      "circumspection"
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: impartiality (sự công bằng) - Sai.",
+      "B": "Vì sao sai: replicability (khả năng tái lập) - Sai.",
+      "C": "Lý do: attrition (sự tiêu hao, hao mòn) - Trong ngữ cảnh nghiên cứu, từ này được dùng để chỉ sự sụt giảm số người tham gia. Đây là lựa chọn chính xác.",
+      "D": "Vì sao sai: circumspection (sự thận trọng) - Sai."
+    },
+    "contextSummary": "Các nghiên cứu dài hạn cần nhiều người tham gia không chỉ vì lý do thống kê mà còn vì ____: trong một thời gian dài, một số lượng đáng kể người tham gia sẽ rút lui hoặc mất liên lạc.",
+    "contextLogic": "Phần giải thích sau dấu hai chấm mô tả hiện tượng số lượng người tham gia nghiên cứu giảm dần theo thời gian."
+  },
+  {
+    "id": 37018,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 18",
+    "context": "Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ________ ",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "North America has sites with hominins but not sites with early multicellular organisms.",
+      "early multicellular organisms are found at more sites around the world than hominins.",
+      "that formation is from an earlier time than the formation with the hominins.",
+      "the hominins at Mistaken Point are better preserved than the hominins at the Minatogawa Limestone Quarry."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Sai, Mistaken Point có sinh vật Ediacaran.",
+      "B": "Vì sao sai: Sai, văn bản không so sánh sự phổ biến của hai loại hóa thạch.",
+      "C": "Lý do: \"địa tầng đó có từ một thời kỳ sớm hơn địa tầng có các hominin\". Đây là lời giải thích trực tiếp. Nơi có hóa thạch Ediacaran phải cổ hơn nơi có hóa thạch hominin.",
+      "D": "Vì sao sai: Sai, văn bản không so sánh chất lượng bảo quản hóa thạch."
+    },
+    "contextSummary": "Để tìm hóa thạch hominin ở châu Á, các nhà khoa học có thể đến Minatogawa. Tuy nhiên, để tìm các mẫu vật cổ hơn nữa như sinh vật đa bào thời Ediacaran, họ phải tìm ở nơi khác, chẳng hạn như ở Mistaken Point ở Bắc Mỹ.",
+    "contextLogic": "Câu văn cần giải thích tại sao phải đến một nơi khác để tìm hóa thạch cổ hơn. Lý do hợp lý là vì địa điểm ở châu Á không đủ cổ để chứa các hóa thạch đó."
+  },
+  {
+    "id": 37019,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 19",
+    "context": "Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ________ ",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.",
+      "although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.",
+      "although bumblebees and many other wild bees have experienced similar population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.",
+      "because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Đưa ra một dự đoán cụ thể không được hỗ trợ bởi văn bản.",
+      "B": "Vì sao sai: Quá mạnh (\"không nên sử dụng ong nghệ để đưa ra kết luận\"). Văn bản ngụ ý sự thận trọng, không phải từ chối hoàn toàn.",
+      "C": "Vì sao sai: So sánh nguy cơ giữa biến đổi khí hậu và phá hủy môi trường sống, điều này không được thảo luận.",
+      "D": "Lý do: \"bởi vì phản ứng của ong nghệ và các loài ong hoang dã khác trước các mối đe dọa môi trường không phải lúc nào cũng có thể so sánh được, các nhà nghiên cứu cần phải thận trọng khi ngoại suy thông tin...\". Điều này nắm bắt hoàn hảo hệ quả logic của sự tương phản được trình bày."
+    },
+    "contextSummary": "Các nhà sinh thái học thu thập nhiều kiến thức về sự suy giảm của ong hoang dã từ ong nghệ. Tuy nhiên, nhà động vật học Ghisbain lưu ý rằng ong nghệ có những đặc điểm (hành vi xã hội, chế độ ăn đa dạng) giúp chúng có khả năng chống chịu tốt hơn so với các loài ong hoang dã khác.",
+    "contextLogic": "Văn bản tạo ra một sự mâu thuẫn: chúng ta dựa vào dữ liệu từ ong nghệ, NHƯNG ong nghệ lại là loài đặc biệt kiên cường. Kết luận logic là chúng ta phải cẩn thận khi áp dụng những phát hiện từ nhóm kiên cường này cho các loài ong khác, kém kiên cường hơn."
+  },
+  {
+    "id": 37020,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 20",
+    "context": "Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjernen and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that _____.",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.",
+      "Guédron, Tisserand, and colleagues’ study used different methods to measure the concentration of mercury in fresh water than Tjernen and colleagues’ study did.",
+      "disturbances linked to wastewater affect significantly more bodies of fresh water than disturbances linked to urban development do.",
+      "levels of dissolved organic carbon and mercury are both much higher in bodies of fresh water impacted by wastewater than they are in bodies of fresh water disturbed by urban development."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: \"ảnh hưởng của nước thải... không nên được coi là đại diện cho ảnh hưởng của mọi loại tác động của con người\". Đây là kết luận trực tiếp và hợp lý nhất từ các bằng chứng.",
+      "B": "Vì sao sai: Văn bản không đề cập đến phương pháp đo lường.",
+      "C": "Vì sao sai: Văn bản không so sánh quy mô ảnh hưởng.",
+      "D": "Vì sao sai: Văn bản không so sánh nồng độ DOC và thủy ngân."
+    },
+    "contextSummary": "Nhiều nghiên cứu cho thấy mối tương quan dương giữa carbon hữu cơ hòa tan (DOC) và thủy ngân trong các vùng nước ngọt không bị tác động bởi con người. Tuy nhiên, một nghiên cứu trên vùng nước bị ảnh hưởng bởi nước thải lại không tìm thấy mối tương quan này. Nhưng, một nghiên cứu khác trên vùng nước bị ảnh hưởng bởi phát triển đô thị lại cho kết quả tương tự như các vùng nước không bị tác động.",
+    "contextLogic": "Chúng ta có ba trường hợp: Không bị tác động: Có tương quan. Bị tác động bởi nước thải: Không có tương quan. Bị tác động bởi phát triển đô thị: Có tương quan. Kết luận logic là không phải mọi loại tác động của con người đều giống nhau. Cụ thể, tác động của nước thải khác với tác động của phát triển đô thị."
+  },
+  {
+    "id": 37021,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 21",
+    "context": "The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn’s largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model’s developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ____",
+    "prompt": " Which choice most logically completes the text?",
+    "options": [
+      "even though the model’s outputs sometimes agree with observational data, Titan’s real methane mole fraction is likely higher than the methane mole fraction used in the model.",
+      "inconsistencies across the model’s simulations of Titan’s precipitation and humidity could be attributable to variations in the moon’s methane mole fraction.",
+      "further observations of Titan may clarify the moon’s methane mole fraction sufficiently for the model to employ a single value rather than a range.",
+      "some disagreements between the model’s simulations of Titan’s precipitation and humidity and the moon’s actual precipitation and humidity are to be expected."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Đưa ra một kết luận cụ thể (tỷ lệ thực cao hơn) mà không có bằng chứng.",
+      "B": "Vì sao sai: Gợi ý nguyên nhân cho sự không nhất quán trong chính mô hình, không phải là kết luận chung.",
+      "C": "Vì sao sai: Đề xuất một giải pháp trong tương lai, không phải là một lưu ý quan trọng về mô hình hiện tại.",
+      "D": "Lý do: \"một số khác biệt giữa các mô phỏng của mô hình... và lượng mưa và độ ẩm thực tế của mặt trăng là điều có thể lường trước được\". Điều này là một kết luận hợp lý vì mô hình dựa trên một giả định đơn giản hóa do thiếu dữ liệu."
+    },
+    "contextSummary": "Dữ liệu quan sát về tỷ lệ khí metan trên mặt trăng Titan còn thưa thớt và mâu thuẫn. Để đối phó với thách thức này, các nhà phát triển mô hình khí quyển IPSL đã \"quy định một tỷ lệ metan đồng nhất\" cho tầng khí quyển thấp nhất.",
+    "contextLogic": "Mô hình đã sử dụng một giả định đơn giản hóa (tỷ lệ metan đồng nhất) vì dữ liệu thực tế không đủ. Do đó, một hệ quả tất yếu là mô hình sẽ không thể hoàn toàn khớp với thực tế phức tạp. Sẽ có những khác biệt giữa mô phỏng của mô hình và thực tế."
+  },
+  {
+    "id": 37022,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 22",
+    "context": "When Kenyan writer Ngũgĩ wa Thiong’o, who had previously published four novels in English, began writing in his native language, Gikũyũ, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili—widely spoken in Kenya and elsewhere in Africa—would be a more practical choice. Rejecting their arguments, Ngũgĩ went on to author dozens of acclaimed works in Gikũyũ that have been translated into a total of more than thirty languages.",
+    "prompt": "Which choice best states the main idea of the text?",
+    "options": [
+      "Although Ngũgĩ insisted on publishing his first works in Gikũyũ, they have since been translated into many other languages.",
+      "Although Ngũgĩ’s decision to write in Gikũyũ was met with some skepticism, it didn’t prevent him from achieving literary success.",
+      "The reaction to Ngũgĩ’s rejection of English illustrates that some literary experts believe that fame is most easily gained by writing in a widely understood language, such as Gikũyũ.",
+      "In the 1970s, Ngũgĩ became convinced that literature ought to be written in authors’ native languages, and he proceeded to publish many works in Gikũyũ."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Chỉ tập trung vào việc dịch thuật, bỏ qua xung đột ban đầu.",
+      "B": "Lý do: \"Mặc dù quyết định viết bằng tiếng Gikũyũ của Ngũgĩ đã gặp phải một số hoài nghi, điều đó không ngăn cản ông đạt được thành công văn học\". Lựa chọn này tóm tắt hoàn hảo sự tương phản và ý chính của câu chuyện.",
+      "C": "Vì sao sai: Hiểu sai lý do của sự hoài nghi.",
+      "D": "Vì sao sai: Chỉ tập trung vào quyết định của ông, không phải phản ứng hay kết quả."
+    },
+    "contextSummary": "Nhà văn Kenya Ngũgĩ wa Thiong’o quyết định viết bằng tiếng mẹ đẻ Gikũyũ, bất chấp những lời cảnh báo từ các nhà phê bình rằng điều này sẽ khiến tác phẩm của ông khó tiếp cận và họ đề nghị một lựa chọn thực tế hơn. Ông đã bác bỏ lập luận của họ và tiếp tục gặt hái thành công lớn với hàng chục tác phẩm được dịch ra hơn 30 thứ tiếng.",
+    "contextLogic": "Ý chính của văn bản là sự tương phản giữa sự hoài nghi, cảnh báo ban đầu và thành công vang dội cuối cùng của Ngũgĩ."
+  },
+  {
+    "id": 37023,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 23",
+    "context": "While researching a topic, a student has taken the following notes: \n• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.\n• 1963: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.\n• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.\n • 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH). \n • MMH expands modularity to include all cognitive systems.",
+    "prompt": "The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": [
+      "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.",
+      "Following Fodor’s 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems.",
+      "The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular.",
+      "In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor’s earlier hypothesis that the mind is composed of innate neural structures."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: \"Bằng cách coi một số chứ không phải tất cả các hệ thống nhận thức là mô-đun, tính mô-đun của Fodor không có định nghĩa rộng rãi bằng MMH\". Câu này so sánh chính xác sự khác biệt về phạm vi giữa hai giả thuyết.",
+      "B": "Vì sao sai: Chỉ nêu trình tự thời gian mà không so sánh nội dung.",
+      "C": "Vì sao sai: Sai, cả hai đều coi hệ thống cấp thấp là mô-đun.",
+      "D": "Vì sao sai: Sai, Carruthers không phản đối ý tưởng về cấu trúc thần kinh bẩm sinh, ông chỉ mở rộng nó."
+    },
+    "contextSummary": "Fodor (1983): Tâm trí có các \"mô-đun\" cho các hệ thống nhận thức cấp thấp (ví dụ: tri giác, ngôn ngữ), nhưng các hệ thống cấp cao (ví dụ: lý luận) thì không phải là mô-đun. Carruthers (2003): Đưa ra giả thuyết mô-đun hóa hàng loạt (MMH), mở rộng tính mô-đun cho tất cả các hệ thống nhận thức.",
+    "contextLogic": "Mục tiêu là so sánh hai giả thuyết. Điểm khác biệt cốt lõi là phạm vi áp dụng: Fodor chỉ áp dụng cho hệ thống cấp thấp, trong khi Carruthers áp dụng cho tất cả các hệ thống. Do đó, giả thuyết của Carruthers có phạm vi rộng hơn."
+  },
+  {
+    "id": 37024,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 24",
+    "context": "While researching a topic, a student has taken the following notes: \n• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects. \n• Step 1: Ultraviolet (UV) light images are projected into a pool of liquid resin, where the object’s first layer takes shape. \n• Step 2: The partially cured resin object is raised, leaving a thin space (a “dead zone”) beneath it for oxygen and liquid resin to flow through. \n• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object. \n• Step 4: When the resin object is complete, it is baked in an oven to complete the curing. The student wants to describe how DLS cures 3D objects.",
+    "prompt": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": [
+      "DLS cures 3D objects by passing through a “dead zone,” adding layers to the object, then curing the object in an oven.",
+      "In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a “dead zone,” wherein the curing is completed.",
+      "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.",
+      "DLS is a form of additive manufacturing that creates a “dead zone” in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Thiếu bước quan trọng là chiếu tia UV vào nhựa lỏng.",
+      "B": "Vì sao sai: Sai trình tự, việc đông cứng hoàn tất trong lò nung, không phải trong \"vùng chết\".",
+      "C": "Lý do: \"Trong DLS, hình ảnh ánh sáng UV được chiếu vào một bể nhựa lỏng để làm đông cứng vật thể 3D từng lớp một; sau khi đông cứng, vật thể được nung trong lò\". Câu này mô tả chính xác và đầy đủ các bước chính theo đúng trình tự.",
+      "D": "Vì sao sai: Mô tả vai trò của \"vùng chết\" một cách khó hiểu và không chính xác."
+    },
+    "contextSummary": "Ghi chú mô tả 4 bước của quy trình sản xuất vật thể 3D bằng Digital Light Synthesis (DLS). Quá trình này bao gồm việc sử dụng ánh sáng UV để làm đông cứng từng lớp nhựa lỏng, sau đó nung trong lò để hoàn tất .",
+    "contextLogic": "Mục tiêu là mô tả cách DLS làm đông cứng vật thể 3D. Một mô tả hiệu quả cần bao gồm các bước chính theo đúng trình tự: chiếu tia UV vào nhựa lỏng để tạo hình từng lớp và sau đó nung để hoàn thiện."
+  },
+  {
+    "id": 37025,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 25",
+    "context": "For years, Christopher Clavius’s 1593 work Astrolabium had the earliest known evidence of a decimal point, which was in a sine table’s interpolation column. However, math historian Glen van Brummelen posited that Venetian merchant Giovanni Bianchini, who worked as an astrological consultant, used the mechanical symbol approximately 150 years before Clavius did. Van Brummelen asserts that in his role as a consultant, [Bianchini used trigonometry to calculate the coordinates of the planets, and these calculations contain the earliest example of the decimal point.]",
+    "prompt": "Which finding, if true, would most directly support the underlined claim?",
+    "options": [
+      "Several dots appear in both Clavius’s Astrolabium and Bianchini’s Flores Almagesti, but the dot was commonly used in manuscripts in the 1400s and 1500s as a means to separate letters or whole numbers from each other.",
+      "In Clavius’s Astrolabium, he gives several examples of both interpolation and inverse interpolation using decimal numbers and justifies the method to his readers by equating 45.7 with “45+7 tenths.”",
+      "In a table in Bianchini’s astronomical Latin manuscript from the 1440s, Tabulae primi mobilis, a dot appears between two numbers in a context that suggests the value is not a whole number.",
+      "As recorded in his manuscripts, some of Bianchini’s calculations for the coordinates of the planets are inaccurate due to the use of whole numbers rather than non-whole-number decimals."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Gợi ý rằng dấu chấm chỉ được dùng để ngăn cách các số nguyên, điều này làm suy yếu luận điểm.",
+      "B": "Vì sao sai: Nói về Clavius, không phải Bianchini.",
+      "C": "Lý do: \"Trong một bảng trong bản thảo thiên văn tiếng Latinh của Bianchini từ những năm 1440,... một dấu chấm xuất hiện giữa hai số trong một bối cảnh cho thấy giá trị không phải là một số nguyên\". Đây là bằng chứng trực tiếp, cụ thể và có niên đại chính xác để hỗ trợ luận điểm.",
+      "D": "Vì sao sai: Gợi ý rằng các phép tính của ông không chính xác vì sử dụng số nguyên, điều này mâu thuẫn với luận điểm."
+    },
+    "contextSummary": "Luận điểm được gạch chân là của nhà sử học Glen van Brummelen: thương gia người Venice Giovanni Bianchini đã sử dụng dấu thập phân khoảng 150 năm trước Clavius.",
+    "contextLogic": "Để hỗ trợ luận điểm này, chúng ta cần tìm một bằng chứng cụ thể về việc Bianchini đã sử dụng một ký hiệu trông giống và có chức năng như dấu thập phân trong một tài liệu có niên đại từ thế kỷ 15 (khoảng 1440)."
+  },
+  {
+    "id": 37026,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 26",
+    "context": "Spoken in Northern California, Karuk is an isolate, or a language that has no demonstrated relationship to other documented languages. The Haida language in Alaska is an isolate as well. However, most Native languages belong to language families, or groups of languages whose similarities can be attributed to shared descent from a single language spoken thousands of years ago. Curiously, isolates are more prevalent in regions where numerous nonisolates are also spoken. Thus, the geographical circumstances that favor the development of isolates may also drive diversification within language families.",
+    "prompt": "Which choice best describes the overall structure of the text?",
+    "options": [
+      "It provides examples of isolates, distinguishes isolates from most other Native languages, then discusses a point of correspondence between isolates and nonisolates.",
+      "It compares two isolates, sketches the process by which nonisolates evolve from isolates, then discusses how geography affects the development of isolates and nonisolates alike.",
+      "It defines the concepts of isolate languages and nonisolate languages, distinguishes between the regions where isolates and nonisolates are found, then accounts for this geographical distribution.",
+      "It names several isolates and nonisolates, proposes a similarity between the two categories of languages, then identifies the respective regions where languages belonging to each category are likely to be found."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: \"Nó cung cấp các ví dụ về ngôn ngữ biệt lập, phân biệt ngôn ngữ biệt lập với hầu hết các ngôn ngữ bản địa khác, sau đó thảo luận về một điểm tương ứng giữa ngôn ngữ biệt lập và không biệt lập\". Lựa chọn này mô tả chính xác cấu trúc ba phần của văn bản.",
+      "B": "Vì sao sai: , (C), (D) Mô tả sai một hoặc nhiều phần của cấu trúc văn bản.",
+      "C": "Vì sao sai: , (D) Mô tả sai một hoặc nhiều phần của cấu trúc văn bản.",
+      "D": "Vì sao sai: Mô tả sai một hoặc nhiều phần của cấu trúc văn bản."
+    },
+    "contextSummary": "Văn bản giới thiệu ngôn ngữ biệt lập (isolate) như Karuk và Haida. Sau đó, nó phân biệt chúng với hầu hết các ngôn ngữ bản địa khác thuộc các họ ngôn ngữ. Cuối cùng, nó chỉ ra một điểm tương đồng kỳ lạ: các ngôn ngữ biệt lập thường phổ biến ở những vùng cũng có nhiều ngôn ngữ không biệt lập.",
+    "contextLogic": "Cấu trúc của văn bản đi theo một trình tự logic: đưa ra ví dụ, phân biệt với một khái niệm khác, và cuối cùng thảo luận về một điểm tương đồng hoặc mối liên hệ giữa chúng."
+  },
+  {
+    "id": 37027,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 27",
+    "context": "Ants and aphids are known to be mutualistic: ants feed on the honeydew produced by aphids, while aphids benefit from ants’ protection against predators. If aphid colonies—which generally require relatively stable surfaces, such as trees or other woody plants, to thrive—are too small to produce significant volumes of honeydew, however, ants will prey on aphids. Researcher Tae-Sung Kwon examined ant and aphid abundance in two habitats in South Korea, one on the mainland and one on Jeju Island. Though the habitats differed in some important respects, both were predominantly grassland, which could help explain why Kwon observed ________",
+    "prompt": " Which choice most logically completes the text?",
+    "options": [
+      "different ant and aphid species on the mainland compared to those on the island.",
+      "a positive correlation between aphid diversity and abundance on both the mainland and the island.",
+      "a negative correlation between ant and aphid abundance on both the mainland and the island.",
+      "diminished ant and aphid abundance on the mainland compared to that on the island."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Không thể suy ra từ thông tin được cung cấp.",
+      "B": "Vì sao sai: Sai, mối quan hệ sẽ là tiêu cực.",
+      "C": "Lý do: \"mối tương quan nghịch giữa sự phong phú của kiến và rệp ở cả đất liền và trên đảo\". Đây là kết luận logic trực tiếp từ các tiền đề được đưa ra.",
+      "D": "Vì sao sai: Không thể so sánh sự phong phú giữa hai địa điểm."
+    },
+    "contextSummary": "Kiến và rệp có mối quan hệ cộng sinh: kiến ăn mật do rệp tiết ra, đổi lại rệp được kiến bảo vệ. Tuy nhiên, nếu đàn rệp quá nhỏ để sản xuất đủ mật, kiến sẽ săn rệp làm mồi. Rệp cần các bề mặt ổn định như cây cối để phát triển mạnh. Nghiên cứu được thực hiện ở môi trường chủ yếu là đồng cỏ.",
+    "contextLogic": "Đồng cỏ là môi trường không ổn định, không thuận lợi cho rệp phát triển thành các đàn lớn. Do đó, các đàn rệp ở đây có khả năng nhỏ. Theo văn bản, khi đàn rệp nhỏ, kiến sẽ ăn thịt chúng thay vì bảo vệ. Điều này dẫn đến một mối tương quan nghịch: nơi nào có nhiều kiến, nơi đó sẽ có ít rệp hơn (vì chúng bị ăn thịt)."
+  },
+  {
+    "id": 37028,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 28",
+    "context": "Analyses of Rembrandt’s seventeenth-century painting The Night Watch, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, ________ just an extension of the stylings of the Renaissance era.",
+    "prompt": "Which choice completes the text with the most logical transition?",
+    "options": [
+      "in reality,",
+      "first of all,",
+      "similarly,",
+      "nevertheless,"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: in reality (trên thực tế) - Hoàn toàn phù hợp, nó giới thiệu một quan điểm được cho là đúng hơn so với quan điểm thông thường.",
+      "B": "Vì sao sai: first of all (trước hết) - Dùng để liệt kê điểm đầu tiên, không phù hợp.",
+      "C": "Vì sao sai: similarly (tương tự) - Dùng để so sánh, không phù hợp.",
+      "D": "Vì sao sai: nevertheless (tuy nhiên) - Dùng để giới thiệu một sự tương phản, nhưng ở đây nó đang giải thích cho lập luận đã được giới thiệu bởi từ \"however\" trước đó."
+    },
+    "contextSummary": "Nhiều người coi bức tranh của Rembrandt là một ví dụ điển hình của phong cách thời kỳ Baroque. Tuy nhiên, nhiều nhà sử học nghệ thuật thách thức khái niệm về một thời kỳ Baroque riêng biệt. Họ cho rằng thẩm mỹ được gọi là Baroque ________ chỉ là một sự mở rộng của phong cách thời Phục hưng.",
+    "contextLogic": "Các nhà sử học nghệ thuật đang đưa ra một lập luận để sửa chữa một quan niệm sai lầm phổ biến. Họ đang khẳng định một sự thật ngược lại với những gì nhiều người nghĩ. Từ chuyển tiếp cần thiết phải nhấn mạnh sự thật, sự thực tế này."
+  },
+  {
+    "id": 37029,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 29",
+    "context": "• The Polytechnic in Gdansk, Poland, is home to a Foucault pendulum. \n• The pendulum consists of a weighted ball that swings at the end of a roughly 26-meter-long cable. \n• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn’t change. \n• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it. \n• Foucault pendulums are used as a simple way to provide evidence of Earth’s rotation.",
+    "prompt": "The student wants to specify the parts of a Foucault pendulum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": [
+      "The Foucault pendulum at the Polytechnic in Gdansk, Poland, includes a cable that is roughly 26 meters long.",
+      "With a swing path that appears to change over time, a Foucault pendulum provides evidence of Earth’s rotation.",
+      "Dangling from a fixed point, the Foucault pendulum at the Polytechnic consists of a cable with a weighted ball at the end.",
+      "The swing path of the Foucault pendulum at the Polytechnic appears to change over time."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Chỉ đề cập đến sợi cáp.",
+      "B": "Vì sao sai: Mô tả chức năng, không phải các bộ phận.",
+      "C": "Lý do: \"Được treo từ một điểm cố định, con lắc Foucault tại trường Bách khoa bao gồm một sợi cáp với một quả cầu nặng ở đầu\". Câu này kết hợp hiệu quả cả ba bộ phận chính đã được liệt kê.",
+      "D": "Vì sao sai: Mô tả hiện tượng quan sát được, không phải các bộ phận."
+    },
+    "contextSummary": "Ghi chú cung cấp các thông tin về con lắc Foucault: nó bao gồm một quả cầu nặng treo ở đầu một sợi cáp dài , được treo từ một điểm cố định.",
+    "contextLogic": "Mục tiêu là \"chỉ rõ các bộ phận của con lắc Foucault\". Một câu trả lời hiệu quả phải kết hợp các thông tin về các bộ phận cấu thành nó (quả cầu, cáp, điểm treo)."
+  },
+  {
+    "id": 37030,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 30",
+    "context": "The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family. It is very earnestly [the Mirvans’] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal; it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint it to them as a paradise of which they have been beguiled; but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.",
+    "prompt": "Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?",
+    "options": [
+      "Although the manner in which he has raised Evelina is in many ways exemplary, he has been misguided in shielding her from the influence of other young people.",
+      "Although his desire to guard Evelina from unscrupulous people is commendable, his general mistrust has led him to be unduly wary of the Mirvans.",
+      "He is overly protective of Evelina, who would likely benefit from a greater variety of experiences than she has had thus far.",
+      "He has imparted to Evelina his own idealistic view of the world, which results in her being unprepared to face inevitable disappointments."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Văn bản không đề cập đến việc Evelina bị cách ly khỏi những người trẻ khác.",
+      "B": "Vì sao sai: Văn bản không nói rằng Villars không tin tưởng nhà Mirvan.",
+      "C": "Lý do: \"Ông ấy quá bảo bọc Evelina, người có khả năng sẽ được hưởng lợi từ một sự đa dạng trải nghiệm lớn hơn những gì cô đã có cho đến nay\". Lựa chọn này tóm tắt chính xác quan điểm của Lady Howard.",
+      "D": "Vì sao sai: Sai, Lady Howard lo rằng chính sự cách ly sẽ tạo ra quan điểm lý tưởng hóa, chứ không phải do Villars truyền lại."
+    },
+    "contextSummary": "Lady Howard viết thư cho Tu sĩ Villars, người giám hộ của Evelina, mời Evelina đến London. Bà nói rằng \"đã đến lúc cô bé nên thấy một chút về thế giới\" và cảnh báo rằng khi những người trẻ bị \"cách ly quá nghiêm ngặt\" khỏi thế giới, họ sẽ có những tưởng tượng không thực tế về nó.",
+    "contextLogic": "Lời lẽ của Lady Howard (\"Đừng giật mình với đề nghị này\"; \"đã đến lúc\"; cảnh báo về việc \"cách ly quá nghiêm ngặt\") cho thấy bà tin rằng Tu sĩ Villars đang bảo bọc Evelina một cách thái quá. Bà cho rằng Evelina sẽ được lợi nếu có nhiều trải nghiệm hơn."
+  },
+  {
+    "id": 37031,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 31",
+    "context": "Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.",
+    "prompt": "Which quotation from a music streaming platform user would best illustrate Walsh’s finding?",
+    "options": [
+      "“Listening to music through a streaming platform feels a lot more passive, since I don’t need to make any deliberate choices about what music I’m going to consume, like I do when buying digital downloads or records and CDs.”",
+      "“When I create playlists or choose songs to listen to, I often pick songs that I think the friends who are following me might be interested in listening to, rather than what I might actually prefer listening to in that moment.”",
+      "“Because the predictions the platform makes about what new songs I might like depend on my past listening habits, at times its recommendations can feel overly repetitive and unvarying.”",
+      "“The social aspects of music streaming make it really easy to create a sense of a shared listening experience with my friends, even if we aren’t in the same room.”"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Mô tả việc nghe nhạc thụ động, không liên quan đến ảnh hưởng xã hội.",
+      "B": "Lý do: \"Khi tôi tạo danh sách phát hoặc chọn bài hát để nghe, tôi thường chọn những bài hát mà tôi nghĩ bạn bè đang theo dõi tôi có thể muốn nghe, thay vì những gì tôi thực sự thích nghe vào thời điểm đó\". Đây là một ví dụ hoàn hảo về việc quản lý hoạt động nghe nhạc của mình dựa trên nhận thức của người khác.",
+      "C": "Vì sao sai: Phàn nàn về các đề xuất của nền tảng, không liên quan.",
+      "D": "Vì sao sai: Nhấn mạnh khía cạnh tích cực của việc chia sẻ, không phải sự thay đổi hành vi do áp lực xã hội."
+    },
+    "contextSummary": "Nhà nghiên cứu Walsh phát hiện ra rằng khía cạnh mạng xã hội của các nền tảng phát nhạc trực tuyến có xu hướng làm người dùng \"ý thức hơn về cách hoạt động nghe nhạc của họ có thể bị nhìn nhận\", điều này lại ảnh hưởng đến cách họ quản lý các hoạt động đó.",
+    "contextLogic": "Để minh họa cho phát hiện này, chúng ta cần một trích dẫn từ một người dùng cho thấy họ thay đổi thói quen nghe nhạc của mình vì lo lắng về việc người khác (bạn bè đang theo dõi) sẽ nghĩ gì."
+  },
+  {
+    "id": 37032,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 32",
+    "context": "The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects.",
+    "prompt": "In the play, Aristophanes satirizes sophists as having an exaggerated sense of their own wisdom, as seen when the character ________ Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
+    "options": [
+      "Socrates, a sophist, says to a customer, “You talk nonsense. Begone; I can’t teach you any longer.”",
+      "Strepsiades says of a sophist business, “There dwell men who in speaking of the heavens persuade people that it is an oven, and that it encompasses us, and that we are the embers. These men teach, if one give them money, to conquer in speaking, right or wrong.”",
+      "Strepsiades encourages his son to learn to be a sophist, saying, “Go, I entreat you, dearest of men, go and be taught.”",
+      "Socrates, a sophist, says to a new customer, “Come, then, take care that, whenever I propound any clever dogma about abstruse matters, you [seize] immediately.”"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Socrates đuổi một khách hàng đi, thể hiện sự cáu kỉnh chứ không phải sự tự cao về trí tuệ.",
+      "B": "Vì sao sai: Strepsiades mô tả các nhà ngụy biện từ góc nhìn bên ngoài, không phải lời của chính nhà ngụy biện.",
+      "C": "Vì sao sai: Lời của Strepsiades khuyến khích con trai mình, không phải lời của nhà ngụy biện.",
+      "D": "Lý do: Socrates, một nhà ngụy biện, nói với một khách hàng mới: \"Hãy cẩn thận, bất cứ khi nào ta đưa ra một giáo điều thông thái nào về những vấn đề cao siêu, ngươi phải [nắm bắt] ngay lập tức\". Lời nói này thể hiện rõ sự tự phụ, coi kiến thức của mình là \"thông thái\" và \"cao siêu\"."
+    },
+    "contextSummary": "Vở kịch \"The Clouds\" của Aristophanes châm biếm các nhà ngụy biện (sophists) là có \"cảm giác quá đáng về sự thông thái của chính họ\".",
+    "contextLogic": "Chúng ta cần tìm một trích dẫn trong đó một nhà ngụy biện nói điều gì đó thể hiện sự tự cao, cho rằng mình có kiến thức uyên thâm, cao siêu."
+  },
+  {
+    "id": 37033,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 33",
+    "context": "Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offer subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that ________ ",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "EV owners are usually unaware of the fees for using charging stations.",
+      "EV drivers are more likely to visit areas with many restaurants and convenience stores than they are to visit areas with fewer such businesses.",
+      "charging stations located near car rental companies are more frequently visited than charging stations located near restaurants and convenience stores.",
+      "users who are offered a discount have lower expectations of the quality of charging stations than users who are not offered a discount do."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Văn bản ngụ ý người dùng nhận thức được phí.",
+      "B": "Vì sao sai: Không thể suy ra thói quen di chuyển của tài xế EV.",
+      "C": "Vì sao sai: Không thể suy ra tần suất ghé thăm.",
+      "D": "Lý do: \"người dùng được giảm giá có kỳ vọng thấp hơn về chất lượng của các trạm sạc so với những người dùng không được giảm giá\". Đây là lời giải thích hợp lý nhất cho sự khác biệt trong đánh giá."
+    },
+    "contextSummary": "Một nghiên cứu cho thấy các trạm sạc xe điện (EV) tư nhân ở gần nhà hàng có ít đánh giá tiêu cực, trong khi các trạm ở gần công ty cho thuê xe có nhiều đánh giá tiêu cực. Thêm vào đó, các trạm gần công ty cho thuê xe thường yêu cầu trả giá đầy đủ, trong khi các trạm ở nơi khác thường được trợ giá hoặc miễn phí.",
+    "contextLogic": "Giả sử chất lượng dịch vụ ở các trạm là như nhau, sự khác biệt trong đánh giá phải đến từ yếu tố còn lại: giá cả. Những người dùng được giảm giá hoặc miễn phí có xu hướng đánh giá tích cực hơn. Điều này cho thấy rằng khi được giảm giá, kỳ vọng của người dùng về chất lượng sẽ thấp hơn, khiến họ dễ hài lòng hơn."
+  },
+  {
+    "id": 37034,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 34",
+    "context": "Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Starr Hardridge often assembles compositions out of motifs common in the traditional beadwork and graphic art of his tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Southern Cheyenne artist Dick West, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of West’s generation, the identification of an abstract painting as Indigenous art tends to ________",
+    "prompt": " Which choice most logically completes the text?",
+    "options": [
+      "deny the extent to which cultural identity influences an artist’s work.",
+      "depend not on stylistic details but instead on an awareness of the artist’s identity.",
+      "obscure the Indigenous origins of certain motifs associated with Abstract Expressionism.",
+      "place a greater emphasis on the artist’s biography than on the aesthetic merit of the painting."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Sai, văn bản không phủ nhận ảnh hưởng của bản sắc văn hóa.",
+      "B": "Lý do: \"phụ thuộc không vào các chi tiết phong cách mà thay vào đó là vào sự nhận biết về danh tính của nghệ sĩ\". Đây là kết luận logic cốt lõi.",
+      "C": "Vì sao sai: Không có thông tin để hỗ trợ điều này.",
+      "D": "Vì sao sai: So sánh giữa tiểu sử và giá trị thẩm mỹ là một sự diễn giải quá xa."
+    },
+    "contextSummary": "Các họa sĩ bản địa đương đại thực hành một phương thức trừu tượng bản địa đặc trưng (ví dụ: sử dụng họa tiết từ nghệ thuật truyền thống). Ngược lại, các họa sĩ bản địa nổi bật giữa thế kỷ 20 (như Dick West) thường sử dụng các chiến lược sáng tác của trường phái Biểu hiện Trừu tượng—một trường phái do các nghệ sĩ Mỹ gốc Âu thống trị—thay vì các hình thức nghệ thuật bản địa phi biểu hình truyền thống.",
+    "contextLogic": "Đối với thế hệ của West, phong cách hội họa của họ không có đặc điểm gì rõ ràng để nhận diện là \"bản địa\". Phong cách của họ giống với phong cách của các nghệ sĩ Mỹ gốc Âu. Do đó, việc xác định một bức tranh trừu tượng là nghệ thuật bản địa phải phụ thuộc vào việc biết danh tính của nghệ sĩ, chứ không phải dựa vào các chi tiết phong cách trong tác phẩm."
+  },
+  {
+    "id": 37035,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 35",
+    "context": " A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, ________, visited a select few nesting sites before laying and incubating her eggs herself.",
+    "prompt": "T Which choice completes the text with the most logical transition?",
+    "options": [
+      "for example,",
+      "in particular,",
+      "similarly,",
+      "alternatively,"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: for example (ví dụ) - Sai, đây không phải là một ví dụ của hành vi ký sinh.",
+      "B": "Vì sao sai: in particular (cụ thể) - Sai.",
+      "C": "Vì sao sai: similarly (tương tự) - Sai, hành vi này là khác biệt.",
+      "D": "Lý do: alternatively (một cách khác, thay vào đó) - Chính xác, từ này giới thiệu một hành vi hoặc lựa chọn khác."
+    },
+    "contextSummary": "Các nhà nghiên cứu quan sát thấy một số con vịt gỗ mái đến đẻ trứng trong tổ của những con vịt khác (ký sinh làm tổ cùng loài). ________, đối tượng 7F64B đã đến thăm một vài tổ được chọn trước khi tự mình đẻ và ấp trứng.",
+    "contextLogic": "Hành vi của đối tượng 7F64B (tự đẻ và ấp trứng) là một hành vi thay thế, một lựa chọn khác so với hành vi ký sinh làm tổ được mô tả trước đó. Từ chuyển tiếp cần thể hiện sự lựa chọn thay thế này."
+  },
+  {
+    "id": 37036,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 36",
+    "context": "Portable video game consoles and other small electronic devices tend to ____ batteries that can’t be easily taken out and swapped for new ones. Environmental policy researcher Carl Dalhammar warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful waste.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "contain",
+      "prepare",
+      "imagine",
+      "discover"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: contain (chứa, bao gồm) - Chính xác.",
+      "B": "Vì sao sai: prepare (chuẩn bị) - Sai.",
+      "C": "Vì sao sai: imagine (tưởng tượng) - Sai.",
+      "D": "Vì sao sai: discover (khám phá) - Sai."
+    },
+    "contextSummary": "Các máy chơi game cầm tay và thiết bị điện tử nhỏ có xu hướng ____ các loại pin không thể dễ dàng tháo ra và thay thế. Khi pin hỏng, thiết bị thường bị vứt đi.",
+    "contextLogic": "Từ cần điền mô tả mối quan hệ giữa thiết bị và pin bên trong nó. Thiết bị \"chứa\" hoặc \"bao gồm\" pin."
+  },
+  {
+    "id": 37037,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 37",
+    "context": "A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ____ suggests that early hominins may have been more cognitively sophisticated than previously thought.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "concerning",
+      "comparable",
+      "sympathetic",
+      "deliberate"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: concerning (đáng lo ngại) - Sai.",
+      "B": "Vì sao sai: comparable (có thể so sánh) - Sai.",
+      "C": "Vì sao sai: sympathetic (thông cảm) - Sai.",
+      "D": "Lý do: deliberate (cố ý, có chủ tâm) - Chính xác."
+    },
+    "contextSummary": "Các nhà khảo cổ kết luận rằng các hominin sơ khai đã cố tình đẽo gọt các tảng đá để tạo thành hình cầu. Việc họ cố gắng làm cho các viên đá tròn nhất có thể là ____, điều này cho thấy họ có thể có nhận thức phức tạp hơn so với suy nghĩ trước đây.",
+    "contextLogic": "Hành động \"cố tình đẽo gọt\" và \"cố gắng làm cho... tròn nhất có thể\" cho thấy đây là một hành động có chủ ý, có mục đích."
+  },
+  {
+    "id": 37038,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 38",
+    "context": "The following text is adapted from George Bernard Shaw’s 1905 play Major Barbara. \n\nLADY BRITOMART: You must learn to face life seriously, Stephen. I really cannot bear the whole burden of our family affairs any longer. You must advise me: you must [assume] the responsibility. \n\nSTEPHEN: I! LADY BRITOMART: Yes, you, of course. You were 24 last June.",
+    "prompt": "As used in the text, what does the word “assume” most nearly mean?",
+    "options": [
+      "Infer",
+      "Mimic",
+      "Undertake",
+      "Presuppose"
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Infer (suy luận) - Sai.",
+      "B": "Vì sao sai: Mimic (bắt chước) - Sai.",
+      "C": "Lý do: Undertake (đảm nhận, gánh vác) - Chính xác.",
+      "D": "Vì sao sai: Presuppose (giả định) - Sai."
+    },
+    "contextSummary": "Lady Britomart nói với con trai mình, Stephen, rằng ông không thể gánh vác công việc gia đình một mình nữa. Bà nói: \"Con phải khuyên ta: con phải assume the responsibility\".",
+    "contextLogic": "Trong bối cảnh này, \"assume the responsibility\" có nghĩa là nhận lấy, gánh vác trách nhiệm."
+  },
+  {
+    "id": 37039,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 39",
+    "context": "The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton’s neighbors. It was happy for the Rev. Amos Barton that he did not, like us, overhear the conversation recorded in the last chapter. Indeed, what mortal is there of us, who would find his satisfaction enhanced by an opportunity of comparing the picture he presents to himself of his own doings, with the picture they make on the mental retina of his neighbours? We are poor plants buoyed up by the air-vessels of our own conceit: alas for us, if we get a few pinches that empty us of that windy self-subsistence! The very capacity for good would go out of us.",
+    "prompt": "Which choice best states the overall structure of the text?",
+    "options": [
+      "The narrator expresses relief that a disagreement was resolved more expediently than expected and then indicates how the situation might have gone differently.",
+      "The narrator comments on the fact that a character remains unaware of how he is viewed by others and then generalizes about the problem of learning others’ opinions of one’s own actions.",
+      "The narrator summarizes an earlier event involving a specific character and then anticipates the later significance it will have for that character.",
+      "The narrator implies that a character is not well liked by his neighbors and then uses an extended comparison to demonstrate why their negative opinion of him is largely justified."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Không có sự bất đồng nào được giải quyết.",
+      "B": "Lý do: \"Người kể chuyện bình luận về việc một nhân vật không biết mình bị người khác nhìn nhận như thế nào và sau đó khái quát hóa về vấn đề học hỏi ý kiến của người khác về hành động của chính mình\". Lựa chọn này mô tả chính xác cấu trúc hai phần của văn bản.",
+      "C": "Vì sao sai: Không có sự dự đoán về ý nghĩa sau này.",
+      "D": "Vì sao sai: Văn bản không nói rằng ý kiến tiêu cực đó là chính đáng."
+    },
+    "contextSummary": "Người kể chuyện nói rằng thật may mắn cho Tu sĩ Amos Barton vì ông không nghe được cuộc trò chuyện về mình. Sau đó, người kể chuyện khái quát hóa vấn đề này bằng cách hỏi rằng có ai trong chúng ta sẽ cảm thấy hài lòng hơn khi biết người khác nghĩ gì về hành động của mình không, và so sánh con người với những cái cây yếu ớt được nâng đỡ bởi sự tự phụ.",
+    "contextLogic": "Cấu trúc của văn bản bắt đầu bằng một nhận xét về một nhân vật cụ thể (Barton không biết người khác nghĩ gì về mình) và sau đó chuyển sang một suy ngẫm chung, khái quát về vấn đề con người phải đối mặt với ý kiến của người khác."
+  },
+  {
+    "id": 37040,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 40",
+    "context": "Text 1: \nYale University and the investment bank JPMorgan Chase are two of the many institutions offering training programs in entrepreneurship. [But what results do such programs produce?] In a study of college students in Sweden, researcher Ove Hansemark addressed this question and found that participants showed strong belief in their entrepreneurial capabilities after receiving entrepreneurial training. \n\nText 2: \nWhile studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1998 study by Ove Hansemark found benefits of entrepreneurial education for Swedish college students, but the study used a very small sample of only 19 students, making it difficult to say whether the training actually had an effect.",
+    "prompt": "Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?",
+    "options": [
+      "Although the programs may seem to produce positive results, close analysis of studies of the programs shows that they produce negative results just as frequently.",
+      "It is unknown what results the programs produce because studies of them are often designed in ways that do not allow for definitive conclusions.",
+      "Most of the programs do not actually produce positive results even though program participants tend to regard them as beneficial.",
+      "The programs tend to produce inconsistent results because they vary substantially in their methods and aims."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Sai, Văn bản 2 không nói kết quả là tiêu cực, mà là không thể kết luận được.",
+      "B": "Lý do: \"Không biết các chương trình tạo ra kết quả gì vì các nghiên cứu về chúng thường được thiết kế theo những cách không cho phép đưa ra kết luận chắc chắn\". Lựa chọn này phản ánh trực tiếp lời chỉ trích trong Văn bản 2.",
+      "C": "Vì sao sai: Sai, Văn bản 2 không kết luận rằng các chương trình không tạo ra kết quả tích cực.",
+      "D": "Vì sao sai: Sai, Văn bản 2 tập trung vào phương pháp luận yếu kém, không phải sự không nhất quán của các chương trình."
+    },
+    "contextSummary": "Văn bản 1: Đặt câu hỏi các chương trình đào tạo khởi nghiệp tạo ra kết quả gì và trích dẫn nghiên cứu của Hansemark cho thấy kết quả tích cực (người tham gia tin tưởng vào khả năng của mình). \n\nVăn bản 2: Chỉ trích các phương pháp luận của các nghiên cứu về đào tạo khởi nghiệp là có thiếu sót. Cụ thể, nó chỉ ra rằng nghiên cứu của Hansemark đã sử dụng một \"mẫu rất nhỏ chỉ có 19 sinh viên\", khiến \"khó có thể nói liệu việc đào tạo có thực sự có hiệu quả hay không\".",
+    "contextLogic": "Tác giả của Văn bản 2 sẽ trả lời câu hỏi của Văn bản 1 bằng cách nói rằng chúng ta không thực sự biết kết quả là gì vì các nghiên cứu được thiết kế kém và không cho phép đưa ra kết luận chắc chắn."
+  },
+  {
+    "id": 37041,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 41",
+    "context": "Text 1: \nIndustrial fuel consumption and other human activities are significant sources of atmospheric methane (CH₄), but, as Huai Chen and colleagues have shown, so too are naturally occurring emissions, such as those from wetlands. This biogenic CH₄ is challenging to monitor given natural sources’ variability and spatial diffusion, but one promising approach is to use CH₄ flux data from extant [monitoring infrastructure] as proxies for CH₄ fluxes in unmonitored areas. \n\nText 2: \nSparkle Malone and colleagues examined the United States’ network of eddy covariance (EC) towers—the equipment used to track CH₄ fluxes—to evaluate the utility of network data for quantifying biogenic CH₄. Malone et al. found that EC towers are disproportionately concentrated in areas where biogenic CH₄ emissions are known to be elevated, a pattern that seriously compromises the representativeness of network data. Based on the texts, Malone et al.",
+    "prompt": "Based on the texts, Malone et al. (Text 2) would most likely agree with which statement about the “monitoring infrastructure” described in Text 1?",
+    "options": [
+      "It tends to be located in places where biogenic CH₄ fluxes are too variable for flux data to be used in the way suggested in Text 1.",
+      "It has been in place for too little time to produce enough biogenic CH₄ flux data for the approach described in Text 1.",
+      "It is not sensitive enough to measure the specific kinds of biogenic CH₄ fluxes discussed in Text 1.",
+      "It is not distributed in a way that would allow the biogenic CH₄ flux data it produces to serve the role proposed in Text 1."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Sai, vấn đề là vị trí, không phải sự biến đổi.",
+      "B": "Vì sao sai: Sai, văn bản không đề cập đến thời gian hoạt động.",
+      "C": "Vì sao sai: Sai, văn bản không nói về độ nhạy của thiết bị.",
+      "D": "Lý do: \"Nó không được phân bổ theo cách cho phép dữ liệu về dòng CH₄ sinh học mà nó tạo ra có thể phục vụ vai trò được đề xuất trong Văn bản 1\". Lựa chọn này trực tiếp chỉ ra vấn đề về tính đại diện do sự phân bổ không đồng đều."
+    },
+    "contextSummary": "Văn bản 1: Đề xuất một phương pháp hứa hẹn để theo dõi khí metan (CH₄) sinh học: sử dụng dữ liệu từ \"cơ sở hạ tầng giám sát\" hiện có làm đại diện cho các khu vực không được giám sát. \n\nVăn bản 2: Phân tích mạng lưới các tháp EC (cơ sở hạ tầng giám sát) của Hoa Kỳ và thấy rằng chúng \"tập trung không tương xứng ở những khu vực mà lượng phát thải CH₄ sinh học được biết là cao\", điều này \"làm tổn hại nghiêm trọng đến tính đại diện của dữ liệu mạng lưới\".",
+    "contextLogic": "Malone et al. (Văn bản 2) sẽ đồng ý rằng cơ sở hạ tầng giám sát được mô tả trong Văn bản 1 không được phân bổ một cách hợp lý. Vì nó tập trung ở các khu vực có lượng phát thải cao, dữ liệu của nó không thể đại diện cho các khu vực khác, do đó không thể được sử dụng làm \"đại diện\" như Văn bản 1 đề xuất."
+  },
+  {
+    "id": 37042,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 42",
+    "context": "Editor Jared Shurin’s enormous 2023 anthology The Big Book of Cyberpunk comprises 108 stories. Shurin’s volume is chronologically expansive, featuring such stories as Fritz Leiber’s “Coming Attraction” (1950) and Erica Satifka’s “Act of Providence” (2021). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction concerning “the influence of technology on the scale, the pace, or the pattern of human affairs”; however, some critics assert that [cyberpunk was a literary movement that was in large part aesthetic rather than idea driven.]",
+    "prompt": "Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?",
+    "options": [
+      "“Shurin’s characterization of cyberpunk is remarkably generous; it is a categorization that might well serve for the entire field of science fiction in general, rather than cyberpunk in particular.”",
+      "“Not all the stories anthologized in The Big Book of Cyberpunk were first published as stand-alone short stories in magazines or journals; for example, qntm’s 2021 story ‘Lena’ was originally self-published on the author’s site qntm.org.”",
+      "“The stories in The Big Book of Cyberpunk share a number of common themes indicative of cyberpunk as a whole: body modification; resistance to authority; the ways in which technological advancements alter human behavior.”",
+      "“A key component of cyberpunk that differentiates it from other subgenres of science fiction is an affection for the totems of 1980s pop culture, such as the mirrored sunglasses that were then popular.”"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Phê bình định nghĩa của Shurin là quá rộng, không hỗ trợ luận điểm.",
+      "B": "Vì sao sai: Thảo luận về nơi xuất bản, không liên quan.",
+      "C": "Vì sao sai: Liệt kê các \"chủ đề\" chung, điều này hỗ trợ cho quan điểm rằng cyberpunk định hướng bởi ý tưởng, trái ngược với luận điểm.",
+      "D": "Lý do: \"Một thành phần quan trọng của cyberpunk... là sự yêu thích các biểu tượng của văn hóa đại chúng những năm 1980, chẳng hạn như kính râm tráng gương\". Việc nhấn mạnh một yếu tố thẩm mỹ cụ thể như kính râm làm bằng chứng cho thấy đây là một phong trào định hướng bởi phong cách."
+    },
+    "contextSummary": "Luận điểm được gạch chân là của một số nhà phê bình, cho rằng cyberpunk là một phong trào văn học \"phần lớn mang tính thẩm mỹ hơn là định hướng bởi ý tưởng\".",
+    "contextLogic": "Để hỗ trợ luận điểm này, chúng ta cần tìm một trích dẫn nhấn mạnh các yếu tố hình thức, phong cách, hoặc các biểu tượng văn hóa cụ thể (thẩm mỹ) là cốt lõi của cyberpunk, thay vì các chủ đề hay ý tưởng."
+  },
+  {
+    "id": 37043,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 43",
+    "context": "When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. [But the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.]",
+    "prompt": "Which finding, if true, would most directly support the underlined claim?",
+    "options": [
+      "Consumers tend to prefer new products over older products.",
+      "Consumers are more likely to buy a new product when they already use products from the company making the new product.",
+      "Consumer surveys show low excitement for new products that were announced a long time before they were released.",
+      "The kind of information a company provides about a new product helps determine how likely consumers are to buy the product."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: So sánh sản phẩm mới và cũ, không liên quan đến thời gian thông báo.",
+      "B": "Vì sao sai: Đề cập đến lòng trung thành với thương hiệu, không liên quan.",
+      "C": "Lý do: \"Các cuộc khảo sát người tiêu dùng cho thấy sự phấn khích thấp đối với các sản phẩm mới được công bố một thời gian dài trước khi chúng được phát hành\". Đây là bằng chứng trực tiếp và mạnh mẽ nhất cho luận điểm.",
+      "D": "Vì sao sai: Đề cập đến loại thông tin, không phải thời gian."
+    },
+    "contextSummary": "Luận điểm được gạch chân là: hiệu ứng phấn khích của người tiêu dùng đối với một sản phẩm mới được công bố \"biến mất nhanh chóng\".",
+    "contextLogic": "Chúng ta cần tìm một bằng chứng cho thấy sự phấn khích giảm đi khi có một khoảng thời gian dài giữa thông báo và ngày phát hành."
+  },
+  {
+    "id": 37044,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 44",
+    "context": "Slow cinema, an art house genre exemplified by films such as Nuri Bilge Ceylan’s Once Upon a Time in Anatolia (2011), is characterized by its deprivileging of narrative and its contemplative pace. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives, 2010) describes his films as sleep inducing for audiences, which might seem to indicate that his films are boring. But boredom does not necessarily cause sleep: [boredom can also create a tension in the absence of a goal on which one can focus one’s concentration, a tension that is anxiety inducing rather than soporific.] Thus, when Apichatpong describes his films as sleep inducing, this is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.",
+    "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "options": [
+      "It explains why an aesthetic choice mentioned earlier in the text that many regard as disagreeable is nonetheless pleasurable for some.",
+      "It emphasizes the characteristic mentioned earlier in the text that most notably links films by Apichatpong to those by Ceylan.",
+      "It offers information to support the idea that habitual viewers of slow cinema often unfairly criticize films by Apichatpong, an argument subsequently presented in the text.",
+      "It offers a description of a concept to support the idea that the link between that concept and another is often incorrectly construed, as implied earlier in the text."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Sai, nó không giải thích tại sao điều đó lại thú vị.",
+      "B": "Vì sao sai: Sai, nó không liên kết Apichatpong với Ceylan.",
+      "C": "Vì sao sai: Sai, nó không chỉ trích người xem.",
+      "D": "Lý do: \"Nó đưa ra một mô tả về một khái niệm để hỗ trợ ý tưởng rằng mối liên kết giữa khái niệm đó và một khái niệm khác thường bị hiểu sai, như đã được ngụ ý trước đó trong văn bản\". Lựa chọn này mô tả chính xác chức năng của phần gạch chân."
+    },
+    "contextSummary": "Giám đốc phim chậm (slow cinema) Apichatpong mô tả phim của mình là gây buồn ngủ, điều này có thể bị hiểu nhầm là nhàm chán. Phần gạch chân giải thích rằng sự nhàm chán không nhất thiết gây buồn ngủ; nó cũng có thể tạo ra căng thẳng và lo lắng.",
+    "contextLogic": "Chức năng của phần gạch chân là đưa ra một phân tích về khái niệm \"nhàm chán\" để chỉ ra rằng mối liên hệ giữa \"nhàm chán\" và \"buồn ngủ\" thường bị hiểu sai. Điều này giúp tác giả lập luận rằng khi Apichatpong nói phim của ông \"gây buồn ngủ\", đó không phải là một lời tự ti."
+  },
+  {
+    "id": 37045,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 45",
+    "context": "Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.",
+    "prompt": "Which quotation from the article would best illustrate the theater historian’s claim?",
+    "options": [
+      "“The members of the company, which in addition to founder Luis Valdez consisted entirely of nonprofessional actors, traveled into farm fields, where they, with minimal props and costumes, performed comedy in the form of brief humorous vignettes.”",
+      "“The company was focused on the reality of the present situation and discovered that humor was often found in that reality; consequently, comedy became a tool to convey social critique while entertaining and inspiring audiences.”",
+      "“The company relied heavily on satire, humor, and references to contemporary popular culture as well as a make-do aesthetic—often referred to as rasquache—that reflected not only the troupe’s limited financial resources but also its sociopolitical message.”",
+      "“The company presented actos, short comedy sketches, that often relied on exaggerated physical humor to groups of agricultural workers, whose reactions—enthusiastic cheers of appreciation and, occasionally, loud boos of disapproval—promoted improvisation.”"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Đề cập đến hài kịch nhưng không nói về sự tương tác của khán giả.",
+      "B": "Vì sao sai: Thảo luận về mục đích của hài kịch, không phải phong cách cụ thể hay sự tương tác của khán giả.",
+      "C": "Vì sao sai: Đề cập đến các yếu tố hài hước nhưng không nhấn mạnh sự tương tác của khán giả.",
+      "D": "Lý do: \"Đoàn kịch đã trình diễn các vở kịch ngắn, hài hước thường dựa vào hài hước thể chất cường điệu cho các nhóm công nhân nông nghiệp, những người có phản ứng—tiếng reo hò cổ vũ nhiệt tình và đôi khi là tiếng la ó phản đối—thúc đẩy sự ứng biến\". Câu này minh họa hoàn hảo cả hài hước thể chất và vai trò trung gian của khán giả."
+    },
+    "contextSummary": "Luận điểm của nhà sử học sân khấu là một ảnh hưởng phong cách quan trọng đối với các buổi biểu diễn ban đầu của El Teatro Campesino là \"hài kịch tấu hài qua trung gian khán giả\" của sân khấu carpa.",
+    "contextLogic": "Chúng ta cần một trích dẫn minh họa cả hai yếu tố: (1) hài kịch tấu hài, đặc biệt là hài hước thể chất, và (2) sự tương tác, ảnh hưởng của khán giả đến màn trình diễn."
+  },
+  {
+    "id": 37046,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 46",
+    "context": "In Switzerland, the white fuzzy mountain flowers known as edelweiss are widely treated as a symbol of strength and courage. Although edelweiss can thrive in extreme conditions, they aren’t notably tougher or harder to reach than other mountain flowers growing in the Swiss Alps. Historian Tobias Scheidegger has shown that the popular view of the flowers originated in the mid-1800s when mountain climbing became popular in Switzerland. Mountain climbers spread the idea that the flowers grew only in steep, icy terrains that were dangerous to climb to. Scheidegger says that these claims were self-interested.",
+    "prompt": "He suggests that mountain climbers presented edelweiss in this way in order to ________.",
+    "options": [
+      "share their observations about the unusual characteristics of edelweiss with scientists.",
+      "encourage more flower enthusiasts to explore the Swiss Alps.",
+      "make themselves appear brave and strong for being able to climb to difficult places where edelweiss supposedly grew.",
+      "prove that edelweiss were more common in the Swiss Alps than in other mountain regions in Europe."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Sai, mục đích của họ không phải là khoa học.",
+      "B": "Vì sao sai: Sai, điều này sẽ làm nản lòng thay vì khuyến khích người khác.",
+      "C": "Lý do: \"làm cho bản thân họ có vẻ dũng cảm và mạnh mẽ vì đã có thể leo lên những nơi khó khăn nơi edelweiss được cho là mọc\". Đây là lời giải thích hợp lý nhất cho động cơ \"vì lợi ích cá nhân\" của họ.",
+      "D": "Vì sao sai: Sai, văn bản không so sánh sự phổ biến của hoa ở các vùng khác nhau."
+    },
+    "contextSummary": "Hoa edelweiss được coi là biểu tượng của sức mạnh và lòng dũng cảm. Quan điểm này bắt nguồn từ những người leo núi vào thế kỷ 19, họ lan truyền ý tưởng rằng loài hoa này chỉ mọc ở những địa hình dốc, hiểm trở. Nhà sử học Scheidegger cho rằng những tuyên bố này là \"vì lợi ích cá nhân\".",
+    "contextLogic": "Tại sao những người leo núi lại nói dối rằng hoa edelweiss rất khó hái? Bằng cách làm cho nơi họ đến có vẻ nguy hiểm và loài hoa họ hái được có vẻ hiếm có, họ đang gián tiếp làm cho chính mình có vẻ dũng cảm và mạnh mẽ hơn vì đã chinh phục được những thử thách đó."
+  },
+  {
+    "id": 37047,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 47",
+    "context": "The fibularis longus and the ___ move the fibula and humerus, respectively.",
+    "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": [
+      "brachialis are cylindrical in shape, which are skeletal muscles, and help",
+      "brachialis are cylindrical in shape and help, which are skeletal muscles,",
+      "brachialis, which are skeletal muscles, are cylindrical in shape and help",
+      "brachialis are cylindrical, which are skeletal muscles, in shape and help"
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: và (B) và (D) đặt mệnh đề \"which are skeletal muscles\" ở vị trí sai, làm cho câu trở nên khó hiểu và không đúng ngữ pháp.",
+      "B": "Vì sao sai: và (D) đặt mệnh đề \"which are skeletal muscles\" ở vị trí sai, làm cho câu trở nên khó hiểu và không đúng ngữ pháp.",
+      "C": "Lý do: \"brachialis, which are skeletal muscles, are cylindrical in shape and help\". Cấu trúc này đặt đúng mệnh đề không hạn định \"which are skeletal muscles\" giữa hai dấu phẩy để bổ sung thông tin cho cả hai cơ, sau đó tiếp tục với vị ngữ chính \"are... and help\".",
+      "D": "Vì sao sai: đặt mệnh đề \"which are skeletal muscles\" ở vị trí sai, làm cho câu trở nên khó hiểu và không đúng ngữ pháp."
+    },
+    "contextSummary": "Câu văn cần mô tả hai cơ, fibularis longus và brachialis, và chức năng của chúng.",
+    "contextLogic": "Đây là một câu hỏi về ngữ pháp tiếng Anh chuẩn, đặc biệt là việc sử dụng mệnh đề không hạn định (nonrestrictive clause) được đặt giữa hai dấu phẩy để cung cấp thông tin bổ sung. Cấu trúc đúng sẽ là: [Chủ ngữ 1] and the [Chủ ngữ 2], [mệnh đề bổ sung cho cả hai], [vị ngữ cho cả hai]."
+  },
+  {
+    "id": 37048,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 48",
+    "context": "In the West African country of Sierra Leone, the percentage of the population living in cities rose from 40.8% to 42.9% between 2015 and 2020. ________ urbanization rates climbed across West Africa as a whole, rising 3.2 percentage points in that five-year period.",
+    "prompt": "Which choice completes the text with the most logical transition?",
+    "options": [
+      "Concurrently,",
+      "For example,",
+      "In other words,",
+      "Eventually,"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Lý do: Concurrently (đồng thời) - Chính xác.",
+      "B": "Vì sao sai: For example (ví dụ) - Sai, Sierra Leone không phải là một ví dụ điển hình vì tốc độ của nó thấp hơn mức trung bình.",
+      "C": "Vì sao sai: In other words (nói cách khác) - Sai, hai câu không diễn đạt cùng một ý.",
+      "D": "Vì sao sai: Eventually (cuối cùng) - Sai."
+    },
+    "contextSummary": "Câu đầu tiên nêu một dữ liệu cụ thể: tỷ lệ đô thị hóa ở Sierra Leone tăng 2.1 điểm phần trăm từ 2015-2020. Câu thứ hai nêu một dữ liệu rộng hơn: tỷ lệ đô thị hóa trên toàn bộ Tây Phi tăng 3.2 điểm phần trăm trong cùng kỳ.",
+    "contextLogic": "Hai sự kiện này xảy ra song song, cùng một lúc. Từ chuyển tiếp cần thể hiện mối quan hệ đồng thời này."
+  },
+  {
+    "id": 37049,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 49",
+    "context": "Text 1: \nBioluminescence, an organism’s emission of visible light, is the by-product of an oxidation reaction. The comb jelly has specialized cells that carry out that chemical reaction. Other marine species, such as the flashlight fish, emit light by hosting luminescent bacteria symbionts in specialized organs. Regardless of the mechanism, it’s estimated that bioluminescence is exhibited by 2,951 marine species. \n\nText 2: \nBioluminescence is often difficult to observe: displays are typically faint and brief, and individuals of a species can vary in their ability to emit light due to seasonal, life-stage, or dietary factors. Changes in how marine organisms are classified further complicate the identification of organisms capable of bioluminescence, making it difficult for scientists to maintain a definitive inventory of such species.",
+    "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the estimate presented in Text 1?",
+    "options": [
+      "By suggesting that the estimate is probably too low because scientists have examined only a modest number of marine species for potential bioluminescence",
+      "By arguing that the estimate will quickly become outdated because of the dynamic nature of bioluminescence in marine species",
+      "By supporting the estimate as it is consistent with the current criteria used by scientists to classify marine species as bioluminescent",
+      "By questioning the accuracy of the estimate, citing difficulties in the observation and classification of bioluminescent marine species"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Sai, Văn bản 2 không nói rằng ước tính là quá thấp.",
+      "B": "Vì sao sai: Sai, vấn đề là sự chính xác tại một thời điểm, không phải việc nó sẽ lỗi thời.",
+      "C": "Vì sao sai: Sai, Văn bản 2 ngụ ý rằng các tiêu chí phân loại rất phức tạp.",
+      "D": "Lý do: \"Bằng cách đặt câu hỏi về tính chính xác của ước tính, trích dẫn những khó khăn trong việc quan sát và phân loại các loài sinh vật biển phát quang sinh học\". Lựa chọn này phản ánh chính xác quan điểm hoài nghi của tác giả Văn bản 2."
+    },
+    "contextSummary": "Văn bản 1: Định nghĩa sự phát quang sinh học và đưa ra một ước tính rằng có 2,951 loài sinh vật biển thể hiện khả năng này. \n\nVăn bản 2: Nêu ra những khó khăn trong việc quan sát và xác định các loài phát quang sinh học: sự phát quang thường yếu và ngắn, các cá thể trong cùng một loài có thể khác nhau, và việc phân loại các loài liên tục thay đổi. Điều này khiến việc duy trì một \"danh sách dứt khoát\" trở nên khó khăn.",
+    "contextLogic": "Tác giả của Văn bản 2, người nhấn mạnh những khó khăn trong việc quan sát và phân loại, sẽ hoài nghi về bất kỳ con số ước tính cụ thể nào như con số trong Văn bản 1. Họ sẽ cho rằng con số đó không thể chính xác vì những thách thức cố hữu trong việc thu thập dữ liệu."
+  },
+  {
+    "id": 37050,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 50",
+    "context": "The blue shark and the striped marlin are ectothermic (cold-blooded) fish, whereas the salmon shark and the Pacific bluefin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Unlike those of ectotherms, regional endotherms’ hearts have a relatively high proportion (greater than 30%) of compact myocardial tissue, which is needed to maintain these animals’ blood pressure. In a 2023 study, Haley R. Dolton and colleagues found that basking sharks—planktivorous filter-feeders that were classified as full ectotherms at the time—have hearts consisting of 47% compact myocardial tissue, thereby undermining that classification.",
+    "prompt": "According to the text, which choice most accurately describes the importance of the percentage of compact myocardial tissue in the basking shark’s heart?",
+    "options": [
+      "It is insufficient to establish that the basking shark should be categorized as Dolton and colleagues suggest.",
+      "It is higher than that of the salmon shark, a regional endotherm, despite the basking shark being a full ectotherm.",
+      "It is higher than that of the Pacific bluefin tuna, a regional endotherm, which calls into question the basking shark’s status as a regional endotherm.",
+      "It is, by itself, sufficient to invalidate how the basking shark has been categorized in the past."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Sai, văn bản trình bày nó như một bằng chứng mạnh mẽ.",
+      "B": "Vì sao sai: Sai, văn bản không so sánh tỷ lệ của cá nhám phơi nắng với cá mập hồi.",
+      "C": "Vì sao sai: Sai, tỷ lệ cao này ủng hộ việc nó là cá thu nhiệt, không phải đặt câu hỏi.",
+      "D": "Lý do: \"tự nó, là đủ để làm mất hiệu lực cách mà cá nhám phơi nắng đã được phân loại trong quá khứ\". Đây là mô tả chính xác nhất về tầm quan trọng của phát hiện này."
+    },
+    "contextSummary": "Cá máu lạnh (ectotherm) khác với cá thu nhiệt cục bộ (regional endotherm) ở chỗ cá thu nhiệt có tỷ lệ mô cơ tim đặc cao (hơn 30%). Một nghiên cứu phát hiện ra rằng cá nhám phơi nắng—trước đây được phân loại là máu lạnh hoàn toàn—có trái tim chứa 47% mô cơ tim đặc, do đó làm suy yếu sự phân loại đó.",
+    "contextLogic": "Việc cá nhám phơi nắng có 47% mô cơ tim đặc (một con số cao hơn ngưỡng 30% của cá thu nhiệt) là bằng chứng mâu thuẫn trực tiếp với việc phân loại nó là cá máu lạnh hoàn toàn. Chỉ riêng dữ kiện này đã đủ để làm cho sự phân loại cũ trở nên không hợp lệ."
+  },
+  {
+    "id": 37051,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 51",
+    "context": "Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others’ agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone’s agency or an otherwise impermissible end.",
+    "prompt": "Which choice best states the main idea of the text?",
+    "options": [
+      "Pallikkathayil’s argument suggests that if we have a duty to respect other people’s agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.",
+      "Pallikkathayil’s argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.",
+      "One potential means of justifying opposition to lying is Pallikkathayil’s argument that we have an obligation to respect other people’s agency that entails a commitment to truthfulness except in certain circumstances.",
+      "Many people have an intuitive sense that lying is permissible in some circumstances but lack a principled way to identify those circumstances, and Pallikkathayil’s argument may provide a means of resolving that problem."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Sai, lập luận của Pallikkathayil không dẫn đến một nghĩa vụ không thể vi phạm.",
+      "B": "Vì sao sai: Sai, lập luận của Pallikkathayil chính là để cung cấp cơ sở cho sự phản đối nói dối.",
+      "C": "Lý do: \"Một phương tiện tiềm năng để biện minh cho việc phản đối nói dối là lập luận của Pallikkathayil rằng chúng ta có nghĩa vụ tôn trọng khả năng hành động của người khác, điều này kéo theo một cam kết với sự trung thực ngoại trừ trong một số trường hợp nhất định\". Lựa chọn này tóm tắt chính xác và đầy đủ ý chính.",
+      "D": "Vì sao sai: Sai, văn bản tập trung vào việc biện minh cho sự phản đối nói dối nói chung, không phải xác định các trường hợp cụ thể."
+    },
+    "contextSummary": "Văn bản đặt ra câu hỏi: nếu nói dối đôi khi được cho phép, điều gì làm cơ sở cho sự phản đối việc nói dối ngay từ đầu?. Japa Pallikkathayil đưa ra một câu trả lời dựa trên nghĩa vụ tôn trọng \"lợi ích tác nhân\" (agential interests) của người khác: việc sở hữu niềm tin sai lầm sẽ hạn chế khả năng hành động (agency), và do đó chúng ta không nên cản trở việc hình thành niềm tin đúng đắn, trừ khi làm vậy sẽ ngăn chặn một sự hạn chế lớn hơn.",
+    "contextLogic": "Ý chính của văn bản là giới thiệu lập luận của Pallikkathayil như một cách để biện minh cho việc phản đối nói dối. Lập luận này không phải là một sự cấm đoán tuyệt đối, mà là một nghĩa vụ có điều kiện dựa trên việc tôn trọng khả năng hành động của người khác."
+  },
+  {
+    "id": 37052,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 52",
+    "context": "In a series of experiments, Julio Sevilla and Claudia Townsend showed that manipulating the space between products in store displays can influence consumers’ views of those products. Participants in several of the experiments regarded the same products in the same (generic) retail settings as significantly more valuable when the product-to-space ratio was low than when it was high. But in one of the experiments, Sevilla and Townsend arranged the same jewelry with different levels of intervening space at an upscale retailer (Tiffany & Co.) and a relatively inexpensive retailer (Forever 21). The result of this experiment suggests that a store context associated with inexpensive products may moderate the effect Sevilla and Townsend observed in their other experiments.",
+    "prompt": "Which finding, if true, would most directly support the research team’s result?",
+    "options": [
+      "At both Tiffany & Co. and Forever 21, participants judged jewelry spaced far apart to be less valuable than jewelry spaced close together, but the difference in perceived value was significantly greater at Tiffany & Co. than at Forever 21.",
+      "When jewelry was spaced far apart, participants judged the jewelry at Tiffany & Co. to be more valuable than the jewelry at Forever 21, but when jewelry was spaced close together, participants judged the jewelry at Tiffany & Co. to be less valuable than the jewelry at Forever 21.",
+      "At Tiffany & Co., participants judged jewelry spaced far apart to be substantially more valuable than jewelry spaced close together, but at Forever 21, participants judged jewelry spaced far apart to be only slightly more valuable than jewelry spaced close together.",
+      "Participants judged jewelry spaced far apart at Tiffany & Co. to be similar in value to jewelry spaced far apart at Forever 21, but participants judged jewelry spaced close together at Tiffany & Co. to be more valuable than jewelry spaced close together at Forever 21."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: Sai, nó cho thấy hiệu ứng lớn hơn ở Tiffany & Co., nhưng lại đảo ngược hiệu ứng ở cả hai cửa hàng (\"ít giá trị hơn\" khi xa nhau).",
+      "B": "Vì sao sai: Đưa ra một kết quả phức tạp và mâu thuẫn.",
+      "C": "Lý do: \"Tại Tiffany & Co., những người tham gia đánh giá trang sức đặt cách xa nhau có giá trị cao hơn đáng kể so với trang sức đặt gần nhau, nhưng tại Forever 21, họ chỉ đánh giá trang sức đặt cách xa nhau có giá trị cao hơn một chút so với trang sức đặt gần nhau\". Điều này cho thấy hiệu ứng vẫn có nhưng yếu hơn nhiều ở Forever 21, hỗ trợ trực tiếp cho kết quả nghiên cứu.",
+      "D": "Vì sao sai: So sánh các cửa hàng với nhau trong cùng một điều kiện, không phải so sánh các điều kiện trong cùng một cửa hàng."
+    },
+    "contextSummary": "Kết quả của nghiên cứu cho thấy rằng một bối cảnh cửa hàng gắn liền với các sản phẩm rẻ tiền (Forever 21) có thể \"điều tiết\" (moderate) hiệu ứng mà các nhà nghiên cứu quan sát được ở các thí nghiệm khác. Hiệu ứng đó là: các sản phẩm được coi là có giá trị hơn khi được đặt cách xa nhau (tỷ lệ sản phẩm/không gian thấp).",
+    "contextLogic": "\"Điều tiết\" hiệu ứng có nghĩa là làm cho nó yếu đi hoặc thay đổi nó. Chúng ta cần tìm một kết quả cho thấy hiệu ứng \"xa nhau = giá trị hơn\" vẫn tồn tại ở cửa hàng cao cấp (Tiffany & Co.) nhưng yếu đi đáng kể ở cửa hàng giá rẻ (Forever 21)."
+  },
+  {
+    "id": 37053,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 53",
+    "context": "The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character ________.",
+    "prompt": "Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
+    "options": [
+      "Strepsiades, after taking lessons from a sophist, says to his son, “Approach, that you may know more; and I will tell you a thing, by learning which you will be a man. But see that you do not teach this to any one.”",
+      "Socrates, a sophist, says to a potential customer, “I wish to briefly learn from you if you are possessed of a good memory.”",
+      "Strepsiades encourages his son to learn to be a sophist, saying, “If you have any concern for your father’s patrimony, become one of them.”",
+      "Socrates, a sophist, explains why he studies astronomy while sitting in a basket hanging a few feet off the ground, saying, “I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.”"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Lời của Strepsiades, không phải nhà ngụy biện, và nó thể hiện sự bí mật chứ không phải sự ngu ngốc.",
+      "B": "Vì sao sai: Lời của Socrates hỏi về trí nhớ, đây là một câu hỏi hợp lý.",
+      "C": "Vì sao sai: Lời của Strepsiades, không phải nhà ngụy biện.",
+      "D": "Lý do: Socrates, một nhà ngụy biện, giải thích lý do ông nghiên cứu thiên văn trong khi ngồi trong một cái giỏ treo lơ lửng, nói rằng ông \"sẽ không thể khám phá đúng đắn những điều trên trời nếu không treo trí tuệ lên...\". Đây là một lời giải thích và hành động kỳ quặc, minh họa hoàn hảo cho sự châm biếm của Aristophanes."
+    },
+    "contextSummary": "Aristophanes châm biếm các hành vi và quan điểm của các nhà ngụy biện là \"ngu ngốc\" (foolish).",
+    "contextLogic": "Chúng ta cần tìm một trích dẫn trong đó một nhà ngụy biện nói hoặc làm điều gì đó có vẻ ngớ ngẩn, phi logic hoặc kỳ quặc để minh họa cho sự châm biếm này."
+  },
+  {
+    "id": 37054,
+    "category": "Review 37, 38, 40, 43",
+    "question": "Question 54",
+    "context": "The single origin hypothesis of iron metallurgy posits that the craft originated in Anatolia (West Asia) circa 2200–2000 BCE before diffusing to other parts of the world, including Africa. Some proponents of the hypothesis argue that iron production technologies first arrived in North Africa through Carthage, where the earliest evidence of ironworking dates to approximately 800–600 BCE, before these technologies spread to sub-Saharan Africa over the following centuries. However, excavation of multiple sites on the Adamawa plateau in Central Africa conducted by Étienne Zangato and Augustin Holl uncovered evidence of iron workshops that may have been in operation as late as 900–750 BCE in Ghabari and as early as 2300–1900 BCE in Ôboui and Gbatoro.",
+    "prompt": "These findings suggest that ________.",
+    "options": [
+      "iron production may have originated in Anatolia much earlier than the available evidence currently indicates.",
+      "iron production technologies were likely transmitted from Anatolia to Central Africa via an alternate route than the one suggested by some proponents of the single origin hypothesis.",
+      "iron production technologies found in Ghabari likely derived directly from technologies transmitted from Anatolia, but those found in Ôboui and Gbatoro did not.",
+      "iron production may have developed independently and relatively simultaneously in Anatolia and parts of Central Africa."
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Sai, bằng chứng mới không nói gì về niên đại ở Anatolia.",
+      "B": "Vì sao sai: Sai, nếu niên đại ở Trung Phi là đồng thời hoặc sớm hơn, nó không thể được truyền từ Anatolia.",
+      "C": "Vì sao sai: Sai, bằng chứng cho thấy Ôboui và Gbatoro quá sớm để có thể bắt nguồn từ Anatolia.",
+      "D": "Lý do: \"sản xuất sắt có thể đã phát triển độc lập và tương đối đồng thời ở Anatolia và các vùng của Trung Phi\". Đây là kết luận hợp lý nhất từ việc so sánh các niên đại."
+    },
+    "contextSummary": "Giả thuyết nguồn gốc duy nhất cho rằng nghề luyện sắt bắt nguồn từ Anatolia khoảng 2200–2000 TCN và sau đó lan sang châu Phi. Tuy nhiên, các cuộc khai quật ở Trung Phi đã phát hiện bằng chứng về các xưởng sắt có thể đã hoạt động sớm nhất là vào khoảng 2300–1900 TCN ở Ôboui và Gbatoro.",
+    "contextLogic": "Bằng chứng mới cho thấy nghề luyện sắt ở Trung Phi có thể đã tồn tại cùng thời điểm, hoặc thậm chí sớm hơn một chút, so với ở Anatolia. Điều này thách thức giả thuyết \"nguồn gốc duy nhất\" và cho thấy rằng nghề luyện sắt có thể đã phát triển độc lập ở nhiều nơi."
+  }
+]

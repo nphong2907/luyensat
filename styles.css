@@ -818,3 +818,14 @@ body{
   align-items: center;
   justify-content: center;
 }
+/* Category: shadow only (no glow) */
+.category.btn{
+  /* giữ nguyên màu nền/border hiện có của bạn */
+  box-shadow: 0 8px 20px rgba(50, 73, 202, 0.637);      /* shadow giống style ô đáp án */
+  transition: box-shadow .18s ease, transform .18s ease;
+}
+
+/* tuỳ chọn: giảm shadow trên mobile cho đỡ nặng */
+@media (max-width: 640px){
+  .category.btn{ box-shadow: 0 6px 16px rgba(53, 63, 201, 0.616); }
+}

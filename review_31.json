@@ -1,0 +1,869 @@
+[
+  {
+    "id": 31001,
+    "category": "Review 31",
+    "context": "To evaluate their ideas about environmental conditions in the Pleistocene epoch, paleontologists must turn to ___ evidence. Only material objects—such as the fossil remains of the individual known as Amud 1, discovered in Israel in 1961—can show whether a particular idea about the Pleistocene is defensible.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "intricate",
+      "contentious",
+      "concrete",
+      "nebulous"
+    ],
+    "answer": "concrete",
+    "explanations": {
+      "A": "Vì sao sai: intricate: (phức tạp, rắc rối) không mô tả bản chất hữu hình của bằng chứng.",
+      "B": "Vì sao sai: contentious: (gây tranh cãi) mô tả phản ứng của mọi người đối với bằng chứng, chứ không phải bản thân bằng chứng.",
+      "C": "Từ này phù hợp vì: concrete: (cụ thể, hữu hình) hoàn toàn khớp với mô tả về \"vật thể vật chất\" và \"hóa thạch\". Đây là đáp án hợp lý nhất.",
+      "D": "Vì sao sai: nebulous: (mơ hồ, không rõ ràng) là từ trái nghĩa với những gì được yêu cầu."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "intricate",
+        "vi": "tạm dịch: “intricate”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "contentious",
+        "vi": "tạm dịch: “contentious”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "concrete",
+        "vi": "tạm dịch: “concrete”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "nebulous",
+        "vi": "tạm dịch: “nebulous”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "C",
+    "answerText": "concrete",
+    "answerLine": "Đáp án đúng: C — concrete",
+    "contextSummary": "Đoạn văn nói rằng các nhà cổ sinh vật học (paleontologists) phải sử dụng một loại bằng chứng cụ thể để đánh giá các ý tưởng của họ về thế Pleistocene. Bằng chứng này được minh họa là \"vật thể vật chất\" (material objects) như \"hóa thạch\" (fossil remains).",
+    "contextLogic": "Vấn đề cốt lõi là xác định loại bằng chứng nào được mô tả bởi \"vật thể vật chất\" và \"hóa thạch\". Những thứ này là hữu hình, có thật, có thể chạm vào được.",
+    "_src": "Test 31 Q1"
+  },
+  {
+    "id": 31002,
+    "category": "Review 31",
+    "context": "The following text is from Georgia Douglas Johnson’s 1918 poem “Peace.”I rest me deep within the wood,[Drawn] by its silent call, Far from the throbbing crowd of men, On nature’s breast I fall.",
+    "prompt": "As used in the text, what does the word “drawn” most nearly mean?",
+    "options": [
+      "Unnoticed",
+      "Depicted",
+      "Enticed",
+      "Envisioned"
+    ],
+    "answer": "Enticed",
+    "explanations": {
+      "A": "Vì sao sai: Unnoticed: (không được chú ý) là trái nghĩa, vì nhân vật rõ ràng đã chú ý đến \"tiếng gọi\".",
+      "B": "Vì sao sai: Depicted: (được mô tả) không có nghĩa trong ngữ cảnh này. Nhân vật không phải đang được vẽ hay miêu tả.",
+      "C": "Từ này phù hợp vì: Enticed: (bị lôi cuốn, bị cám dỗ) mô tả chính xác việc nhân vật bị hấp dẫn và thu hút bởi \"tiếng gọi\" của khu rừng để đi vào đó. Đây là giả thuyết logic nhất.",
+      "D": "Vì sao sai: Envisioned: (được hình dung) không phù hợp, nhân vật đang hành động thực tế chứ không chỉ tưởng tượng."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Unnoticed",
+        "vi": "tạm dịch: “Unnoticed”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Depicted",
+        "vi": "tạm dịch: “Depicted”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Enticed",
+        "vi": "tạm dịch: “Enticed”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Envisioned",
+        "vi": "tạm dịch: “Envisioned”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "C",
+    "answerText": "Enticed",
+    "answerLine": "Đáp án đúng: C — Enticed",
+    "contextSummary": "Nhân vật trong bài thơ đang ở sâu trong rừng (\"deep within the wood\"), xa rời đám đông (\"far from the throbbing crowd\"). Hành động này được mô tả là do \"its silent call\" (tiếng gọi thầm lặng của khu rừng).",
+    "contextLogic": "Vấn đề là hiểu từ \"drawn\" có nghĩa là gì trong ngữ cảnh bị \"tiếng gọi thầm lặng\" của khu rừng tác động. Tiếng gọi này khiến nhân vật đi vào rừng.",
+    "_src": "Test 31 Q2"
+  },
+  {
+    "id": 31003,
+    "category": "Review 31",
+    "context": "The following text is from a 1955 translation of Samuel Beckett’s 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was revealing, discovering here and there a pale and dying sky, and the sun, already down, was [manifest] in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.",
+    "prompt": "As used in the text, what does the word “manifest” most nearly mean?",
+    "options": [
+      "Situated",
+      "Perceptible",
+      "Realized",
+      "Dwindling"
+    ],
+    "answer": "Perceptible",
+    "explanations": {
+      "A": "Vì sao sai: Situated: (được định vị) không hợp lý, vì mặt trời đã lặn xuống dưới đường chân trời.",
+      "B": "Từ này phù hợp vì: Perceptible: (có thể nhận thấy, có thể cảm nhận được) mô tả chính xác rằng dấu vết của mặt trời vẫn có thể được nhìn thấy qua ánh sáng còn lại trên bầu trời. Đây là đáp án logic nhất.",
+      "C": "Vì sao sai: Realized: (được nhận ra/hiện thực hóa) không diễn tả đúng hành động quan sát một hiện tượng vật lý.",
+      "D": "Vì sao sai: Dwindling: (đang suy yếu) mô tả trạng thái của ánh sáng (\"ever more pale and languid\"), nhưng không phải là ý nghĩa của từ \"manifest\"."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Situated",
+        "vi": "tạm dịch: “Situated”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Perceptible",
+        "vi": "tạm dịch: “Perceptible”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Realized",
+        "vi": "tạm dịch: “Realized”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Dwindling",
+        "vi": "tạm dịch: “Dwindling”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "B",
+    "answerText": "Perceptible",
+    "answerLine": "Đáp án đúng: B — Perceptible",
+    "contextSummary": "Đoạn văn mô tả cảnh bầu trời đang quang đãng dần khi mặt trời đã lặn. Người kể chuyện nói rằng mặt trời (\"the sun, already down\") vẫn còn \"manifest\" qua những \"vệt lửa màu tái\" (\"livid tongues of fire\") trên bầu trời.",
+    "contextLogic": "Vấn đề là xác định ý nghĩa của \"manifest\" khi mô tả mặt trời đã lặn nhưng vẫn có thể thấy được dấu hiệu của nó. Dù mặt trời không còn ở đó, ảnh hưởng của nó (ánh sáng) vẫn có thể được nhìn thấy, quan sát được.",
+    "_src": "Test 31 Q3"
+  },
+  {
+    "id": 31004,
+    "category": "Review 31",
+    "context": "When minor planets are discovered, each is given a unique identification number, and some may be given a unique name, as in the case of 1083 Salvia, which was named after the plant genus that includes sages. Under current astronomical conventions, it is ____ for the discoverers to name their discoveries, but they are not required to do so; whether to assign a minor planet a name is entirely the choice of whoever discovers it.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "permissible",
+      "infeasible",
+      "selective",
+      "mandatory"
+    ],
+    "answer": "permissible",
+    "explanations": {
+      "A": "Từ này phù hợp vì: permissible: (được cho phép) mô tả chính xác một hành động được phép nhưng không bắt buộc. Đây là lựa chọn phù hợp nhất.",
+      "B": "Vì sao sai: infeasible: (không khả thi) là sai, vì việc đặt tên rõ ràng là khả thi.",
+      "C": "Vì sao sai: selective: (có chọn lọc) không mô tả quy tắc mà là cách người ta có thể thực hiện hành động đó.",
+      "D": "Vì sao sai: mandatory: (bắt buộc) là từ trái nghĩa với thông tin được cung cấp trong văn bản."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "permissible",
+        "vi": "tạm dịch: “permissible”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "infeasible",
+        "vi": "tạm dịch: “infeasible”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "selective",
+        "vi": "tạm dịch: “selective”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "mandatory",
+        "vi": "tạm dịch: “mandatory”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "permissible",
+    "answerLine": "Đáp án đúng: A — permissible",
+    "contextSummary": "Đoạn văn giải thích quy trình đặt tên cho các tiểu hành tinh (minor planets). Người phát hiện có thể đặt tên cho chúng, nhưng \"they are not required to do so\" (họ không bị bắt buộc phải làm vậy) và đó hoàn toàn là \"the choice of whoever discovers it\" (lựa chọn của người phát hiện ra nó).",
+    "contextLogic": "Vấn đề cốt lõi là tìm một từ mô tả một hành động được phép làm nhưng không bắt buộc. Dựa vào các cụm từ \"not required to do so\" và \"entirely the choice\", từ cần điền phải có nghĩa là \"được phép\".",
+    "_src": "Test 31 Q4"
+  },
+  {
+    "id": 31006,
+    "category": "Review 31",
+    "context": "Alternative-history fiction is a subgenre of science fiction in which plots center on “what if?” questions. [What if India had started the Industrial Revolution? What if Soviet cosmonauts had been first to land on the moon?] Such speculative counterfactuals are great fodder for stories, but they’re also commonly deployed by historians to better understand factors influencing historical events. Well-realized and coherent alternative-history stories can thus complement historians’ speculations about the past.",
+    "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "options": [
+      "It illustrates a characteristic of alternative-history fiction described earlier in the text.",
+      "It indicates specific ideas first entertained in alternative-history fiction that influenced academic historians who are discussed later in the text.",
+      "It exemplifies the influence that the historians discussed later in the text have had on alternative-history fiction.",
+      "It proposes that certain topics mentioned earlier in the text could be helpful for historians as well as alternative-history fiction authors."
+    ],
+    "answer": "It illustrates a characteristic of alternative-history fiction described earlier in the text.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Trực tiếp giải quyết vấn đề bằng cách nói rằng phần gạch chân \"minh họa một đặc điểm\" (\"illustrates a characteristic\") của thể loại này đã được mô tả trước đó. Đây là giả thuyết logic nhất.",
+      "B": "Vì sao sai: Sai vì đoạn văn không nói rằng những ý tưởng này đã ảnh hưởng đến các nhà sử học.",
+      "C": "Vì sao sai: Sai vì nó đảo ngược mối quan hệ; đoạn văn nói rằng các nhà sử học cũng sử dụng phương pháp tương tự.",
+      "D": "Vì sao sai: Sai vì phần gạch chân không đề xuất (propose) điều gì mới, nó chỉ đưa ra ví dụ cho điều đã được nói."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "It illustrates a characteristic of alternative-history fiction described earlier in the text.",
+        "vi": "tạm dịch: “It illustrates a characteristic of alternative-history fiction described earlier in the text.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "It indicates specific ideas first entertained in alternative-history fiction that influenced academic historians who are discussed later in the text.",
+        "vi": "tạm dịch: “It indicates specific ideas first entertained in alternative-history fiction that influenced academic historians who are discussed later in the text.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "It exemplifies the influence that the historians discussed later in the text have had on alternative-history fiction.",
+        "vi": "tạm dịch: “It exemplifies the influence that the historians discussed later in the text have had on alternative-history fiction.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "It proposes that certain topics mentioned earlier in the text could be helpful for historians as well as alternative-history fiction authors.",
+        "vi": "tạm dịch: “It proposes that certain topics mentioned earlier in the text could be helpful for historians as well as alternative-history fiction authors.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "It illustrates a characteristic of alternative-history fiction described earlier in the text.",
+    "answerLine": "Đáp án đúng: A — It illustrates a characteristic of alternative-history fiction described earlier in the text.",
+    "contextSummary": "Câu trước định nghĩa thể loại \"alternative-history fiction\" (khoa học viễn tưởng lịch sử thay thế) là thể loại có cốt truyện xoay quanh câu hỏi \"what if?\".",
+    "contextLogic": "Phần gạch chân đưa ra hai câu hỏi cụ thể: \"Điều gì sẽ xảy ra nếu Ấn Độ bắt đầu Cách mạng Công nghiệp?\" và \"Điều gì sẽ xảy ra nếu các nhà du hành vũ trụ Liên Xô là những người đầu tiên lên mặt trăng?\". Những câu hỏi này chính là ví dụ trực tiếp cho khái niệm \"what if?\" đã được đề cập ngay trước đó.",
+    "_src": "Test 31 Q6"
+  },
+  {
+    "id": 31007,
+    "category": "Review 31",
+    "context": "Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. As epitomized by the Aguilar House in Guadalajara, many of Barragán’s first projects integrated traditional Mexican building techniques into Mediterranean designs. [Extensive travels abroad later sparked an engagement with modernist and functionalist aesthetics—styles whose emphasis on utility and whose repudiation of traditional architecture’s more ornamental elements are readily apparent in Barragán’s house in Calle Guadiana.]",
+    "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "options": [
+      "It presents biographical information that accounts for the transition in Barragán’s career that is discussed in the text.",
+      "It notes why the two architectural projects described in the text constitute major departures from Barragán’s typical style.",
+      "It lends support to an argument about the Mediterranean design aesthetic that is made in the previous sentence.",
+      "It explains why the architectural project discussed later in the sentence was highly regarded by Barragán’s contemporaries."
+    ],
+    "answer": "It presents biographical information that accounts for the transition in Barragán’s career that is discussed in the text.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Trực tiếp giải quyết vấn đề bằng cách nói rằng nó \"trình bày thông tin tiểu sử giải thích cho sự chuyển đổi trong sự nghiệp của Barragán\" (\"presents biographical information that accounts for the transition in Barragán’s career\"). Đây là giả thuyết logic nhất.",
+      "B": "Vì sao sai: Sai vì các dự án được mô tả là đại diện cho các giai đoạn khác nhau, chứ không phải là sự phá cách so với phong cách điển hình của ông.",
+      "C": "Vì sao sai: Sai vì câu gạch chân nói về một phong cách mới (hiện đại), trái ngược với phong cách Địa Trung Hải được đề cập trước đó.",
+      "D": "Vì sao sai: Sai vì câu này không giải thích tại sao dự án được đánh giá cao."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "It presents biographical information that accounts for the transition in Barragán’s career that is discussed in the text.",
+        "vi": "tạm dịch: “It presents biographical information that accounts for the transition in Barragán’s career that is discussed in the text.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "It notes why the two architectural projects described in the text constitute major departures from Barragán’s typical style.",
+        "vi": "tạm dịch: “It notes why the two architectural projects described in the text constitute major departures from Barragán’s typical style.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "It lends support to an argument about the Mediterranean design aesthetic that is made in the previous sentence.",
+        "vi": "tạm dịch: “It lends support to an argument about the Mediterranean design aesthetic that is made in the previous sentence.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "It explains why the architectural project discussed later in the sentence was highly regarded by Barragán’s contemporaries.",
+        "vi": "tạm dịch: “It explains why the architectural project discussed later in the sentence was highly regarded by Barragán’s contemporaries.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "It presents biographical information that accounts for the transition in Barragán’s career that is discussed in the text.",
+    "answerLine": "Đáp án đúng: A — It presents biographical information that accounts for the transition in Barragán’s career that is discussed in the text.",
+    "contextSummary": "Câu trước đó mô tả giai đoạn đầu trong sự nghiệp của kiến trúc sư Barragán, đặc trưng bởi việc kết hợp kỹ thuật xây dựng truyền thống của Mexico với thiết kế Địa Trung Hải. Câu gạch chân bắt đầu bằng \"Extensive travels abroad later...\" (Những chuyến đi rộng rãi ra nước ngoài sau này...).",
+    "contextLogic": "Vấn đề là xác định chức năng của câu gạch chân. Câu này mô tả nguyên nhân (\"Extensive travels abroad\") dẫn đến một sự thay đổi trong phong cách của Barragán (chuyển sang \"modernist and functionalist aesthetics\" - thẩm mỹ hiện đại và công năng).",
+    "_src": "Test 31 Q7"
+  },
+  {
+    "id": 31008,
+    "category": "Review 31",
+    "context": "The following text is from Nathaniel Hawthorne’s 1830 short story “Sir William Phips.”The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map,—minute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.",
+    "prompt": "Which choice best states the main idea of the text?",
+    "options": [
+      "Historians’ fidelity to the truth often results in work that is less engaging than it could be.",
+      "Works of pure fiction can reveal more about the world than works that are strictly factual.",
+      "Historians do not agree among themselves about the best methods of recording history.",
+      "Paintings may be more beautiful than maps, but maps are more useful than paintings."
+    ],
+    "answer": "Historians’ fidelity to the truth often results in work that is less engaging than it could be.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Trực tiếp giải quyết vấn đề bằng cách nói rằng \"sự trung thành với sự thật của các nhà sử học thường dẫn đến tác phẩm kém hấp dẫn hơn mức có thể\" (\"Historians’ fidelity to the truth often results in work that is less engaging than it could be\"). Đây là giả thuyết logic nhất.",
+      "B": "Vì sao sai: Quá rộng. Tác giả chỉ đang bình luận về các tác phẩm lịch sử, không phải so sánh tất cả các tác phẩm hư cấu với thực tế.",
+      "C": "Vì sao sai: Sai vì đoạn văn không đề cập đến sự bất đồng giữa các nhà sử học.",
+      "D": "Vì sao sai: Đây chỉ là chi tiết của phép ẩn dụ, không phải ý chính của toàn bộ đoạn văn."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Historians’ fidelity to the truth often results in work that is less engaging than it could be.",
+        "vi": "tạm dịch: “Historians’ fidelity to the truth often results in work that is less engaging than it could be.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Works of pure fiction can reveal more about the world than works that are strictly factual.",
+        "vi": "tạm dịch: “Works of pure fiction can reveal more about the world than works that are strictly factual.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Historians do not agree among themselves about the best methods of recording history.",
+        "vi": "tạm dịch: “Historians do not agree among themselves about the best methods of recording history.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Paintings may be more beautiful than maps, but maps are more useful than paintings.",
+        "vi": "tạm dịch: “Paintings may be more beautiful than maps, but maps are more useful than paintings.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "Historians’ fidelity to the truth often results in work that is less engaging than it could be.",
+    "answerLine": "Đáp án đúng: A — Historians’ fidelity to the truth often results in work that is less engaging than it could be.",
+    "contextSummary": "Tác giả so sánh kiến thức từ nhà sử học/tiểu sử học với một tấm bản đồ: \"chính xác\" (accurate) và \"hữu ích\" (available) nhưng lại \"lạnh lẽo và trần trụi\" (cold and naked) và thiếu \"sức hấp dẫn\" (charm) của một bức tranh phong cảnh.",
+    "contextLogic": "Vấn đề cốt lõi là tìm ra ý chính của sự so sánh này. Tác giả chỉ ra một khiếm khuyết trong các tác phẩm lịch sử: mặc dù chúng đúng sự thật (\"literal truth\"), sự chính xác đó khiến chúng trở nên kém hấp dẫn và \"lạnh lẽo\".",
+    "_src": "Test 31 Q8"
+  },
+  {
+    "id": 31010,
+    "category": "Review 31",
+    "context": "In their meta-analysis of research on advergames (video games developed to promote products or services), Peep M.C. van Berlo et al. confirm that such games, though they can elicit player interest, may not facilitate subsequent recall of product and brand information. This phenomenon can be explained by the finite nature of cognitive capacity as it is articulated in Annie Lang’s limited capacity model of motivated mediated message processing. In this case, players’ cognitive resources are directed foremost toward the advergame’s mechanics, leaving little or no capacity for encoding and storing the information the advertiser intends to be salient.",
+    "prompt": "Which choice best states the main idea of the text?",
+    "options": [
+      "The limited capacity model of motivated mediated message processing developed by Lang provides a means of explaining the finding by van Berlo et al. that players may not readily recollect the brand and product information embedded in advergames.",
+      "The meta-analysis by van Berlo et al. reveals that higher engagement in advergame mechanics is linked to lower effectiveness in persuading players to purchase particular brands and products.",
+      "Although the limited capacity model of motivated mediated message processing developed by Lang suggests advergames can succeed as marketing tools, provided that they achieve a balance between game mechanics and the promotion of a brand or product.",
+      "Research by van Berlo et al. corroborates Lang’s conclusion that because advergames predominantly focus on game mechanics when involving video games, it is difficult for advertisers to communicate brand and product information in ways that are highly memorable."
+    ],
+    "answer": "The limited capacity model of motivated mediated message processing developed by Lang provides a means of explaining the finding by van Berlo et al. that players may not readily recollect the brand and product information embedded in advergames.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Trực tiếp giải quyết vấn đề bằng cách nói rằng \"mô hình của Lang cung cấp một phương tiện để giải thích phát hiện của van Berlo\" (\"The limited capacity model... developed by Lang provides a means of explaining the finding by van Berlo et al.\"). Điều này nắm bắt chính xác mối quan hệ cốt lõi. Đây là giả thuyết logic nhất.",
+      "B": "Vì sao sai: Sai vì đoạn văn nói về việc \"nhớ lại thông tin\", không trực tiếp nói về việc \"thuyết phục mua hàng\".",
+      "C": "Vì sao sai: Sai vì đoạn văn không cho rằng mô hình của Lang gợi ý rằng advergames có thể thành công.",
+      "D": "Vì sao sai: Sai vì đây là sự diễn giải sai. Nghiên cứu của van Berlo xác nhận (corroborates) một hiện tượng, chứ không phải kết luận của Lang. Mô hình của Lang được dùng để giải thích hiện tượng đó."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "The limited capacity model of motivated mediated message processing developed by Lang provides a means of explaining the finding by van Berlo et al. that players may not readily recollect the brand and product information embedded in advergames.",
+        "vi": "tạm dịch: “The limited capacity model of motivated mediated message processing developed by Lang provides a means of explaining the finding by van Berlo et al. that players may not readily recollect the brand and product information embedded in advergames.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "The meta-analysis by van Berlo et al. reveals that higher engagement in advergame mechanics is linked to lower effectiveness in persuading players to purchase particular brands and products.",
+        "vi": "tạm dịch: “The meta-analysis by van Berlo et al. reveals that higher engagement in advergame mechanics is linked to lower effectiveness in persuading players to purchase particular brands and products.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Although the limited capacity model of motivated mediated message processing developed by Lang suggests advergames can succeed as marketing tools, provided that they achieve a balance between game mechanics and the promotion of a brand or product.",
+        "vi": "tạm dịch: “Although the limited capacity model of motivated mediated message processing developed by Lang suggests advergames can succeed as marketing tools, provided that they achieve a balance between game mechanics and the promotion of a brand or product.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Research by van Berlo et al. corroborates Lang’s conclusion that because advergames predominantly focus on game mechanics when involving video games, it is difficult for advertisers to communicate brand and product information in ways that are highly memorable.",
+        "vi": "tạm dịch: “Research by van Berlo et al. corroborates Lang’s conclusion that because advergames predominantly focus on game mechanics when involving video games, it is difficult for advertisers to communicate brand and product information in ways that are highly memorable.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "The limited capacity model of motivated mediated message processing developed by Lang provides a means of explaining the finding by van Berlo et al. that players may not readily recollect the brand and product information embedded in advergames.",
+    "answerLine": "Đáp án đúng: A — The limited capacity model of motivated mediated message processing developed by Lang provides a means of explaining the finding by van Berlo et al. that players may not readily recollect the brand and product information embedded in advergames.",
+    "contextSummary": "Đoạn văn trình bày hai ý chính: 1) Một nghiên cứu của van Berlo et al. cho thấy \"advergames\" (trò chơi quảng cáo) có thể không giúp người chơi nhớ lại thông tin sản phẩm.",
+    "contextLogic": "Vấn đề là xác định mối quan hệ trung tâm giữa các ý tưởng. Đoạn văn rõ ràng thiết lập một mối quan hệ nguyên nhân-kết quả/giải thích: Mô hình của Lang giải thích cho phát hiện của van Berlo.",
+    "_src": "Test 31 Q10"
+  },
+  {
+    "id": 31013,
+    "category": "Review 31",
+    "context": "The Age of Innocence is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer arrives late to an opera performance, which the narrator attributes to Newland’s enjoyment of anticipation: ______.",
+    "prompt": "Which quotation from The Age of Innocence best illustrates the claim?",
+    "options": [
+      "“To come to the Opera in a [carriage for hire] was almost as honourable a way of arriving as in one’s own carriage.”",
+      "“[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.”",
+      "“When Newland Archer opened the door at the back of the club box the curtain had just gone up on the garden scene. There was no reason why the young man should not have come earlier, for he had dined at seven, alone with his mother and sister.”",
+      "“No expense had been spared on the setting, which was acknowledged to be very beautiful even by people who shared [Newland’s] acquaintance with the Opera houses of Paris and Vienna.”"
+    ],
+    "answer": "“[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.”",
+    "explanations": {
+      "A": "Vì sao sai: Trích dẫn này nói về phương tiện di chuyển, không liên quan đến sự mong đợi.",
+      "B": "Từ này phù hợp vì: Trích dẫn này nói rằng \"suy nghĩ về một niềm vui sắp đến thường mang lại cho [Newland] một sự thỏa mãn tinh tế hơn là việc hiện thực hóa nó\" (\"[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation\"). Điều này trực tiếp chứng minh cho nhận định về \"enjoyment of anticipation\". Đây là lựa chọn đúng.",
+      "C": "Vì sao sai: Trích dẫn này chỉ nói rằng Newland không có lý do gì để đến sớm, chứ không giải thích tại sao anh ta thích đến muộn.",
+      "D": "Vì sao sai: Trích dẫn này mô tả bối cảnh của vở opera, không liên quan đến cảm xúc của Newland."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "“To come to the Opera in a [carriage for hire] was almost as honourable a way of arriving as in one’s own carriage.”",
+        "vi": "tạm dịch: ““To come to the Opera in a [carriage for hire] was almost as honourable a way of arriving as in one’s own carriage.””",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "“[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.”",
+        "vi": "tạm dịch: ““[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.””",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "“When Newland Archer opened the door at the back of the club box the curtain had just gone up on the garden scene. There was no reason why the young man should not have come earlier, for he had dined at seven, alone with his mother and sister.”",
+        "vi": "tạm dịch: ““When Newland Archer opened the door at the back of the club box the curtain had just gone up on the garden scene. There was no reason why the young man should not have come earlier, for he had dined at seven, alone with his mother and sister.””",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "“No expense had been spared on the setting, which was acknowledged to be very beautiful even by people who shared [Newland’s] acquaintance with the Opera houses of Paris and Vienna.”",
+        "vi": "tạm dịch: ““No expense had been spared on the setting, which was acknowledged to be very beautiful even by people who shared [Newland’s] acquaintance with the Opera houses of Paris and Vienna.””",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "B",
+    "answerText": "“[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.”",
+    "answerLine": "Đáp án đúng: B — “[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.”",
+    "contextSummary": "Đoạn văn đưa ra một nhận định (claim) về nhân vật Newland Archer: anh ta đến muộn vì anh ta \"thích thú với sự mong đợi\" (\"enjoyment of anticipation\").",
+    "contextLogic": "Vấn đề là tìm một trích dẫn trực tiếp chứng minh cho nhận định này. Chúng ta cần tìm một câu nói rằng Newland thích việc suy nghĩ hoặc chờ đợi một điều gì đó sắp đến hơn là trải nghiệm nó thực sự.",
+    "_src": "Test 31 Q13"
+  },
+  {
+    "id": 31014,
+    "category": "Review 31",
+    "context": "Cardiff, Wales, has installed engineered structures—mainly breakwalls—along 87% of its shoreline to protect infrastructure from storm surges and other hazards, a practice known as shoreline hardening. Investigating the impact of such structures on waterbird communities at various sites in the Chesapeake Bay on the US East Coast, Diann Prosser et al. hypothesized that shoreline hardening more negatively affects waterbirds than does land development for uses such as housing or agriculture. To evaluate the responses of local waterbird species, including the osprey, to landscape alterations, the researchers utilized the Index of Waterbird Community Integrity (IWCI), on which a low score corresponds to low community integrity.Which finding, if true, would most directly support the researchers’ hypothesis?",
+    "prompt": "Which finding, if true, would most directly support the researchers’ hypothesis?",
+    "options": [
+      "Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Margotty, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+      "Waterbird communities at Langford, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had lower average IWCI scores than did waterbird communities at Mill, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+      "Waterbird communities at Stony and Curtis, two sites with relatively high percentages of developed land and hardened shoreline, had similar IWCI scores, whereas waterbird communities at Tate and Longo, two sites with relatively low percentages of developed land and hardened shoreline, had widely differing IWCI scores.",
+      "Waterbird communities at Old Road, a site with a relatively high percentage of developed land and hardened shoreline, had lower average IWCI scores than did waterbird communities at Onancock, a site with a relatively low percentage of developed land and hardened shoreline."
+    ],
+    "answer": "Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Margotty, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: So sánh Back River (phát triển cao, gia cố thấp) với Margotty (phát triển thấp, gia cố cao). Kết quả là Back River có điểm IWCI cao hơn (tốt hơn) Margotty. Điều này hoàn toàn khớp với dự đoán của chúng ta: yếu tố gia cố bờ biển ở Margotty đã gây ra tác động tiêu cực lớn hơn yếu tố phát triển đất đai ở Back River. Đây là bằng chứng trực tiếp hỗ trợ giả thuyết.",
+      "B": "Vì sao sai: Tình huống này cho kết quả ngược lại với giả thuyết (điểm IWCI thấp hơn ở nơi có ít gia cố hơn), do đó nó sẽ bác bỏ giả thuyết.",
+      "C": "Vì sao sai: So sánh này không hữu ích vì nó so sánh hai địa điểm \"giống nhau\" và hai địa điểm \"khác nhau\" mà không cô lập được các biến số cần thiết.",
+      "D": "Vì sao sai: So sánh này cho thấy địa điểm có cả hai yếu tố cao (Old Road) thì tệ hơn địa điểm có cả hai yếu tố thấp (Onancock). Điều này là hợp lý nhưng không giúp phân biệt tác động tương đối của từng yếu tố (gia cố so với phát triển đất đai), do đó không trực tiếp hỗ trợ giả thuyết cụ thể được đưa ra."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Margotty, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+        "vi": "tạm dịch: “Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Margotty, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Waterbird communities at Langford, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had lower average IWCI scores than did waterbird communities at Mill, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+        "vi": "tạm dịch: “Waterbird communities at Langford, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had lower average IWCI scores than did waterbird communities at Mill, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Waterbird communities at Stony and Curtis, two sites with relatively high percentages of developed land and hardened shoreline, had similar IWCI scores, whereas waterbird communities at Tate and Longo, two sites with relatively low percentages of developed land and hardened shoreline, had widely differing IWCI scores.",
+        "vi": "tạm dịch: “Waterbird communities at Stony and Curtis, two sites with relatively high percentages of developed land and hardened shoreline, had similar IWCI scores, whereas waterbird communities at Tate and Longo, two sites with relatively low percentages of developed land and hardened shoreline, had widely differing IWCI scores.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Waterbird communities at Old Road, a site with a relatively high percentage of developed land and hardened shoreline, had lower average IWCI scores than did waterbird communities at Onancock, a site with a relatively low percentage of developed land and hardened shoreline.",
+        "vi": "tạm dịch: “Waterbird communities at Old Road, a site with a relatively high percentage of developed land and hardened shoreline, had lower average IWCI scores than did waterbird communities at Onancock, a site with a relatively low percentage of developed land and hardened shoreline.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Margotty, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+    "answerLine": "Đáp án đúng: A — Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Margotty, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.",
+    "contextSummary": "Các nhà nghiên cứu đưa ra một giả thuyết (hypothesis): \"shoreline hardening\" (gia cố bờ biển) ảnh hưởng tiêu cực đến các loài chim nước nhiều hơn là \"land development\" (phát triển đất đai). Họ sử dụng chỉ số IWCI để đo lường, trong đó điểm IWCI thấp có nghĩa là cộng đồng chim bị ảnh hưởng tiêu cực.",
+    "contextLogic": "Để chứng minh giả thuyết này, chúng ta cần so sánh hai địa điểm. Một kịch bản lý tưởng sẽ là: Địa điểm A: Tỷ lệ phát triển đất đai cao, nhưng tỷ lệ gia cố bờ biển thấp.",
+    "_src": "Test 31 Q14"
+  },
+  {
+    "id": 31015,
+    "category": "Review 31",
+    "context": "Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts. What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?",
+    "prompt": "Question 15\n Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts.\n What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?",
+    "options": [
+      "Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.",
+      "Drelichman and Voth’s research revealed the role of Philip II’s debt defaults in exacerbating short-term liquidity crises.",
+      "Drelichman and Voth’s research builds on earlier work about a particular aspect of European early modern state finance by Hoffman and Norberg and corrects errors in that earlier work.",
+      "Drelichman and Voth’s research presented a novel body of evidence supporting Hoffman and Norberg’s hypothesis regarding why Philip II defaulted on several loans."
+    ],
+    "answer": "Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another. Lựa chọn này hoàn toàn khớp với cả hai điểm trên: họ sử dụng bằng chứng mới (newly compiled evidence) để loại bỏ một nguyên nhân (eliminate one possible reason) và khẳng định một nguyên nhân khác (affirm another). Đây là đáp án hợp lý nhất.",
+      "B": "Vì sao sai: Drelichman and Voth’s research revealed the role of Philip II’s debt defaults in exacerbating short-term liquidity crises. Lựa chọn này sai. Nghiên cứu cho rằng các vụ vỡ nợ được gây ra bởi (caused by) khủng hoảng thanh khoản, không phải vỡ nợ gây ra khủng hoảng.",
+      "C": "Vì sao sai: Drelichman and Voth’s research builds on earlier work...and corrects errors in that earlier work. Lựa chọn này không được hỗ trợ bởi văn bản. Văn bản chỉ nói rằng nghiên cứu của họ \"builds on\" (dựa trên) các nghiên cứu khác, nhưng không nói rằng nó \"corrects errors\" (sửa lỗi) trong các nghiên cứu đó.",
+      "D": "Vì sao sai: Drelichman and Voth’s research presented a novel body of evidence supporting Hoffman and Norberg’s hypothesis... Lựa chọn này sai. Văn bản không nói rằng Drelichman và Voth ủng hộ giả thuyết của Hoffman và Norberg.\nCorrect answer: A"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.",
+        "vi": "tạm dịch: “Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Drelichman and Voth’s research revealed the role of Philip II’s debt defaults in exacerbating short-term liquidity crises.",
+        "vi": "tạm dịch: “Drelichman and Voth’s research revealed the role of Philip II’s debt defaults in exacerbating short-term liquidity crises.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Drelichman and Voth’s research builds on earlier work about a particular aspect of European early modern state finance by Hoffman and Norberg and corrects errors in that earlier work.",
+        "vi": "tạm dịch: “Drelichman and Voth’s research builds on earlier work about a particular aspect of European early modern state finance by Hoffman and Norberg and corrects errors in that earlier work.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Drelichman and Voth’s research presented a novel body of evidence supporting Hoffman and Norberg’s hypothesis regarding why Philip II defaulted on several loans.",
+        "vi": "tạm dịch: “Drelichman and Voth’s research presented a novel body of evidence supporting Hoffman and Norberg’s hypothesis regarding why Philip II defaulted on several loans.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.",
+    "answerLine": "Đáp án đúng: A — Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.",
+    "contextSummary": "Nghiên cứu của Drelichman và Voth dựa trên các nghiên cứu khác, nhưng đóng góp độc đáo của họ là việc tái tạo bộ hồ sơ tài chính hàng năm sớm nhất còn tồn tại. Bộ hồ sơ này cho thấy các vụ vỡ nợ của Philip II là do khủng hoảng thanh khoản ngắn hạn, chứ không phải do các khoản nợ không bền vững dài hạn.",
+    "contextLogic": "Đoạn văn nhấn mạnh hai điểm: (1) Nghiên cứu của họ sử dụng một tập hợp bằng chứng độc đáo (\"earliest extant set of annual fiscal records\") mà các nghiên cứu trước chưa có. (2) Bằng chứng này cho phép họ loại bỏ một giả thuyết (\"not long-term unsustainable debts\") và khẳng định một giả thuyết khác (\"caused by short-term liquidity crises\").",
+    "_src": "Test 31 Q15"
+  },
+  {
+    "id": 31016,
+    "category": "Review 31",
+    "context": "Joseph Andrews is a 1742 novel by Henry Fielding. The narrator of the novel occasionally comments directly on the craft of writing, in one comment drawing a comparison to elucidate an authorial decision apparent in the novel: ____",
+    "prompt": "Question 16\n Joseph Andrews is a 1742 novel by Henry Fielding. The narrator of the novel occasionally comments directly on the craft of writing, in one comment drawing a comparison to elucidate an authorial decision apparent in the novel: ____\n Which quotation from Joseph Andrews most effectively illustrates the claim?",
+    "options": [
+      "“But as it often happens that the best men are but little known, and consequently cannot extend the usefulness of their examples a great way; the writer may be called in aid to spread their history farther, and to present the amiable pictures of those who have not the happiness of knowing the originals.”",
+      "“I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.”",
+      "“There are certain mysteries or secrets in all trades, from the highest to the lowest, from that of prime-ministering to this of authoring, which are seldom discovered unless to members of the same calling. Among those used by us gentlemen of the latter occupation, I take this of dividing our works into books and chapters to be none of the least considerable.”",
+      "“It will doubtless seem extremely odd to many readers, that Mrs. Slipslop, who had lived several years in the same house with Fanny, should, in a short separation, utterly forget her. And indeed the truth is, that she remembered her very well. As we would not willingly, therefore, that anything should appear unnatural in our history, we will endeavour to explain the reasons of her conduct.”"
+    ],
+    "answer": "“I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.”",
+    "explanations": {
+      "A": "Vì sao sai: Đoạn trích này so sánh tác giả với một người \"aid to spread their history farther\" (giúp lan truyền lịch sử của họ), nhưng không phải là một nghề cụ thể.",
+      "B": "Từ này phù hợp vì: Đoạn trích này so sánh việc một tác giả chia sách (divide a book) với việc một người bán thịt xẻ thịt (butcher to joint his meat). Đây là một sự so sánh trực tiếp giữa nghề viết và một nghề khác để giải thích một quyết định sáng tác. Lựa chọn này hoàn toàn khớp.",
+      "C": "Vì sao sai: Đoạn trích này nói về \"mysteries or secrets\" (bí ẩn hoặc bí mật) của nghề viết lách và nghề thủ tướng, nhưng không phải là so sánh trực tiếp cách làm việc.",
+      "D": "Vì sao sai: Đoạn trích này giải thích hành vi của một nhân vật trong truyện, không phải so sánh nghề viết với nghề khác.\nCorrect answer: B"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "“But as it often happens that the best men are but little known, and consequently cannot extend the usefulness of their examples a great way; the writer may be called in aid to spread their history farther, and to present the amiable pictures of those who have not the happiness of knowing the originals.”",
+        "vi": "tạm dịch: ““But as it often happens that the best men are but little known, and consequently cannot extend the usefulness of their examples a great way; the writer may be called in aid to spread their history farther, and to present the amiable pictures of those who have not the happiness of knowing the originals.””",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "“I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.”",
+        "vi": "tạm dịch: ““I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.””",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "“There are certain mysteries or secrets in all trades, from the highest to the lowest, from that of prime-ministering to this of authoring, which are seldom discovered unless to members of the same calling. Among those used by us gentlemen of the latter occupation, I take this of dividing our works into books and chapters to be none of the least considerable.”",
+        "vi": "tạm dịch: ““There are certain mysteries or secrets in all trades, from the highest to the lowest, from that of prime-ministering to this of authoring, which are seldom discovered unless to members of the same calling. Among those used by us gentlemen of the latter occupation, I take this of dividing our works into books and chapters to be none of the least considerable.””",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "“It will doubtless seem extremely odd to many readers, that Mrs. Slipslop, who had lived several years in the same house with Fanny, should, in a short separation, utterly forget her. And indeed the truth is, that she remembered her very well. As we would not willingly, therefore, that anything should appear unnatural in our history, we will endeavour to explain the reasons of her conduct.”",
+        "vi": "tạm dịch: ““It will doubtless seem extremely odd to many readers, that Mrs. Slipslop, who had lived several years in the same house with Fanny, should, in a short separation, utterly forget her. And indeed the truth is, that she remembered her very well. As we would not willingly, therefore, that anything should appear unnatural in our history, we will endeavour to explain the reasons of her conduct.””",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "B",
+    "answerText": "“I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.”",
+    "answerLine": "Đáp án đúng: B — “I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.”",
+    "contextSummary": "Câu hỏi yêu cầu tìm đoạn trích từ tiểu thuyết \"Joseph Andrews\" minh họa cho luận điểm: Người kể chuyện so sánh trực tiếp một nghề khác với nghề viết để giải thích một quyết định sáng tác.",
+    "contextLogic": "Ta cần tìm một đoạn văn mà người kể chuyện (narrator) đang so sánh việc viết lách với một nghề khác.",
+    "_src": "Test 31 Q16"
+  },
+  {
+    "id": 31017,
+    "category": "Review 31",
+    "context": "To understand consumer loyalty to specific online retailers, Marina Žitakovic and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e.g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ________",
+    "prompt": "Question 17\n To understand consumer loyalty to specific online retailers, Marina Žitakovic and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e.g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ________\n Which choice most logically completes the text?",
+    "options": [
+      "additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
+      "customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.",
+      "online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow consumers to track those deliveries than if they improve their packaging.",
+      "the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants."
+    ],
+    "answer": "additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
+    "explanations": {
+      "A": "Từ này phù hợp vì: additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly. Lựa chọn này hoàn toàn hợp lý. Nó giải thích rằng nhóm đối tượng chỉ là từ Serbia, nên cần nghiên cứu thêm các quốc gia khác nhau để khái quát hóa kết quả.",
+      "B": "Vì sao sai: customers in countries with higher levels of economic development...are likely to regard package design as relatively more important... Lựa chọn này đưa ra một kết luận quá mạnh mà văn bản không hỗ trợ. Văn bản chỉ cảnh báo, không đưa ra dự đoán cụ thể.",
+      "C": "Vì sao sai: online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow consumers to track those deliveries than if they improve their packaging. Lựa chọn này đưa ra một lời khuyên cho các nhà bán lẻ, nhưng không phải là sự giải thích logic cho lý do tại sao các nhà nghiên cứu lại đưa ra lời cảnh báo.",
+      "D": "Vì sao sai: the greater importance assigned to delivery time and tracking...may not be observed if the survey were to be given to a larger group of Serbian participants. Lựa chọn này cũng không hợp lý. Vấn đề không phải là quy mô của nhóm người Serbia mà là tính đại diện của họ cho khách hàng toàn cầu.\nCorrect answer: A"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
+        "vi": "tạm dịch: “additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.",
+        "vi": "tạm dịch: “customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow consumers to track those deliveries than if they improve their packaging.",
+        "vi": "tạm dịch: “online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow consumers to track those deliveries than if they improve their packaging.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants.",
+        "vi": "tạm dịch: “the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
+    "answerLine": "Đáp án đúng: A — additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
+    "contextSummary": "Một nghiên cứu đã khảo sát khách hàng ở Serbia và thấy họ coi trọng việc giao hàng nhanh và theo dõi gói hàng, nhưng không coi trọng tính thẩm mỹ của bao bì. Tuy nhiên, các nhà nghiên cứu cảnh báo không nên áp dụng kết quả này cho tất cả khách hàng nói chung.",
+    "contextLogic": "Lý do phổ biến nhất để không áp dụng một kết quả nghiên cứu cho công chúng nói chung là vì nhóm đối tượng được khảo sát quá hẹp hoặc không đại diện. Trong trường hợp này, tất cả người tham gia đều đến từ Serbia, một quốc gia có nền kinh tế đang phát triển.",
+    "_src": "Test 31 Q17"
+  },
+  {
+    "id": 31018,
+    "category": "Review 31",
+    "context": "Chelsea Wood et al. tracked temperature-driven changes in the abundance of Opechona sp. (a complex life-cycle parasite, or CLP, that requires three host species throughout its life cycle), Anthocotyle merlucci (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ________",
+    "prompt": "Question 18\n Chelsea Wood et al. tracked temperature-driven changes in the abundance of Opechona sp. (a complex life-cycle parasite, or CLP, that requires three host species throughout its life cycle), Anthocotyle merlucci (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ________\n Which choice most logically completes the text?",
+    "options": [
+      "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.",
+      "as the number of host species involved in a parasite’s transmission increases, the parasite is better protected against rising temperatures.",
+      "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs.",
+      "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance."
+    ],
+    "answer": "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance.",
+    "explanations": {
+      "A": "Vì sao sai: CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures... Lựa chọn này sai. Văn bản nói rằng CLPs giảm khi nhiệt độ tăng, cho thấy chúng bị phụ thuộc vào các loài vật chủ bị ảnh hưởng xấu.",
+      "B": "Vì sao sai: as the number of host species involved...increases, the parasite is better protected against rising temperatures. Lựa chọn này mâu thuẫn trực tiếp với kết quả nghiên cứu. CLPs (cần 3 vật chủ) lại bị ảnh hưởng tiêu cực.",
+      "C": "Vì sao sai: directly transmitted parasites...were more likely to use transmission strategies that shield them from warming temperatures... Lựa chọn này mâu thuẫn với thông tin đã cho. Ký sinh trùng truyền trực tiếp được cho là tiếp xúc với môi trường bên ngoài.",
+      "D": "Từ này phù hợp vì: any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance. Lựa chọn này hoàn toàn hợp lý. Nó giải thích sự mâu thuẫn bằng cách lập luận rằng lợi thế được bảo vệ của CLPs không đủ để chống lại các tác động tiêu cực khác của nhiệt độ tăng (ví dụ, ảnh hưởng đến các loài vật chủ).\nCorrect answer: D"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.",
+        "vi": "tạm dịch: “CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "as the number of host species involved in a parasite’s transmission increases, the parasite is better protected against rising temperatures.",
+        "vi": "tạm dịch: “as the number of host species involved in a parasite’s transmission increases, the parasite is better protected against rising temperatures.”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs.",
+        "vi": "tạm dịch: “directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs.”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance.",
+        "vi": "tạm dịch: “any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance.”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "D",
+    "answerText": "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance.",
+    "answerLine": "Đáp án đúng: D — any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance.",
+    "contextSummary": "Nghiên cứu theo dõi sự thay đổi của các loài ký sinh trùng. Ký sinh trùng vòng đời phức tạp (CLPs) được truyền qua việc vật chủ bị ăn thịt, do đó được bảo vệ khỏi môi trường bên ngoài.",
+    "contextLogic": "Điều này là phản trực giác, bởi vì người ta mong đợi rằng CLPs sẽ được bảo vệ tốt hơn khỏi nhiệt độ. Thực tế là CLPs lại bị ảnh hưởng tiêu cực cho thấy lợi thế của chiến lược truyền bệnh của chúng (\"shielding from the external environment\") không đủ để bù đắp cho các yếu tố tiêu cực khác do nhiệt độ tăng gây ra.",
+    "_src": "Test 31 Q18"
+  },
+  {
+    "id": 31019,
+    "category": "Review 31",
+    "context": "Philoctetes is a play by Sophocles that was first performed in 409 BCE. In the play, Odysseus and Neoptolemus must retrieve Philoctetes—a master archer who is believed necessary for the Greeks to win the Trojan War—from a cave on a deserted island where Odysseus and others had abandoned him with a debilitating injury earlier in the war. Odysseus suggests that the plan for returning with Philoctetes rests on Neoptolemus not having been part of the group that abandoned him: ____",
+    "prompt": "Question 19\n Philoctetes is a play by Sophocles that was first performed in 409 BCE. In the play, Odysseus and Neoptolemus must retrieve Philoctetes—a master archer who is believed necessary for the Greeks to win the Trojan War—from a cave on a deserted island where Odysseus and others had abandoned him with a debilitating injury earlier in the war. Odysseus suggests that the plan for returning with Philoctetes rests on Neoptolemus not having been part of the group that abandoned him: ____\n Which quotation from Philoctetes most effectively illustrates the claim?",
+    "options": [
+      "“Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.”",
+      "“No moment for this talk, / Lest he discern my coming, and I lose / The scheme, wherewith I think to catch him soon.”",
+      "“Go near now silently, and make me know / If still he persevere, and hold this spot, / Or have roamed elsewhere, that informed of this / I may proceed with what remains to say, / And we may act in concert.”",
+      "“Since the price of victory is so dear, / Endure it [acting deceitfully]—We’ll win just another day / But now, for one brief hour, devote thyself / To serve me without shame.”"
+    ],
+    "answer": "“Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.”",
+    "explanations": {
+      "A": "Từ này phù hợp vì: “Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.” Lựa chọn này hoàn toàn khớp. Odysseus giải thích rằng cách tiếp cận của Neoptolemus là \"an toàn và đáng tin cậy\" (safe and trustful) vì Neoptolemus không phải là một phần của nhóm ban đầu đã bỏ rơi Philoctetes, một \"reproach\" (lời trách móc) mà Odysseus phải gánh chịu.",
+      "B": "Vì sao sai: Đoạn trích này chỉ nói về việc không có thời gian để nói chuyện, không giải thích lý do tại sao Neoptolemus có lợi thế.",
+      "C": "Vì sao sai: Đoạn trích này nói về việc đi gần Philoctetes để xem anh ta có ở đó không, không liên quan đến vai trò của Neoptolemus trong quá khứ.",
+      "D": "Vì sao sai: Đoạn trích này nói về sự cần thiết phải hành động lừa dối để đạt được chiến thắng, không phải về lý do tại sao Neoptolemus lại phù hợp với kế hoạch đó.\nCorrect answer: A"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "“Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.”",
+        "vi": "tạm dịch: ““Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.””",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "“No moment for this talk, / Lest he discern my coming, and I lose / The scheme, wherewith I think to catch him soon.”",
+        "vi": "tạm dịch: ““No moment for this talk, / Lest he discern my coming, and I lose / The scheme, wherewith I think to catch him soon.””",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "“Go near now silently, and make me know / If still he persevere, and hold this spot, / Or have roamed elsewhere, that informed of this / I may proceed with what remains to say, / And we may act in concert.”",
+        "vi": "tạm dịch: ““Go near now silently, and make me know / If still he persevere, and hold this spot, / Or have roamed elsewhere, that informed of this / I may proceed with what remains to say, / And we may act in concert.””",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "“Since the price of victory is so dear, / Endure it [acting deceitfully]—We’ll win just another day / But now, for one brief hour, devote thyself / To serve me without shame.”",
+        "vi": "tạm dịch: ““Since the price of victory is so dear, / Endure it [acting deceitfully]—We’ll win just another day / But now, for one brief hour, devote thyself / To serve me without shame.””",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "A",
+    "answerText": "“Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.”",
+    "answerLine": "Đáp án đúng: A — “Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.”",
+    "contextSummary": "Trong vở kịch \"Philoctetes\", Odysseus và Neoptolemus phải thuyết phục Philoctetes quay lại. Odysseus đề xuất một kế hoạch dựa trên việc Neoptolemus không phải là một phần của nhóm đã bỏ rơi Philoctetes.",
+    "contextLogic": "Ta cần tìm một đoạn trích mà Odysseus nói trực tiếp với Neoptolemus về lý do tại sao Neoptolemus có thể tiếp cận Philoctetes một cách an toàn, trong khi Odysseus thì không thể.",
+    "_src": "Test 31 Q19"
+  },
+  {
+    "id": 31020,
+    "category": "Review 31",
+    "context": "Between December 28 and January 12 each year, particles shed by comet (196256) 2003 EH1 enter Earth’s atmosphere at a velocity of 41 kilometers per second. Relatively few of these particles are likely to reach Earth’s ____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Quadrantid meteor shower.",
+    "prompt": "Question 20\n Between December 28 and January 12 each year, particles shed by comet (196256) 2003 EH1 enter Earth’s atmosphere at a velocity of 41 kilometers per second. Relatively few of these particles are likely to reach Earth’s ____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Quadrantid meteor shower.\n Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": [
+      "surface; however;",
+      "surface, however,",
+      "surface. However,",
+      "surface, however;"
+    ],
+    "answer": "surface, however,",
+    "explanations": {
+      "A": "Vì sao sai: surface; however; Sai. Sử dụng dấu chấm phẩy và sau đó lại dấu chấm phẩy thứ hai là không đúng.",
+      "B": "Từ này phù hợp vì: surface, however, Đúng. Từ \"however\" được đặt giữa hai dấu phẩy để tạo thành một mệnh đề phụ nằm giữa, hoặc để ngắt quãng dòng chảy của câu để thể hiện sự tương phản một cách tự nhiên. Dấu phẩy đầu tiên kết thúc mệnh đề phụ trước đó, dấu phẩy thứ hai bắt đầu mệnh đề phụ. Đây là cách dùng chính xác.",
+      "C": "Vì sao sai: surface. However, Sai. Mặc dù đây là một cách dùng \"however\" đúng, nhưng nó sẽ tạo thành hai câu độc lập thay vì một câu duy nhất như cấu trúc ban đầu. Câu gốc không có dấu chấm.",
+      "D": "Vì sao sai: surface, however; Sai. Sử dụng dấu chấm phẩy sau \"however\" là không đúng.\nCorrect answer: B"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "surface; however;",
+        "vi": "tạm dịch: “surface; however;”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "surface, however,",
+        "vi": "tạm dịch: “surface, however,”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "surface. However,",
+        "vi": "tạm dịch: “surface. However,”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "surface, however;",
+        "vi": "tạm dịch: “surface, however;”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "B",
+    "answerText": "surface, however,",
+    "answerLine": "Đáp án đúng: B — surface, however,",
+    "contextSummary": "Câu hỏi yêu cầu hoàn thành câu sao cho nó tuân thủ quy tắc ngữ pháp Tiếng Anh chuẩn. Câu cần một từ nối (transition word) để kết nối hai vế.",
+    "contextLogic": "Ta cần một từ nối thể hiện sự tương phản, chẳng hạn như \"however\". Vấn đề là vị trí của nó và dấu câu.",
+    "_src": "Test 31 Q20"
+  },
+  {
+    "id": 31021,
+    "category": "Review 31",
+    "context": "On March 6, 2002, Canadian astronomers detected a striking and unusual phenomenon occurring in the constellation Lupus, 160 million light-years from ____ explosion of a massive star, also known as a supernova, an extremely bright yet transient event that typically results from the collapse of a star’s core.",
+    "prompt": "Question 21\n On March 6, 2002, Canadian astronomers detected a striking and unusual phenomenon occurring in the constellation Lupus, 160 million light-years from ____ explosion of a massive star, also known as a supernova, an extremely bright yet transient event that typically results from the collapse of a star’s core.\n Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": [
+      "Earth. The",
+      "Earth, it was the",
+      "Earth: the",
+      "Earth; The"
+    ],
+    "answer": "Earth: the",
+    "explanations": {
+      "A": "Vì sao sai: Earth. The Sai. Dấu chấm sẽ tách hai vế thành hai câu độc lập, không thể hiện mối quan hệ giải thích.",
+      "B": "Vì sao sai: Earth, it was the Sai. Dùng dấu phẩy sau \"Earth\" tạo ra một lỗi ngữ pháp gọi là comma splice (lỗi ghép câu bằng dấu phẩy), vì \"it was the explosion...\" là một mệnh đề độc lập.",
+      "C": "Từ này phù hợp vì: Earth: the Đúng. Dấu hai chấm (:) được sử dụng để giới thiệu một danh sách, một trích dẫn, hoặc một lời giải thích hoặc định nghĩa cho vế trước. Trong trường hợp này, nó dùng để giải thích \"a striking and unusual phenomenon\". Đây là cách dùng chính xác.",
+      "D": "Vì sao sai: Earth; The Sai. Dấu chấm phẩy (;) dùng để nối hai mệnh đề độc lập có liên quan chặt chẽ với nhau, nhưng thường không dùng để giải thích hoặc định nghĩa. Hơn nữa, viết hoa \"The\" là sai trong trường hợp này.\nCorrect answer: C"
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Earth. The",
+        "vi": "tạm dịch: “Earth. The”",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Earth, it was the",
+        "vi": "tạm dịch: “Earth, it was the”",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Earth: the",
+        "vi": "tạm dịch: “Earth: the”",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Earth; The",
+        "vi": "tạm dịch: “Earth; The”",
+        "synonyms": []
+      }
+    ],
+    "answerKey": "C",
+    "answerText": "Earth: the",
+    "answerLine": "Đáp án đúng: C — Earth: the",
+    "contextSummary": "Câu hỏi yêu cầu hoàn thành câu sao cho nó tuân thủ quy tắc ngữ pháp Tiếng Anh chuẩn. Câu đầu nói về việc các nhà thiên văn học phát hiện một hiện tượng bất thường.",
+    "contextLogic": "Hai vế câu có mối quan hệ là vế sau giải thích hoặc định nghĩa vế trước. Do đó, cần một dấu câu thích hợp để kết nối chúng.",
+    "_src": "Test 31 Q21"
+  }
+]

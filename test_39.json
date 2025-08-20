@@ -1,0 +1,640 @@
+[
+  {
+    "id": 39001,
+    "category": "Test 39",
+    "question": "Question 1",
+    "context": "Because cyanobacteria and other microphytobenthos (MPB)—microscopic organisms inhabiting tidal flats—are consumed by mussels as well as by certain shorebirds and fish, MPB are ________ estuary ecosystems. Decreased MPB abundance, which may be caused by environmental stressors, thus has a direct, negative impact on coastal food webs.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "imperative for",
+      "evaluative of",
+      "subordinate to",
+      "interchangeable with"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: imperative for (thiết yếu cho): Hoàn toàn khớp với bối cảnh. Vì nhiều loài phụ thuộc vào MPB, nên chúng là một phần bắt buộc, thiết yếu của hệ sinh thái. Đây là đáp án hợp lý nhất.",
+      "B": "Vì sao sai: evaluative of (mang tính đánh giá về): Không có ý nghĩa trong ngữ cảnh này. MPB không \"đánh giá\" hệ sinh thái.",
+      "C": "Vì sao sai: subordinate to (phụ thuộc vào, cấp dưới của): Sai. MPB là nền tảng của chuỗi thức ăn, các loài khác phụ thuộc vào chúng chứ không phải ngược lại.",
+      "D": "Vì sao sai: interchangeable with (có thể thay thế cho): Sai. MPB là một thành phần độc nhất, không thể dễ dàng thay thế trong chuỗi thức ăn."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn mô tả vai trò của vi khuẩn lam và các vi tảo đáy (MPB) trong hệ sinh thái cửa sông. Chúng bị tiêu thụ bởi trai, chim và cá. Việc suy giảm số lượng MPB gây tác động tiêu cực trực tiếp đến chuỗi thức ăn ven biển.",
+    "contextLogic": "Tư duy suy luận: Vấn đề cốt lõi là xác định vai trò của MPB dựa trên việc chúng là nguồn thức ăn cho nhiều loài khác. Nếu không có chúng, chuỗi thức ăn sẽ bị ảnh hưởng nghiêm trọng. Do đó, từ cần điền phải mang ý nghĩa \"cực kỳ quan trọng\", \"thiết yếu\"."
+  },
+  {
+    "id": 39002,
+    "category": "Test 39",
+    "question": "Question 2",
+    "context": "The inventories of consonant sounds among the Polynesian languages of the Pacific tend toward the ________: Sikalana in the South Pacific has a total of nine consonants, and Oleo Hawaii, the language of the Native Hawaiian people, has fewer, while the global median per language is over twenty-two.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": [
+      "minimal",
+      "static",
+      "replicable",
+      "melodic"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: minimal (tối thiểu, rất nhỏ): Hoàn toàn phù hợp để mô tả xu hướng có ít phụ âm. Đây là đáp án đúng.",
+      "B": "Vì sao sai: static (tĩnh, không thay đổi): Đoạn văn không đề cập đến việc số lượng phụ âm có thay đổi theo thời gian hay không.",
+      "C": "Vì sao sai: replicable (có thể sao chép): Không liên quan đến số lượng phụ âm.",
+      "D": "Vì sao sai: melodic (du dương, có giai điệu): Đây là một đặc điểm về âm thanh, không phải về số lượng phụ âm trong hệ thống ngôn ngữ."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn so sánh số lượng phụ âm trong các ngôn ngữ Polynesia với trung vị toàn cầu. Ngôn ngữ Sikalana có 9 phụ âm, tiếng Hawaii bản địa còn ít hơn, trong khi trung vị toàn cầu là hơn 22.",
+    "contextLogic": "Tư duy suy luận: Vấn đề là tìm ra một từ mô tả xu hướng có số lượng phụ âm rất thấp so với mức trung bình. Các ví dụ (9, và thậm chí ít hơn) đều cho thấy một con số nhỏ."
+  },
+  {
+    "id": 39003,
+    "category": "Test 39",
+    "question": "Question 3",
+    "context": "Archaeologists have observed similarities in the tools, such as bidirectional blades, uncovered at the Neolithic-period Mesopotamian settlement of Çayönü Tepesi and those uncovered at roughly contemporaneous settlements elsewhere in Southwest Asia, including those in the South Levant, Central Anatolia, and Central Zagros. Although similarities in tools could be attributed to imitative behavior or trade, Nefize Ezgi Altınışık et al. found evidence of genetic affinity among the populations of Çayönü Tepesi, Central Anatolia, the South Levant, and—to a lesser extent—Central Zagros.",
+    "prompt": "Information in the text best supports which statement about the finding made by Altınışık et al.?",
+    "options": [
+      "It suggests that in the Neolithic period, people in the South Levant and Central Anatolia imitated tool designs originating in Çayönü Tepesi more frequently than people in Central Zagros did.",
+      "It helps explain why contemporaneous Neolithic peoples in Southwest Asia had similar tools but lacked other obvious cultural similarities.",
+      "It raises the possibility that similarities in the design of tools found at Neolithic settlements in Southwest Asia emerged due to population blending between those settlements.",
+      "It implies that people and tools likely arrived in Çayönü Tepesi from settlements in Central Anatolia and the South Levant at an earlier time than they did from settlements in Central Zagros."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: It suggests that... people... imitated tool designs... more frequently...: Phát hiện về di truyền cung cấp một lời giải thích khác cho sự tương đồng, chứ không phải để đo lường tần suất bắt chước.",
+      "B": "Vì sao sai: It helps explain why... peoples... had similar tools but lacked other obvious cultural similarities: Đoạn văn không hề đề cập đến việc họ \"thiếu các điểm tương đồng văn hóa rõ ràng khác\".",
+      "C": "Từ này phù hợp vì: It raises the possibility that similarities... emerged due to population blending...: Đây là suy luận hợp lý nhất. Mối quan hệ di truyền chính là bằng chứng cho thấy có sự pha trộn dân số, và sự pha trộn này có thể giải thích cho việc các công cụ giống nhau.",
+      "D": "Vì sao sai: It implies that people and tools likely arrived... at an earlier time...: Đoạn văn không cung cấp thông tin nào về thời gian hay trình tự di cư giữa các khu vực."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn trình bày hai quan sát: (1) có sự tương đồng về công cụ giữa các khu định cư thời kỳ Đồ đá mới ở Tây Nam Á; (2) nghiên cứu của Altınışık và cộng sự tìm thấy bằng chứng về mối quan hệ di truyền giữa các dân tộc ở những khu định cư này.",
+    "contextLogic": "Tư duy suy luận: Vấn đề cốt lõi là liên kết phát hiện về \"mối quan hệ di truyền\" (genetic affinity) với sự \"tương đồng về công cụ\". Phát hiện này cung cấp một lời giải thích khả thi cho sự tương đồng về công cụ, bên cạnh giả thuyết về bắt chước hoặc buôn bán. Nếu các nhóm dân cư có quan hệ di truyền, họ có thể đã di cư, pha trộn và chia sẻ kiến thức làm công cụ."
+  },
+  {
+    "id": 39004,
+    "category": "Test 39",
+    "question": "Question 4",
+    "context": "The following text is from Mark Haber’s 2022 novel Saint Sebastian’s Abyss. The narrator and Schmidt are both art critics.\n When my first wife admitted to Schmidt over dinner that she didn’t find art, painting in particular, especially compelling, Schmidt winced, set down his fork, and sighed dramatically; he then excused himself, explaining an appointment he’d forgotten about had suddenly and inexplicably been remembered, while making it abundantly clear there was no appointment at all.",
+    "prompt": " Based on the text, what is notable about Schmidt’s behavior?",
+    "options": [
+      "Schmidt is only given to theatrical behavior when in the company of the narrator and his first wife.",
+      "Schmidt conveys his feelings about one of his dining companions without explicitly stating them.",
+      "Schmidt’s absentmindedness regarding his schedule is uncharacteristic of him.",
+      "Schmidt’s departure is occasioned by the resumption of a previous disagreement with the narrator’s first wife about a particular painting."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Schmidt is only given to theatrical behavior when in the company of the narrator and his first wife: Đoạn văn chỉ mô tả một tình huống duy nhất, không đủ bằng chứng để kết luận rằng đây là hành vi chỉ xảy ra với hai người này.",
+      "B": "Từ này phù hợp vì: Schmidt conveys his feelings... without explicitly stating them: Hoàn toàn chính xác. Tất cả các hành động của Schmidt đều thể hiện sự bất bình của anh ta một cách gián tiếp.",
+      "C": "Vì sao sai: Schmidt’s absentmindedness regarding his schedule is uncharacteristic of him: Không có thông tin nào cho thấy Schmidt thường không hay quên. Đoạn văn còn ám chỉ rằng anh ta bịa ra cuộc hẹn.",
+      "D": "Vì sao sai: Schmidt’s departure is occasioned by the resumption of a previous disagreement...: Đoạn văn không đề cập đến bất kỳ sự bất đồng nào trước đó."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn trích từ tiểu thuyết, mô tả phản ứng của nhân vật Schmidt khi vợ của người kể chuyện nói rằng cô không thấy nghệ thuật hấp dẫn. Schmidt \"nhăn mặt, đặt dĩa xuống, và thở dài một cách kịch tính\", sau đó viện cớ một cuộc hẹn không có thật để rời đi.",
+    "contextLogic": "Tư duy suy luận: Câu hỏi yêu cầu xác định điều đáng chú ý trong hành vi của Schmidt. Các hành động của anh ta (nhăn mặt, thở dài, viện cớ) đều là những cách gián tiếp để thể hiện sự không hài lòng hoặc khó chịu của mình mà không cần nói thẳng ra."
+  },
+  {
+    "id": 39005,
+    "category": "Test 39",
+    "question": "Question 5",
+    "context": "Poems is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker suggests that those who mistreat people with less privilege will eventually receive divine judgment for it, saying, ____",
+    "prompt": "Which quotation from Poems most effectively illustrates the claim?",
+    "options": [
+      "“Men may tread down the poor and lowly, / May crush them in anger and hate, / But surely the mills of God’s justice / Will grind out the grist of their fate.” (from “An Appeal to My Countrywomen”)",
+      "“When we plead for the wrecked and fallen, / The exile from far-distant shores, / Remember that men are still wasting / Life’s crimson around your own doors.” (from “An Appeal to My Countrywomen”)",
+      "“Say not the age is hard and cold— / I think it brave and grand; / When men of slavers act as creeds / Are clasping hands in hand.” (from “The Present Age”)",
+      "“God help our native land, / Bring succor to her strife, / And shower forth a hand / A more abundant life.” (from “God Bless Our Native Land”)"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: “...Men may tread down the poor and lowly... But surely the mills of God’s justice / Will grind out the grist of their fate.”: Trích dẫn này trực tiếp nói về việc người nghèo bị chà đạp và \"cối xay công lý của Chúa\" sẽ quyết định số phận của những kẻ áp bức. Đây là lựa chọn hoàn hảo.",
+      "B": "Vì sao sai: “When we plead for the wrecked and fallen... Remember that men are still wasting / Life’s crimson around your own doors.”: Trích dẫn này kêu gọi lòng trắc ẩn và nhắc nhở về những đau khổ gần gũi, nhưng không đề cập đến sự phán xét của Chúa.",
+      "C": "Vì sao sai: “Say not the age is hard and cold— / I think it brave and grand...: Trích dẫn này thể hiện một cái nhìn lạc quan về thời đại, trái ngược với luận điểm cần minh họa.",
+      "D": "Vì sao sai: “God help our native land... And shower forth a hand / A more abundant life.”: Đây là một lời cầu nguyện cho đất nước, không phải là lời cảnh báo về sự phán xét dành cho những kẻ áp bức."
+    },
+    "contextSummary": "Bối cảnh logic: Câu hỏi yêu cầu tìm một trích dẫn từ thơ của Frances E.W. Harper minh họa cho luận điểm: \"những người ngược đãi người yếu thế cuối cùng sẽ phải chịu sự phán xét của Chúa\".",
+    "contextLogic": "Tư duy suy luận: Cần tìm một trích dẫn nói về việc người nghèo bị áp bức và một thế lực siêu nhiên (Chúa, công lý) sẽ mang lại kết quả công bằng hoặc trừng phạt vào cuối cùng."
+  },
+  {
+    "id": 39006,
+    "category": "Test 39",
+    "question": "Question 6",
+    "context": "Paleontologist Amane Tajika and colleagues analyzed the shells of two marine mollusks called nautiluses that were collected from waters near New Caledonia. Sample F13 and other shell sections formed during adulthood suggest that New Caledonian nautiluses live at the same depths as mature Fijian nautiluses. However, sample M06, which formed while the nautilid was still its egg, had a chemical signature suggesting the egg had been laid in water 120 meters deep, while Fijian nautilids typically lay eggs at depths of at least 170 meters. Because water temperature decreases as depth increases, a biology student hypothesized that the New Caledonian nautilids lay their eggs in warmer water than Fijian nautilids do.",
+    "prompt": "Which finding, if true, would most directly weaken the student’s hypothesis?",
+    "options": [
+      "New Caledonian nautilids tend to migrate upward to warmer water immediately after hatching, whereas Fijian nautilids do not.",
+      "The water temperature at a given depth tends to be higher in waters near Fiji than it is at that depth in waters near New Caledonia.",
+      "There aren’t enough suitable hatching areas at a depth of at least 170 meters in New Caledonia for nautilids to lay their eggs at that depth.",
+      "The water temperature at a given depth tends to be lower in waters near Fiji than it is at that depth in waters near New Caledonia."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: New Caledonian nautilids tend to migrate upward to warmer water immediately after hatching...: Điều này xảy ra \"sau khi nở\", không ảnh hưởng đến nhiệt độ nước tại nơi trứng được đẻ.",
+      "B": "Từ này phù hợp vì: The water temperature at a given depth tends to be higher in waters near Fiji than it is at that depth in waters near New Caledonia: Phát hiện này trực tiếp làm suy yếu giả thuyết. Nếu nước ở Fiji vốn đã ấm hơn ở cùng một độ sâu, thì việc ốc Fiji đẻ ở độ sâu 170m vẫn có thể ấm bằng hoặc thậm chí ấm hơn nơi ốc New Caledonia đẻ ở độ sâu 120m.",
+      "C": "Vì sao sai: There aren’t enough suitable hatching areas at a depth of at least 170 meters in New Caledonia...: Điều này giải thích tại sao chúng đẻ ở vùng nước nông hơn, nhưng không trực tiếp đề cập đến nhiệt độ và không làm suy yếu giả thuyết.",
+      "D": "Vì sao sai: The water temperature at a given depth tends to be lower in waters near Fiji...: Phát hiện này sẽ củng cố, chứ không phải làm suy yếu giả thuyết."
+    },
+    "contextSummary": "Bối cảnh logic: Một sinh viên đưa ra giả thuyết rằng ốc anh vũ New Caledonia đẻ trứng ở vùng nước ấm hơn ốc anh vũ Fiji. Giả thuyết này dựa trên hai dữ kiện: (1) ốc New Caledonia đẻ trứng ở vùng nước nông hơn (120m so với 170m); (2) nhiệt độ nước giảm khi độ sâu tăng.",
+    "contextLogic": "Tư duy suy luận: Để làm suy yếu giả thuyết, chúng ta cần tìm một phát hiện cho thấy dù ốc New Caledonia đẻ trứng ở vùng nước nông hơn, nhưng nước ở đó không nhất thiết ấm hơn, thậm chí có thể lạnh hơn nước mà ốc Fiji đẻ trứng."
+  },
+  {
+    "id": 39007,
+    "category": "Test 39",
+    "question": "Question 7",
+    "context": "Rudolf Cesaretti et al. conducted an analysis of historical urban scaling trends circa 1300 CE in Western Europe, focusing on agglomeration patterns within medieval settlements. They examined settlements in urban systems across Western Europe, with groupings based on regionally distinct political structures, economic focuses, and spatial constraints—including the aristocratically controlled city-state of Parma in northern Italy, merchant-controlled city-states like Goerlitz in Germany, the wool-trading centers of Lincoln and Canterbury in England, and prime trade-fair towns like Troyes in France. A prevalent trend emerged: as a city’s total settled area increased, so did population density in its core urban areas. This finding implies that ________.",
+    "prompt": "",
+    "options": [
+      "even when they were substantial, known inter-regional differences in characteristics of urban systems had a limited effect on agglomeration patterns in medieval Western European settlements.",
+      "the observed relationship is heavily influenced by urban characteristics that were particular to medieval Western Europe, making it unlikely that a similarly strong relationship between area and population density would be found for medieval settlements in other regions.",
+      "the effects of variations in political and economic interests on agglomeration patterns were less evident in comparisons between medieval settlements within a region than in comparisons between groups of settlements across regions of Western Europe.",
+      "despite regional differences in their political and economic systems, medieval Western European settlements shared common spatial constraints that encouraged high population density in core urban areas."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: even when they were substantial, known inter-regional differences... had a limited effect on agglomeration patterns...: Đây là suy luận chính xác. Vì xu hướng này phổ biến ở tất cả các loại thành phố được nghiên cứu, điều đó ngụ ý rằng những khác biệt giữa chúng không ảnh hưởng nhiều đến mô hình tích tụ dân cư.",
+      "B": "Vì sao sai: the observed relationship is heavily influenced by urban characteristics that were particular to medieval Western Europe...: Đoạn văn không cung cấp thông tin để so sánh với các khu vực khác ngoài Tây Âu.",
+      "C": "Vì sao sai: the effects of variations... were less evident in comparisons between medieval settlements within a region...: Đoạn văn không so sánh \"trong một khu vực\" và \"giữa các khu vực\".",
+      "D": "Vì sao sai: ...medieval Western European settlements shared common spatial constraints...: Mặc dù điều này có thể đúng, nhưng đoạn văn nhấn mạnh sự đa dạng của các thành phố chứ không phải các ràng buộc không gian chung. Lựa chọn A là kết luận trực tiếp hơn từ thông tin được cung cấp."
+    },
+    "contextSummary": "Bối cảnh logic: Một nghiên cứu về các thành phố châu Âu thời trung cổ cho thấy một xu hướng chung: khi tổng diện tích định cư của một thành phố tăng lên, mật độ dân số ở khu vực trung tâm cũng tăng theo. Xu hướng này đúng với nhiều loại thành phố khác nhau (do quý tộc kiểm soát, do thương gia kiểm soát, trung tâm buôn bán len, v.v.).",
+    "contextLogic": "Tư duy suy luận: Việc một xu hướng chung (\"mô hình tích tụ\") xuất hiện bất chấp sự khác biệt lớn về chính trị, kinh tế giữa các thành phố cho thấy những khác biệt đó không có tác động đáng kể đến xu hướng này."
+  },
+  {
+    "id": 39008,
+    "category": "Test 39",
+    "question": "Question 8",
+    "context": "Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Arkansas’s Stuttgart soil was formally designated in 1997, and Maine’s Chesuncook soil in 1999. ________ years pass between a soil’s selection and official designation, as the legislative process can be notoriously slow.",
+    "prompt": "Which choice completes the text with the most logical transition?",
+    "options": [
+      "Often,",
+      "Therefore,",
+      "Similarly,",
+      "Indeed,"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Often, (Thường thì): Rất phù hợp. Nó giới thiệu một tình huống phổ biến (nhiều năm trôi qua) xảy ra trong quy trình được mô tả.",
+      "B": "Vì sao sai: Therefore, (Do đó): Không hợp lý. Việc Arkansas và Maine chỉ định đất vào năm 1997 và 1999 không phải là nguyên nhân gây ra việc mất nhiều năm.",
+      "C": "Vì sao sai: Similarly, (Tương tự): Dùng để so sánh hai điều tương tự, không phù hợp ở đây.",
+      "D": "Vì sao sai: Indeed, (Thật vậy): Dùng để nhấn mạnh một điều đã được nói trước đó, nhưng câu sau không chỉ nhấn mạnh mà còn đưa ra một nhận định tổng quát hơn. \"Often\" phù hợp hơn."
+    },
+    "contextSummary": "Bối cảnh logic: Câu đầu tiên giới thiệu quy trình: một loại đất được chọn và sau đó được cơ quan lập pháp thông qua để trở thành đất biểu trưng của tiểu bang. Câu thứ hai đưa ra hai ví dụ với năm cụ thể (1997, 1999). Câu cuối cùng, sau chỗ trống, giải thích rằng quá trình lập pháp có thể rất chậm.",
+    "contextLogic": "Tư duy suy luận: Cần một từ chuyển tiếp để kết nối các ví dụ cụ thể với một nhận xét chung về khoảng thời gian trong quy trình. Nhận xét \"quá trình lập pháp có thể rất chậm\" giải thích tại sao \"nhiều năm trôi qua\". Từ chuyển tiếp cần thể hiện rằng đây là một tình huống phổ biến, thường xảy ra."
+  },
+  {
+    "id": 39009,
+    "category": "Test 39",
+    "question": "Question 1",
+    "context": "Andrei Tarkovsky’s Solaris has the measured pace typical of slow-cinema films. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives) creates films that his own work induces sleep in audiences. This might suggest his films are boring, but boredom does not always cause sleep; boredom creates an anxious tension in the need for a place to fix attention, and thus induces not somnolence but ________.",
+    "prompt": "",
+    "options": [
+      "fortitude",
+      "perturbation",
+      "nonchalance",
+      "indolence"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: fortitude (sự dũng cảm chịu đựng): Không liên quan đến sự căng thẳng lo lắng.",
+      "B": "Từ này phù hợp vì: perturbation (sự bối rối, lo lắng, bất an): Hoàn toàn khớp với mô tả về \"anxious tension\". Đây là đáp án chính xác.",
+      "C": "Vì sao sai: nonchalance (sự thờ ơ, lãnh đạm): Đây là trạng thái bình tĩnh, trái ngược với \"anxious tension\".",
+      "D": "Vì sao sai: indolence (sự lười biếng): Không liên quan đến cảm giác căng thẳng do nhàm chán gây ra."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn nói về \"phim điện ảnh chậm\" (slow-cinema). Nó chỉ ra rằng sự nhàm chán (boredom) không nhất thiết gây ra buồn ngủ (somnolence). Thay vào đó, sự nhàm chán tạo ra một \"sự căng thẳng lo lắng\" (anxious tension) và do đó gây ra một trạng thái đối lập với buồn ngủ.",
+    "contextLogic": "Tư duy suy luận: Cần tìm một từ có nghĩa là \"sự căng thẳng lo lắng\", \"sự bồn chồn, bất an\", đối lập với \"somnolence\" (trạng thái mơ màng, buồn ngủ)."
+  },
+  {
+    "id": 39010,
+    "category": "Test 39",
+    "question": "Question 2",
+    "context": "One way to evaluate the importance of a scholar’s research is to ________ other scholars’ references to that research. For example, a count of other scholars’ citations shows that Yale University economist Xiaohong Chen, who studies statistical methods in economics, is referenced frequently, indicating that her work has been significant in the field.",
+    "prompt": "",
+    "options": [
+      "enumerate",
+      "transpose",
+      "abridge",
+      "circumvent"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: enumerate (đếm, liệt kê): Đây là từ chính xác nhất, có nghĩa là xác định số lượng.",
+      "B": "Vì sao sai: transpose (hoán vị, đổi chỗ): Không có ý nghĩa trong ngữ cảnh này.",
+      "C": "Vì sao sai: abridge (rút ngắn, tóm tắt): Không phải là đánh giá tầm quan trọng bằng cách tóm tắt.",
+      "D": "Vì sao sai: circumvent (né tránh, lách luật): Hoàn toàn không liên quan."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn mô tả một cách để đánh giá tầm quan trọng của nghiên cứu của một học giả là xem xét các tài liệu tham khảo của các học giả khác đến nghiên cứu đó. Ví dụ được đưa ra là \"đếm số lượng trích dẫn\" (a count of... citations).",
+    "contextLogic": "Tư duy suy luận: Cần một động từ có nghĩa là \"đếm\", \"liệt kê\" hoặc \"tính toán số lượng\" các tài liệu tham khảo để phù hợp với ví dụ về \"đếm số lượng trích dẫn\"."
+  },
+  {
+    "id": 39011,
+    "category": "Test 39",
+    "question": "Question 3",
+    "context": "Urban green spaces can improve air quality, as vegetation absorbs pollutants and also dilutes pollutant concentrations through ventilation. However, data from air-quality monitoring stations in locations throughout Romania suggest that this often-cited benefit of vegetation is not always ____; researchers found that when there are many trees along a busy street, ventilation has minimal effect on the air quality.",
+    "prompt": "",
+    "options": [
+      "immoderate",
+      "realized",
+      "unappreciated",
+      "compressed"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: immoderate (quá độ, không điều độ): Không liên quan.",
+      "B": "Từ này phù hợp vì: realized (đạt được, hiện thực hóa): Hoàn toàn phù hợp. Lợi ích này không phải lúc nào cũng được hiện thực hóa.",
+      "C": "Vì sao sai: unappreciated (không được đánh giá cao): Đoạn văn nói về hiệu quả thực tế chứ không phải sự đánh giá của con người.",
+      "D": "Vì sao sai: compressed (bị nén): Không có ý nghĩa trong ngữ cảnh này."
+    },
+    "contextSummary": "Bối cảnh logic: Đoạn văn giới thiệu lợi ích của không gian xanh đô thị là cải thiện chất lượng không khí. Tuy nhiên, dữ liệu từ Romania cho thấy lợi ích này \"không phải lúc nào cũng ____\". Ví dụ được đưa ra là khi có nhiều cây dọc theo một con đường đông đúc, hiệu quả thông gió là rất nhỏ.",
+    "contextLogic": "Tư duy suy luận: Từ \"However\" cho thấy sự tương phản. Lợi ích được nêu ra (cải thiện không khí) không phải lúc nào cũng xảy ra trong thực tế. Cần một từ có nghĩa là \"đạt được\", \"trở thành hiện thực\"."
+  },
+  {
+    "id": 39012,
+    "category": "Test 39",
+    "question": "Question 4",
+    "context": "Analyzing data on Hemitriccus diops and 378 other bird species from the Tyranni suborder, W. Alice Boyle and Courtney J. Conway found that group foragers are much less likely to seasonally migrate in search of food than solitary foragers are, suggesting that seasonal resource scarcity can be ________ the greater foraging efficiency that group foraging confers.",
+    "prompt": "",
+    "options": [
+      "predicated on",
+      "conflated with",
+      "overcome by",
+      "compelled by"
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: predicated on (dựa trên): Sai. Sự khan hiếm không dựa trên hiệu quả kiếm ăn.",
+      "B": "Vì sao sai: conflated with (bị đánh đồng với): Sai. Hai khái niệm này không bị đánh đồng.",
+      "C": "Từ này phù hợp vì: overcome by (bị khắc phục/vượt qua bởi): Chính xác. Hiệu quả của việc kiếm ăn theo nhóm giúp các loài chim vượt qua khó khăn do khan hiếm tài nguyên.",
+      "D": "Vì sao sai: compelled by (bị ép buộc bởi): Sai. Sự khan hiếm không bị ép buộc bởi hiệu quả kiếm ăn."
+    },
+    "contextSummary": "Bối cảnh logic: Nghiên cứu cho thấy các loài chim kiếm ăn theo nhóm ít có khả năng di cư theo mùa hơn các loài kiếm ăn đơn độc. Điều này cho thấy sự khan hiếm tài nguyên theo mùa có thể được ____ bởi hiệu quả kiếm ăn cao hơn mà việc kiếm ăn theo nhóm mang lại.",
+    "contextLogic": "Tư duy suy luận: Kiếm ăn theo nhóm là một chiến lược hiệu quả giúp giải quyết vấn đề khan hiếm thức ăn. Do đó, sự khan hiếm tài nguyên có thể được \"khắc phục\", \"vượt qua\" nhờ vào chiến lược này."
+  },
+  {
+    "id": 39013,
+    "category": "Test 39",
+    "question": "Question 5",
+    "context": "The bird species Malacoptila fusca (the white-chested puffbird) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Conversely, Myrmotherula guttata (the rufous-bellied antwren), which with M. fusca shares territory in French Guiana, practices foliage gleaning (picking insects off leaves), substantially limiting the birds’ field of vision while foraging. Biologist Ari Martinez and colleagues hypothesized that the greater vulnerability inherent in the latter strategy is reflected in greater sensitivity to predator warning signals from neighboring species.",
+    "prompt": "Which finding, if true, would most directly support Martinez and colleagues’ hypothesis?",
+    "options": [
+      "When Martinez and colleagues played control sounds of random noise, only M. fusca displayed predator-avoidance behavior, whereas both M. guttata and M. fusca displayed such behavior when alarm calls from another local bird species were played.",
+      "When Martinez and colleagues played alarm calls from a species that does not share territory with M. fusca and M. guttata, M. fusca displayed predator-avoidance behavior, whereas M. guttata did not display any behavioral change.",
+      "When Martinez and colleagues played alarm calls from another local bird species, M. guttata displayed predator-avoidance behavior, whereas M. fusca did not display any behavioral change.",
+      "When Martinez and colleagues played M. fusca alarm calls, only M. fusca displayed predator-avoidance behavior, whereas both M. fusca and M. guttata displayed such behavior when M. guttata alarm calls were played."
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: When... control sounds..., only M. fusca displayed... behavior, whereas both... displayed such behavior when alarm calls... were played: Điều này cho thấy cả hai loài đều nhạy cảm với tiếng kêu báo động, trái với giả thuyết.",
+      "B": "Vì sao sai: When... played alarm calls from a species that does not share territory..., M. fusca displayed... behavior, whereas M. guttata did not...: Kết quả này trái ngược với những gì giả thuyết dự đoán.",
+      "C": "Từ này phù hợp vì: When... played alarm calls from another local bird species, M. guttata displayed... behavior, whereas M. fusca did not display any behavioral change: Đây là bằng chứng mạnh mẽ nhất. Loài dễ bị tổn thương hơn (M. guttata) phản ứng với cảnh báo, trong khi loài an toàn hơn (M. fusca) thì không, cho thấy sự nhạy cảm cao hơn của M. guttata.",
+      "D": "Vì sao sai: When... played M. fusca alarm calls, only M. fusca displayed... behavior...: Điều này không so sánh phản ứng của chúng với tín hiệu của một loài thứ ba, vốn là trọng tâm của giả thuyết."
+    },
+    "contextSummary": "Bối cảnh logic: Hai loài chim có chiến lược kiếm ăn khác nhau: M. fusca có tầm nhìn rộng khi kiếm ăn, trong khi M. guttata có tầm nhìn bị hạn chế đáng kể, khiến nó dễ bị tấn công hơn. Giả thuyết là M. guttata (loài dễ bị tổn thương hơn) sẽ nhạy cảm hơn với các tín hiệu cảnh báo của loài khác.",
+    "contextLogic": "Tư duy suy luận: Để hỗ trợ giả thuyết, cần một phát hiện cho thấy M. guttata phản ứng với tín hiệu báo động trong khi M. fusca (loài an toàn hơn) thì không. Điều này sẽ chứng tỏ sự khác biệt về độ nhạy cảm giữa hai loài."
+  },
+  {
+    "id": 39014,
+    "category": "Test 39",
+    "question": "Question 7",
+    "context": "In medieval England, singers and minstrels made living as traveling performers, but the pieces they performed have been a mystery, thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the eleventh century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as chastising the audience, extensive use of simple structures (allowing for easy memorization), and requests for tips (payment) from listeners. ",
+    "prompt": "Which statement, if true, would most strongly support Wade’s argument?",
+    "options": [
+      "Heege’s collection contains the earliest examples of the three pieces in question, but each of those pieces occurs in other manuscript collections compiled after Heege’s.",
+      "The three pieces in question contain references that presume that the audience is familiar with Brackwout and other small villages near where Heege lived.",
+      "Features like simple structures also occur in other texts from the period that were widely read but are not known to have been performed for live audiences.",
+      "Traveling minstrels are thought to have performed mainly for elite audiences, and other parts of Heege’s collection reflect his interest in works with popular appeal."
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Heege’s collection contains the earliest examples..., but each... occurs in other manuscript collections...: Việc các tác phẩm xuất hiện ở nơi khác không củng cố mối liên hệ với người hát rong địa phương.",
+      "B": "Từ này phù hợp vì: The three pieces... contain references that presume that the audience is familiar with Brackwout and other small villages near where Heege lived: Đây là bằng chứng rất mạnh. Việc nhắc đến các địa danh nhỏ, địa phương cho thấy tác phẩm được viết cho khán giả ở chính khu vực đó, ủng hộ mạnh mẽ giả thuyết về một người hát rong địa phương.",
+      "C": "Vì sao sai: Features like simple structures also occur in other texts... not known to have been performed...: Điều này làm suy yếu, chứ không phải củng cố, lập luận của Wade.",
+      "D": "Vì sao sai: Traveling minstrels are thought to have performed mainly for elite audiences...: Điều này không trực tiếp liên quan đến việc các tác phẩm cụ thể này có phải của một người hát rong địa phương hay không."
+    },
+    "contextSummary": "Bối cảnh logic: James Wade cho rằng ba tác phẩm trong một bản thảo thế kỷ 11 được sao chép từ sổ tay của một người hát rong. Lập luận của Wade dựa trên các đặc điểm như tương tác với khán giả, cấu trúc đơn giản để dễ ghi nhớ, và yêu cầu trả tiền.",
+    "contextLogic": "Tư duy suy luận: Cần tìm một bằng chứng củng cố mạnh mẽ nhất cho lập luận rằng các tác phẩm này được viết bởi một người hát rong địa phương (làm việc quanh nhà của Heege)."
+  },
+  {
+    "id": 39015,
+    "category": "Test 39",
+    "question": "Question 8",
+    "context": "Text 1: \nStudies contributing to the body of evidence that people generally enjoy socializing have routinely focused on interactions in ongoing relationships (from spouses to classmates), but psychologist Selin Salman-Engin and colleagues have demonstrated the benefit of making connections with strangers. Greater positive affect was reported by participants in their study who warmly thanked a shuttle driver than by those who didn’t speak to the driver. \nText 2:\nSocial relations research commonly draws on a model that centers an individual within three concentric circles. The innermost circle holds one’s strongest ties (e.g., a treasured friend), the next holds close but less important ties (e.g., a teammate), and the outermost holds weak ties (those more distant but important enough to be counted as part of one’s social network). ",
+    "prompt": "Based on the texts, what would Salman-Engin and colleagues (Text 1) most likely say about the discussion of the model in Text 2?",
+    "options": [
+      "It underscores that most research on social interactions fails to capture a category of connection that has the capacity to contribute positively to individuals’ sense of well-being.",
+      "It reflects an overemphasis on relationship longevity in researchers’ evaluations of the relative importance of various connections in an individual’s social network.",
+      "It explains researchers’ observations that individuals typically expect interactions with familiar people to be more positive than their interactions with unfamiliar people would be.",
+      "It emphasizes distinctions among types of close connections that aren’t adequately represented in social relations research, since most studies categorize relationships as either close or casual."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: It underscores that most research... fails to capture a category of connection that has the capacity to contribute positively to... well-being: Hoàn toàn chính xác. \"Người lạ\" là một loại kết nối mà mô hình ba vòng tròn không bao gồm, và nghiên cứu của Salman-Engin đã cho thấy loại kết nối này có thể mang lại lợi ích.",
+      "B": "Vì sao sai: It reflects an overemphasis on relationship longevity...: Mặc dù có thể đúng, nhưng lựa chọn A mô tả chính xác hơn vấn đề cốt lõi mà Văn bản 1 nêu ra: sự thiếu sót của một hạng mục kết nối.",
+      "C": "Vì sao sai: It explains researchers’ observations that individuals typically expect interactions with familiar people to be more positive...: Văn bản 1 không nói về kỳ vọng của mọi người, mà về kết quả thực tế.",
+      "D": "Vì sao sai: It emphasizes distinctions among types of close connections that aren’t adequately represented...: Văn bản 1 không tập trung vào sự phân biệt giữa các mối quan hệ thân thiết, mà vào các mối quan hệ với người lạ."
+    },
+    "contextSummary": "Bối cảnh logic: Văn bản 1 (Salman-Engin) chỉ ra rằng nghiên cứu về giao tiếp xã hội thường tập trung vào các mối quan hệ đang diễn ra, nhưng lại bỏ qua lợi ích của việc kết nối với người lạ. Văn bản 2 mô tả một mô hình phổ biến trong nghiên cứu quan hệ xã hội gồm ba vòng tròn đồng tâm, từ \"mối quan hệ bền chặt nhất\" đến \"mối quan hệ yếu\".",
+    "contextLogic": "Tư duy suy luận: Salman-Engin và cộng sự sẽ nhận xét gì về mô hình ở Văn bản 2? Nghiên cứu của họ tập trung vào \"người lạ\" (shuttle driver), một loại kết nối thậm chí còn nằm ngoài vòng tròn \"mối quan hệ yếu\" (weak ties) được định nghĩa là \"một phần của mạng lưới xã hội\". Do đó, họ có khả năng cho rằng mô hình này, giống như hầu hết các nghiên cứu khác, đã bỏ qua một loại kết nối có giá trị."
+  },
+  {
+    "id": 39016,
+    "category": "Test 39",
+    "question": "Question 9",
+    "context": "Text 1: \nIn a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participants’ responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from marketing to law. \nText 2:\nDana Zeif and Eldad Yechiam conducted an experiment in which study participants from five countries were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 20 US dollars (low-stakes contexts), or more substantial sums, such as 100 US dollars (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion. ",
+    "prompt": "Based on the texts, how would Zeif and Yechiam (Text 2) most likely respond to Kahneman and Tversky’s finding (Text 1)?",
+    "options": [
+      "By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.",
+      "By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains.",
+      "By asserting that researchers’ ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses.",
+      "By disputing Kahneman and Tversky’s claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as marketing and law."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. F...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39017,
+    "category": "Test 39",
+    "question": "Question 10",
+    "context": "A student is writing a research paper on the history of irrigation in the United States, situating the development of the Bear River Reservoir (created in Amador County, California, in 1900) in a larger historical context. The student claims that innovation in irrigation practices throughout the United States has led to designs with increased efficiency.",
+    "prompt": "Which quotation would best support the student’s claim?",
+    "options": [
+      "“While the low humidity of Southern California’s desert areas makes irrigation a requirement if agriculture is to be a success there, the relatively high humidity in the northern parts of the state makes such practices less necessary.”",
+      "“The importance of irrigation infrastructure in the United States today cannot be overstated, since it is the most widely utilized means of conveying water for food production. Accordingly, any increase in the efficiency of irrigation, however small, would be of significant economic and social value.”",
+      "“The irrigation system developed by the Hohokam people in the 7th century CE in what is now Arizona was simple but applied hydraulic engineering design features that are still in use today.”",
+      "“Competition for water as a scarce economic resource inspired the development of sprinkler irrigation systems, which have contributed to the reduction of water used for irrigation in the United States to 45% of the total water usage of its population. Comparatively, 70% of the world’s water usage is dedicated to irrigation.”"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn."
+    },
+    "contextSummary": "Tóm tắt: A student is writing a research paper on the history of irrigation in the United States, situating the development of the Bear River Reservoir (created in Amador County, California, in 1900) in a larg...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39018,
+    "category": "Test 39",
+    "question": "Question 11",
+    "context": "A student is writing a paper about Nathaniel Hawthorne’s 1844 short story “The Artist of the Beautiful.” The main character, Owen Warland, has always had an aesthetic interest in and talent for creating very small, fine things. The student wants to include two pieces of textual evidence that demonstrate people reacting in similar ways to this sensibility of Owen’s. The student has selected the following quotation: \n[“But, at all events, this characteristic minuteness in his objects and accomplishments made the world even more incapable than it might otherwise have been of appreciating Owen Warland’s genius.”] ",
+    "prompt": "Which quotation from “The Artist of the Beautiful” would be the most effective for the student to include along with the underlined quotation?",
+    "options": [
+      "“It seemed, in fact, a new development of the love of the beautiful, such as might have made him a poet, a painter, or a sculptor, and which was as completely refined from all utilitarian coarseness as it could have been in either of the fine arts.”",
+      "“The boy’s relatives saw nothing better to be done—as perhaps there was not—than to bind him apprentice to a watchmaker, hoping that his strange ingenuity might thus be regulated and put to utilitarian purposes.”",
+      "“[People] sometimes saw reason to suppose that he was attempting to imitate the beautiful movements of Nature as exemplified in the flight of birds or the activity of little animals.”",
+      "“From the time that his little fingers could grasp a penknife, Owen had been remarkable for a delicate ingenuity, which sometimes produced pretty shapes in wood, principally figures of flowers and birds, and sometimes seemed to aim at the hidden mysteries of mechanism.”"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "B": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: A student is writing a paper about Nathaniel Hawthorne’s 1844 short story “The Artist of the Beautiful.” The main character, Owen Warland, has always had an aesthetic interest in and talent for creati...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39019,
+    "category": "Test 39",
+    "question": "Question 12",
+    "context": "A soil’s microbial community (the microbial taxa present in their relative abundances) is known to affect plants’ nutrient acquisition. Corine Walsh and colleagues hypothesized that microbial communities could also affect plants’ flavor chemistry, including volatiles and secondary metabolites like glucosinolates. Recognizing that soil moisture varies by location in the wild and could influence plants’ chemistry, Walsh et al. introduced distinct microbial communities to individually potted mustard plants (Brassica juncea) growing in a controlled environment, then measured the plants’ glucosinolates, like 3-methylthiopropyl and allyl (the most prominent), that create the spicy and bitter flavors in mustard. This method thus enabled the researchers to _____.",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "distinguish variations in glucosinolates due to differences in microbial communities from those that in a natural setting may be due to differences in soil moisture.",
+      "disentangle the influence of microbial communities on soil moisture from their influence on glucosinolate content in the plants.",
+      "demonstrate that differences in plants’ flavor chemistry result from differences in the level of glucosinolates regardless of the soil moisture.",
+      "re-create the conditions of studies conducted in the wild that found links between soil microbial communities and levels of 3-methylthiopropyl in mustard plants."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: A soil’s microbial community (the microbial taxa present in their relative abundances) is known to affect plants’ nutrient acquisition. Corine Walsh and colleagues hypothesized that microbial communit...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39020,
+    "category": "Test 39",
+    "question": "Question 13",
+    "context": "Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonya, the professor’s daughter from a previous marriage. Chekhov portrays the relationship between Vanya and Professor Serebryakov as being much more strained than it once was, as is evident when ________.",
+    "prompt": "Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?",
+    "options": [
+      "Professor Serebryakov asks Vanya to leave the room, saying, “For the sake of our former friendship do not protest against me. We will talk some other time.”",
+      "Vanya says to Professor Serebryakov, “For twenty-five years I have managed [the country estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one—either in my youth nor now.”",
+      "Vanya says of Professor Serebryakov, “He is everlastingly whining about his hard lot, though, as a matter of fact, he is extraordinarily lucky.”",
+      "Professor Serebryakov says to Helena, “It is funny that everybody listens to [Vanya] and his old idiot of a mother, but the moment I open my lips you all begin to feel ill-treated.”"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their co...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39021,
+    "category": "Test 39",
+    "question": "Question 14",
+    "context": "Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks, 33% of the tested species produced sounds, which included four distinct types: chirps, whistles, vocalizations, and clicks. In addition, Antheraea polyphemus and Antheraea polyphemus oculaea released a chemical while or after producing the first sound. These species exclusively produced clicks and chirps, which tend to be shorter in duration than whistles and vocalizations. Bura and colleagues argue that clicks and chirps in species that use chemical defenses are primarily a means of warning (i.e., “educating”) predators rather than frightening or startling them.",
+    "prompt": "Which finding, if true, would most directly support Bura and colleagues’ claim?",
+    "options": [
+      "Short-duration sounds like clicks and chirps tend to be especially effective in training animals to associate a behavior with a consequence.",
+      "Caterpillars that use chemical defenses produced sounds at a higher volume than did caterpillars without chemical defenses.",
+      "The acoustic characteristics of clicks and chirps make them particularly audible to bats, lizards, and birds, some of the most frequent predators of caterpillars.",
+      "Chickens and yellow warblers, two predators of caterpillars, have been observed to stop their attacks in response to caterpillar sounds of any duration."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks, 33% of ...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39022,
+    "category": "Test 39",
+    "question": "Question 15",
+    "context": "The compositional strategy of Untitled, a 1955 work by Cherokee artist Edna Massey, is far more closely aligned with Abstract Expressionism—a mid-twentieth-century school of painting dominated by European American artists—than with traditionally abstract forms of Indigenous art, such as beadwork. Few viewers would infer from the stylistic attributes of Untitled that Massey was Indigenous. In this respect, the work typifies Indigenous painters’ forays into abstraction during the period. In contrast, the contemporary Caddo artist Chad “Nish” Earles assembles abstract compositions out of motifs common in the traditional ceramics and graphic art of his tribe. Thus in Earles’s work, abstraction has the effect of _____.",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "rendering Indigenous identity more legible than it is in Untitled.",
+      "asserting the Indigenous origins of motifs associated with Abstract Expressionism.",
+      "challenging the dominance of European American artists within Abstract Expressionism.",
+      "reconciling Indigenous and European American influences that coexist uneasily in Untitled."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: The compositional strategy of Untitled, a 1955 work by Cherokee artist Edna Massey, is far more closely aligned with Abstract Expressionism—a mid-twentieth-century school of painting dominated by Euro...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39023,
+    "category": "Test 39",
+    "question": "Question 16",
+    "context": "Archaeologists assume that when a major demographic shift interrupts the intergenerational transmission of expertise, this manifests in the archaeological record in the form of simultaneous reductions in the complexity of multiple specialized crafting traditions. Inventories of excavation sites from the Alazani River valley and nearby areas dating from 4000 to 500 BCE show a steep drop occurring around 1500 BCE in the number of objects featuring gold filigree, an advanced technique in which fine threads of gold are arranged in intricate patterns. The inventories also indicate that advanced copper-alloy metallurgy and most other specialized crafting traditions continued to flourish during this period, a finding suggesting that _____.",
+    "prompt": "Which choice most logically completes the text?",
+    "options": [
+      "disruptions around 1500 BCE in the utilization of gold filigree likely occurred in the context of demographic continuity among peoples of the Alazani River valley.",
+      "a sudden simultaneous decline in artifacts from multiple specialized crafting traditions is less likely than previously assumed to indicate that the transmission of expertise was disrupted by demographic changes.",
+      "peoples in the Alazani River valley continued to uphold multiple specialized crafting traditions, including goldsmithing and copper-alloy metallurgy, even as demographic shifts occurred.",
+      "cross-cultural transmission between distinct demographic groups in the Alazani River valley likely explains the expansion of copper-alloy metallurgy by around 1500 BCE."
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: Archaeologists assume that when a major demographic shift interrupts the intergenerational transmission of expertise, this manifests in the archaeological record in the form of simultaneous reductions...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39024,
+    "category": "Test 39",
+    "question": "Question 19",
+    "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "context": "Categorized as a dactyl, the word “gradient” consists of one stressed syllable followed by two unstressed syllables. The word “harpist,” by comparison, consists of one stressed syllable followed by one unstressed syllable, a metrical foot ________ to in English metrical verse as a trochee.",
+    "options": [
+      "referred",
+      "is referred",
+      "referring",
+      "refers"
+    ],
+    "correct": "A",
+    "explanations": {
+      "A": "Từ này phù hợp vì: referred: Đây là một quá khứ phân từ, tạo thành một cụm phân từ bị động rút gọn đúng ngữ pháp.",
+      "B": "Vì sao sai: is referred: Thêm \"is\" sẽ tạo thành một mệnh đề độc lập, nhưng câu sẽ thiếu liên từ để nối với mệnh đề trước, gây ra lỗi câu nối (comma splice).",
+      "C": "Vì sao sai: referring: Đây là hiện tại phân từ, mang nghĩa chủ động (\"cái chân nhịp điệu này tự giới thiệu\"). Sai về mặt ngữ nghĩa.",
+      "D": "Vì sao sai: refers: Đây là một động từ chia ở thì hiện tại, sẽ tạo ra lỗi ngữ pháp tương tự như lựa chọn B."
+    },
+    "contextSummary": "Bối cảnh logic: Câu này mô tả hai từ với các cấu trúc nhịp điệu khác nhau. Phần đầu tiên, \"The word 'harpist,' by comparison, consists of one stressed syllable followed by one unstressed syllable,\" là một mệnh đề độc lập. Phần thứ hai, \"a metrical foot ________ to in English metrical verse as a trochee,\" mô tả \"a metrical foot\".",
+    "contextLogic": "Tư duy suy luận: Phần thứ hai của câu là một cụm phân từ (participial phrase) dùng để bổ nghĩa cho danh từ \"a metrical foot\" đứng trước nó. Cụm từ này cần một quá khứ phân từ (past participle) để tạo thành dạng bị động rút gọn (\"a metrical foot [which is] referred to...\")."
+  },
+  {
+    "id": 39025,
+    "category": "Test 39",
+    "question": "Question 21",
+    "context": "In recent years, the English writer Ann Yearsley (1753–1806), whose poetry was widely read during her lifetime, has been rediscovered by contemporary audiences—a resurgence of interest that is largely due to literary scholars such as Stacey McDowell, whose work ______ the richness of Yearsley’s poems and the poet’s historical importance to the Romantic literary movement encourages a broader rethinking of British Romanticism itself.",
+    "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": [
+      "highlights",
+      "highlighting",
+      "has highlighted",
+      "is highlighting"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: highlights: Nếu dùng \"highlights\", câu sẽ có hai động từ chính (\"highlights\" và \"encourages\") cho cùng một chủ ngữ (\"work\") mà không có liên từ nối, tạo ra lỗi ngữ pháp.",
+      "B": "Từ này phù hợp vì: highlighting: Đây là hiện tại phân từ, tạo thành một cụm phân từ chủ động đúng ngữ pháp để bổ nghĩa cho \"work\". (Công việc của bà, trong khi làm nổi bật sự phong phú..., đã khuyến khích...).",
+      "C": "Vì sao sai: has highlighted: Tương tự lựa chọn A, đây là một động từ chia, gây ra lỗi ngữ pháp.",
+      "D": "Vì sao sai: is highlighting: Tương tự lựa chọn A, đây là một động từ chia, gây ra lỗi ngữ pháp."
+    },
+    "contextSummary": "Bối cảnh logic: Câu có cấu trúc phức tạp: \"...a resurgence of interest that is largely due to literary scholars such as Stacey McDowell, whose work ______ the richness... encourages a broader rethinking...\".",
+    "contextLogic": "Tư duy suy luận: Chủ ngữ chính của mệnh đề phụ là \"whose work\". Động từ chính của mệnh đề này là \"encourages\". Cụm từ ở giữa, \"______ the richness of Yearsley’s poems and the poet’s historical importance...\", là một cụm từ bổ nghĩa cho \"work\". Để giữ cho cấu trúc câu đúng, chúng ta cần một cụm phân từ (participial phrase) để mô tả \"work\" đang làm gì."
+  },
+  {
+    "id": 39026,
+    "category": "Test 39",
+    "question": "Question 22",
+    "context": "The album Irreversible...2012 by La Arrolladora Banda El Limón De René Camacho received much critical attention and praise for its contribution to the banda genre, a form of regional Mexican music featuring large ensembles of wind instruments and drums that first developed in southern and central Mexico in the mid-nineteenth century. ______ few were surprised when the album won the Best Banda Album award at the 2012 Latin Grammys.",
+    "prompt": "Which choice completes the text with the most logical transition?",
+    "options": [
+      "Often,",
+      "Therefore,",
+      "Nevertheless,",
+      "Granted,"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Often, (Thường thì): Không thể hiện mối quan hệ nhân quả.",
+      "B": "Từ này phù hợp vì: Therefore, (Do đó, vì vậy): Hoàn toàn chính xác. Nó thể hiện rõ mối quan hệ nguyên nhân - kết quả.",
+      "C": "Vì sao sai: Nevertheless, (Tuy nhiên): Dùng để chỉ sự tương phản, trái ngược với logic của câu.",
+      "D": "Vì sao sai: Granted, (Công nhận là): Dùng để thừa nhận một điểm trước khi đưa ra một điểm khác, không phù hợp."
+    },
+    "contextSummary": "Bối cảnh logic: Câu đầu tiên nói rằng album đã nhận được nhiều sự chú ý và khen ngợi từ giới phê bình. Câu thứ hai nói rằng ít ai ngạc nhiên khi album đó thắng giải.",
+    "contextLogic": "Tư duy suy luận: Mối quan hệ giữa hai câu là nguyên nhân - kết quả. Bởi vì album được đánh giá rất cao (nguyên nhân), nên việc nó thắng giải không gây ngạc nhiên (kết quả). Cần một từ chuyển tiếp thể hiện mối quan hệ này."
+  },
+  {
+    "id": 39027,
+    "category": "Test 39",
+    "question": "Question 23",
+    "context": " In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Elizabeth Alexander’s 2011 poem “Walking,” for example, meditates on Charles Alston’s 1963 painting Walking; Cornelius Eady’s 2001 poem “Jacob Lawrence: Summer Street Scene,” ______ takes a painting as its subject: Jacob Lawrence’s 1948 work Summer Street Scene in Harlem.",
+    "prompt": "Which choice completes the text with the most logical transition?",
+    "options": [
+      "nevertheless,",
+      "conversely,",
+      "likewise,",
+      "hence,"
+    ],
+    "correct": "C",
+    "explanations": {
+      "A": "Vì sao sai: nevertheless, (tuy nhiên): Chỉ sự tương phản.",
+      "B": "Vì sao sai: conversely, (ngược lại): Chỉ sự đối lập.",
+      "C": "Từ này phù hợp vì: likewise, (tương tự như vậy): Hoàn hảo để giới thiệu một ví dụ tương đồng.",
+      "D": "Vì sao sai: hence, (do đó): Chỉ kết quả, không phù hợp."
+    },
+    "contextSummary": "Bối cảnh logic: Câu đầu tiên định nghĩa thơ ekphrastic. Câu thứ hai đưa ra một ví dụ: bài thơ \"Walking\" của Elizabeth Alexander viết về bức tranh \"Walking\". Câu thứ ba đưa ra một ví dụ khác: bài thơ của Cornelius Eady cũng lấy một bức tranh làm chủ đề.",
+    "contextLogic": "Tư duy suy luận: Câu thứ ba đang giới thiệu một ví dụ thứ hai có cùng bản chất với ví dụ đầu tiên. Cả hai nhà thơ đều viết về các tác phẩm hội họa. Cần một từ chuyển tiếp thể hiện sự tương đồng, song song."
+  },
+  {
+    "id": 39028,
+    "category": "Test 39",
+    "question": "Question 26",
+    "context": "As technology has advanced, many countries have sought to gain an advantage in, or even control parts of, space and its celestial bodies. ________ it is the 1967 Outer Space Treaty—signed by Austria, Finland, and over 100 other nations—that curtails these ambitions and ensures that space remains a neutral place for the international community.",
+    "prompt": "",
+    "options": [
+      "Consequently,",
+      "Specifically,",
+      "Alternatively,",
+      "Ultimately,"
+    ],
+    "correct": "D",
+    "explanations": {
+      "A": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "B": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn."
+    },
+    "contextSummary": "Tóm tắt: As technology has advanced, many countries have sought to gain an advantage in, or even control parts of, space and its celestial bodies. ________ it is the 1967 Outer Space Treaty—signed by Austria, ...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  },
+  {
+    "id": 39029,
+    "category": "Test 39",
+    "question": "Question 27",
+    "context": "Children in the United States often lose a tooth in exchange for a small gift from the “tooth fairy,” a mythical creature said to visit sleeping children who leave a tooth beneath their pillow. A similar tradition is observed in Argentina, where children leave a tooth in a glass of water before bed, only to find it replaced with a coin the next morning. ________, children in Nigeria place their lost teeth under pillows or on the roofs of houses to receive money from the tooth fairy.",
+    "prompt": "",
+    "options": [
+      "However,",
+      "Likewise,",
+      "Instead,",
+      "Meanwhile,"
+    ],
+    "correct": "B",
+    "explanations": {
+      "A": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "B": "Từ này phù hợp vì: Hoàn chỉnh câu/ý theo ngữ nghĩa và logic của đoạn văn.",
+      "C": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh.",
+      "D": "Vì sao sai: Không phù hợp về nghĩa/ngữ pháp hoặc trái với logic của ngữ cảnh."
+    },
+    "contextSummary": "Tóm tắt: Children in the United States often lose a tooth in exchange for a small gift from the “tooth fairy,” a mythical creature said to visit sleeping children who leave a tooth beneath their pillow. A simi...",
+    "contextLogic": "Chiến lược: Đọc bối cảnh, xác định yêu cầu câu hỏi, đối chiếu từng lựa chọn và chọn phương án phù hợp nhất."
+  }
+]

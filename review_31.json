@@ -513,7 +513,7 @@
     "id": 31015,
     "category": "Review 31",
     "context": "Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts. What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?",
-    "prompt": "Question 15\n Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts.\n What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?",
+    "prompt": "What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?",
     "options": [
       "Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.",
       "Drelichman and Voth’s research revealed the role of Philip II’s debt defaults in exacerbating short-term liquidity crises.",
@@ -564,7 +564,7 @@
     "id": 31016,
     "category": "Review 31",
     "context": "Joseph Andrews is a 1742 novel by Henry Fielding. The narrator of the novel occasionally comments directly on the craft of writing, in one comment drawing a comparison to elucidate an authorial decision apparent in the novel: ____",
-    "prompt": "Question 16\n Joseph Andrews is a 1742 novel by Henry Fielding. The narrator of the novel occasionally comments directly on the craft of writing, in one comment drawing a comparison to elucidate an authorial decision apparent in the novel: ____\n Which quotation from Joseph Andrews most effectively illustrates the claim?",
+    "prompt": "Which quotation from Joseph Andrews most effectively illustrates the claim?",
     "options": [
       "“But as it often happens that the best men are but little known, and consequently cannot extend the usefulness of their examples a great way; the writer may be called in aid to spread their history farther, and to present the amiable pictures of those who have not the happiness of knowing the originals.”",
       "“I will dismiss this chapter with the following observation: that it becomes an author generally to divide a book, as it does a butcher to joint his meat, for such assistance is of great help to both the reader and the carver. And now, having indulged myself a little, I will endeavour to indulge the curiosity of my reader, who is no doubt impatient to know what he will find in the subsequent chapters of this book.”",
@@ -615,7 +615,7 @@
     "id": 31017,
     "category": "Review 31",
     "context": "To understand consumer loyalty to specific online retailers, Marina Žitakovic and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e.g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ________",
-    "prompt": "Question 17\n To understand consumer loyalty to specific online retailers, Marina Žitakovic and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e.g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ________\n Which choice most logically completes the text?",
+    "prompt": "Which choice most logically completes the text?",
     "options": [
       "additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
       "customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.",
@@ -666,7 +666,7 @@
     "id": 31018,
     "category": "Review 31",
     "context": "Chelsea Wood et al. tracked temperature-driven changes in the abundance of Opechona sp. (a complex life-cycle parasite, or CLP, that requires three host species throughout its life cycle), Anthocotyle merlucci (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ________",
-    "prompt": "Question 18\n Chelsea Wood et al. tracked temperature-driven changes in the abundance of Opechona sp. (a complex life-cycle parasite, or CLP, that requires three host species throughout its life cycle), Anthocotyle merlucci (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ________\n Which choice most logically completes the text?",
+    "prompt": "Which choice most logically completes the text?",
     "options": [
       "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.",
       "as the number of host species involved in a parasite’s transmission increases, the parasite is better protected against rising temperatures.",
@@ -717,7 +717,7 @@
     "id": 31019,
     "category": "Review 31",
     "context": "Philoctetes is a play by Sophocles that was first performed in 409 BCE. In the play, Odysseus and Neoptolemus must retrieve Philoctetes—a master archer who is believed necessary for the Greeks to win the Trojan War—from a cave on a deserted island where Odysseus and others had abandoned him with a debilitating injury earlier in the war. Odysseus suggests that the plan for returning with Philoctetes rests on Neoptolemus not having been part of the group that abandoned him: ____",
-    "prompt": "Question 19\n Philoctetes is a play by Sophocles that was first performed in 409 BCE. In the play, Odysseus and Neoptolemus must retrieve Philoctetes—a master archer who is believed necessary for the Greeks to win the Trojan War—from a cave on a deserted island where Odysseus and others had abandoned him with a debilitating injury earlier in the war. Odysseus suggests that the plan for returning with Philoctetes rests on Neoptolemus not having been part of the group that abandoned him: ____\n Which quotation from Philoctetes most effectively illustrates the claim?",
+    "prompt": "Which quotation from Philoctetes most effectively illustrates the claim?",
     "options": [
       "“Now let me show, why thine approach to him / Is safe and trustful as mine cannot be: / Thou didst sail forth, not to redeem thine oath, / Nor by constraint, nor with the foremost band. / All which reproaches I must bear.”",
       "“No moment for this talk, / Lest he discern my coming, and I lose / The scheme, wherewith I think to catch him soon.”",
@@ -768,7 +768,7 @@
     "id": 31020,
     "category": "Review 31",
     "context": "Between December 28 and January 12 each year, particles shed by comet (196256) 2003 EH1 enter Earth’s atmosphere at a velocity of 41 kilometers per second. Relatively few of these particles are likely to reach Earth’s ____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Quadrantid meteor shower.",
-    "prompt": "Question 20\n Between December 28 and January 12 each year, particles shed by comet (196256) 2003 EH1 enter Earth’s atmosphere at a velocity of 41 kilometers per second. Relatively few of these particles are likely to reach Earth’s ____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Quadrantid meteor shower.\n Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "options": [
       "surface; however;",
       "surface, however,",
@@ -819,7 +819,7 @@
     "id": 31021,
     "category": "Review 31",
     "context": "On March 6, 2002, Canadian astronomers detected a striking and unusual phenomenon occurring in the constellation Lupus, 160 million light-years from ____ explosion of a massive star, also known as a supernova, an extremely bright yet transient event that typically results from the collapse of a star’s core.",
-    "prompt": "Question 21\n On March 6, 2002, Canadian astronomers detected a striking and unusual phenomenon occurring in the constellation Lupus, 160 million light-years from ____ explosion of a massive star, also known as a supernova, an extremely bright yet transient event that typically results from the collapse of a star’s core.\n Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "options": [
       "Earth. The",
       "Earth, it was the",

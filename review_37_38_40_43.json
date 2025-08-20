@@ -135,7 +135,7 @@
     "id": 37007,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 7",
-    "context": "Text 1 is adapted from E.M. Forster’s 1910 novel Howards End. \nText 2 discusses Howards End. King’s Cross and St. Pancras are adjacent railway terminals in London from which trains travel to the countryside. \n\nText 1: \nTo Margaret the station of King’s Cross had always suggested Infinity. Its very situation—withdrawn a little behind the facile splendors of St. Pancras—implied a comment on the materialism of life. Those two great arches, colourless, indifferent, shouldering between them an unlovely clock, were fit portals for some eternal adventure, whose issue might be prosperous, but would certainly not be expressed in the ordinary language of prosperity. \n\nText 2: \nThe interplay between opposing ideological positions in Howards End is broadly articulated in the novel’s organization of geographic space. On the one hand, the modern metropolis of London represents capitalism’s emphasis on pragmatism and the accumulation of material wealth; on the other, the English countryside, accessible via King’s Cross, fosters an idealism that values tradition, authentic personal connection, and the aesthetic—what the novel calls “the infinite.",
+    "context": "Text 1 is adapted from E.M. Forster’s 1910 novel Howards End.\nText 2 discusses Howards End. King’s Cross and St. Pancras are adjacent railway terminals in London from which trains travel to the countryside.\nText 1:\nTo Margaret the station of King’s Cross had always suggested Infinity. Its very situation—withdrawn a little behind the facile splendors of St. Pancras—implied a comment on the materialism of life. Those two great arches, colourless, indifferent, shouldering between them an unlovely clock, were fit portals for some eternal adventure, whose issue might be prosperous, but would certainly not be expressed in the ordinary language of prosperity.\nText 2:\nThe interplay between opposing ideological positions in Howards End is broadly articulated in the novel’s organization of geographic space. On the one hand, the modern metropolis of London represents capitalism’s emphasis on pragmatism and the accumulation of material wealth; on the other, the English countryside, accessible via King’s Cross, fosters an idealism that values tradition, authentic personal connection, and the aesthetic—what the novel calls “the infinite.",
     "prompt": "Based on the texts, the author of Text 2 would most likely agree with which statement about King’s Cross, as it is depicted in Text 1?",
     "options": [
       "Because it is situated at the beginning of Margaret’s journey from the city to the country, King’s Cross emblematizes the intrusion of the forces of materialism and modernity into the rural spaces that the novel associates with idealism and tradition.",
@@ -157,7 +157,7 @@
     "id": 37008,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 8",
-    "context": "Text 1: \nChemically analyzing bulk rock-core samples from Australia’s Mount McRae Shale, Ariel Anbar et al. found a transient but significant increase in molybdenum (Mo) at a point corresponding to roughly 2.5 billion years ago (Ga). On Earth, Mo is released mainly through oxidative weathering of minerals; Anbar et al. therefore concluded that atmospheric oxygen briefly increased 2.5 Ga, then returned to its earlier negligible level. \n\nText 2: \nSarah Slotznick et al. reexamined the Mount McRae Shale core. Since chemically analyzing bulk samples can occlude contextual details, Slotznick et al. also employed high-resolution microscopy, which revealed volcanic debris—a known Mo host—around 2.5 Ga and microfractures in the surrounding matrix. The researchers assert that fluid could have reached the debris through the microfractures and initiated oxidative weathering long after debris deposition.",
+    "context": "Text 1:\nChemically analyzing bulk rock-core samples from Australia’s Mount McRae Shale, Ariel Anbar et al. found a transient but significant increase in molybdenum (Mo) at a point corresponding to roughly 2.5 billion years ago (Ga). On Earth, Mo is released mainly through oxidative weathering of minerals; Anbar et al. therefore concluded that atmospheric oxygen briefly increased 2.5 Ga, then returned to its earlier negligible level.\nText 2:\nSarah Slotznick et al. reexamined the Mount McRae Shale core. Since chemically analyzing bulk samples can occlude contextual details, Slotznick et al. also employed high-resolution microscopy, which revealed volcanic debris—a known Mo host—around 2.5 Ga and microfractures in the surrounding matrix. The researchers assert that fluid could have reached the debris through the microfractures and initiated oxidative weathering long after debris deposition.",
     "prompt": "Based on the texts, Anbar et al. (Text 1) and Slotznick et al. (Text 2) would most likely disagree about the answer to which question about the portion of the Mount McRae Shale rock-core corresponding to 2.5 Ga?",
     "options": [
       "Is the increase in Mo in that portion attributable to oxidative weathering of the material found in that portion?",
@@ -179,7 +179,7 @@
     "id": 37009,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 9",
-    "context": "Text 1: \nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ. \n\nText 2:\n In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU. Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.",
+    "context": "Text 1:\nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.\nText 2:\n In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU. Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.",
     "prompt": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?",
     "options": [
       "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
@@ -202,7 +202,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 10",
     "context": "Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar per-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.",
-    "prompt": "Question 10:\n Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar per-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.\n Which finding, if true, would most directly support the researchers’ claim regarding the size of PCFG whales?",
+    "prompt": "Which finding, if true, would most directly support the researchers’ claim regarding the size of PCFG whales?",
     "options": [
       "When foraging along the coasts of Northern California and British Columbia, PCFG whales are in closer proximity to major ports and urban populations than ENP whales in the main group are when foraging in Arctic waters.",
       "The average body size of PCFG whales observed along the coasts of Northern California and British Columbia has remained relatively steady in recent decades, while the average body size of ENP whales in the main group has slightly decreased.",
@@ -246,7 +246,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 12",
     "context": "In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ________, detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.",
-    "prompt": "Question 12:\n In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ________, detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "unexpectedly,",
       "predictably,",
@@ -268,7 +268,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 13",
     "context": "Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ________ to some readers of his time.",
-    "prompt": "Question 13:\n Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ________ to some readers of his time.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "provocative",
       "irrefutable",
@@ -290,7 +290,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 14",
     "context": "Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ________. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.",
-    "prompt": "Question 14:\n Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ________. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "tranquil",
       "peculiar",
@@ -312,7 +312,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 15",
     "context": "Lucian of Samosata (modern-day Turkey) was a second-century satirist who mostly ridiculed qualities of philosophers of the time. His work True History, however, is _____, featuring tropes that are hallmarks of present-day science fiction (e.g., space travel, interplanetary conflict); it is regarded by some scholars as the earliest known work in the genre.",
-    "prompt": "Question 15:\n Lucian of Samosata (modern-day Turkey) was a second-century satirist who mostly ridiculed qualities of philosophers of the time. His work True History, however, is _____, featuring tropes that are hallmarks of present-day science fiction (e.g., space travel, interplanetary conflict); it is regarded by some scholars as the earliest known work in the genre.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "authorized",
       "applicable",
@@ -334,7 +334,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 16",
     "context": "The familial structure of the black swan (Cygnus atratus) shows tremendous ____: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
-    "prompt": "Question 16:\n The familial structure of the black swan (Cygnus atratus) shows tremendous ____: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "elasticity",
       "reciprocity",
@@ -356,7 +356,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 17",
     "context": "Run by researchers in multiple countries, the Study on Global Ageing and Adult Health (SAGE) is an examination of aging that has attempted to track approximately 66,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ____: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
-    "prompt": "Question 17:\n Run by researchers in multiple countries, the Study on Global Ageing and Adult Health (SAGE) is an examination of aging that has attempted to track approximately 66,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ____: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "impartiality",
       "replicability",
@@ -377,8 +377,8 @@
     "id": 37018,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 18",
-    "context": "Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ________ ",
-    "prompt": "Question 18:\n Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ________\n Which choice most logically completes the text?",
+    "context": "Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ________",
+    "prompt": " Which choice most logically completes the text?",
     "options": [
       "North America has sites with hominins but not sites with early multicellular organisms.",
       "early multicellular organisms are found at more sites around the world than hominins.",
@@ -399,8 +399,8 @@
     "id": 37019,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 19",
-    "context": "Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ________ ",
-    "prompt": "Question 19:\n Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ________\n Which choice most logically completes the text?",
+    "context": "Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ________",
+    "prompt": " Which choice most logically completes the text?",
     "options": [
       "because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.",
       "although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.",
@@ -422,7 +422,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 20",
     "context": "Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjernen and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that _____.",
-    "prompt": "Question 20:\n Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjernen and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that _____.\n Which choice most logically completes the text?",
+    "prompt": "Which choice most logically completes the text?",
     "options": [
       "the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.",
       "Guédron, Tisserand, and colleagues’ study used different methods to measure the concentration of mercury in fresh water than Tjernen and colleagues’ study did.",
@@ -444,7 +444,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 21",
     "context": "The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn’s largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model’s developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ____",
-    "prompt": "Question 21:\n The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn’s largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model’s developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ____\n Which choice most logically completes the text?",
+    "prompt": "Which choice most logically completes the text?",
     "options": [
       "even though the model’s outputs sometimes agree with observational data, Titan’s real methane mole fraction is likely higher than the methane mole fraction used in the model.",
       "inconsistencies across the model’s simulations of Titan’s precipitation and humidity could be attributable to variations in the moon’s methane mole fraction.",
@@ -466,7 +466,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 22",
     "context": "When Kenyan writer Ngũgĩ wa Thiong’o, who had previously published four novels in English, began writing in his native language, Gikũyũ, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili—widely spoken in Kenya and elsewhere in Africa—would be a more practical choice. Rejecting their arguments, Ngũgĩ went on to author dozens of acclaimed works in Gikũyũ that have been translated into a total of more than thirty languages.",
-    "prompt": "Question 22:\n When Kenyan writer Ngũgĩ wa Thiong’o, who had previously published four novels in English, began writing in his native language, Gikũyũ, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili—widely spoken in Kenya and elsewhere in Africa—would be a more practical choice. Rejecting their arguments, Ngũgĩ went on to author dozens of acclaimed works in Gikũyũ that have been translated into a total of more than thirty languages.\n Which choice best states the main idea of the text?",
+    "prompt": "Which choice best states the main idea of the text?",
     "options": [
       "Although Ngũgĩ insisted on publishing his first works in Gikũyũ, they have since been translated into many other languages.",
       "Although Ngũgĩ’s decision to write in Gikũyũ was met with some skepticism, it didn’t prevent him from achieving literary success.",
@@ -487,7 +487,7 @@
     "id": 37023,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 23",
-    "context": "While researching a topic, a student has taken the following notes: \n• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.\n• 1963: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.\n• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.\n • 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH). \n • MMH expands modularity to include all cognitive systems.",
+    "context": "While researching a topic, a student has taken the following notes:\n• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.\n• 1963: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.\n• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.\n • 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).\n • MMH expands modularity to include all cognitive systems.",
     "prompt": "The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "options": [
       "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.",
@@ -509,7 +509,7 @@
     "id": 37024,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 24",
-    "context": "While researching a topic, a student has taken the following notes: \n• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects. \n• Step 1: Ultraviolet (UV) light images are projected into a pool of liquid resin, where the object’s first layer takes shape. \n• Step 2: The partially cured resin object is raised, leaving a thin space (a “dead zone”) beneath it for oxygen and liquid resin to flow through. \n• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object. \n• Step 4: When the resin object is complete, it is baked in an oven to complete the curing. The student wants to describe how DLS cures 3D objects.",
+    "context": "While researching a topic, a student has taken the following notes:\n• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.\n• Step 1: Ultraviolet (UV) light images are projected into a pool of liquid resin, where the object’s first layer takes shape.\n• Step 2: The partially cured resin object is raised, leaving a thin space (a “dead zone”) beneath it for oxygen and liquid resin to flow through.\n• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.\n• Step 4: When the resin object is complete, it is baked in an oven to complete the curing. The student wants to describe how DLS cures 3D objects.",
     "prompt": "The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "options": [
       "DLS cures 3D objects by passing through a “dead zone,” adding layers to the object, then curing the object in an oven.",
@@ -532,7 +532,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 25",
     "context": "For years, Christopher Clavius’s 1593 work Astrolabium had the earliest known evidence of a decimal point, which was in a sine table’s interpolation column. However, math historian Glen van Brummelen posited that Venetian merchant Giovanni Bianchini, who worked as an astrological consultant, used the mechanical symbol approximately 150 years before Clavius did. Van Brummelen asserts that in his role as a consultant, [Bianchini used trigonometry to calculate the coordinates of the planets, and these calculations contain the earliest example of the decimal point.]",
-    "prompt": "Question 25:\n For years, Christopher Clavius’s 1593 work Astrolabium had the earliest known evidence of a decimal point, which was in a sine table’s interpolation column. However, math historian Glen van Brummelen posited that Venetian merchant Giovanni Bianchini, who worked as an astrological consultant, used the mechanical symbol approximately 150 years before Clavius did. Van Brummelen asserts that in his role as a consultant, Bianchini used trigonometry to calculate the coordinates of the planets, and these calculations contain the earliest example of the decimal point.\n Which finding, if true, would most directly support the underlined claim?",
+    "prompt": "Which finding, if true, would most directly support the underlined claim?",
     "options": [
       "Several dots appear in both Clavius’s Astrolabium and Bianchini’s Flores Almagesti, but the dot was commonly used in manuscripts in the 1400s and 1500s as a means to separate letters or whole numbers from each other.",
       "In Clavius’s Astrolabium, he gives several examples of both interpolation and inverse interpolation using decimal numbers and justifies the method to his readers by equating 45.7 with “45+7 tenths.”",
@@ -554,7 +554,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 26",
     "context": "Spoken in Northern California, Karuk is an isolate, or a language that has no demonstrated relationship to other documented languages. The Haida language in Alaska is an isolate as well. However, most Native languages belong to language families, or groups of languages whose similarities can be attributed to shared descent from a single language spoken thousands of years ago. Curiously, isolates are more prevalent in regions where numerous nonisolates are also spoken. Thus, the geographical circumstances that favor the development of isolates may also drive diversification within language families.",
-    "prompt": "Question 26:\n Spoken in Northern California, Karuk is an isolate, or a language that has no demonstrated relationship to other documented languages. The Haida language in Alaska is an isolate as well. However, most Native languages belong to language families, or groups of languages whose similarities can be attributed to shared descent from a single language spoken thousands of years ago. Curiously, isolates are more prevalent in regions where numerous nonisolates are also spoken. Thus, the geographical circumstances that favor the development of isolates may also drive diversification within language families.\n Which choice best describes the overall structure of the text?",
+    "prompt": "Which choice best describes the overall structure of the text?",
     "options": [
       "It provides examples of isolates, distinguishes isolates from most other Native languages, then discusses a point of correspondence between isolates and nonisolates.",
       "It compares two isolates, sketches the process by which nonisolates evolve from isolates, then discusses how geography affects the development of isolates and nonisolates alike.",
@@ -576,7 +576,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 27",
     "context": "Ants and aphids are known to be mutualistic: ants feed on the honeydew produced by aphids, while aphids benefit from ants’ protection against predators. If aphid colonies—which generally require relatively stable surfaces, such as trees or other woody plants, to thrive—are too small to produce significant volumes of honeydew, however, ants will prey on aphids. Researcher Tae-Sung Kwon examined ant and aphid abundance in two habitats in South Korea, one on the mainland and one on Jeju Island. Though the habitats differed in some important respects, both were predominantly grassland, which could help explain why Kwon observed ________",
-    "prompt": "Question 27:\n Ants and aphids are known to be mutualistic: ants feed on the honeydew produced by aphids, while aphids benefit from ants’ protection against predators. If aphid colonies—which generally require relatively stable surfaces, such as trees or other woody plants, to thrive—are too small to produce significant volumes of honeydew, however, ants will prey on aphids. Researcher Tae-Sung Kwon examined ant and aphid abundance in two habitats in South Korea, one on the mainland and one on Jeju Island. Though the habitats differed in some important respects, both were predominantly grassland, which could help explain why Kwon observed ________\n Which choice most logically completes the text?",
+    "prompt": "Which choice most logically completes the text?",
     "options": [
       "different ant and aphid species on the mainland compared to those on the island.",
       "a positive correlation between aphid diversity and abundance on both the mainland and the island.",
@@ -598,7 +598,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 28",
     "context": "Analyses of Rembrandt’s seventeenth-century painting The Night Watch, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, ________ just an extension of the stylings of the Renaissance era.",
-    "prompt": "Question 28:\n Analyses of Rembrandt’s seventeenth-century painting The Night Watch, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, ________ just an extension of the stylings of the Renaissance era.\n Which choice completes the text with the most logical transition?",
+    "prompt": "Which choice completes the text with the most logical transition?",
     "options": [
       "in reality,",
       "first of all,",
@@ -619,7 +619,7 @@
     "id": 37029,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 29",
-    "context": "• The Polytechnic in Gdansk, Poland, is home to a Foucault pendulum. \n• The pendulum consists of a weighted ball that swings at the end of a roughly 26-meter-long cable. \n• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn’t change. \n• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it. \n• Foucault pendulums are used as a simple way to provide evidence of Earth’s rotation.",
+    "context": "• The Polytechnic in Gdansk, Poland, is home to a Foucault pendulum.\n• The pendulum consists of a weighted ball that swings at the end of a roughly 26-meter-long cable.\n• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.\n• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.\n• Foucault pendulums are used as a simple way to provide evidence of Earth’s rotation.",
     "prompt": "The student wants to specify the parts of a Foucault pendulum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "options": [
       "The Foucault pendulum at the Polytechnic in Gdansk, Poland, includes a cable that is roughly 26 meters long.",
@@ -664,7 +664,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 31",
     "context": "Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.",
-    "prompt": "Question 31:\n Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.\n Which quotation from a music streaming platform user would best illustrate Walsh’s finding?",
+    "prompt": "Which quotation from a music streaming platform user would best illustrate Walsh’s finding?",
     "options": [
       "“Listening to music through a streaming platform feels a lot more passive, since I don’t need to make any deliberate choices about what music I’m going to consume, like I do when buying digital downloads or records and CDs.”",
       "“When I create playlists or choose songs to listen to, I often pick songs that I think the friends who are following me might be interested in listening to, rather than what I might actually prefer listening to in that moment.”",
@@ -686,7 +686,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 32",
     "context": "The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects.",
-    "prompt": "Question 32:\n The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as having an exaggerated sense of their own wisdom, as seen when the character ________\n Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
+    "prompt": "In the play, Aristophanes satirizes sophists as having an exaggerated sense of their own wisdom, as seen when the character ________\n Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
     "options": [
       "Socrates, a sophist, says to a customer, “You talk nonsense. Begone; I can’t teach you any longer.”",
       "Strepsiades says of a sophist business, “There dwell men who in speaking of the heavens persuade people that it is an oven, and that it encompasses us, and that we are the embers. These men teach, if one give them money, to conquer in speaking, right or wrong.”",
@@ -707,8 +707,8 @@
     "id": 37033,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 33",
-    "context": "Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offer subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that ________ ",
-    "prompt": "Question 33:\n Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offer subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that ________\n Which choice most logically completes the text?",
+    "context": "Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offer subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that ________",
+    "prompt": " Which choice most logically completes the text?",
     "options": [
       "EV owners are usually unaware of the fees for using charging stations.",
       "EV drivers are more likely to visit areas with many restaurants and convenience stores than they are to visit areas with fewer such businesses.",
@@ -730,7 +730,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 34",
     "context": "Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Starr Hardridge often assembles compositions out of motifs common in the traditional beadwork and graphic art of his tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Southern Cheyenne artist Dick West, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of West’s generation, the identification of an abstract painting as Indigenous art tends to ________",
-    "prompt": "Question 34:\n Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Starr Hardridge often assembles compositions out of motifs common in the traditional beadwork and graphic art of his tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Southern Cheyenne artist Dick West, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of West’s generation, the identification of an abstract painting as Indigenous art tends to ________\n Which choice most logically completes the text?",
+    "prompt": "Which choice most logically completes the text?",
     "options": [
       "deny the extent to which cultural identity influences an artist’s work.",
       "depend not on stylistic details but instead on an awareness of the artist’s identity.",
@@ -751,8 +751,8 @@
     "id": 37035,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 35",
-    "context": " A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, ________, visited a select few nesting sites before laying and incubating her eggs herself.",
-    "prompt": "Question 35:\n A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, ________, visited a select few nesting sites before laying and incubating her eggs herself.\n Which choice completes the text with the most logical transition?",
+    "context": "A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, ________, visited a select few nesting sites before laying and incubating her eggs herself.",
+    "prompt": "A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, ________, visited a select few nesting sites before laying and incubating her eggs herself.\n Which choice completes the text with the most logical transition?",
     "options": [
       "for example,",
       "in particular,",
@@ -774,7 +774,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 36",
     "context": "Portable video game consoles and other small electronic devices tend to ____ batteries that can’t be easily taken out and swapped for new ones. Environmental policy researcher Carl Dalhammar warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful waste.",
-    "prompt": "Question 36:\n Portable video game consoles and other small electronic devices tend to ____ batteries that can’t be easily taken out and swapped for new ones. Environmental policy researcher Carl Dalhammar warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful waste.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "contain",
       "prepare",
@@ -796,7 +796,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 37",
     "context": "A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ____ suggests that early hominins may have been more cognitively sophisticated than previously thought.",
-    "prompt": "Question 37:\n A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ____ suggests that early hominins may have been more cognitively sophisticated than previously thought.\n Which choice completes the text with the most logical and precise word or phrase?",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
     "options": [
       "concerning",
       "comparable",
@@ -817,7 +817,7 @@
     "id": 37038,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 38",
-    "context": "The following text is adapted from George Bernard Shaw’s 1905 play Major Barbara. \n\nLADY BRITOMART: You must learn to face life seriously, Stephen. I really cannot bear the whole burden of our family affairs any longer. You must advise me: you must [assume] the responsibility. \n\nSTEPHEN: I! LADY BRITOMART: Yes, you, of course. You were 24 last June.",
+    "context": "The following text is adapted from George Bernard Shaw’s 1905 play Major Barbara.\nLADY BRITOMART: You must learn to face life seriously, Stephen. I really cannot bear the whole burden of our family affairs any longer. You must advise me: you must [assume] the responsibility.\nSTEPHEN: I! LADY BRITOMART: Yes, you, of course. You were 24 last June.",
     "prompt": "As used in the text, what does the word “assume” most nearly mean?",
     "options": [
       "Infer",
@@ -861,7 +861,7 @@
     "id": 37040,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 40",
-    "context": "Text 1: \nYale University and the investment bank JPMorgan Chase are two of the many institutions offering training programs in entrepreneurship. [But what results do such programs produce?] In a study of college students in Sweden, researcher Ove Hansemark addressed this question and found that participants showed strong belief in their entrepreneurial capabilities after receiving entrepreneurial training. \n\nText 2: \nWhile studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1998 study by Ove Hansemark found benefits of entrepreneurial education for Swedish college students, but the study used a very small sample of only 19 students, making it difficult to say whether the training actually had an effect.",
+    "context": "Text 1:\nYale University and the investment bank JPMorgan Chase are two of the many institutions offering training programs in entrepreneurship. [But what results do such programs produce?] In a study of college students in Sweden, researcher Ove Hansemark addressed this question and found that participants showed strong belief in their entrepreneurial capabilities after receiving entrepreneurial training.\nText 2:\nWhile studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1998 study by Ove Hansemark found benefits of entrepreneurial education for Swedish college students, but the study used a very small sample of only 19 students, making it difficult to say whether the training actually had an effect.",
     "prompt": "Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?",
     "options": [
       "Although the programs may seem to produce positive results, close analysis of studies of the programs shows that they produce negative results just as frequently.",
@@ -883,7 +883,7 @@
     "id": 37041,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 41",
-    "context": "Text 1: \nIndustrial fuel consumption and other human activities are significant sources of atmospheric methane (CH₄), but, as Huai Chen and colleagues have shown, so too are naturally occurring emissions, such as those from wetlands. This biogenic CH₄ is challenging to monitor given natural sources’ variability and spatial diffusion, but one promising approach is to use CH₄ flux data from extant [monitoring infrastructure] as proxies for CH₄ fluxes in unmonitored areas. \n\nText 2: \nSparkle Malone and colleagues examined the United States’ network of eddy covariance (EC) towers—the equipment used to track CH₄ fluxes—to evaluate the utility of network data for quantifying biogenic CH₄. Malone et al. found that EC towers are disproportionately concentrated in areas where biogenic CH₄ emissions are known to be elevated, a pattern that seriously compromises the representativeness of network data. Based on the texts, Malone et al.",
+    "context": "Text 1:\nIndustrial fuel consumption and other human activities are significant sources of atmospheric methane (CH₄), but, as Huai Chen and colleagues have shown, so too are naturally occurring emissions, such as those from wetlands. This biogenic CH₄ is challenging to monitor given natural sources’ variability and spatial diffusion, but one promising approach is to use CH₄ flux data from extant [monitoring infrastructure] as proxies for CH₄ fluxes in unmonitored areas.\nText 2:\nSparkle Malone and colleagues examined the United States’ network of eddy covariance (EC) towers—the equipment used to track CH₄ fluxes—to evaluate the utility of network data for quantifying biogenic CH₄. Malone et al. found that EC towers are disproportionately concentrated in areas where biogenic CH₄ emissions are known to be elevated, a pattern that seriously compromises the representativeness of network data. Based on the texts, Malone et al.",
     "prompt": "Based on the texts, Malone et al. (Text 2) would most likely agree with which statement about the “monitoring infrastructure” described in Text 1?",
     "options": [
       "It tends to be located in places where biogenic CH₄ fluxes are too variable for flux data to be used in the way suggested in Text 1.",
@@ -906,7 +906,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 42",
     "context": "Editor Jared Shurin’s enormous 2023 anthology The Big Book of Cyberpunk comprises 108 stories. Shurin’s volume is chronologically expansive, featuring such stories as Fritz Leiber’s “Coming Attraction” (1950) and Erica Satifka’s “Act of Providence” (2021). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction concerning “the influence of technology on the scale, the pace, or the pattern of human affairs”; however, some critics assert that [cyberpunk was a literary movement that was in large part aesthetic rather than idea driven.]",
-    "prompt": "Question 42:\n Editor Jared Shurin’s enormous 2023 anthology The Big Book of Cyberpunk comprises 108 stories. Shurin’s volume is chronologically expansive, featuring such stories as Fritz Leiber’s “Coming Attraction” (1950) and Erica Satifka’s “Act of Providence” (2021). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction concerning “the influence of technology on the scale, the pace, or the pattern of human affairs”; however, some critics assert that cyberpunk was a literary movement that was in large part aesthetic rather than idea driven.\n Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?",
+    "prompt": "Editor Jared Shurin’s enormous 2023 anthology The Big Book of Cyberpunk comprises 108 stories. Shurin’s volume is chronologically expansive, featuring such stories as Fritz Leiber’s “Coming Attraction” (1950) and Erica Satifka’s “Act of Providence” (2021). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction concerning “the influence of technology on the scale, the pace, or the pattern of human affairs”; however, some critics assert that cyberpunk was a literary movement that was in large part aesthetic rather than idea driven.\n Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?",
     "options": [
       "“Shurin’s characterization of cyberpunk is remarkably generous; it is a categorization that might well serve for the entire field of science fiction in general, rather than cyberpunk in particular.”",
       "“Not all the stories anthologized in The Big Book of Cyberpunk were first published as stand-alone short stories in magazines or journals; for example, qntm’s 2021 story ‘Lena’ was originally self-published on the author’s site qntm.org.”",
@@ -928,7 +928,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 43",
     "context": "When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. [But the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.]",
-    "prompt": "Question 43:\n When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. But the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.\n Which finding, if true, would most directly support the underlined claim?",
+    "prompt": "When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. But the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.\n Which finding, if true, would most directly support the underlined claim?",
     "options": [
       "Consumers tend to prefer new products over older products.",
       "Consumers are more likely to buy a new product when they already use products from the company making the new product.",
@@ -950,7 +950,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 44",
     "context": "Slow cinema, an art house genre exemplified by films such as Nuri Bilge Ceylan’s Once Upon a Time in Anatolia (2011), is characterized by its deprivileging of narrative and its contemplative pace. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives, 2010) describes his films as sleep inducing for audiences, which might seem to indicate that his films are boring. But boredom does not necessarily cause sleep: [boredom can also create a tension in the absence of a goal on which one can focus one’s concentration, a tension that is anxiety inducing rather than soporific.] Thus, when Apichatpong describes his films as sleep inducing, this is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.",
-    "prompt": "Question 44:\n Slow cinema, an art house genre exemplified by films such as Nuri Bilge Ceylan’s Once Upon a Time in Anatolia (2011), is characterized by its deprivileging of narrative and its contemplative pace. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives, 2010) describes his films as sleep inducing for audiences, which might seem to indicate that his films are boring. But boredom does not necessarily cause sleep: boredom can also create a tension in the absence of a goal on which one can focus one’s concentration, a tension that is anxiety inducing rather than soporific. Thus, when Apichatpong describes his films as sleep inducing, this is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.\n Which choice best describes the function of the underlined portion in the text as a whole?",
+    "prompt": "Slow cinema, an art house genre exemplified by films such as Nuri Bilge Ceylan’s Once Upon a Time in Anatolia (2011), is characterized by its deprivileging of narrative and its contemplative pace. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives, 2010) describes his films as sleep inducing for audiences, which might seem to indicate that his films are boring. But boredom does not necessarily cause sleep: boredom can also create a tension in the absence of a goal on which one can focus one’s concentration, a tension that is anxiety inducing rather than soporific. Thus, when Apichatpong describes his films as sleep inducing, this is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.\n Which choice best describes the function of the underlined portion in the text as a whole?",
     "options": [
       "It explains why an aesthetic choice mentioned earlier in the text that many regard as disagreeable is nonetheless pleasurable for some.",
       "It emphasizes the characteristic mentioned earlier in the text that most notably links films by Apichatpong to those by Ceylan.",
@@ -972,7 +972,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 45",
     "context": "Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.",
-    "prompt": "Question 45:\n Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.\n Which quotation from the article would best illustrate the theater historian’s claim?",
+    "prompt": "Which quotation from the article would best illustrate the theater historian’s claim?",
     "options": [
       "“The members of the company, which in addition to founder Luis Valdez consisted entirely of nonprofessional actors, traveled into farm fields, where they, with minimal props and costumes, performed comedy in the form of brief humorous vignettes.”",
       "“The company was focused on the reality of the present situation and discovered that humor was often found in that reality; consequently, comedy became a tool to convey social critique while entertaining and inspiring audiences.”",
@@ -1016,7 +1016,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 47",
     "context": "The fibularis longus and the ___ move the fibula and humerus, respectively.",
-    "prompt": "Question 47:\n The fibularis longus and the ___ move the fibula and humerus, respectively.\n Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "options": [
       "brachialis are cylindrical in shape, which are skeletal muscles, and help",
       "brachialis are cylindrical in shape and help, which are skeletal muscles,",
@@ -1038,7 +1038,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 48",
     "context": "In the West African country of Sierra Leone, the percentage of the population living in cities rose from 40.8% to 42.9% between 2015 and 2020. ________ urbanization rates climbed across West Africa as a whole, rising 3.2 percentage points in that five-year period.",
-    "prompt": "Question 48:\n In the West African country of Sierra Leone, the percentage of the population living in cities rose from 40.8% to 42.9% between 2015 and 2020. ________ urbanization rates climbed across West Africa as a whole, rising 3.2 percentage points in that five-year period.\n Which choice completes the text with the most logical transition?",
+    "prompt": "Which choice completes the text with the most logical transition?",
     "options": [
       "Concurrently,",
       "For example,",
@@ -1059,7 +1059,7 @@
     "id": 37049,
     "category": "Review 37, 38, 40, 43",
     "question": "Question 49",
-    "context": "Text 1: \nBioluminescence, an organism’s emission of visible light, is the by-product of an oxidation reaction. The comb jelly has specialized cells that carry out that chemical reaction. Other marine species, such as the flashlight fish, emit light by hosting luminescent bacteria symbionts in specialized organs. Regardless of the mechanism, it’s estimated that bioluminescence is exhibited by 2,951 marine species. \n\nText 2: \nBioluminescence is often difficult to observe: displays are typically faint and brief, and individuals of a species can vary in their ability to emit light due to seasonal, life-stage, or dietary factors. Changes in how marine organisms are classified further complicate the identification of organisms capable of bioluminescence, making it difficult for scientists to maintain a definitive inventory of such species.",
+    "context": "Text 1:\nBioluminescence, an organism’s emission of visible light, is the by-product of an oxidation reaction. The comb jelly has specialized cells that carry out that chemical reaction. Other marine species, such as the flashlight fish, emit light by hosting luminescent bacteria symbionts in specialized organs. Regardless of the mechanism, it’s estimated that bioluminescence is exhibited by 2,951 marine species.\nText 2:\nBioluminescence is often difficult to observe: displays are typically faint and brief, and individuals of a species can vary in their ability to emit light due to seasonal, life-stage, or dietary factors. Changes in how marine organisms are classified further complicate the identification of organisms capable of bioluminescence, making it difficult for scientists to maintain a definitive inventory of such species.",
     "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the estimate presented in Text 1?",
     "options": [
       "By suggesting that the estimate is probably too low because scientists have examined only a modest number of marine species for potential bioluminescence",
@@ -1082,7 +1082,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 50",
     "context": "The blue shark and the striped marlin are ectothermic (cold-blooded) fish, whereas the salmon shark and the Pacific bluefin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Unlike those of ectotherms, regional endotherms’ hearts have a relatively high proportion (greater than 30%) of compact myocardial tissue, which is needed to maintain these animals’ blood pressure. In a 2023 study, Haley R. Dolton and colleagues found that basking sharks—planktivorous filter-feeders that were classified as full ectotherms at the time—have hearts consisting of 47% compact myocardial tissue, thereby undermining that classification.",
-    "prompt": "Question 50:\n The blue shark and the striped marlin are ectothermic (cold-blooded) fish, whereas the salmon shark and the Pacific bluefin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Unlike those of ectotherms, regional endotherms’ hearts have a relatively high proportion (greater than 30%) of compact myocardial tissue, which is needed to maintain these animals’ blood pressure. In a 2023 study, Haley R. Dolton and colleagues found that basking sharks—planktivorous filter-feeders that were classified as full ectotherms at the time—have hearts consisting of 47% compact myocardial tissue, thereby undermining that classification.\n According to the text, which choice most accurately describes the importance of the percentage of compact myocardial tissue in the basking shark’s heart?",
+    "prompt": "According to the text, which choice most accurately describes the importance of the percentage of compact myocardial tissue in the basking shark’s heart?",
     "options": [
       "It is insufficient to establish that the basking shark should be categorized as Dolton and colleagues suggest.",
       "It is higher than that of the salmon shark, a regional endotherm, despite the basking shark being a full ectotherm.",
@@ -1104,7 +1104,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 51",
     "context": "Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others’ agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone’s agency or an otherwise impermissible end.",
-    "prompt": "Question 51:\n Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others’ agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone’s agency or an otherwise impermissible end.\n Which choice best states the main idea of the text?",
+    "prompt": "Which choice best states the main idea of the text?",
     "options": [
       "Pallikkathayil’s argument suggests that if we have a duty to respect other people’s agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.",
       "Pallikkathayil’s argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.",
@@ -1126,7 +1126,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 52",
     "context": "In a series of experiments, Julio Sevilla and Claudia Townsend showed that manipulating the space between products in store displays can influence consumers’ views of those products. Participants in several of the experiments regarded the same products in the same (generic) retail settings as significantly more valuable when the product-to-space ratio was low than when it was high. But in one of the experiments, Sevilla and Townsend arranged the same jewelry with different levels of intervening space at an upscale retailer (Tiffany & Co.) and a relatively inexpensive retailer (Forever 21). The result of this experiment suggests that a store context associated with inexpensive products may moderate the effect Sevilla and Townsend observed in their other experiments.",
-    "prompt": "Question 52:\n In a series of experiments, Julio Sevilla and Claudia Townsend showed that manipulating the space between products in store displays can influence consumers’ views of those products. Participants in several of the experiments regarded the same products in the same (generic) retail settings as significantly more valuable when the product-to-space ratio was low than when it was high. But in one of the experiments, Sevilla and Townsend arranged the same jewelry with different levels of intervening space at an upscale retailer (Tiffany & Co.) and a relatively inexpensive retailer (Forever 21). The result of this experiment suggests that a store context associated with inexpensive products may moderate the effect Sevilla and Townsend observed in their other experiments.\n Which finding, if true, would most directly support the research team’s result?",
+    "prompt": "Which finding, if true, would most directly support the research team’s result?",
     "options": [
       "At both Tiffany & Co. and Forever 21, participants judged jewelry spaced far apart to be less valuable than jewelry spaced close together, but the difference in perceived value was significantly greater at Tiffany & Co. than at Forever 21.",
       "When jewelry was spaced far apart, participants judged the jewelry at Tiffany & Co. to be more valuable than the jewelry at Forever 21, but when jewelry was spaced close together, participants judged the jewelry at Tiffany & Co. to be less valuable than the jewelry at Forever 21.",
@@ -1148,7 +1148,7 @@
     "category": "Review 37, 38, 40, 43",
     "question": "Question 53",
     "context": "The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character ________.",
-    "prompt": "Question 53:\n The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character ________.\n Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
+    "prompt": "Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
     "options": [
       "Strepsiades, after taking lessons from a sophist, says to his son, “Approach, that you may know more; and I will tell you a thing, by learning which you will be a man. But see that you do not teach this to any one.”",
       "Socrates, a sophist, says to a potential customer, “I wish to briefly learn from you if you are possessed of a good memory.”",

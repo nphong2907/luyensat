@@ -857,6 +857,7 @@
       
       // optional extra files (do not break if missing)
       const candidates = [
+        './test_39.json',
         './review_31.json',
         './wic_part2_full.json',
         './review_37_38_40_43.labeled.json',

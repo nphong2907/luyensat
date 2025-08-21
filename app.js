@@ -745,14 +745,25 @@
       const name=`Tìm kiếm: "${q}"`; startSet(name, matches, {mode:'fresh', fromSearch:true});
     });
     [...box.querySelectorAll('.search-item .openThis')].forEach((btn)=>{
-      btn.addEventListener('click', ()=>{
-        const q=currentSet[idx];
-        const correctIndex=(typeof q.correct==='number')?clamp(q.correct,0,3):normalizeCorrect(q.correct,q.options||[]);
-        if(reviewMode){ renderExplanation(q, i, correctIndex, 'preview'); return; }
-        if(!answered.has(idx)){ handleAnswer(i, btn); }
-        else{ renderExplanation(q, i, correctIndex, 'preview'); }
-      });
-    });
+  btn.addEventListener('click', (ev)=>{
+    const row = ev.currentTarget.closest('.search-item');
+    const bankIdx = parseInt(row?.dataset.idx ?? '-1', 10);
+    if (bankIdx < 0) return;
+
+    // Mở bộ "kết quả tìm kiếm" và nhảy tới đúng câu
+    const name = `Tìm kiếm: "${q}"`;
+    startSet(name, matches, { mode:'fresh', fromSearch:true });
+    idx = Math.max(0, matches.indexOf(bankIdx));
+    renderQuestion();
+
+    // (tuỳ chọn) chỉ preview đáp án đúng, chưa chọn option nào:
+    const qq = currentSet[idx];
+    const correctIndex = (typeof qq.correct==='number')
+      ? clamp(qq.correct,0,3)
+      : normalizeCorrect(qq.correct, qq.options||[]);
+    renderExplanation(qq, null, correctIndex, 'preview'); // chosenIndex = null
+  });
+});
   }
 
   function pickRandomIdxs(n){
@@ -857,6 +868,7 @@
       
       // optional extra files (do not break if missing)
       const candidates = [
+        './wic_part3_full.json',
         './test_39.json',
         './review_31.json',
         './wic_part2_full.json',

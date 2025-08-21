@@ -1,0 +1,3317 @@
+[
+  {
+    "id": 40001,
+    "category": "Word in Context - Part 3",
+    "context": "In the 1990s, conservationists began planting more than 500,000 native trees in the habitat of the Azores bullfinch to boost the bird’s numbers. This approach was apparently ____: the Azores bullfinch’s population size increased from as few as 100 birds at the end of the 1980s to around 1,300 in 2023.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "successful",
+      "disastrous",
+      "amusing",
+      "costly"
+    ],
+    "answer": "successful",
+    "answerKey": "A",
+    "answerText": "successful",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: successful (thành công)\nVì sao đúng: Hoàn toàn khớp với bối cảnh. Việc số lượng chim tăng vọt cho thấy phương pháp này đã thành công.",
+      "B": "Nghĩa Tiếng Việt: disastrous (thảm khốc)\nVì sao sai: Trái ngược với kết quả tích cực được mô tả.",
+      "C": "Nghĩa Tiếng Việt: amusing (vui nhộn)\nVì sao sai: Không liên quan đến mục tiêu bảo tồn hay kết quả sinh học.",
+      "D": "Nghĩa Tiếng Việt: costly (tốn kém)\nVì sao sai: Đoạn văn không đề cập đến chi phí của dự án, chỉ nói về kết quả."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "successful",
+        "vi": "successful (thành công)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "disastrous",
+        "vi": "disastrous (thảm khốc)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "amusing",
+        "vi": "amusing (vui nhộn)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "costly",
+        "vi": "costly (tốn kém)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — successful",
+    "contextSummary": "Đoạn văn mô tả một hành động của các nhà bảo tồn là trồng hơn 500.000 cây bản địa trong môi trường sống của chim sẻ Azores. Kết quả của hành động này là số lượng cá thể chim đã tăng từ khoảng 100 con lên 1.300 con.",
+    "contextLogic": "Vấn đề cốt lõi là tìm một từ để mô tả kết quả của nỗ lực bảo tồn. Vì số lượng chim tăng lên đáng kể, hành động này đã đạt được mục tiêu mong muốn. Do đó, từ cần điền phải mang ý nghĩa \"thành công\", \"hiệu quả\".",
+    "_src": "WIC 3 Q1"
+  },
+  {
+    "id": 40002,
+    "category": "Word in Context - Part 3",
+    "context": "Though Vasily Grossman’s novel Stalingrad is not as beloved as his later work Life and Fate, some critics commend it despite its mangling by Soviet censors: Luke Harding in The Guardian called it “a work of lyrical art.” Several draft versions have been ____________, and translators consulted those drafts when working on what they hoped would be a definitive English edition.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "hypothesized",
+      "preserved",
+      "assigned",
+      "debunked"
+    ],
+    "answer": "preserved",
+    "answerKey": "B",
+    "answerText": "preserved",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: hypothesized (được giả thuyết)\nVì sao sai: Các bản nháp là những tài liệu vật chất, không phải là giả thuyết.",
+      "B": "Nghĩa Tiếng Việt: preserved (được bảo tồn, lưu giữ)\nVì sao đúng: Hoàn toàn chính xác. Các bản nháp đã được lưu giữ, cho phép các dịch giả sử dụng chúng.",
+      "C": "Nghĩa Tiếng Việt: assigned (được giao phó)\nVì sao sai: Không có ý nghĩa trong ngữ cảnh này.",
+      "D": "Nghĩa Tiếng Việt: debunked (bị vạch trần)\nVì sao sai: Các bản nháp không phải là một sự lừa dối để bị vạch trần."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "hypothesized",
+        "vi": "hypothesized (được giả thuyết)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "preserved",
+        "vi": "preserved (được bảo tồn, lưu giữ)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "assigned",
+        "vi": "assigned (được giao phó)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "debunked",
+        "vi": "debunked (bị vạch trần)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — preserved",
+    "contextSummary": "Đoạn văn nói về tiểu thuyết Stalingrad của Vasily Grossman. Mặc dù bị kiểm duyệt, các nhà phê bình vẫn khen ngợi nó. Quan trọng hơn, có \"nhiều phiên bản nháp\" đã được các dịch giả tham khảo để tạo ra một bản tiếng Anh cuối cùng.",
+    "contextLogic": "Các dịch giả chỉ có thể tham khảo các bản nháp nếu chúng còn tồn tại và được giữ lại. Do đó, từ cần điền phải mang ý nghĩa \"được lưu giữ\", \"được bảo tồn\".",
+    "_src": "WIC 3 Q2"
+  },
+  {
+    "id": 40003,
+    "category": "Word in Context - Part 3",
+    "context": "Posed in 1970, McMullen’s g-conjecture __________ many mathematicians before yielding to the efforts of Karim Adiprasito, who presented a proof of it in 2018.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "appeased",
+      "disregarded",
+      "confounded",
+      "indoctrinated"
+    ],
+    "answer": "confounded",
+    "answerKey": "C",
+    "answerText": "confounded",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: appeased (làm nguôi ngoai)\nVì sao sai: Không phù hợp với một vấn đề toán học.",
+      "B": "Nghĩa Tiếng Việt: disregarded (bị phớt lờ)\nVì sao sai: Trái ngược với việc \"nhiều nhà toán học\" đã cố gắng giải nó.",
+      "C": "Nghĩa Tiếng Việt: confounded (làm bối rối, làm hoang mang)\nVì sao đúng: Rất phù hợp. Giả thuyết này đã làm bối rối các nhà toán học trong một thời gian dài.",
+      "D": "Nghĩa Tiếng Việt: indoctrinated (truyền bá tư tưởng)\nVì sao sai: Không liên quan đến một bài toán."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "appeased",
+        "vi": "appeased (làm nguôi ngoai)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "disregarded",
+        "vi": "disregarded (bị phớt lờ)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "confounded",
+        "vi": "confounded (làm bối rối, làm hoang mang)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "indoctrinated",
+        "vi": "indoctrinated (truyền bá tư tưởng)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — confounded",
+    "contextSummary": "Đoạn văn mô tả giả thuyết g-conjecture của McMullen. Giả thuyết này được đặt ra vào năm 1970 và chỉ được chứng minh vào năm 2018 bởi Karim Adiprasito, sau khi rất nhiều nhà toán học đã nỗ lực giải quyết nó.",
+    "contextLogic": "Việc một bài toán tồn tại gần 50 năm và thách thức \"nhiều nhà toán học\" cho thấy nó rất khó và gây bối rối. Từ cần điền phải thể hiện ý nghĩa \"làm khó\", \"gây hoang mang, bối rối\".",
+    "_src": "WIC 3 Q3"
+  },
+  {
+    "id": 40004,
+    "category": "Word in Context - Part 3",
+    "context": "Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were ____, such as those for the town of Stone Ridge, Maryland, and the 18th-century forest-magnate Guillermo Garcia, persisted on the site for many years before they were finally recognized as falsehoods and deleted.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "mandatory",
+      "fraudulent",
+      "authentic",
+      "modest"
+    ],
+    "answer": "fraudulent",
+    "answerKey": "B",
+    "answerText": "fraudulent",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: mandatory (bắt buộc)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: fraudulent (gian lận, lừa đảo)\nVì sao đúng: Hoàn toàn khớp với bối cảnh về các trò lừa bịp và thông tin sai sự thật.",
+      "C": "Nghĩa Tiếng Việt: authentic (xác thực)\nVì sao sai: Trái ngược với ý nghĩa của câu.",
+      "D": "Nghĩa Tiếng Việt: modest (khiêm tốn)\nVì sao sai: Không liên quan đến tính xác thực của thông tin."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "mandatory",
+        "vi": "mandatory (bắt buộc)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "fraudulent",
+        "vi": "fraudulent (gian lận, lừa đảo)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "authentic",
+        "vi": "authentic (xác thực)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "modest",
+        "vi": "modest (khiêm tốn)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — fraudulent",
+    "contextSummary": "Đoạn văn nói về các trò lừa bịp trên Wikipedia. Hầu hết bị phát hiện nhanh chóng, nhưng một số mục từ sai sự thật (như về thị trấn Stone Ridge) lại tồn tại trong nhiều năm trước khi bị nhận ra là \"falsehoods\" (sự giả dối).",
+    "contextLogic": "Các mục từ này được mô tả là \"hoaxes\" (trò lừa bịp) và \"falsehoods\" (sự giả dối). Do đó, từ cần điền phải có nghĩa tương đương, tức là \"giả mạo\", \"lừa đảo\".",
+    "_src": "WIC 3 Q4"
+  },
+  {
+    "id": 40005,
+    "category": "Word in Context - Part 3",
+    "context": "In the early 2010s, the price of collectible and rare Lego sets rose dramatically, which had the counterintuitive effect of __________ demand: buyers who hadn’t previously wanted to purchase Lego sets thronged the market, believing prices would continue to rise and the sets could be resold later at a profit.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "catalyzing",
+      "monetizing",
+      "exploiting",
+      "appraising"
+    ],
+    "answer": "catalyzing",
+    "answerKey": "A",
+    "answerText": "catalyzing",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: catalyzing (xúc tác, thúc đẩy)\nVì sao đúng: Chính xác. Việc tăng giá đã đóng vai trò là chất xúc tác làm bùng nổ nhu cầu.",
+      "B": "Nghĩa Tiếng Việt: monetizing (tiền tệ hóa)\nVì sao sai: Không phù hợp, nhu cầu không bị \"tiền tệ hóa\".",
+      "C": "Nghĩa Tiếng Việt: exploiting (khai thác)\nVì sao sai: Không mô tả đúng mối quan hệ giữa giá cả và nhu cầu ở đây.",
+      "D": "Nghĩa Tiếng Việt: appraising (định giá)\nVì sao sai: Không có ý nghĩa trong ngữ cảnh này."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "catalyzing",
+        "vi": "catalyzing (xúc tác, thúc đẩy)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "monetizing",
+        "vi": "monetizing (tiền tệ hóa)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "exploiting",
+        "vi": "exploiting (khai thác)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "appraising",
+        "vi": "appraising (định giá)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — catalyzing",
+    "contextSummary": "Giá của các bộ Lego hiếm đã tăng mạnh. Điều này tạo ra một hiệu ứng phản trực giác là làm tăng nhu cầu: những người mua trước đây không quan tâm giờ lại đổ xô vào thị trường, tin rằng giá sẽ tiếp tục tăng.",
+    "contextLogic": "Việc giá tăng đã không làm giảm nhu cầu mà ngược lại, đã thúc đẩy, kích thích nhu cầu tăng lên. Từ cần điền phải có nghĩa là \"thúc đẩy\", \"xúc tác\".",
+    "_src": "WIC 3 Q5"
+  },
+  {
+    "id": 40006,
+    "category": "Word in Context - Part 3",
+    "context": "Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. For instance, those interested in the Beat poets should consider how the works of Allen Ginsberg, while likely unobjectionable to present-day readers, may have been much more __________ to some readers of his time.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "complicated",
+      "controversial",
+      "obvious",
+      "irrelevant"
+    ],
+    "answer": "controversial",
+    "answerKey": "B",
+    "answerText": "controversial",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: complicated (phức tạp)\nVì sao sai: Có thể đúng, nhưng không tạo ra sự tương phản mạnh mẽ với \"unobjectionable\".",
+      "B": "Nghĩa Tiếng Việt: controversial (gây tranh cãi)\nVì sao đúng: Hoàn toàn phù hợp. Một tác phẩm không gây phản đối ngày nay có thể đã từng rất gây tranh cãi trong quá khứ.",
+      "C": "Nghĩa Tiếng Việt: obvious (rõ ràng)\nVì sao sai: Không liên quan đến sự phản đối của khán giả.",
+      "D": "Nghĩa Tiếng Việt: irrelevant (không liên quan)\nVì sao sai: Không thể hiện sự phản ứng của độc giả."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "complicated",
+        "vi": "complicated (phức tạp)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "controversial",
+        "vi": "controversial (gây tranh cãi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "obvious",
+        "vi": "obvious (rõ ràng)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "irrelevant",
+        "vi": "irrelevant (không liên quan)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — controversial",
+    "contextSummary": "Đoạn văn khuyên rằng khi nghiên cứu các tác giả, cần hiểu tác phẩm của họ được khán giả đương thời nhìn nhận như thế nào. Ví dụ, tác phẩm của Allen Ginsberg, dù ngày nay có vẻ \"unobjectionable\" (không có gì đáng phản đối), nhưng có thể đã rất khác đối với độc giả thời của ông.",
+    "contextLogic": "Từ \"while\" tạo ra sự tương phản giữa cách nhìn nhận \"ngày nay\" (không đáng phản đối) và \"thời của ông\". Do đó, từ cần điền phải mang ý nghĩa đối lập với \"unobjectionable\", tức là \"gây tranh cãi\", \"gây sốc\".",
+    "_src": "WIC 3 Q6"
+  },
+  {
+    "id": 40007,
+    "category": "Word in Context - Part 3",
+    "context": "In 2018, Norway, which has strong democratic institutions, experienced an inflation rate of 2.70%, much higher than the 0.29% rate seen in Mali, which has relatively weak democratic institutions. Such a result is __________; however, Raj Desai et al. have shown that democratic institution strength tends to restrain inflationary pressures.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "anomalous",
+      "facetious",
+      "unfounded",
+      "inexplicable"
+    ],
+    "answer": "anomalous",
+    "answerKey": "A",
+    "answerText": "anomalous",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: anomalous (bất thường, dị thường)\nVì sao đúng: Chính xác. Ví dụ về Na Uy và Mali là một sự bất thường so với xu hướng chung mà nghiên cứu đã chỉ ra.",
+      "B": "Nghĩa Tiếng Việt: facetious (khôi hài, đùa cợt)\nVì sao sai: Không phù hợp với văn phong khoa học.",
+      "C": "Nghĩa Tiếng Việt: unfounded (vô căn cứ)\nVì sao sai: Kết quả này có căn cứ (dữ liệu lạm phát), chỉ là nó bất thường.",
+      "D": "Nghĩa Tiếng Việt: inexplicable (không thể giải thích được)\nVì sao sai: Đoạn văn không nói rằng kết quả này không thể giải thích, chỉ nói nó là một ngoại lệ."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "anomalous",
+        "vi": "anomalous (bất thường, dị thường)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "facetious",
+        "vi": "facetious (khôi hài, đùa cợt)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "unfounded",
+        "vi": "unfounded (vô căn cứ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "inexplicable",
+        "vi": "inexplicable (không thể giải thích được)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — anomalous",
+    "contextSummary": "Đoạn văn đưa ra một ví dụ có vẻ mâu thuẫn: Na Uy (thể chế dân chủ mạnh) có lạm phát cao hơn Mali (thể chế dân chủ yếu). Tuy nhiên, nghiên cứu của Desai và cộng sự lại cho thấy rằng thể chế dân chủ mạnh có xu hướng kiềm chế lạm phát.",
+    "contextLogic": "Kết quả của ví dụ (Na Uy vs. Mali) đi ngược lại với kết luận chung của nghiên cứu. Một trường hợp cá biệt đi ngược lại một xu hướng chung được gọi là một sự bất thường, một ngoại lệ.",
+    "_src": "WIC 3 Q7"
+  },
+  {
+    "id": 40008,
+    "category": "Word in Context - Part 3",
+    "context": "Whatever the general attitude toward Andrew L. Stone’s 1943 film Stormy Weather and William Greaves’s 1968 film Symbiopsychotaxiplasm, Take One when they were initially released, both films now tend to be regarded quite _____. In 2018, for example, critics for the New York Times praised the former as “[an] anthology of great performances” and the latter as “a vital artifact of its time.”",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "favorably",
+      "neutrally",
+      "strangely",
+      "skeptically"
+    ],
+    "answer": "favorably",
+    "answerKey": "A",
+    "answerText": "favorably",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: favorably (một cách ưu ái, tích cực)\nVì sao đúng: Hoàn toàn khớp với những lời khen ngợi được trích dẫn.",
+      "B": "Nghĩa Tiếng Việt: neutrally (một cách trung lập)\nVì sao sai: Trái ngược với những lời khen rõ ràng.",
+      "C": "Nghĩa Tiếng Việt: strangely (một cách kỳ lạ)\nVì sao sai: Không phản ánh đúng nội dung của lời khen.",
+      "D": "Nghĩa Tiếng Việt: skeptically (một cách hoài nghi)\nVì sao sai: Trái ngược với sự tán dương."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "favorably",
+        "vi": "favorably (một cách ưu ái, tích cực)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "neutrally",
+        "vi": "neutrally (một cách trung lập)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "strangely",
+        "vi": "strangely (một cách kỳ lạ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "skeptically",
+        "vi": "skeptically (một cách hoài nghi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — favorably",
+    "contextSummary": "Đoạn văn nói rằng bất kể thái độ ban đầu đối với hai bộ phim như thế nào, \"bây giờ\" chúng có xu hướng được nhìn nhận một cách tích cực. Ví dụ đưa ra là lời khen ngợi của các nhà phê bình từ New York Times, gọi một phim là \"tuyển tập những màn trình diễn tuyệt vời\" và phim kia là \"một tạo tác quan trọng của thời đại\".",
+    "contextLogic": "Những lời khen như \"tuyệt vời\" và \"quan trọng\" cho thấy thái độ rất tích cực. Từ cần điền phải phản ánh sự đánh giá tốt đẹp này.",
+    "_src": "WIC 3 Q8"
+  },
+  {
+    "id": 40009,
+    "category": "Word in Context - Part 3",
+    "context": "The following text is adapted from Jhumpa Lahiri’s 2003 novel The Namesake. Ashima and her husband, Ashoke, are traveling from the United States to India. Ashoke puts his hand over hers as the plane begins to gather speed. And then Boston tilts away and they ascend effortlessly over a blackened Atlantic.",
+    "prompt": "As used in the text, what does the word “gather” most nearly mean",
+    "options": [
+      "Argue",
+      "Gain",
+      "Favor",
+      "Doubt"
+    ],
+    "answer": "Gain",
+    "answerKey": "B",
+    "answerText": "Gain",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: Argue (tranh cãi)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: Gain (đạt được, tăng thêm)\nVì sao đúng: \"Gain speed\" là một cụm từ phổ biến có nghĩa là tăng tốc. Đây là lựa chọn chính xác nhất.",
+      "C": "Nghĩa Tiếng Việt: Favor (ưu ái)\nVì sao sai: Không liên quan.",
+      "D": "Nghĩa Tiếng Việt: Doubt (nghi ngờ)\nVì sao sai: Không liên quan."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Argue",
+        "vi": "Argue (tranh cãi)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Gain",
+        "vi": "Gain (đạt được, tăng thêm)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Favor",
+        "vi": "Favor (ưu ái)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Doubt",
+        "vi": "Doubt (nghi ngờ)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — Gain",
+    "contextSummary": "Đoạn văn mô tả một chiếc máy bay đang chuẩn bị cất cánh, nó \"begins to gather speed\" (bắt đầu... tốc độ).",
+    "contextLogic": "Trong bối cảnh máy bay di chuyển trên đường băng để cất cánh, hành động của nó là tăng tốc, tích lũy tốc độ.",
+    "_src": "WIC 3 Q9"
+  },
+  {
+    "id": 40010,
+    "category": "Word in Context - Part 3",
+    "context": "Some ethicists challenge the concept of personhood, claiming that if it were meaningful, situational factors could not, as they clearly can, induce behavior contrary to that character. As Hannah Kamerer observes, this argument is difficult to reconcile with any conception of character: we expect a person of helpful character to be frequently helpful, not ____ helpful.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "unfailingly",
+      "self-servingly",
+      "grudgingly",
+      "sporadically"
+    ],
+    "answer": "unfailingly",
+    "answerKey": "A",
+    "answerText": "unfailingly",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: unfailingly (không bao giờ thất bại, luôn luôn)\nVì sao đúng: Hoàn toàn phù hợp. Nó tạo ra sự tương phản giữa kỳ vọng thực tế (\"thường xuyên\") và một kỳ vọng tuyệt đối, không thay đổi (\"luôn luôn\") về một tính cách.",
+      "B": "Nghĩa Tiếng Việt: self-servingly (một cách vụ lợi)\nVì sao sai: Không liên quan.",
+      "C": "Nghĩa Tiếng Việt: grudgingly (một cách miễn cưỡng)\nVì sao sai: Trái ngược với tính cách hay giúp đỡ.",
+      "D": "Nghĩa Tiếng Việt: sporadically (một cách lác đác, không thường xuyên)\nVì sao sai: Gần nghĩa với \"không thường xuyên\", không tạo ra sự tương phản cần thiết."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "unfailingly",
+        "vi": "unfailingly (không bao giờ thất bại, luôn luôn)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "self-servingly",
+        "vi": "self-servingly (một cách vụ lợi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "grudgingly",
+        "vi": "grudgingly (một cách miễn cưỡng)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "sporadically",
+        "vi": "sporadically (một cách lác đác, không thường xuyên)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — unfailingly",
+    "contextSummary": "Đoạn văn thảo luận về khái niệm tính cách (character). Lập luận cho rằng chúng ta mong đợi một người có tính cách hay giúp đỡ sẽ \"thường xuyên giúp đỡ\", chứ không phải là giúp đỡ một cách ____.",
+    "contextLogic": "Vấn đề là tìm một từ để hoàn thành sự so sánh, thể hiện một kỳ vọng lý tưởng về tính cách. Nếu một người thực sự có tính cách hay giúp đỡ, chúng ta không chỉ mong họ \"thường xuyên\" giúp đỡ mà lý tưởng nhất là họ sẽ giúp đỡ \"một cách không sai sót\", \"luôn luôn\". Từ cần điền phải thể hiện sự tuyệt đối này.",
+    "_src": "WIC 3 Q10"
+  },
+  {
+    "id": 40011,
+    "category": "Word in Context - Part 3",
+    "context": "Because it appears merely to reflect and rearrange the creative labor of human artists, art generated by artificial intelligence programs has been scorned by some as hackneyed. One can also argue, however, that all art is in some sense __________ because it draws on what has already been created by others for inspiration, making genuine artistic originality elusive.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "obsolete",
+      "derivative",
+      "counterproductive",
+      "aesthetic"
+    ],
+    "answer": "derivative",
+    "answerKey": "B",
+    "answerText": "derivative",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: obsolete (lỗi thời)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: derivative (phái sinh, không độc đáo)\nVì sao đúng: Hoàn toàn chính xác. Từ này mô tả một tác phẩm nghệ thuật vay mượn nhiều từ các tác phẩm khác.",
+      "C": "Nghĩa Tiếng Việt: counterproductive (phản tác dụng)\nVì sao sai: Không liên quan.",
+      "D": "Nghĩa Tiếng Việt: aesthetic (thẩm mỹ)\nVì sao sai: Quá chung chung."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "obsolete",
+        "vi": "obsolete (lỗi thời)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "derivative",
+        "vi": "derivative (phái sinh, không độc đáo)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "counterproductive",
+        "vi": "counterproductive (phản tác dụng)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "aesthetic",
+        "vi": "aesthetic (thẩm mỹ)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — derivative",
+    "contextSummary": "Nghệ thuật do AI tạo ra bị một số người chê là sáo rỗng vì nó dường như chỉ \"phản ánh và sắp xếp lại\" tác phẩm của con người. Tuy nhiên, lập luận phản bác cho rằng mọi nghệ thuật đều \"rút ra từ những gì đã được tạo ra bởi người khác\".",
+    "contextLogic": "Cả nghệ thuật AI và nghệ thuật nói chung đều được mô tả là dựa trên, vay mượn từ các tác phẩm có trước. Từ cần điền phải mang ý nghĩa \"có nguồn gốc từ cái khác\", \"không độc đáo\".",
+    "_src": "WIC 3 Q11"
+  },
+  {
+    "id": 40012,
+    "category": "Word in Context - Part 3",
+    "context": "Literary production in the period after the Mexican Revolution (which lasted from 1910–1920) was ____ with writers like José Emilio Pacheco contributing to the outpouring of poetry, fiction, essays, and more. Unfortunately, this flood of interesting writing can divert scholarly attention from the fascinating work of nineteenth-century figures like Rodolfo Menéndez de la Peña.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "prolific",
+      "occasional",
+      "disallowed",
+      "inconsistent"
+    ],
+    "answer": "prolific",
+    "answerKey": "A",
+    "answerText": "prolific",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: prolific (sản xuất nhiều, mắn đẻ)\nVì sao đúng: Đây là từ chính xác nhất để mô tả một thời kỳ có sản lượng văn học dồi dào.",
+      "B": "Nghĩa Tiếng Việt: occasional (thỉnh thoảng)\nVì sao sai: Trái ngược với \"outpouring\" và \"flood\".",
+      "C": "Nghĩa Tiếng Việt: disallowed (không được phép)\nVì sao sai: Không có thông tin nào cho thấy việc sáng tác bị cấm.",
+      "D": "Nghĩa Tiếng Việt: inconsistent (không nhất quán)\nVì sao sai: Không mô tả đúng về số lượng tác phẩm."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "prolific",
+        "vi": "prolific (sản xuất nhiều, mắn đẻ)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "occasional",
+        "vi": "occasional (thỉnh thoảng)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "disallowed",
+        "vi": "disallowed (không được phép)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "inconsistent",
+        "vi": "inconsistent (không nhất quán)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — prolific",
+    "contextSummary": "Đoạn văn mô tả nền văn học sau Cách mạng Mexico là một \"sự tuôn trào\" (outpouring) và \"lũ lụt\" (flood) của thơ ca, tiểu thuyết, tiểu luận, v.v., với sự đóng góp của các nhà văn như José Emilio Pacheco.",
+    "contextLogic": "Các từ \"outpouring\" và \"flood\" cho thấy một số lượng lớn tác phẩm đã được sản xuất trong một thời gian ngắn. Từ cần điền phải có nghĩa là \"sản xuất nhiều\", \"năng suất cao\".",
+    "_src": "WIC 3 Q12"
+  },
+  {
+    "id": 40013,
+    "category": "Word in Context - Part 3",
+    "context": "A team of microbiologists measured surface temperatures of various wild mushrooms including Amanita muscaria and a species from the genus Cantharellus. The temperatures ranged from 1.4 to 5.9°C lower than the temperature of the surrounding air, a difference the team ____ to water evaporating from the mushrooms and thus cooling them.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "prescribed",
+      "conceded",
+      "amended",
+      "attributed"
+    ],
+    "answer": "attributed",
+    "answerKey": "D",
+    "answerText": "attributed",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: prescribed (kê đơn)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: conceded (thừa nhận)\nVì sao sai: Không phù hợp, họ đang giải thích chứ không phải thừa nhận một điều gì đó.",
+      "C": "Nghĩa Tiếng Việt: amended (sửa đổi)\nVì sao sai: Không có gì được sửa đổi ở đây.",
+      "D": "Nghĩa Tiếng Việt: attributed (quy cho, gán cho)\nVì sao đúng: Hoàn toàn chính xác. Họ quy sự chênh lệch nhiệt độ là do sự bay hơi của nước."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "prescribed",
+        "vi": "prescribed (kê đơn)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "conceded",
+        "vi": "conceded (thừa nhận)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "amended",
+        "vi": "amended (sửa đổi)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "attributed",
+        "vi": "attributed (quy cho, gán cho)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — attributed",
+    "contextSummary": "Các nhà vi sinh vật học đo nhiệt độ của nấm và thấy chúng mát hơn không khí xung quanh. Họ cho rằng sự chênh lệch nhiệt độ này là do nước bốc hơi từ nấm, làm mát chúng.",
+    "contextLogic": "Các nhà nghiên cứu đang đưa ra một lời giải thích, một nguyên nhân cho hiện tượng họ quan sát được. Họ \"gán\" nguyên nhân (sự bay hơi) cho kết quả (nhiệt độ thấp hơn).",
+    "_src": "WIC 3 Q13"
+  },
+  {
+    "id": 40014,
+    "category": "Word in Context - Part 3",
+    "context": "Postcranial skeletal pneumaticity (PSP) refers to the presence of extensions of an animal’s lungs and air spaces in its bones. Though such structures do not typically fossilize, they are believed to have been present in Psittacosaurus, Sauroposeidon, and other Cretaceous theropods and sauropods. To ____ PSP from fossils, researchers look for indicators such as large foramina (holes in bones).",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "infer",
+      "acquire",
+      "isolate",
+      "preserve"
+    ],
+    "answer": "infer",
+    "answerKey": "A",
+    "answerText": "infer",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: infer (suy luận)\nVì sao đúng: Chính xác. Các nhà nghiên cứu suy luận ra sự tồn tại của PSP dựa trên các dấu hiệu trên hóa thạch.",
+      "B": "Nghĩa Tiếng Việt: acquire (thu được)\nVì sao sai: Họ không \"thu được\" PSP từ hóa thạch.",
+      "C": "Nghĩa Tiếng Việt: isolate (cô lập)\nVì sao sai: Họ không thể cô lập một thứ không còn tồn tại.",
+      "D": "Nghĩa Tiếng Việt: preserve (bảo tồn)\nVì sao sai: Họ đang nghiên cứu hóa thạch đã được bảo tồn, chứ không phải thực hiện hành động bảo tồn."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "infer",
+        "vi": "infer (suy luận)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "acquire",
+        "vi": "acquire (thu được)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "isolate",
+        "vi": "isolate (cô lập)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "preserve",
+        "vi": "preserve (bảo tồn)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — infer",
+    "contextSummary": "Đoạn văn nói về PSP (sự hiện diện của túi khí trong xương), một cấu trúc thường không hóa thạch. Để xác định sự tồn tại của PSP từ hóa thạch, các nhà nghiên cứu phải tìm kiếm các \"dấu hiệu\" (indicators) như các lỗ lớn trên xương.",
+    "contextLogic": "Vì không có bằng chứng trực tiếp (túi khí không hóa thạch), các nhà khoa học phải dựa vào bằng chứng gián tiếp (lỗ trên xương) để đưa ra kết luận. Quá trình đưa ra kết luận từ bằng chứng gián tiếp được gọi là suy luận.",
+    "_src": "WIC 3 Q14"
+  },
+  {
+    "id": 40015,
+    "category": "Word in Context - Part 3",
+    "context": "Containing over 150 billion base pairs of DNA resulting from polyploidy (whole genome duplication) and accumulation of noncoding DNA without significant deletion, the genome of Trisetum subalpestre (New Caledonian fork fern) is the largest known among eukaryotes—and, given the high biological costs of extremely large genomes, is unlikely to be ____.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "curtailed",
+      "obviated",
+      "protracted",
+      "superseded"
+    ],
+    "answer": "superseded",
+    "answerKey": "D",
+    "answerText": "superseded",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: curtailed (bị cắt bớt)\nVì sao sai: Không có ý nghĩa trong ngữ cảnh này.",
+      "B": "Nghĩa Tiếng Việt: obviated (bị loại bỏ)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: protracted (bị kéo dài)\nVì sao sai: Không liên quan.",
+      "D": "Nghĩa Tiếng Việt: superseded (bị thay thế, bị vượt qua)\nVì sao đúng: Hoàn toàn chính xác. Bộ gen này khó có thể bị một bộ gen khác lớn hơn vượt qua và thay thế vị trí \"lớn nhất\"."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "curtailed",
+        "vi": "curtailed (bị cắt bớt)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "obviated",
+        "vi": "obviated (bị loại bỏ)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "protracted",
+        "vi": "protracted (bị kéo dài)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "superseded",
+        "vi": "superseded (bị thay thế, bị vượt qua)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — superseded",
+    "contextSummary": "Bộ gen của cây dương xỉ Trisetum subalpestre là bộ gen lớn nhất từng được biết đến trong số các sinh vật nhân thực. Đoạn văn cũng lưu ý rằng việc có bộ gen cực lớn phải chịu \"chi phí sinh học cao\", điều này ngụ ý rằng nó khó có thể bị vượt qua.",
+    "contextLogic": "Do chi phí sinh học cao, việc có một bộ gen lớn hơn cả bộ gen của T. subalpestre là rất khó xảy ra. Do đó, vị trí \"lớn nhất\" của nó khó có thể bị một loài khác chiếm lấy hoặc vượt qua.",
+    "_src": "WIC 3 Q15"
+  },
+  {
+    "id": 40016,
+    "category": "Word in Context - Part 3",
+    "context": "Despite stated claims of the ____ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to banking records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Russia.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "immutability",
+      "exhaustiveness",
+      "pervasiveness",
+      "novelty"
+    ],
+    "answer": "exhaustiveness",
+    "answerKey": "B",
+    "answerText": "exhaustiveness",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: immutability (tính bất biến)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: exhaustiveness (tính toàn diện, thấu đáo)\nVì sao đúng: Hoàn toàn chính xác. Nghiên cứu tuyên bố là toàn diện nhưng thực tế lại rất hạn hẹp.",
+      "C": "Nghĩa Tiếng Việt: pervasiveness (tính lan tỏa)\nVì sao sai: Không phù hợp với bối cảnh tuyên bố về phạm vi của một nghiên cứu.",
+      "D": "Nghĩa Tiếng Việt: novelty (tính mới lạ)\nVì sao sai: Vấn đề không phải là độ mới của nghiên cứu mà là độ bao quát của nó."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "immutability",
+        "vi": "immutability (tính bất biến)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "exhaustiveness",
+        "vi": "exhaustiveness (tính toàn diện, thấu đáo)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "pervasiveness",
+        "vi": "pervasiveness (tính lan tỏa)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "novelty",
+        "vi": "novelty (tính mới lạ)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — exhaustiveness",
+    "contextSummary": "Đoạn văn nói rằng nhiều phân tích về bất bình đẳng thu nhập trong những năm 2010 chỉ tập trung hạn hẹp (\"myopic focus\") vào một vài quốc gia, mặc cho những \"tuyên bố về ____ của nghiên cứu\". Thiếu sót (\"shortcoming\") này sau đó đã được khắc phục.",
+    "contextLogic": "Có một sự mâu thuẫn giữa tuyên bố và thực tế. Thực tế là nghiên cứu có phạm vi hẹp, vậy tuyên bố phải là điều ngược lại: nghiên cứu có phạm vi rộng, toàn diện. Từ cần điền phải mang ý nghĩa \"sự toàn diện\", \"sự đầy đủ\".",
+    "_src": "WIC 3 Q16"
+  },
+  {
+    "id": 40017,
+    "category": "Word in Context - Part 3",
+    "context": "The American continents are home to a huge diversity of languages, from Mayo, found in places like Mexico in North America, to Koreguaje, found in places like Colombia in South America. Much like the continents themselves, the variety of native languages in the Americas is _____.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "immense",
+      "unknown",
+      "ordinary",
+      "limited"
+    ],
+    "answer": "immense",
+    "answerKey": "A",
+    "answerText": "immense",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: immense (bao la, to lớn)\nVì sao đúng: Đây là một từ đồng nghĩa hoàn hảo với \"huge\" và khớp với logic của câu.",
+      "B": "Nghĩa Tiếng Việt: unknown (không được biết đến)\nVì sao sai: Sai, vì đoạn văn đã đưa ra các ví dụ cụ thể.",
+      "C": "Nghĩa Tiếng Việt: ordinary (bình thường)\nVì sao sai: Trái ngược với ý \"đa dạng khổng lồ\".",
+      "D": "Nghĩa Tiếng Việt: limited (hạn chế)\nVì sao sai: Trái ngược hoàn toàn với ý của câu."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "immense",
+        "vi": "immense (bao la, to lớn)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "unknown",
+        "vi": "unknown (không được biết đến)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "ordinary",
+        "vi": "ordinary (bình thường)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "limited",
+        "vi": "limited (hạn chế)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — immense",
+    "contextSummary": "Câu đầu tiên nói rằng châu Mỹ là quê hương của một \"sự đa dạng khổng lồ về ngôn ngữ\" (huge diversity of languages). Câu thứ hai kết luận rằng sự đa dạng của các ngôn ngữ bản địa ở châu Mỹ là _____.",
+    "contextLogic": "Câu thứ hai đang tóm tắt và nhấn mạnh lại ý của câu đầu tiên. Nếu câu đầu nói về sự \"đa dạng khổng lồ\", thì từ cần điền phải có nghĩa tương đương là \"to lớn\", \"bao la\".",
+    "_src": "WIC 3 Q17"
+  },
+  {
+    "id": 40018,
+    "category": "Word in Context - Part 3",
+    "context": "The minor planet 1055 Tynia was named after the plant genus that includes tulips, but given the sheer number of minor planets that have been discovered (more than 500,000 so far), most are given only an identification number. Because any name given to a minor planet needs to be unique to that body, naming each would be ____.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "impractical",
+      "presumptuous",
+      "ambiguous",
+      "customary"
+    ],
+    "answer": "impractical",
+    "answerKey": "A",
+    "answerText": "impractical",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: impractical (phi thực tế)\nVì sao đúng: Chính xác. Việc đặt tên cho tất cả chúng là không thực tế.",
+      "B": "Nghĩa Tiếng Việt: presumptuous (tự phụ, kiêu ngạo)\nVì sao sai: Không liên quan đến tính khả thi của công việc.",
+      "C": "Nghĩa Tiếng Việt: ambiguous (mơ hồ)\nVì sao sai: Vấn đề không phải là tên sẽ mơ hồ, mà là việc tìm ra chúng quá khó.",
+      "D": "Nghĩa Tiếng Việt: customary (theo thông lệ)\nVì sao sai: Không liên quan."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "impractical",
+        "vi": "impractical (phi thực tế)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "presumptuous",
+        "vi": "presumptuous (tự phụ, kiêu ngạo)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "ambiguous",
+        "vi": "ambiguous (mơ hồ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "customary",
+        "vi": "customary (theo thông lệ)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — impractical",
+    "contextSummary": "Có hơn 500.000 tiểu hành tinh đã được phát hiện. Việc đặt tên cho mỗi tiểu hành tinh đòi hỏi tên phải là duy nhất. Đoạn văn kết luận rằng việc đặt tên cho tất cả chúng sẽ là ____.",
+    "contextLogic": "Với số lượng khổng lồ như vậy, việc tìm ra một cái tên riêng biệt cho mỗi tiểu hành tinh là một nhiệm vụ cực kỳ khó khăn và không khả thi trong thực tế. Từ cần điền phải thể hiện sự \"phi thực tế\" này.",
+    "_src": "WIC 3 Q18"
+  },
+  {
+    "id": 40019,
+    "category": "Word in Context - Part 3",
+    "context": "Drivers who strongly believe that the toll they must pay to use the San Luis Pass-Vacoa Toll Bridge, which spans the San Luis Pass in Texas, is currently too high are likely to be ____ arguments for increasing the toll. Advocates for a higher toll are likely to have more success if they instead direct their arguments toward a more persuadable segment of the population.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "cited in",
+      "apprised of",
+      "unsympathetic to",
+      "placated by"
+    ],
+    "answer": "unsympathetic to",
+    "answerKey": "C",
+    "answerText": "unsympathetic to",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: cited in (được trích dẫn trong)\nVì sao sai: Không có ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: apprised of (được thông báo về)\nVì sao sai: Họ có thể được thông báo, nhưng từ này không thể hiện thái độ của họ.",
+      "C": "Nghĩa Tiếng Việt: unsympathetic to (không có thiện cảm với)\nVì sao đúng: Hoàn toàn phù hợp. Họ sẽ không có thiện cảm và không ủng hộ việc tăng phí.",
+      "D": "Nghĩa Tiếng Việt: placated by (được xoa dịu bởi)\nVì sao sai: Trái ngược, họ sẽ tức giận chứ không phải được xoa dịu."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "cited in",
+        "vi": "cited in (được trích dẫn trong)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "apprised of",
+        "vi": "apprised of (được thông báo về)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "unsympathetic to",
+        "vi": "unsympathetic to (không có thiện cảm với)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "placated by",
+        "vi": "placated by (được xoa dịu bởi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — unsympathetic to",
+    "contextSummary": "Đoạn văn nói về những tài xế tin rằng mức phí cầu đường hiện tại đã \"quá cao\". Những người này có khả năng sẽ ____ những lập luận đòi tăng phí.",
+    "contextLogic": "Nếu một người đã tin rằng phí quá cao, họ sẽ không đồng tình, không có thiện cảm với bất kỳ lập luận nào đòi tăng phí. Họ sẽ phản đối hoặc không lắng nghe.",
+    "_src": "WIC 3 Q19"
+  },
+  {
+    "id": 40020,
+    "category": "Word in Context - Part 3",
+    "context": "Though few critics consider Vasily Grossman’s novel Stalingrad—which focuses on the experiences of the Soviet Union in the early years of World War II—to be as well written as its later book Life and Fate, some compliment it despite the damage ____ Soviet censors. Gary Saul Morson in The New York Review of Books called the novel “remarkably bold.”",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "bestowed on",
+      "wrought by",
+      "allocated to",
+      "concealed from"
+    ],
+    "answer": "wrought by",
+    "answerKey": "B",
+    "answerText": "wrought by",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: bestowed on (ban cho)\nVì sao sai: Trái ngược ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: wrought by (gây ra bởi)\nVì sao đúng: Đây là một cụm từ cổ điển và chính xác, có nghĩa là \"được tạo ra hoặc gây ra bởi\", thường dùng cho những điều tiêu cực.",
+      "C": "Nghĩa Tiếng Việt: allocated to (được phân bổ cho)\nVì sao sai: Không phù hợp.",
+      "D": "Nghĩa Tiếng Việt: concealed from (bị che giấu khỏi)\nVì sao sai: Các nhà kiểm duyệt gây ra thiệt hại chứ không phải bị che giấu khỏi thiệt hại."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "bestowed on",
+        "vi": "bestowed on (ban cho)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "wrought by",
+        "vi": "wrought by (gây ra bởi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "allocated to",
+        "vi": "allocated to (được phân bổ cho)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "concealed from",
+        "vi": "concealed from (bị che giấu khỏi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — wrought by",
+    "contextSummary": "Tiểu thuyết Stalingrad của Grossman được một số nhà phê bình khen ngợi mặc cho \"sự thiệt hại ____ các nhà kiểm duyệt Liên Xô\".",
+    "contextLogic": "Các nhà kiểm duyệt đã gây ra thiệt hại cho cuốn tiểu thuyết (như câu 2 đã đề cập đến việc \"mangling by Soviet censors\" - bị kiểm duyệt Liên Xô làm hỏng). Cụm từ cần điền phải thể hiện hành động \"gây ra bởi\".",
+    "_src": "WIC 3 Q20"
+  },
+  {
+    "id": 40021,
+    "category": "Word in Context - Part 3",
+    "context": "Possessing an outstanding collection of public art, Chicago has everything from monumental mosaics like Marc Chagall’s Four Seasons at sites like Chase Tower to innovative street art like Kashink’s mural Be the Change You Wish to See located on South Wabash Avenue. The ____ public art on display in the city can thus satisfy any art lover.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "breadth of",
+      "controversy over",
+      "confusion about",
+      "apathy toward"
+    ],
+    "answer": "breadth of",
+    "answerKey": "A",
+    "answerText": "breadth of",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: breadth of (bề rộng, sự đa dạng của)\nVì sao đúng: Hoàn toàn chính xác. Sự đa dạng về nghệ thuật có thể làm hài lòng mọi sở thích.",
+      "B": "Nghĩa Tiếng Việt: controversy over (tranh cãi về)\nVì sao sai: Đoạn văn chỉ khen ngợi, không đề cập đến tranh cãi.",
+      "C": "Nghĩa Tiếng Việt: confusion about (sự bối rối về)\nVì sao sai: Không có thông tin nào cho thấy sự bối rối.",
+      "D": "Nghĩa Tiếng Việt: apathy toward (sự thờ ơ đối với)\nVì sao sai: Trái ngược với việc làm hài lòng những người yêu nghệ thuật."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "breadth of",
+        "vi": "breadth of (bề rộng, sự đa dạng của)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "controversy over",
+        "vi": "controversy over (tranh cãi về)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "confusion about",
+        "vi": "confusion about (sự bối rối về)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "apathy toward",
+        "vi": "apathy toward (sự thờ ơ đối với)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — breadth of",
+    "contextSummary": "Chicago có một bộ sưu tập nghệ thuật công cộng đa dạng, \"từ những bức tranh ghép hoành tráng... đến nghệ thuật đường phố sáng tạo...\". Đoạn văn kết luận rằng ____ nghệ thuật công cộng được trưng bày trong thành phố có thể làm hài lòng bất kỳ người yêu nghệ thuật nào.",
+    "contextLogic": "Các ví dụ (tranh ghép hoành tráng, nghệ thuật đường phố) cho thấy sự đa dạng và phạm vi rộng lớn của nghệ thuật. Từ cần điền phải thể hiện \"sự đa dạng\", \"bề rộng\" này.",
+    "_src": "WIC 3 Q21"
+  },
+  {
+    "id": 40022,
+    "category": "Word in Context - Part 3",
+    "context": "In a 2018 article about films depicting the experiences of Black Americans, critics for the New York Times praise Madeline Anderson’s 1970 film I Am Somebody as “galvanizing” and Carl Franklin’s 1995 film Devil in a Blue Dress as “picture-perfect.” Fans of the two films hope that such ____ will attract new audiences to these works.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "ambivalence",
+      "acclaim",
+      "foresight",
+      "impartiality"
+    ],
+    "answer": "acclaim",
+    "answerKey": "B",
+    "answerText": "acclaim",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: ambivalence (sự mâu thuẫn trong tư tưởng)\nVì sao sai: Trái ngược với những lời khen rõ ràng.",
+      "B": "Nghĩa Tiếng Việt: acclaim (sự hoan nghênh, ca ngợi)\nVì sao đúng: Chính xác. Đây là từ dùng để chỉ sự tán dương nồng nhiệt của công chúng hoặc giới phê bình.",
+      "C": "Nghĩa Tiếng Việt: foresight (tầm nhìn xa)\nVì sao sai: Không liên quan đến việc đánh giá phim.",
+      "D": "Nghĩa Tiếng Việt: impartiality (sự công bằng, không thiên vị)\nVì sao sai: Những lời khen này thể hiện sự yêu thích rõ ràng, không phải là sự trung lập."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "ambivalence",
+        "vi": "ambivalence (sự mâu thuẫn trong tư tưởng)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "acclaim",
+        "vi": "acclaim (sự hoan nghênh, ca ngợi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "foresight",
+        "vi": "foresight (tầm nhìn xa)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "impartiality",
+        "vi": "impartiality (sự công bằng, không thiên vị)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — acclaim",
+    "contextSummary": "Các nhà phê bình trên New York Times ca ngợi hai bộ phim, gọi một phim là \"truyền cảm hứng\" (galvanizing) và phim kia là \"hoàn hảo như tranh vẽ\" (picture-perfect). Người hâm mộ hy vọng rằng sự ____ như vậy sẽ thu hút khán giả mới.",
+    "contextLogic": "Những từ như \"galvanizing\" và \"picture-perfect\" là những lời khen ngợi, tán dương nồng nhiệt. Từ cần điền phải là một danh từ có nghĩa là \"sự ca ngợi\", \"sự hoan nghênh\".",
+    "_src": "WIC 3 Q22"
+  },
+  {
+    "id": 40023,
+    "category": "Word in Context - Part 3",
+    "context": "The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ____ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "exploit",
+      "yield",
+      "prioritize",
+      "discern"
+    ],
+    "answer": "discern",
+    "answerKey": "D",
+    "answerText": "discern",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: exploit (khai thác)\nVì sao sai: Mang hàm ý tiêu cực, không phù hợp.",
+      "B": "Nghĩa Tiếng Việt: yield (tạo ra)\nVì sao sai: Không phù hợp, hóa thạch không \"tạo ra\" các bước tiến hóa.",
+      "C": "Nghĩa Tiếng Việt: prioritize (ưu tiên)\nVì sao sai: Các nhà khoa học nghiên cứu chứ không ưu tiên các bước tiến hóa.",
+      "D": "Nghĩa Tiếng Việt: discern (nhận thức, nhận ra rõ)\nVì sao đúng: Hoàn toàn phù hợp. Hóa thạch giúp họ nhận ra và hiểu rõ các giai đoạn tiến hóa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "exploit",
+        "vi": "exploit (khai thác)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "yield",
+        "vi": "yield (tạo ra)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "prioritize",
+        "vi": "prioritize (ưu tiên)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "discern",
+        "vi": "discern (nhận thức, nhận ra rõ)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — discern",
+    "contextSummary": "Hóa thạch Misliya-1 giúp các nhà cổ nhân loại học làm hai việc: (1) ____ các bước trong quá trình tiến hóa của loài người và (2) làm sáng tỏ kỷ Pleistocene.",
+    "contextLogic": "Hóa thạch cung cấp bằng chứng để các nhà khoa học hiểu rõ, nhận ra các bước tiến hóa. Từ cần điền phải có nghĩa là \"nhận ra\", \"phân biệt rõ\", \"hiểu được\".",
+    "_src": "WIC 3 Q23"
+  },
+  {
+    "id": 40024,
+    "category": "Word in Context - Part 3",
+    "context": "The following text is adapted from Yone Noguchi’s 1914 memoir The Story of Yone Noguchi. Noguchi is returning home after eleven years abroad. I reached Tsushima, my native town, at evening. I frightened my old father at the station, who was actually trying to find me among some other people. There is no wonder that he could not recognize me; I must have changed a great deal.",
+    "prompt": "As used in the text, what does the word “find” most nearly mean",
+    "options": [
+      "Locate",
+      "Reveal",
+      "Persuade",
+      "Embarrass"
+    ],
+    "answer": "Locate",
+    "answerKey": "A",
+    "answerText": "Locate",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: Locate (xác định vị trí, tìm ra)\nVì sao đúng: Đây là nghĩa chính xác nhất của \"find\" trong ngữ cảnh này.",
+      "B": "Nghĩa Tiếng Việt: Reveal (tiết lộ)\nVì sao sai: Không có ý nghĩa.",
+      "C": "Nghĩa Tiếng Việt: Persuade (thuyết phục)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: Embarrass (làm xấu hổ)\nVì sao sai: Không có ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Locate",
+        "vi": "Locate (xác định vị trí, tìm ra)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Reveal",
+        "vi": "Reveal (tiết lộ)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Persuade",
+        "vi": "Persuade (thuyết phục)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Embarrass",
+        "vi": "Embarrass (làm xấu hổ)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — Locate",
+    "contextSummary": "Yone Noguchi đang ở nhà ga. Cha của ông \"was actually trying to find me among some other people\" (đang thực sự cố gắng ... tôi giữa những người khác).",
+    "contextLogic": "Trong bối cảnh ở một nhà ga đông người, hành động của người cha là tìm kiếm, xác định vị trí của con trai mình.",
+    "_src": "WIC 3 Q24"
+  },
+  {
+    "id": 40025,
+    "category": "Word in Context - Part 3",
+    "context": "The ____ Keshni Kashyap’s book Tina’s Mouth has been very positive. Many reviewers have praised the book, and it won the Asian/Pacific American Award for Literature.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "inspiration for",
+      "reception of",
+      "neglect of",
+      "confusion about"
+    ],
+    "answer": "reception of",
+    "answerKey": "B",
+    "answerText": "reception of",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: inspiration for (nguồn cảm hứng cho)\nVì sao sai: Đoạn văn nói về phản ứng sau khi sách ra mắt, không phải nguồn cảm hứng để viết nó.",
+      "B": "Nghĩa Tiếng Việt: reception of (sự đón nhận)\nVì sao đúng: Hoàn toàn chính xác. \"Reception\" mô tả cách một tác phẩm được công chúng và giới phê bình đón nhận.",
+      "C": "Nghĩa Tiếng Việt: neglect of (sự thờ ơ với)\nVì sao sai: Trái ngược với việc được khen ngợi và trao giải.",
+      "D": "Nghĩa Tiếng Việt: confusion about (sự bối rối về)\nVì sao sai: Không có thông tin nào cho thấy sự bối rối."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "inspiration for",
+        "vi": "inspiration for (nguồn cảm hứng cho)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "reception of",
+        "vi": "reception of (sự đón nhận)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "neglect of",
+        "vi": "neglect of (sự thờ ơ với)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "confusion about",
+        "vi": "confusion about (sự bối rối về)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — reception of",
+    "contextSummary": "Câu đầu tiên nói về ____ cuốn sách của Keshni Kashyap là rất tích cực. Câu thứ hai đưa ra bằng chứng: \"Nhiều nhà phê bình đã ca ngợi cuốn sách, và nó đã giành được giải thưởng\".",
+    "contextLogic": "Lời khen ngợi của các nhà phê bình và việc giành được giải thưởng là những phản ứng, sự đón nhận của công chúng và giới chuyên môn đối với cuốn sách. Từ cần điền phải có nghĩa là \"sự đón nhận\".",
+    "_src": "WIC 3 Q25"
+  },
+  {
+    "id": 40026,
+    "category": "Word in Context - Part 3",
+    "context": "Some social scientists argue that while a belief in the importance of reason and progress is key to democracy, the public’s understanding of history is also central to its subsequent comprehension of a state’s politics, and if an electorate is to function, historical issues cannot remain the dominion only of academics. History is too ____ to leave to historians alone.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "respectable",
+      "complex",
+      "accessible",
+      "critical"
+    ],
+    "answer": "critical",
+    "answerKey": "D",
+    "answerText": "critical",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: respectable (đáng kính)\nVì sao sai: Không thể hiện tầm quan trọng đối với chức năng của nền dân chủ.",
+      "B": "Nghĩa Tiếng Việt: complex (phức tạp)\nVì sao sai: Nếu lịch sử quá phức tạp, thì có lẽ nên để cho các nhà sử học. Điều này trái với logic của câu.",
+      "C": "Nghĩa Tiếng Việt: accessible (dễ tiếp cận)\nVì sao sai: Tương tự lựa chọn B, điều này không hỗ trợ lập luận.",
+      "D": "Nghĩa Tiếng Việt: critical (quan trọng, cốt yếu)\nVì sao đúng: Hoàn toàn chính xác. Vì lịch sử quá quan trọng, nó cần sự quan tâm của toàn xã hội."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "respectable",
+        "vi": "respectable (đáng kính)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "complex",
+        "vi": "complex (phức tạp)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "accessible",
+        "vi": "accessible (dễ tiếp cận)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "critical",
+        "vi": "critical (quan trọng, cốt yếu)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — critical",
+    "contextSummary": "Các nhà khoa học xã hội cho rằng lịch sử là trung tâm để hiểu chính trị của một quốc gia. Vì vậy, các vấn đề lịch sử không thể chỉ là lĩnh vực của riêng giới học thuật. Câu cuối cùng kết luận: \"Lịch sử quá ____ để chỉ giao cho các nhà sử học.\"",
+    "contextLogic": "Lập luận của cả đoạn văn là lịch sử rất quan trọng đối với toàn thể cử tri và nền dân chủ, không chỉ riêng giới học thuật. Do đó, từ cần điền phải mang ý nghĩa \"quan trọng\", \"thiết yếu\".",
+    "_src": "WIC 3 Q26"
+  },
+  {
+    "id": 40027,
+    "category": "Word in Context - Part 3",
+    "context": "A speaker at a recent children’s book publishing conference noted that, while many illustrators do excellent work, in her mind, no one has ever ____ Jerry Pinkney’s work as the illustrator of The Talking Eggs: A Folktale from the American South: there is no better example of the form, according to the speaker.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "cited",
+      "eclipsed",
+      "augmented",
+      "convened"
+    ],
+    "answer": "eclipsed",
+    "answerKey": "B",
+    "answerText": "eclipsed",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: cited (trích dẫn)\nVì sao sai: Không có ý nghĩa trong ngữ cảnh so sánh này.",
+      "B": "Nghĩa Tiếng Việt: eclipsed (làm lu mờ, vượt qua)\nVì sao đúng: Hoàn toàn chính xác. Không ai có thể vượt qua hay làm lu mờ sự xuất sắc của Pinkney.",
+      "C": "Nghĩa Tiếng Việt: augmented (tăng cường)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: convened (triệu tập)\nVì sao sai: Không liên quan."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "cited",
+        "vi": "cited (trích dẫn)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "eclipsed",
+        "vi": "eclipsed (làm lu mờ, vượt qua)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "augmented",
+        "vi": "augmented (tăng cường)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "convened",
+        "vi": "convened (triệu tập)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — eclipsed",
+    "contextSummary": "Một diễn giả cho rằng không ai có thể ____ tác phẩm của Jerry Pinkney. Bằng chứng là \"không có ví dụ nào tốt hơn về hình thức này\".",
+    "contextLogic": "Nếu tác phẩm của Pinkney là \"ví dụ tốt nhất\", điều đó có nghĩa là không có tác phẩm nào khác có thể vượt qua, làm lu mờ hay xuất sắc hơn nó.",
+    "_src": "WIC 3 Q27"
+  },
+  {
+    "id": 40028,
+    "category": "Word in Context - Part 3",
+    "context": "The Village Politicians, painted in the realist style by Wilhelm Leibl, depicts a group of peasants clustered together in conversation and emphasizes accuracy in its portrayal of the experiences of ordinary working people. This style largely ____ the conventions of the romantic style evident in many paintings by Thomas Couture, which instead accentuated their subjects’ positive traits by, for example, placing them in staged settings with expensive-looking decorations and presenting them with smooth, unblemished skin.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "rejected",
+      "imitated",
+      "epitomized",
+      "extended"
+    ],
+    "answer": "rejected",
+    "answerKey": "A",
+    "answerText": "rejected",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: rejected (từ chối, bác bỏ)\nVì sao đúng: Hoàn toàn chính xác. Chủ nghĩa hiện thực đã bác bỏ các quy ước của chủ nghĩa lãng mạn.",
+      "B": "Nghĩa Tiếng Việt: imitated (bắt chước)\nVì sao sai: Trái ngược với ý nghĩa của câu.",
+      "C": "Nghĩa Tiếng Việt: epitomized (là hình mẫu tiêu biểu của)\nVì sao sai: Sai. Hai phong cách này khác nhau.",
+      "D": "Nghĩa Tiếng Việt: extended (mở rộng)\nVì sao sai: Sai, nó không phải là sự tiếp nối hay mở rộng."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "rejected",
+        "vi": "rejected (từ chối, bác bỏ)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "imitated",
+        "vi": "imitated (bắt chước)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "epitomized",
+        "vi": "epitomized (là hình mẫu tiêu biểu của)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "extended",
+        "vi": "extended (mở rộng)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — rejected",
+    "contextSummary": "Bức tranh của Wilhelm Leibl theo phong cách hiện thực, nhấn mạnh sự chính xác. Phong cách này được so sánh với phong cách lãng mạn của Thomas Couture, vốn \"nhấn mạnh những đặc điểm tích cực\" của chủ thể một cách dàn dựng.",
+    "contextLogic": "Hai phong cách được mô tả là đối lập nhau: một bên là chính xác, đời thường; một bên là lý tưởng hóa, dàn dựng. Do đó, phong cách hiện thực đã đi ngược lại, không chấp nhận các quy ước của phong cách lãng mạn.",
+    "_src": "WIC 3 Q28"
+  },
+  {
+    "id": 40029,
+    "category": "Word in Context - Part 3",
+    "context": "Because blue holes (such as the Lost Blue Hole in the Bahamas) and cenotes (such as Melissani Cave in Greece) differ in their size, water composition, and type of location, they are not usually viewed as being ____, but both are water-filled sinkholes typically produced by the natural dissolution and collapse of rocks.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "distinct",
+      "incongruous",
+      "analogous",
+      "explicable"
+    ],
+    "answer": "analogous",
+    "answerKey": "C",
+    "answerText": "analogous",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: distinct (khác biệt)\nVì sao sai: Nếu chúng \"khác biệt\" thì không cần phải dùng từ \"but\" để chỉ ra điểm chung.",
+      "B": "Nghĩa Tiếng Việt: incongruous (không phù hợp)\nVì sao sai: Không mô tả đúng mối quan hệ so sánh.",
+      "C": "Nghĩa Tiếng Việt: analogous (tương tự)\nVì sao đúng: Hoàn toàn chính xác. \"Analogous\" có nghĩa là tương tự về chức năng hoặc cấu trúc cơ bản nhưng không hoàn toàn giống nhau. Chúng có những khác biệt, vì vậy chúng không được coi là \"tương tự\".",
+      "D": "Nghĩa Tiếng Việt: explicable (có thể giải thích được)\nVì sao sai: Không liên quan."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "distinct",
+        "vi": "distinct (khác biệt)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "incongruous",
+        "vi": "incongruous (không phù hợp)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "analogous",
+        "vi": "analogous (tương tự)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "explicable",
+        "vi": "explicable (có thể giải thích được)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — analogous",
+    "contextSummary": "Hố xanh và cenote khác nhau về kích thước, thành phần nước và vị trí, vì vậy chúng thường không được coi là ____. Tuy nhiên, cả hai đều là các hố sụt chứa đầy nước.",
+    "contextLogic": "Từ \"but\" (nhưng) cho thấy sự tương phản. Mặc dù chúng có những điểm chung cơ bản (đều là hố sụt), nhưng vì những khác biệt được liệt kê, chúng không được xem là hoàn toàn giống nhau hoặc tương tự nhau.",
+    "_src": "WIC 3 Q29"
+  },
+  {
+    "id": 40030,
+    "category": "Word in Context - Part 3",
+    "context": "The striped marlin is an ectothermic (cold-blooded) fish, whereas the Pacific bluefin tuna is a regional endotherm; unlike that of ectotherms, its body temperature remains above the ambient water temperature. The basking shark had been classified as a full ectotherm, but researchers Haley R. Dolton et al. found that its body temperature remains 1.0 to 1.5°C above ambient, which is ____ that classification.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "opportune for",
+      "incongruous with",
+      "subordinate to",
+      "indicative of"
+    ],
+    "answer": "incongruous with",
+    "answerKey": "B",
+    "answerText": "incongruous with",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: opportune for (thuận lợi cho)\nVì sao sai: Không có ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: incongruous with (không phù hợp với, mâu thuẫn với)\nVì sao đúng: Hoàn toàn chính xác. Phát hiện mới mâu thuẫn với việc phân loại nó là một loài ectotherm hoàn toàn.",
+      "C": "Nghĩa Tiếng Việt: subordinate to (phụ thuộc vào)\nVì sao sai: Không liên quan.",
+      "D": "Nghĩa Tiếng Việt: indicative of (biểu thị, cho thấy)\nVì sao sai: Phát hiện này chống lại sự phân loại đó, chứ không phải là biểu hiện của nó."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "opportune for",
+        "vi": "opportune for (thuận lợi cho)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "incongruous with",
+        "vi": "incongruous with (không phù hợp với, mâu thuẫn với)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "subordinate to",
+        "vi": "subordinate to (phụ thuộc vào)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "indicative of",
+        "vi": "indicative of (biểu thị, cho thấy)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — incongruous with",
+    "contextSummary": "Đoạn văn định nghĩa cá ectotherm (máu lạnh) có nhiệt độ cơ thể bằng nhiệt độ môi trường. Cá mập phơi nắng ban đầu được phân loại là ectotherm. Tuy nhiên, nghiên cứu mới cho thấy nhiệt độ cơ thể của nó cao hơn môi trường từ 1.0 đến 1.5°C.",
+    "contextLogic": "Phát hiện mới (nhiệt độ cơ thể cao hơn môi trường) mâu thuẫn trực tiếp với định nghĩa của ectotherm (nhiệt độ cơ thể bằng môi trường). Do đó, phát hiện này \"không phù hợp với\" sự phân loại ban đầu.",
+    "_src": "WIC 3 Q30"
+  },
+  {
+    "id": 40031,
+    "category": "Word in Context - Part 3",
+    "context": "In the 2010s, the price of vintage Muppets action figures rose dramatically, which had the counterintuitive effect of ____ demand: buyers who hadn’t previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "eliciting",
+      "satisfying",
+      "capitalizing",
+      "exploiting"
+    ],
+    "answer": "eliciting",
+    "answerKey": "A",
+    "answerText": "eliciting",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: eliciting (gợi ra, gây ra)\nVì sao đúng: Chính xác. Việc tăng giá đã gợi ra nhu cầu mới.",
+      "B": "Nghĩa Tiếng Việt: satisfying (làm thỏa mãn)\nVì sao sai: Nhu cầu được tạo ra chứ không phải được thỏa mãn.",
+      "C": "Nghĩa Tiếng Việt: capitalizing (tận dụng)\nVì sao sai: Không phù hợp.",
+      "D": "Nghĩa Tiếng Việt: exploiting (khai thác)\nVì sao sai: Không mô tả đúng mối quan hệ ở đây."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "eliciting",
+        "vi": "eliciting (gợi ra, gây ra)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "satisfying",
+        "vi": "satisfying (làm thỏa mãn)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "capitalizing",
+        "vi": "capitalizing (tận dụng)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "exploiting",
+        "vi": "exploiting (khai thác)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — eliciting",
+    "contextSummary": "Giá của các mô hình nhân vật Muppets cổ điển tăng mạnh, điều này có tác dụng phản trực giác là ____ nhu cầu: những người mua trước đây không quan tâm giờ lại đổ xô vào thị trường.",
+    "contextLogic": "Việc giá tăng đã không làm giảm nhu cầu mà ngược lại, đã tạo ra, khơi gợi nhu cầu từ những người trước đây không quan tâm. Từ cần điền phải có nghĩa là \"gợi ra\", \"tạo ra\".",
+    "_src": "WIC 3 Q31"
+  },
+  {
+    "id": 40032,
+    "category": "Word in Context - Part 3",
+    "context": "The following text is adapted from Jhumpa Lahiri's 2003 novel The Namesake. Gogol is an elementary school student in Massachusetts. In art class, his favorite hour of the week, he carves his name with paperclips into the bottoms of clay cups and bowls. He pastes uncooked pasta to cardboard, and leaves his signature in fat brush strokes below paintings.",
+    "prompt": "As used in the text, what does the word “carves” and “signature” most nearly mean",
+    "options": [
+      "Follows",
+      "Promotes",
+      "Marks",
+      "Transforms"
+    ],
+    "answer": "Marks",
+    "answerKey": "C",
+    "answerText": "Marks",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: Follows (theo sau)\nVì sao sai: Không có ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: Promotes (quảng bá)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: Marks (đánh dấu)\nVì sao đúng: Hoàn toàn chính xác. Cả hai hành động đều là hình thức đánh dấu quyền sở hữu hoặc tác giả.",
+      "D": "Nghĩa Tiếng Việt: Transforms (biến đổi)\nVì sao sai: Không phù hợp."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Follows",
+        "vi": "Follows (theo sau)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Promotes",
+        "vi": "Promotes (quảng bá)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Marks",
+        "vi": "Marks (đánh dấu)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Transforms",
+        "vi": "Transforms (biến đổi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — Marks",
+    "contextSummary": "Cậu bé Gogol \"carves his name... into the bottoms of clay cups\" (khắc tên mình... vào đáy cốc đất sét) và \"leaves his signature... below paintings\" (để lại chữ ký... bên dưới các bức tranh).",
+    "contextLogic": "Cả hai hành động \"carves\" (khắc) và để lại \"signature\" (chữ ký) đều là những cách để đánh dấu, ghi dấu ấn cá nhân lên một vật thể.",
+    "_src": "WIC 3 Q32"
+  },
+  {
+    "id": 40033,
+    "category": "Word in Context - Part 3",
+    "context": "The sloping tile roofs and picturesque facade of Mission San José in Fremont, California, are enduring symbols of the Spanish contribution to Californian architecture. Elements of this style have been reproduced throughout the state—the design of the Santa Fe Depot in San Diego, for example, is considered to _____ the style of the Spanish missions.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "renovate",
+      "imitate",
+      "reject",
+      "neglect"
+    ],
+    "answer": "imitate",
+    "answerKey": "B",
+    "answerText": "imitate",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: renovate (cải tạo)\nVì sao sai: Không có nghĩa là sao chép phong cách.",
+      "B": "Nghĩa Tiếng Việt: imitate (bắt chước)\nVì sao đúng: Chính xác. Nhà ga Santa Fe đã bắt chước phong cách kiến trúc đó.",
+      "C": "Nghĩa Tiếng Việt: reject (từ chối)\nVì sao sai: Trái ngược với ý của câu.",
+      "D": "Nghĩa Tiếng Việt: neglect (bỏ qua)\nVì sao sai: Trái ngược với ý của câu."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "renovate",
+        "vi": "renovate (cải tạo)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "imitate",
+        "vi": "imitate (bắt chước)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "reject",
+        "vi": "reject (từ chối)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "neglect",
+        "vi": "neglect (bỏ qua)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — imitate",
+    "contextSummary": "Các yếu tố kiến trúc của nhà thờ Mission San José đã được \"sao chép lại\" (reproduced) trên khắp tiểu bang. Ví dụ, thiết kế của nhà ga Santa Fe được coi là ____ phong cách của các nhà thờ Tây Ban Nha.",
+    "contextLogic": "Câu thứ hai đưa ra một ví dụ cụ thể để minh họa cho ý của câu đầu tiên. Nếu câu đầu nói phong cách được \"reproduced\", thì từ trong câu ví dụ cũng phải có nghĩa là \"sao chép\", \"bắt chước\".",
+    "_src": "WIC 3 Q33"
+  },
+  {
+    "id": 40034,
+    "category": "Word in Context - Part 3",
+    "context": "The following text is from Thomas Hardy’s 1874 novel Far from the Madding Crowd. The text describes a lone human figure throwing a snowball. The figure was stooping. Then a morsel of snow flew across the river towards the fifth window. It smacked against the wall at a point several yards from its mark.",
+    "prompt": "As used in the text, what does the word “mark” most nearly mean",
+    "options": [
+      "Assessment",
+      "Feature",
+      "Result",
+      "Target"
+    ],
+    "answer": "Target",
+    "answerKey": "D",
+    "answerText": "Target",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: Assessment (sự đánh giá)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: Feature (đặc điểm)\nVì sao sai: Không liên quan.",
+      "C": "Nghĩa Tiếng Việt: Result (kết quả)\nVì sao sai: Không phù hợp.",
+      "D": "Nghĩa Tiếng Việt: Target (mục tiêu)\nVì sao đúng: Hoàn toàn chính xác. Viên tuyết đã trượt mục tiêu của nó."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Assessment",
+        "vi": "Assessment (sự đánh giá)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Feature",
+        "vi": "Feature (đặc điểm)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Result",
+        "vi": "Result (kết quả)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Target",
+        "vi": "Target (mục tiêu)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — Target",
+    "contextSummary": "Một người ném một viên tuyết về phía cửa sổ thứ năm. Tuy nhiên, viên tuyết \"smacked against the wall at a point several yards from its mark\" (đập vào tường ở một điểm cách ... của nó vài yard).",
+    "contextLogic": "Trong bối cảnh ném một vật gì đó, \"mark\" là điểm nhắm, mục tiêu mà người ném muốn ném trúng.",
+    "_src": "WIC 3 Q34"
+  },
+  {
+    "id": 40035,
+    "category": "Word in Context - Part 3",
+    "context": "In a garden, _____ the spread of unwelcome weeds such as common mallow can be difficult because weeds usually spread easily and quickly become unmanageable, making it hard to remove them completely.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "retrieving",
+      "halting",
+      "pretending",
+      "saving"
+    ],
+    "answer": "halting",
+    "answerKey": "B",
+    "answerText": "halting",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: retrieving (lấy lại)\nVì sao sai: Không có ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: halting (ngăn chặn, dừng lại)\nVì sao đúng: Hoàn toàn chính xác. Việc ngăn chặn sự lây lan của cỏ dại là rất khó.",
+      "C": "Nghĩa Tiếng Việt: pretending (giả vờ)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: saving (cứu)\nVì sao sai: Không phù hợp."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "retrieving",
+        "vi": "retrieving (lấy lại)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "halting",
+        "vi": "halting (ngăn chặn, dừng lại)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "pretending",
+        "vi": "pretending (giả vờ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "saving",
+        "vi": "saving (cứu)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — halting",
+    "contextSummary": "Trong một khu vườn, ____ sự lây lan của các loài cỏ dại không mong muốn có thể rất khó khăn vì chúng lây lan dễ dàng và nhanh chóng.",
+    "contextLogic": "Con người muốn ngăn chặn sự lây lan của cỏ dại. Từ cần điền phải có nghĩa là \"ngăn chặn\", \"chặn đứng\".",
+    "_src": "WIC 3 Q35"
+  },
+  {
+    "id": 40036,
+    "category": "Word in Context - Part 3",
+    "context": "Certain features are almost always included in the designs of mosques, like the minaret (or tower), which is considered to be a _____ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard feature.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "rejection",
+      "hallmark",
+      "duplicate",
+      "motivation"
+    ],
+    "answer": "hallmark",
+    "answerKey": "B",
+    "answerText": "hallmark",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: rejection (sự từ chối)\nVì sao sai: Trái ngược ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: hallmark (dấu hiệu đặc trưng)\nVì sao đúng: Hoàn toàn chính xác. Ngọn tháp là một dấu hiệu đặc trưng của kiến trúc nhà thờ Hồi giáo.",
+      "C": "Nghĩa Tiếng Việt: duplicate (bản sao)\nVì sao sai: Không phù hợp.",
+      "D": "Nghĩa Tiếng Việt: motivation (động lực)\nVì sao sai: Không có ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "rejection",
+        "vi": "rejection (sự từ chối)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "hallmark",
+        "vi": "hallmark (dấu hiệu đặc trưng)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "duplicate",
+        "vi": "duplicate (bản sao)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "motivation",
+        "vi": "motivation (động lực)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — hallmark",
+    "contextSummary": "Một số đặc điểm như ngọn tháp (minaret) hầu như luôn được bao gồm trong thiết kế của các nhà thờ Hồi giáo và được coi là một ____ của kiến trúc nhà thờ Hồi giáo.",
+    "contextLogic": "Một đặc điểm tiêu biểu, gần như luôn luôn có mặt và dùng để nhận diện một thứ gì đó được gọi là dấu hiệu đặc trưng.",
+    "_src": "WIC 3 Q36"
+  },
+  {
+    "id": 40037,
+    "category": "Word in Context - Part 3",
+    "context": "Given that the organizers specifically _____ that the conference was intended to explore excellence in the field of children's literature, an education specialist proposed a presentation on the works of celebrated illustrator Amos Ferguson, with particular emphasis on his work in the book Under the Sunday Tree.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "ascribed",
+      "lamented",
+      "augmented",
+      "stipulated"
+    ],
+    "answer": "stipulated",
+    "answerKey": "D",
+    "answerText": "stipulated",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: ascribed (gán cho)\nVì sao sai: Không phù hợp.",
+      "B": "Nghĩa Tiếng Việt: lamented (than thở)\nVì sao sai: Không phù hợp với việc công bố mục đích hội nghị.",
+      "C": "Nghĩa Tiếng Việt: augmented (tăng cường)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: stipulated (quy định, đặt điều kiện)\nVì sao đúng: Hoàn toàn chính xác. Các nhà tổ chức đã quy định rõ ràng mục tiêu của hội nghị."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "ascribed",
+        "vi": "ascribed (gán cho)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "lamented",
+        "vi": "lamented (than thở)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "augmented",
+        "vi": "augmented (tăng cường)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "stipulated",
+        "vi": "stipulated (quy định, đặt điều kiện)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — stipulated",
+    "contextSummary": "Các nhà tổ chức đã ____ một cách cụ thể rằng hội nghị nhằm mục đích khám phá sự xuất sắc trong lĩnh vực văn học thiếu nhi. Dựa trên điều này, một chuyên gia đã đề xuất một bài thuyết trình.",
+    "contextLogic": "Các nhà tổ chức đã đưa ra một điều kiện, một quy định rõ ràng về mục đích của hội nghị.",
+    "_src": "WIC 3 Q37"
+  },
+  {
+    "id": 40038,
+    "category": "Word in Context - Part 3",
+    "context": "Philosopher Ingrid Robeyns argues for the principle of limitarianism—that there should be a limit on the wealth a person possesses. Critics of limitarianism respond that it is ____ since it would require worldwide cooperation between governments in economic policy, a goal that is likely unachievable.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "perfunctory",
+      "utopian",
+      "punitive",
+      "viable"
+    ],
+    "answer": "utopian",
+    "answerKey": "B",
+    "answerText": "utopian",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: perfunctory (hời hợt)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: utopian (không tưởng)\nVì sao đúng: Hoàn toàn chính xác. Kế hoạch này được cho là không tưởng vì nó yêu cầu một điều kiện phi thực tế.",
+      "C": "Nghĩa Tiếng Việt: punitive (mang tính trừng phạt)\nVì sao sai: Không mô tả tính khả thi của kế hoạch.",
+      "D": "Nghĩa Tiếng Việt: viable (khả thi)\nVì sao sai: Trái ngược với lập luận của các nhà phê bình."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "perfunctory",
+        "vi": "perfunctory (hời hợt)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "utopian",
+        "vi": "utopian (không tưởng)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "punitive",
+        "vi": "punitive (mang tính trừng phạt)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "viable",
+        "vi": "viable (khả thi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — utopian",
+    "contextSummary": "Nhà triết học Ingrid Robeyns đề xuất nguyên tắc giới hạn sự giàu có. Các nhà phê bình phản bác rằng điều này là ____ vì nó đòi hỏi sự hợp tác kinh tế trên toàn thế giới, một mục tiêu \"có khả năng không thể đạt được\" (likely unachievable).",
+    "contextLogic": "Một ý tưởng đòi hỏi những điều kiện hoàn hảo, không thể đạt được trong thực tế được gọi là không tưởng.",
+    "_src": "WIC 3 Q38"
+  },
+  {
+    "id": 40039,
+    "category": "Word in Context - Part 3",
+    "context": "Paleontologists think that Aerosteon, Anhanguera, and other long-extinct theropods and pterosaurs may have breathed using air sacs connected to tubelike extensions inside the animals' bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as _____ those of Aerosteon, Anhanguera, and other theropods and pterosaurs.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "emissaries for",
+      "harbingers of",
+      "proxies for",
+      "subordinates of"
+    ],
+    "answer": "proxies for",
+    "answerKey": "C",
+    "answerText": "proxies for",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: emissaries for (sứ giả cho)\nVì sao sai: Không phù hợp.",
+      "B": "Nghĩa Tiếng Việt: harbingers of (điềm báo của)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: proxies for (vật đại diện cho)\nVì sao đúng: Hoàn toàn chính xác. Hệ hô hấp của chim đóng vai trò là một mô hình đại diện cho hệ hô hấp của khủng long.",
+      "D": "Nghĩa Tiếng Việt: subordinates of (cấp dưới của)\nVì sao sai: Không có ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "emissaries for",
+        "vi": "emissaries for (sứ giả cho)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "harbingers of",
+        "vi": "harbingers of (điềm báo của)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "proxies for",
+        "vi": "proxies for (vật đại diện cho)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "subordinates of",
+        "vi": "subordinates of (cấp dưới của)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — proxies for",
+    "contextSummary": "Các loài khủng long đã tuyệt chủng có thể đã có hệ hô hấp tương tự như các loài chim hiện đại. Vì lý do này, một số nhà cổ sinh vật học coi hệ hô hấp của chim là ____ của hệ hô hấp của khủng long.",
+    "contextLogic": "Vì hệ hô hấp của khủng long không còn tồn tại để nghiên cứu trực tiếp, các nhà khoa học phải sử dụng hệ hô hấp của chim như một mô hình thay thế, một vật đại diện để nghiên cứu.",
+    "_src": "WIC 3 Q39"
+  },
+  {
+    "id": 40040,
+    "category": "Word in Context - Part 3",
+    "context": "The Apollo Moon landings (1969–1972) brought radiation detectors and equipment too heavy for liftoff to the Moon and procured large amounts of data. Researcher Philip Metzger, who is investigating the long-term effects of being on the Moon, continues to use Apollo’s data, demonstrating that the mission’s value to science is ______.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "ongoing",
+      "original",
+      "displaced",
+      "controversial"
+    ],
+    "answer": "ongoing",
+    "answerKey": "A",
+    "answerText": "ongoing",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: ongoing (đang diễn ra, tiếp tục)\nVì sao đúng: Hoàn toàn chính xác. Giá trị khoa học của sứ mệnh Apollo vẫn đang tiếp diễn.",
+      "B": "Nghĩa Tiếng Việt: original (nguyên bản)\nVì sao sai: Không thể hiện sự kéo dài của giá trị.",
+      "C": "Nghĩa Tiếng Việt: displaced (bị thay thế)\nVì sao sai: Trái ngược với việc vẫn đang được sử dụng.",
+      "D": "Nghĩa Tiếng Việt: controversial (gây tranh cãi)\nVì sao sai: Đoạn văn không đề cập đến tranh cãi."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "ongoing",
+        "vi": "ongoing (đang diễn ra, tiếp tục)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "original",
+        "vi": "original (nguyên bản)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "displaced",
+        "vi": "displaced (bị thay thế)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "controversial",
+        "vi": "controversial (gây tranh cãi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — ongoing",
+    "contextSummary": "Các cuộc đổ bộ lên Mặt Trăng của Apollo (1969–1972) đã thu thập được rất nhiều dữ liệu. Ngày nay, nhà nghiên cứu Philip Metzger \"vẫn tiếp tục sử dụng dữ liệu của Apollo\".",
+    "contextLogic": "Việc dữ liệu từ một sứ mệnh trong quá khứ vẫn còn được sử dụng cho nghiên cứu hiện tại cho thấy giá trị của nó vẫn còn tiếp diễn, chưa kết thúc.",
+    "_src": "WIC 3 Q40"
+  },
+  {
+    "id": 40041,
+    "category": "Word in Context - Part 3",
+    "context": "",
+    "prompt": "The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child. For the talent show, I was to play a piece called “Pleading Child” from Schumann’s Scenes from Childhood. It was a simple, moody piece that sounded more difficult than it was. I was supposed to memorize the whole thing, playing the repeat parts twice to make the piece sound longer. But I dawdled over it, playing a few bars and then cheating, looking up to see what notes followed. I never really listened to what I was playing. I daydreamed about being somewhere else, about being someone else. Based on the text, when the narrator describes herself as “cheating,” what does she most likely mean?",
+    "options": [
+      "She was violating an expectation about how to perform the piece.",
+      "She was gaining an unfair advantage over other contestants in the talent show.",
+      "She was deceiving her piano teacher.",
+      "She was lying to herself about her musical ability."
+    ],
+    "answer": "She was violating an expectation about how to perform the piece.",
+    "answerKey": "A",
+    "answerText": "She was violating an expectation about how to perform the piece.",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: She was violating an expectation about how to perform the piece\nVì sao đúng: Chính xác. Kỳ vọng là phải nhớ bản nhạc, và cô đã vi phạm điều đó bằng cách nhìn vào nốt nhạc.",
+      "B": "Nghĩa Tiếng Việt: She was gaining an unfair advantage over other contestants...\nVì sao sai: Không có thông tin nào về các thí sinh khác. Đây là buổi biểu diễn tài năng, không phải cuộc thi.",
+      "C": "Nghĩa Tiếng Việt: She was deceiving her piano teacher\nVì sao sai: Có thể, nhưng lựa chọn A mô tả chính xác hơn bản chất của hành động \"gian lận\" trong bối cảnh này.",
+      "D": "Nghĩa Tiếng Việt: She was lying to herself about her musical ability\nVì sao sai: Không được hỗ trợ trực tiếp bởi văn bản."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "She was violating an expectation about how to perform the piece.",
+        "vi": "She was violating an expectation about how to perform the piece",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "She was gaining an unfair advantage over other contestants in the talent show.",
+        "vi": "She was gaining an unfair advantage over other contestants...",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "She was deceiving her piano teacher.",
+        "vi": "She was deceiving her piano teacher",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "She was lying to herself about her musical ability.",
+        "vi": "She was lying to herself about her musical ability",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — She was violating an expectation about how to perform the piece.",
+    "contextSummary": "Người kể chuyện được yêu cầu phải \"ghi nhớ toàn bộ bản nhạc\" (memorize the whole thing). Nhưng thay vào đó, cô ấy đã \"cheating, looking up to see what notes followed\" (gian lận, nhìn lên để xem các nốt nhạc tiếp theo).",
+    "contextLogic": "Hành động \"gian lận\" ở đây là việc không tuân thủ yêu cầu phải chơi nhạc theo trí nhớ. Cô ấy đã vi phạm một kỳ vọng hoặc quy tắc về cách thực hiện bản nhạc.",
+    "_src": "WIC 3 Q41"
+  },
+  {
+    "id": 40042,
+    "category": "Word in Context - Part 3",
+    "context": "The Historical Dictionary of Science Fiction is a crowdsourced project started in 2001 by lexicographer Jesse Sheidlower to record terms that originated in science fiction. Volunteers share digitized excerpts from personal collections of sci-fi magazines not typically preserved in libraries— ______ that allow the earliest uses of phrases such as “warp speed” (1952) to be identified and added to the dictionary.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "contributions",
+      "resolutions",
+      "negotiations",
+      "justifications"
+    ],
+    "answer": "contributions",
+    "answerKey": "A",
+    "answerText": "contributions",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: contributions (sự đóng góp)\nVì sao đúng: Hoàn toàn chính xác. Các trích đoạn này là sự đóng góp của tình nguyện viên cho dự án.",
+      "B": "Nghĩa Tiếng Việt: resolutions (nghị quyết)\nVì sao sai: Không có ý nghĩa.",
+      "C": "Nghĩa Tiếng Việt: negotiations (sự đàm phán)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: justifications (sự biện minh)\nVì sao sai: Không có ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "contributions",
+        "vi": "contributions (sự đóng góp)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "resolutions",
+        "vi": "resolutions (nghị quyết)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "negotiations",
+        "vi": "negotiations (sự đàm phán)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "justifications",
+        "vi": "justifications (sự biện minh)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — contributions",
+    "contextSummary": "Từ điển Lịch sử Khoa học Viễn tưởng là một dự án cộng đồng. Các tình nguyện viên chia sẻ các trích đoạn từ bộ sưu tập cá nhân của họ. Những tài liệu này cho phép xác định được nguồn gốc của các cụm từ.",
+    "contextLogic": "Hành động chia sẻ tài liệu của các tình nguyện viên cho một dự án chung được gọi là sự đóng góp.",
+    "_src": "WIC 3 Q42"
+  },
+  {
+    "id": 40043,
+    "category": "Word in Context - Part 3",
+    "context": "Today’s theater stages are frequently filled with props and scenery to immerse the audience in a play’s world. Because theatergoers have grown used to carefully designed stage environments, even sparse sets can surprise audiences. But simple, unadorned stages were likely ______ audiences in the very distant past: highly decorated and detailed sets were not common until the 1600s.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "expected by",
+      "confusing to",
+      "exciting to",
+      "disliked by"
+    ],
+    "answer": "expected by",
+    "answerKey": "A",
+    "answerText": "expected by",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: expected by (được mong đợi bởi)\nVì sao đúng: Hoàn toàn chính xác. Khán giả thời đó mong đợi và quen với sân khấu đơn giản.",
+      "B": "Nghĩa Tiếng Việt: confusing to (gây bối rối cho)\nVì sao sai: Không có lý do gì để sân khấu đơn giản lại gây bối rối.",
+      "C": "Nghĩa Tiếng Việt: exciting to (thú vị đối với)\nVì sao sai: Có thể, nhưng \"được mong đợi\" phù hợp hơn với logic lịch sử được trình bày.",
+      "D": "Nghĩa Tiếng Việt: disliked by (bị ghét bởi)\nVì sao sai: Không có bằng chứng cho điều này."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "expected by",
+        "vi": "expected by (được mong đợi bởi)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "confusing to",
+        "vi": "confusing to (gây bối rối cho)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "exciting to",
+        "vi": "exciting to (thú vị đối với)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "disliked by",
+        "vi": "disliked by (bị ghét bởi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — expected by",
+    "contextSummary": "Ngày nay, khán giả đã quen với sân khấu được thiết kế công phu. Nhưng trong quá khứ xa xưa, sân khấu đơn giản, không trang trí có lẽ là điều ____ đối với khán giả, vì sân khấu trang trí chi tiết chỉ phổ biến sau những năm 1600.",
+    "contextLogic": "Nếu sân khấu trang trí chi tiết chưa phổ biến, thì khán giả thời đó sẽ quen thuộc và mong đợi sân khấu đơn giản. Đó là tiêu chuẩn của thời đại họ.",
+    "_src": "WIC 3 Q43"
+  },
+  {
+    "id": 40044,
+    "category": "Word in Context - Part 3",
+    "context": "Gertrude Ederle, who was the first woman to swim across the English Channel, and Wanda Rutkiewicz, who was the first woman to summit K2 (the second tallest mountain in the world), are eminent lasting places in our historical memory. No matter what others may do in the future, nobody can ever ____ these women as the first to accomplish these feats.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "stipulate",
+      "induce",
+      "supplant",
+      "engender"
+    ],
+    "answer": "supplant",
+    "answerKey": "C",
+    "answerText": "supplant",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: stipulate (quy định)\nVì sao sai: Không có ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: induce (gây ra)\nVì sao sai: Không có ý nghĩa.",
+      "C": "Nghĩa Tiếng Việt: supplant (thay thế, chiếm chỗ)\nVì sao đúng: Hoàn toàn chính xác. Không ai có thể thay thế vị trí \"người đầu tiên\" của họ.",
+      "D": "Nghĩa Tiếng Việt: engender (sinh ra)\nVì sao sai: Không có ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "stipulate",
+        "vi": "stipulate (quy định)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "induce",
+        "vi": "induce (gây ra)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "supplant",
+        "vi": "supplant (thay thế, chiếm chỗ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "engender",
+        "vi": "engender (sinh ra)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — supplant",
+    "contextSummary": "Gertrude Ederle và Wanda Rutkiewicz là những người phụ nữ \"đầu tiên\" thực hiện những kỳ tích của họ. Câu cuối cùng khẳng định rằng không ai có thể ____ những người phụ nữ này với tư cách là người đầu tiên.",
+    "contextLogic": "Vị trí \"người đầu tiên\" là độc nhất và không thể bị thay đổi hay chiếm đoạt. Từ cần điền phải có nghĩa là \"thay thế\", \"chiếm chỗ\".",
+    "_src": "WIC 3 Q44"
+  },
+  {
+    "id": 40045,
+    "category": "Word in Context - Part 3",
+    "context": "One indicator in fossils of skeletal pneumaticity (air-filled cavities in bones), which occurred in Ornithomimus and other Cretaceous theropods, is the inclusion of large passageways in bones. In a study of the evolutionary origin of the trait, Tito Aureliano et al. analyzed fossils of several ancestors of Cretaceous theropods, finding such passageways but of sizes too ______ to support pneumaticity.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "inaccessible",
+      "diminutive",
+      "invariable",
+      "extraneous"
+    ],
+    "answer": "diminutive",
+    "answerKey": "B",
+    "answerText": "diminutive",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: inaccessible (không thể tiếp cận)\nVì sao sai: Không liên quan đến kích thước.",
+      "B": "Nghĩa Tiếng Việt: diminutive (nhỏ bé)\nVì sao đúng: Hoàn toàn chính xác. Các lối đi quá nhỏ để có thể là bằng chứng của pneumaticity.",
+      "C": "Nghĩa Tiếng Việt: invariable (không thay đổi)\nVì sao sai: Không liên quan.",
+      "D": "Nghĩa Tiếng Việt: extraneous (không liên quan)\nVì sao sai: Không phù hợp."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "inaccessible",
+        "vi": "inaccessible (không thể tiếp cận)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "diminutive",
+        "vi": "diminutive (nhỏ bé)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "invariable",
+        "vi": "invariable (không thay đổi)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "extraneous",
+        "vi": "extraneous (không liên quan)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — diminutive",
+    "contextSummary": "Một dấu hiệu của pneumaticity (khoang khí trong xương) là các lối đi \"lớn\" trong xương. Nghiên cứu về tổ tiên của khủng long cũng tìm thấy các lối đi như vậy, nhưng kích thước của chúng quá ____ để hỗ trợ pneumaticity.",
+    "contextLogic": "Có sự tương phản giữa lối đi \"lớn\" cần thiết cho pneumaticity và lối đi được tìm thấy ở tổ tiên. Do đó, các lối đi này phải quá \"nhỏ\".",
+    "_src": "WIC 3 Q45"
+  },
+  {
+    "id": 40046,
+    "category": "Word in Context - Part 3",
+    "context": "Noting the correspondence of Leonardo da Vinci’s Mona Lisa to his self-portrait in red chalk, artist Lillian Schwartz argued that the former is a self-portrait, too—that by mapping his own features onto those of its ostensible subject, Lisa del Giocondo, Leonardo depicted himself as a woman. Indeed, by subjecting both works to digital analysis, Schwartz ______ the two faces’ structural resemblance.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "corroborated",
+      "amalgamated",
+      "promulgated",
+      "consolidated"
+    ],
+    "answer": "corroborated",
+    "answerKey": "A",
+    "answerText": "corroborated",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: corroborated (củng cố, xác nhận)\nVì sao đúng: Hoàn toàn chính xác. Phân tích kỹ thuật số đã xác nhận giả thuyết của bà.",
+      "B": "Nghĩa Tiếng Việt: amalgamated (hợp nhất)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: promulgated (ban hành)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: consolidated (hợp nhất, củng cố quyền lực)\nVì sao sai: Không phù hợp với bối cảnh khoa học."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "corroborated",
+        "vi": "corroborated (củng cố, xác nhận)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "amalgamated",
+        "vi": "amalgamated (hợp nhất)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "promulgated",
+        "vi": "promulgated (ban hành)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "consolidated",
+        "vi": "consolidated (hợp nhất, củng cố quyền lực)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — corroborated",
+    "contextSummary": "Lillian Schwartz cho rằng bức Mona Lisa là một bức chân dung tự họa của Leonardo da Vinci. Bà đã sử dụng phân tích kỹ thuật số trên cả hai tác phẩm và ____ sự tương đồng về cấu trúc giữa hai khuôn mặt.",
+    "contextLogic": "Phân tích kỹ thuật số đã cung cấp bằng chứng để xác nhận, củng cố cho lập luận của Schwartz.",
+    "_src": "WIC 3 Q46"
+  },
+  {
+    "id": 40047,
+    "category": "Word in Context - Part 3",
+    "context": "Whether or not thermal factors ______ the invention of the eyed needle directly, the tool certainly helped Ice Age people migrate to locations characterized by especially low temperatures, such as the sites now known as Dzudzuana Cave in the Caucasus and Shestakovo in Siberia, and its use reflects a growing emphasis on finer sewing, either for practical or decorative reasons.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "befell",
+      "precluded",
+      "superseded",
+      "prompted"
+    ],
+    "answer": "prompted",
+    "answerKey": "D",
+    "answerText": "prompted",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: befell (xảy đến với)\nVì sao sai: Không phù hợp.",
+      "B": "Nghĩa Tiếng Việt: precluded (ngăn cản)\nVì sao sai: Trái ngược với ý nghĩa có thể.",
+      "C": "Nghĩa Tiếng Việt: superseded (thay thế)\nVì sao sai: Không phù hợp.",
+      "D": "Nghĩa Tiếng Việt: prompted (thúc đẩy, xúi giục)\nVì sao đúng: Hoàn toàn chính xác. Câu hỏi là liệu nhiệt độ có thúc đẩy sự phát minh này không."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "befell",
+        "vi": "befell (xảy đến với)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "precluded",
+        "vi": "precluded (ngăn cản)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "superseded",
+        "vi": "superseded (thay thế)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "prompted",
+        "vi": "prompted (thúc đẩy, xúi giục)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — prompted",
+    "contextSummary": "Câu này đặt ra câu hỏi liệu các yếu tố nhiệt độ có ____ sự phát minh ra kim có lỗ hay không.",
+    "contextLogic": "Câu hỏi đang xem xét liệu nhiệt độ (cái lạnh) có phải là nguyên nhân, động lực thúc đẩy việc phát minh ra cây kim để may quần áo ấm hơn hay không.",
+    "_src": "WIC 3 Q47"
+  },
+  {
+    "id": 40048,
+    "category": "Word in Context - Part 3",
+    "context": "During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ______ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "outdated",
+      "lonely",
+      "forgotten",
+      "varied"
+    ],
+    "answer": "varied",
+    "answerKey": "D",
+    "answerText": "varied",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: outdated (lỗi thời)\nVì sao sai: Không có thông tin nào cho thấy điều này.",
+      "B": "Nghĩa Tiếng Việt: lonely (cô đơn)\nVì sao sai: Không liên quan.",
+      "C": "Nghĩa Tiếng Việt: forgotten (bị lãng quên)\nVì sao sai: Không liên quan.",
+      "D": "Nghĩa Tiếng Việt: varied (đa dạng)\nVì sao đúng: Hoàn toàn chính xác. Các ví dụ được đưa ra cho thấy sự đa dạng trong các tác phẩm của ông."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "outdated",
+        "vi": "outdated (lỗi thời)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "lonely",
+        "vi": "lonely (cô đơn)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "forgotten",
+        "vi": "forgotten (bị lãng quên)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "varied",
+        "vi": "varied (đa dạng)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — varied",
+    "contextSummary": "Nhà soạn nhạc Ernesto Lecuona đã sản xuất hàng trăm tác phẩm. Điều ấn tượng là kho tác phẩm của ông ____ như thế nào: ông thể hiện tài năng trong nhiều lĩnh vực khác nhau, từ nhạc giao hưởng, opera đến nhạc phim.",
+    "contextLogic": "Việc sáng tác thành công trong nhiều lĩnh vực khác nhau cho thấy sự đa dạng trong tác phẩm của ông.",
+    "_src": "WIC 3 Q48"
+  },
+  {
+    "id": 40049,
+    "category": "Word in Context - Part 3",
+    "context": "The social structure of medieval Bremen was heavily influenced by hierarchical institutions (e.g., kinship groups) within the settlement, a condition that some researchers suggest potentially ____ not just social but also economic fluidity—and by extension, urban growth—by constraining the range of contacts available to individuals in the settlement.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "protracted",
+      "disseminated",
+      "inhibited",
+      "catalyzed"
+    ],
+    "answer": "inhibited",
+    "answerKey": "C",
+    "answerText": "inhibited",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: protracted (kéo dài)\nVì sao sai: Không phù hợp.",
+      "B": "Nghĩa Tiếng Việt: disseminated (phổ biến)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: inhibited (ức chế, kìm hãm)\nVì sao đúng: Hoàn toàn chính xác. Cấu trúc phân cấp đã kìm hãm sự linh hoạt.",
+      "D": "Nghĩa Tiếng Việt: catalyzed (xúc tác)\nVì sao sai: Trái ngược với ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "protracted",
+        "vi": "protracted (kéo dài)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "disseminated",
+        "vi": "disseminated (phổ biến)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "inhibited",
+        "vi": "inhibited (ức chế, kìm hãm)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "catalyzed",
+        "vi": "catalyzed (xúc tác)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — inhibited",
+    "contextSummary": "Cấu trúc xã hội phân cấp ở Bremen thời trung cổ có thể đã ____ sự linh hoạt về xã hội và kinh tế bằng cách \"hạn chế\" (constraining) phạm vi tiếp xúc của các cá nhân.",
+    "contextLogic": "Nếu phạm vi tiếp xúc bị \"hạn chế\", thì sự linh hoạt về xã hội và kinh tế sẽ bị cản trở, kìm hãm.",
+    "_src": "WIC 3 Q49"
+  },
+  {
+    "id": 40050,
+    "category": "Word in Context - Part 3",
+    "context": "In some of his sculptures, Allan Houser uses abstract geometric shapes to depict his subjects rather than portraying them in realistic detail. For instance, his 1989 work Embrace is highly abstract and therefore differs strikingly from some of his other pieces in which the viewer can easily ______ familiar objects.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "reveal",
+      "remember",
+      "ignore",
+      "identify"
+    ],
+    "answer": "identify",
+    "answerKey": "D",
+    "answerText": "identify",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: reveal (tiết lộ)\nVì sao sai: Không phù hợp.",
+      "B": "Nghĩa Tiếng Việt: remember (nhớ)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: ignore (phớt lờ)\nVì sao sai: Trái ngược với ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: identify (nhận dạng, xác định)\nVì sao đúng: Hoàn toàn chính xác. Người xem có thể nhận ra các vật thể quen thuộc."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "reveal",
+        "vi": "reveal (tiết lộ)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "remember",
+        "vi": "remember (nhớ)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "ignore",
+        "vi": "ignore (phớt lờ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "identify",
+        "vi": "identify (nhận dạng, xác định)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — identify",
+    "contextSummary": "Một số tác phẩm của Allan Houser rất trừu tượng, khác với những tác phẩm khác của ông, nơi người xem có thể dễ dàng ____ các vật thể quen thuộc.",
+    "contextLogic": "Trong các tác phẩm không trừu tượng (hiện thực), người xem có thể dễ dàng nhận ra, xác định được các vật thể được miêu tả.",
+    "_src": "WIC 3 Q50"
+  },
+  {
+    "id": 40051,
+    "category": "Word in Context - Part 3",
+    "context": "Some pieces of music might have many meanings—the compositions of Marion Bauer can ______ as many different interpretations as there are people to listen to them—and so as long as a listener’s interpretation isn’t willfully absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "evade",
+      "refute",
+      "support",
+      "omit"
+    ],
+    "answer": "support",
+    "answerKey": "C",
+    "answerText": "support",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: evade (né tránh)\nVì sao sai: Không có ý nghĩa.",
+      "B": "Nghĩa Tiếng Việt: refute (bác bỏ)\nVì sao sai: Trái ngược ý nghĩa.",
+      "C": "Nghĩa Tiếng Việt: support (hỗ trợ, ủng hộ)\nVì sao đúng: Hoàn toàn chính xác. Các tác phẩm có thể hỗ trợ nhiều cách diễn giải.",
+      "D": "Nghĩa Tiếng Việt: omit (bỏ qua)\nVì sao sai: Không có ý nghĩa."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "evade",
+        "vi": "evade (né tránh)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "refute",
+        "vi": "refute (bác bỏ)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "support",
+        "vi": "support (hỗ trợ, ủng hộ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "omit",
+        "vi": "omit (bỏ qua)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — support",
+    "contextSummary": "Một số bản nhạc có thể có nhiều ý nghĩa - các tác phẩm của Marion Bauer có thể ____ nhiều cách diễn giải khác nhau như số lượng người nghe chúng.",
+    "contextLogic": "Nếu một tác phẩm có nhiều cách diễn giải, điều đó có nghĩa là nó có thể hỗ trợ, làm cơ sở cho nhiều cách hiểu khác nhau.",
+    "_src": "WIC 3 Q51"
+  },
+  {
+    "id": 40052,
+    "category": "Word in Context - Part 3",
+    "context": "Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author's writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ______ to some readers of his time.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "provocative",
+      "irrefutable",
+      "pretentious",
+      "irrelevant"
+    ],
+    "answer": "provocative",
+    "answerKey": "A",
+    "answerText": "provocative",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: provocative (khiêu khích, gây tranh cãi)\nVì sao đúng: Hoàn toàn chính xác. Nó đối lập với việc \"không gây tranh cãi ngày nay\".",
+      "B": "Nghĩa Tiếng Việt: irrefutable (không thể chối cãi)\nVì sao sai: Không liên quan.",
+      "C": "Nghĩa Tiếng Việt: pretentious (tự phụ, khoe khoang)\nVì sao sai: Không phải là sự đối lập trực tiếp.",
+      "D": "Nghĩa Tiếng Việt: irrelevant (không liên quan)\nVì sao sai: Không phù hợp."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "provocative",
+        "vi": "provocative (khiêu khích, gây tranh cãi)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "irrefutable",
+        "vi": "irrefutable (không thể chối cãi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "pretentious",
+        "vi": "pretentious (tự phụ, khoe khoang)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "irrelevant",
+        "vi": "irrelevant (không liên quan)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — provocative",
+    "contextSummary": "Đoạn văn nói rằng khi nghiên cứu các tác giả, cần xem xét cách khán giả đương thời nhìn nhận tác phẩm của họ. Mặc dù ngày nay tác phẩm của Unamuno không được coi là đặc biệt gây tranh cãi, nhưng có thể có những khía cạnh của nó được coi là ____ đối với độc giả thời của ông.",
+    "contextLogic": "Tương tự câu 6, từ \"While\" tạo ra sự tương phản giữa cách nhìn nhận ngày nay (không gây tranh cãi) và quá khứ. Từ cần điền phải có nghĩa là \"gây tranh cãi\", \"khiêu khích\", \"gây sốc\".",
+    "_src": "WIC 3 Q52"
+  },
+  {
+    "id": 40053,
+    "category": "Word in Context - Part 3",
+    "context": "Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ________. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "tranquil",
+      "peculiar",
+      "nostalgic",
+      "dispassionate"
+    ],
+    "answer": "dispassionate",
+    "answerKey": "D",
+    "answerText": "dispassionate",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: tranquil (thanh bình)\nVì sao sai: Không phải là sự đối lập trực tiếp.",
+      "B": "Nghĩa Tiếng Việt: peculiar (kỳ dị)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: nostalgic (hoài niệm)\nVì sao sai: Đây là một loại cảm xúc, gần với \"sentimental\".",
+      "D": "Nghĩa Tiếng Việt: dispassionate (vô tư, không thiên vị, không cảm xúc)\nVì sao đúng: Hoàn toàn chính xác. Nó đối lập với \"sentimental\" và tương đồng với \"objective\"."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "tranquil",
+        "vi": "tranquil (thanh bình)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "peculiar",
+        "vi": "peculiar (kỳ dị)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "nostalgic",
+        "vi": "nostalgic (hoài niệm)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "dispassionate",
+        "vi": "dispassionate (vô tư, không thiên vị, không cảm xúc)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — dispassionate",
+    "contextSummary": "Các tác phẩm của James McNeill Whistler được so sánh với các tác phẩm của những người cùng thời. Trong khi những người cùng thời thường \"đa cảm\" (sentimental), con mắt của Whistler dường như ____, giống như những bức ảnh \"khách quan\" của Walker Evans.",
+    "contextLogic": "Từ cần điền phải đối lập với \"sentimental\" (đa cảm, giàu cảm xúc) và đồng nghĩa với \"objective\" (khách quan). Một từ phù hợp sẽ là \"vô tư\", \"không cảm xúc\".",
+    "_src": "WIC 3 Q53"
+  },
+  {
+    "id": 40054,
+    "category": "Word in Context - Part 3",
+    "context": "Lucian of Samosata (modern-day Turkey) was a second-century satirist who mostly ridiculed qualities of philosophers of the time. His work True History, however, is _____, featuring tropes that are hallmarks of present-day science fiction (e.g., space travel, interplanetary conflict); it is regarded by some scholars as the earliest known work in the genre.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "authorized",
+      "applicable",
+      "sarcastic",
+      "visionary"
+    ],
+    "answer": "visionary",
+    "answerKey": "D",
+    "answerText": "visionary",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: authorized (được ủy quyền)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: applicable (có thể áp dụng)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: sarcastic (mỉa mai)\nVì sao sai: Mặc dù Lucian là một nhà châm biếm, từ này không mô tả đặc tính đi trước thời đại của tác phẩm.",
+      "D": "Nghĩa Tiếng Việt: visionary (có tầm nhìn xa, đi trước thời đại)\nVì sao đúng: Hoàn toàn chính xác. Tác phẩm này có tầm nhìn xa trông rộng."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "authorized",
+        "vi": "authorized (được ủy quyền)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "applicable",
+        "vi": "applicable (có thể áp dụng)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "sarcastic",
+        "vi": "sarcastic (mỉa mai)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "visionary",
+        "vi": "visionary (có tầm nhìn xa, đi trước thời đại)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — visionary",
+    "contextSummary": "Tác phẩm \"True History\" của Lucian, dù được viết vào thế kỷ thứ hai, lại có những yếu tố của khoa học viễn tưởng ngày nay (du hành vũ trụ, xung đột giữa các hành tinh) và được coi là tác phẩm đầu tiên của thể loại này.",
+    "contextLogic": "Một tác phẩm đi trước thời đại, có những ý tưởng mà mãi sau này mới trở nên phổ biến, được gọi là có tầm nhìn xa.",
+    "_src": "WIC 3 Q54"
+  },
+  {
+    "id": 40055,
+    "category": "Word in Context - Part 3",
+    "context": "The familial structure of the black swan (Cygnus atratus) shows tremendous _____: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "elasticity",
+      "reciprocity",
+      "cohesion",
+      "affection"
+    ],
+    "answer": "elasticity",
+    "answerKey": "A",
+    "answerText": "elasticity",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: elasticity (tính đàn hồi, tính linh hoạt)\nVì sao đúng: Hoàn toàn chính xác. Từ này mô tả khả năng thay đổi và thích ứng của cấu trúc gia đình chúng.",
+      "B": "Nghĩa Tiếng Việt: reciprocity (sự có đi có lại)\nVì sao sai: Chỉ mô tả một khía cạnh (nhận con nuôi) chứ không phải toàn bộ sự đa dạng.",
+      "C": "Nghĩa Tiếng Việt: cohesion (sự gắn kết)\nVì sao sai: Không mô tả sự đa dạng về cấu trúc.",
+      "D": "Nghĩa Tiếng Việt: affection (tình cảm)\nVì sao sai: Không mô tả cấu trúc xã hội."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "elasticity",
+        "vi": "elasticity (tính đàn hồi, tính linh hoạt)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "reciprocity",
+        "vi": "reciprocity (sự có đi có lại)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "cohesion",
+        "vi": "cohesion (sự gắn kết)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "affection",
+        "vi": "affection (tình cảm)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — elasticity",
+    "contextSummary": "Đoạn văn mô tả cấu trúc gia đình của thiên nga đen với nhiều ví dụ đa dạng: các cặp đôi thành công nhận nuôi con của cặp đôi khác, và các cặp đôi cùng giới cũng có thể nuôi con, thậm chí với tỷ lệ thành công cao hơn.",
+    "contextLogic": "Các ví dụ cho thấy cấu trúc gia đình của chúng rất linh hoạt, có thể thay đổi và thích ứng với nhiều hình thức khác nhau.",
+    "_src": "WIC 3 Q55"
+  },
+  {
+    "id": 40056,
+    "category": "Word in Context - Part 3",
+    "context": "Run by researchers in multiple countries, the Study on Global Ageing and Adult Health (SAGE) is an examination of aging that has attempted to track approximately 66,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ____: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "impartiality",
+      "replicability",
+      "attrition",
+      "circumspection"
+    ],
+    "answer": "attrition",
+    "answerKey": "C",
+    "answerText": "attrition",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: impartiality (sự công bằng)\nVì sao sai: Không liên quan.",
+      "B": "Nghĩa Tiếng Việt: replicability (khả năng lặp lại)\nVì sao sai: Không liên quan.",
+      "C": "Nghĩa Tiếng Việt: attrition (sự hao mòn, sự sụt giảm nhân sự/người tham gia)\nVì sao đúng: Đây là thuật ngữ chính xác được sử dụng trong nghiên cứu để chỉ việc mất người tham gia theo thời gian.",
+      "D": "Nghĩa Tiếng Việt: circumspection (sự thận trọng)\nVì sao sai: Không liên quan."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "impartiality",
+        "vi": "impartiality (sự công bằng)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "replicability",
+        "vi": "replicability (khả năng lặp lại)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "attrition",
+        "vi": "attrition (sự hao mòn, sự sụt giảm nhân sự/người tham gia)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "circumspection",
+        "vi": "circumspection (sự thận trọng)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — attrition",
+    "contextSummary": "Các nghiên cứu dài hạn cần nhiều người tham gia, một phần là vì ____: trong một khoảng thời gian dài, một số lượng đáng kể người tham gia sẽ rút lui hoặc mất liên lạc.",
+    "contextLogic": "Hiện tượng người tham gia nghiên cứu giảm dần theo thời gian do rút lui hoặc mất liên lạc có một thuật ngữ chuyên ngành.",
+    "_src": "WIC 3 Q56"
+  },
+  {
+    "id": 40057,
+    "category": "Word in Context - Part 3",
+    "context": "During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries’ central banks via mechanisms called swap lines. Atish Sinhaasbrudhe found that countries’ policy environments seem to have been __________ swap-line decisions: the probability that banks would be granted swap lines was 0.10 in countries open to foreign capital inflows and 0.03 in countries with policies restricting such inflows.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "predicated on",
+      "mediated by",
+      "decoupled from",
+      "material to"
+    ],
+    "answer": "material to",
+    "answerKey": "D",
+    "answerText": "material to",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: predicated on (dựa trên)\nVì sao sai: Gần đúng, nhưng lựa chọn D chính xác hơn trong văn phong kinh tế.",
+      "B": "Nghĩa Tiếng Việt: mediated by (được trung gian bởi)\nVì sao sai: Không phù hợp.",
+      "C": "Nghĩa Tiếng Việt: decoupled from (tách rời khỏi)\nVì sao sai: Trái ngược ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: material to (quan trọng đối với, có ảnh hưởng lớn đến)\nVì sao đúng: Hoàn toàn chính xác. Đây là một thuật ngữ phổ biến trong tài chính và pháp lý, có nghĩa là \"quan trọng và có khả năng ảnh hưởng đến một quyết định\"."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "predicated on",
+        "vi": "predicated on (dựa trên)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "mediated by",
+        "vi": "mediated by (được trung gian bởi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "decoupled from",
+        "vi": "decoupled from (tách rời khỏi)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "material to",
+        "vi": "material to (quan trọng đối với, có ảnh hưởng lớn đến)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: D — material to",
+    "contextSummary": "Hoa Kỳ cung cấp các khoản vay cho ngân hàng trung ương của các quốc gia khác. Nghiên cứu cho thấy môi trường chính sách của các quốc gia dường như ____ các quyết định cho vay này: xác suất được vay cao hơn ở các quốc gia cởi mở với dòng vốn nước ngoài.",
+    "contextLogic": "Việc quyết định cho vay có liên quan, có ảnh hưởng bởi chính sách của quốc gia đó. Từ cần điền phải có nghĩa là \"có liên quan đến\", \"quan trọng đối với\".",
+    "_src": "WIC 3 Q57"
+  },
+  {
+    "id": 40058,
+    "category": "Word in Context - Part 3",
+    "context": "The following text is from Lilliam Rivera’s 2020 novel Never Look Back. The text describes the narrator arriving at his father’s apartment. “Pops, I’m here!” I drop my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.",
+    "prompt": "As used in the text, what does the word “place” most nearly mean",
+    "options": [
+      "Put",
+      "Remove",
+      "Rank",
+      "Unfold"
+    ],
+    "answer": "Put",
+    "answerKey": "A",
+    "answerText": "Put",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: Put (đặt, để)\nVì sao đúng: Đây là từ đồng nghĩa trực tiếp và phổ biến nhất của \"place\" trong ngữ cảnh này.",
+      "B": "Nghĩa Tiếng Việt: Remove (lấy đi)\nVì sao sai: Trái ngược ý nghĩa.",
+      "C": "Nghĩa Tiếng Việt: Rank (xếp hạng)\nVì sao sai: Không có ý nghĩa.",
+      "D": "Nghĩa Tiếng Việt: Unfold (mở ra)\nVì sao sai: Không có ý nghĩa. Các câu từ 59 đến 65 là các câu đã xuất hiện trong các tài liệu trước, tôi sẽ giải thích lại chúng ngắn gọn theo đúng định dạng."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "Put",
+        "vi": "Put (đặt, để)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "Remove",
+        "vi": "Remove (lấy đi)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "Rank",
+        "vi": "Rank (xếp hạng)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "Unfold",
+        "vi": "Unfold (mở ra)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — Put",
+    "contextSummary": "Người kể chuyện về đến căn hộ và nói: \"I place my keys on the bowl\" (Tôi ... chìa khóa của tôi lên cái bát).",
+    "contextLogic": "Trong bối cảnh này, \"place\" là một hành động đơn giản là đặt một vật gì đó xuống một bề mặt.",
+    "_src": "WIC 3 Q58"
+  },
+  {
+    "id": 40059,
+    "category": "Word in Context - Part 3",
+    "context": "Because cyanobacteria and other microphytobenthos (MPB)—microscopic organisms inhabiting tidal flats—are consumed by mussels as well as by certain shorebirds and fish, MPB are ________ estuary ecosystems. Decreased MPB abundance, which may be caused by environmental stressors, thus has a direct, negative impact on coastal food webs.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "imperative for",
+      "evaluative of",
+      "subordinate to",
+      "interchangeable with"
+    ],
+    "answer": "imperative for",
+    "answerKey": "A",
+    "answerText": "imperative for",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: imperative for (thiết yếu cho)\nVì sao đúng: Chính xác. Chúng thiết yếu cho sự tồn tại của hệ sinh thái.",
+      "B": "Nghĩa Tiếng Việt: evaluative of (mang tính đánh giá về)\nVì sao sai: Sai.",
+      "C": "Nghĩa Tiếng Việt: subordinate to (phụ thuộc vào)\nVì sao sai: Sai.",
+      "D": "Nghĩa Tiếng Việt: interchangeable with (có thể thay thế cho)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "imperative for",
+        "vi": "imperative for (thiết yếu cho)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "evaluative of",
+        "vi": "evaluative of (mang tính đánh giá về)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "subordinate to",
+        "vi": "subordinate to (phụ thuộc vào)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "interchangeable with",
+        "vi": "interchangeable with (có thể thay thế cho)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — imperative for",
+    "contextSummary": "MPB là nguồn thức ăn cho nhiều loài. Sự suy giảm của chúng gây tác động tiêu cực đến chuỗi thức ăn.",
+    "contextLogic": "Vì là nền tảng của chuỗi thức ăn, MPB là một phần cực kỳ quan trọng, không thể thiếu của hệ sinh thái.",
+    "_src": "WIC 3 Q59"
+  },
+  {
+    "id": 40060,
+    "category": "Word in Context - Part 3",
+    "context": "Some pieces of music might have many meanings—the compositions of Charlotte Moorman can ________ as many different interpretations as there are people to listen to them—and so as long as a listener’s interpretation isn’t willfully absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "refute",
+      "omit",
+      "support",
+      "evade"
+    ],
+    "answer": "support",
+    "answerKey": "C",
+    "answerText": "support",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: refute (bác bỏ)\nVì sao sai: Sai.",
+      "B": "Nghĩa Tiếng Việt: omit (bỏ qua)\nVì sao sai: Sai.",
+      "C": "Nghĩa Tiếng Việt: support (hỗ trợ, ủng hộ)\nVì sao đúng: Chính xác.",
+      "D": "Nghĩa Tiếng Việt: evade (né tránh)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "refute",
+        "vi": "refute (bác bỏ)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "omit",
+        "vi": "omit (bỏ qua)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "support",
+        "vi": "support (hỗ trợ, ủng hộ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "evade",
+        "vi": "evade (né tránh)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — support",
+    "contextSummary": "Các tác phẩm âm nhạc có thể có nhiều ý nghĩa và có thể ____ nhiều cách diễn giải khác nhau.",
+    "contextLogic": "Một tác phẩm có thể là cơ sở, là chỗ dựa cho nhiều cách hiểu.",
+    "_src": "WIC 3 Q60"
+  },
+  {
+    "id": 40061,
+    "category": "Word in Context - Part 3",
+    "context": "The inventories of consonant sounds among the Polynesian languages of the Pacific tend toward the ________: Sikalana in the South Pacific has a total of nine consonants, and Oleo Hawaii, the language of the Native Hawaiian people, has fewer, while the global median per language is over twenty-two.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "minimal",
+      "static",
+      "replicable",
+      "melodic"
+    ],
+    "answer": "minimal",
+    "answerKey": "A",
+    "answerText": "minimal",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: minimal (tối thiểu, rất nhỏ)\nVì sao đúng: Chính xác.",
+      "B": "Nghĩa Tiếng Việt: static (tĩnh)\nVì sao sai: Sai.",
+      "C": "Nghĩa Tiếng Việt: replicable (có thể sao chép)\nVì sao sai: Sai.",
+      "D": "Nghĩa Tiếng Việt: melodic (du dương)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "minimal",
+        "vi": "minimal (tối thiểu, rất nhỏ)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "static",
+        "vi": "static (tĩnh)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "replicable",
+        "vi": "replicable (có thể sao chép)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "melodic",
+        "vi": "melodic (du dương)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — minimal",
+    "contextSummary": "Các ngôn ngữ Polynesia có rất ít phụ âm (ví dụ: 9) so với trung vị toàn cầu (hơn 22).",
+    "contextLogic": "Xu hướng có số lượng ít hơn nhiều so với mức trung bình được gọi là \"tối thiểu\".",
+    "_src": "WIC 3 Q61"
+  },
+  {
+    "id": 40062,
+    "category": "Word in Context - Part 3",
+    "context": "Andrei Tarkovsky’s Solaris has the measured pace typical of slow-cinema films. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives) creates films that his own work induces sleep in audiences. This might suggest his films are boring, but boredom does not always cause sleep; boredom creates an anxious tension in the need for a place to fix attention, and thus induces not somnolence but ________.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "fortitude",
+      "perturbation",
+      "nonchalance",
+      "indolence"
+    ],
+    "answer": "perturbation",
+    "answerKey": "B",
+    "answerText": "perturbation",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: fortitude (sự dũng cảm)\nVì sao sai: Sai.",
+      "B": "Nghĩa Tiếng Việt: perturbation (sự bối rối, lo lắng, bất an)\nVì sao đúng: Chính xác.",
+      "C": "Nghĩa Tiếng Việt: nonchalance (sự thờ ơ)\nVì sao sai: Sai.",
+      "D": "Nghĩa Tiếng Việt: indolence (sự lười biếng)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "fortitude",
+        "vi": "fortitude (sự dũng cảm)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "perturbation",
+        "vi": "perturbation (sự bối rối, lo lắng, bất an)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "nonchalance",
+        "vi": "nonchalance (sự thờ ơ)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "indolence",
+        "vi": "indolence (sự lười biếng)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — perturbation",
+    "contextSummary": "Sự nhàm chán không gây ra buồn ngủ (somnolence) mà thay vào đó tạo ra \"sự căng thẳng lo lắng\" (anxious tension).",
+    "contextLogic": "Từ cần điền phải đồng nghĩa với \"sự căng thẳng lo lắng\" và đối lập với \"buồn ngủ\".",
+    "_src": "WIC 3 Q62"
+  },
+  {
+    "id": 40063,
+    "category": "Word in Context - Part 3",
+    "context": "One way to evaluate the importance of a scholar’s research is to __________ other scholars’ references to that research. For example, a count of other scholars’ citations shows that Yale University economist Xiaohong Chen, who studies statistical methods in economics, is referenced frequently, indicating that her work has been significant in the field.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "enumerate",
+      "transpose",
+      "abridge",
+      "circumvent"
+    ],
+    "answer": "enumerate",
+    "answerKey": "A",
+    "answerText": "enumerate",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: enumerate (đếm, liệt kê)\nVì sao đúng: Chính xác.",
+      "B": "Nghĩa Tiếng Việt: transpose (hoán vị)\nVì sao sai: Sai.",
+      "C": "Nghĩa Tiếng Việt: abridge (tóm tắt)\nVì sao sai: Sai.",
+      "D": "Nghĩa Tiếng Việt: circumvent (né tránh)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "enumerate",
+        "vi": "enumerate (đếm, liệt kê)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "transpose",
+        "vi": "transpose (hoán vị)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "abridge",
+        "vi": "abridge (tóm tắt)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "circumvent",
+        "vi": "circumvent (né tránh)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: A — enumerate",
+    "contextSummary": "Một cách để đánh giá tầm quan trọng của nghiên cứu là xem xét các tài liệu tham khảo của học giả khác. Ví dụ là \"đếm số lượng trích dẫn\".",
+    "contextLogic": "Hành động \"đếm\" hoặc \"liệt kê\" các tài liệu tham khảo.",
+    "_src": "WIC 3 Q63"
+  },
+  {
+    "id": 40064,
+    "category": "Word in Context - Part 3",
+    "context": "Urban green spaces can improve air quality, as vegetation absorbs pollutants and also dilutes pollutant concentrations through ventilation. However, data from air-quality monitoring stations in locations throughout Romania suggest that this often-cited benefit of vegetation is not always ____; researchers found that when there are many trees along a busy street, ventilation has minimal effect on the air quality.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "immoderate",
+      "realized",
+      "unappreciated",
+      "compressed"
+    ],
+    "answer": "realized",
+    "answerKey": "B",
+    "answerText": "realized",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: immoderate (quá độ)\nVì sao sai: Sai.",
+      "B": "Nghĩa Tiếng Việt: realized (được hiện thực hóa)\nVì sao đúng: Chính xác.",
+      "C": "Nghĩa Tiếng Việt: unappreciated (không được đánh giá cao)\nVì sao sai: Sai.",
+      "D": "Nghĩa Tiếng Việt: compressed (bị nén)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "immoderate",
+        "vi": "immoderate (quá độ)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "realized",
+        "vi": "realized (được hiện thực hóa)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "unappreciated",
+        "vi": "unappreciated (không được đánh giá cao)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "compressed",
+        "vi": "compressed (bị nén)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: B — realized",
+    "contextSummary": "Không gian xanh được cho là cải thiện chất lượng không khí. \"Tuy nhiên\", dữ liệu cho thấy lợi ích này không phải lúc nào cũng ____, ví dụ như trên các con đường đông đúc có nhiều cây.",
+    "contextLogic": "Từ \"However\" chỉ sự tương phản. Lợi ích được nêu ra không phải lúc nào cũng trở thành hiện thực.",
+    "_src": "WIC 3 Q64"
+  },
+  {
+    "id": 40065,
+    "category": "Word in Context - Part 3",
+    "context": "Analyzing data on Hemitriccus diops and 378 other bird species from the Tyranni suborder, W. Alice Boyle and Courtney J. Conway found that group foragers are much less likely to seasonally migrate in search of food than solitary foragers are, suggesting that seasonal resource scarcity can be ________ the greater foraging efficiency that group foraging confers.",
+    "prompt": "Which choice completes the text with the most logical and precise word or phrase",
+    "options": [
+      "predicated on",
+      "conflated with",
+      "overcome by",
+      "compelled by"
+    ],
+    "answer": "overcome by",
+    "answerKey": "C",
+    "answerText": "overcome by",
+    "explanations": {
+      "A": "Nghĩa Tiếng Việt: predicated on (dựa trên)\nVì sao sai: Sai.",
+      "B": "Nghĩa Tiếng Việt: conflated with (bị đánh đồng với)\nVì sao sai: Sai.",
+      "C": "Nghĩa Tiếng Việt: overcome by (bị khắc phục/vượt qua bởi)\nVì sao đúng: Chính xác.",
+      "D": "Nghĩa Tiếng Việt: compelled by (bị ép buộc bởi)\nVì sao sai: Sai."
+    },
+    "choices": [
+      {
+        "label": "A",
+        "text": "predicated on",
+        "vi": "predicated on (dựa trên)",
+        "synonyms": []
+      },
+      {
+        "label": "B",
+        "text": "conflated with",
+        "vi": "conflated with (bị đánh đồng với)",
+        "synonyms": []
+      },
+      {
+        "label": "C",
+        "text": "overcome by",
+        "vi": "overcome by (bị khắc phục/vượt qua bởi)",
+        "synonyms": []
+      },
+      {
+        "label": "D",
+        "text": "compelled by",
+        "vi": "compelled by (bị ép buộc bởi)",
+        "synonyms": []
+      }
+    ],
+    "answerLine": "Đáp án đúng: C — overcome by",
+    "contextSummary": "Chim kiếm ăn theo nhóm ít di cư hơn, cho thấy sự khan hiếm tài nguyên theo mùa có thể được ____ bởi hiệu quả kiếm ăn cao hơn của việc đi theo nhóm.",
+    "contextLogic": "Hiệu quả kiếm ăn theo nhóm là một giải pháp giúp giải quyết vấn đề khan hiếm thức ăn. Sự khan hiếm này có thể bị \"vượt qua\".",
+    "_src": "WIC 3 Q65"
+  }
+]

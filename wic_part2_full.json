@@ -4796,7 +4796,7 @@
   {
     "id": 30095,
     "category": "Word in Context - Part 2",
-    "context": ": The following text is from Georgia Douglas Johnson’s 1918 poem “Peace.” I rest me deep within the wood, Drawn by its silent call, Far from the throbbing crowd of men, On nature’s breast I fall.",
+    "context": ": The following text is from Georgia Douglas Johnson’s 1918 poem “Peace.” I rest me deep within the wood, \n[Drawn] by its silent call, \nFar from the throbbing crowd of men, \nOn nature’s breast I fall.",
     "prompt": "As used in the text, what does the word “drawn” most nearly mean?",
     "options": [
       "Unnoticed",
@@ -4847,7 +4847,7 @@
   {
     "id": 30096,
     "category": "Word in Context - Part 2",
-    "context": ": The following text is from a 1955 translation of Samuel Beckett’s 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls. And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was revealing, discovering here and there a pale and dying sky, and the sun, already down, was manifest in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.",
+    "context": ": The following text is from a 1955 translation of Samuel Beckett’s 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls. And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was revealing, discovering here and there a pale and dying sky, and the sun, already down, was [manifest] in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.",
     "prompt": "As used in the text, what does the word “manifest” most nearly mean?",
     "options": [
       "Situated",
